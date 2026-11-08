@@ -7,6 +7,8 @@
 ## 0:00–1:00 — Hook: the problem (Scientific relevance)
 
 [NARRATOR over parchment-styled title card, then the comfrey case on screen]
+[First 30 seconds must land the one-liner: "Herba Codex reads 370-year-old herbals
+and shows you what modern science says about every remedy — with the receipts."]
 
 "In 1653, Nicholas Culpeper told England that comfrey 'heals all inward
 wounds' and 'knits broken bones together.' Three hundred and seventy years
