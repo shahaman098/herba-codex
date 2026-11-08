@@ -1,0 +1,253 @@
+{
+ "id": "culpeper_018",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Prickly Asparagus, Or Sperage",
+  "book": "",
+  "chapter": "",
+  "char_start": 64613,
+  "char_end": 66232,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "_Descript._] THIS grows usually in gardens, and some of it grows\nwild in Appleton meadows in Gloucestershire, where the poor people\ngather the buds of young shoots, and sell them cheaper that our garden\nAsparagus is sold in London.\n\n_Time._] For the most part they flower, and bear their berries late in\nthe year, or not at all, although they are housed in Winter.\n\n_Government and virtues._] They are both under the dominion of Jupiter.\nThe young buds or branches boiled in ordinary broth, make the belly\nsoluble and open, and boiled in white wine, provoke urine, being\nstopped, and is good against the stranguary or difficulty of making\nwater; it expelleth the gravel and stone out of the kidneys, and\nhelpeth pains in the reins. And boiled in white wine or vinegar, it is\nprevalent for them that have their arteries loosened, or are troubled\nwith the hip-gout or sciatica. The decoction of the roots boiled in\nwine and taken, is good to clear the sight, and being held in the mouth\neaseth the toothache. The garden asparagus nourisheth more than the\nwild, yet hath it the same effects in all the afore-mentioned diseases.\nThe decoction of the root in white wine, and the back and belly bathed\ntherewith, or kneeling or lying down in the same, or sitting therein\nas a bath, has been found effectual against pains of the reins and\nbladder, pains of the mother and cholic, and generally against all\npains that happen to the lower parts of the body, and no less effectual\nagainst stiff and benumbed sinews, or those that are shrunk by cramps\nand convulsions, and helps the sciatica.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Prickly Asparagus",
+    "context_quote": "HEADING: Prickly Asparagus, Or Sperage",
+    "part_used": "buds of young shoots"
+   },
+   {
+    "name_text": "Sperage",
+    "context_quote": "HEADING: Prickly Asparagus, Or Sperage",
+    "part_used": "roots"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "stopped urine",
+    "context_quote": "boiled in white wine, provoke urine, being stopped",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "stranguary",
+    "context_quote": "and is good against the stranguary or difficulty of making water",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "gravel and stone in kidneys",
+    "context_quote": "it expelleth the gravel and stone out of the kidneys",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "pains in the reins",
+    "context_quote": "and helpeth pains in the reins",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "loosened arteries",
+    "context_quote": "prevalent for them that have their arteries loosened",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "hip-gout or sciatica",
+    "context_quote": "or are troubled with the hip-gout or sciatica",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "toothache",
+    "context_quote": "being held in the mouth easeth the toothache",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "stiff and benumbed sinews",
+    "context_quote": "against stiff and benumbed sinews, or those that are shrunk by cramps and convulsions",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "boiled in ordinary broth",
+    "context_quote": "The young buds or branches boiled in ordinary broth, make the belly soluble and open"
+   },
+   {
+    "kind": "boiled in white wine",
+    "context_quote": "and boiled in white wine, provoke urine, being stopped"
+   },
+   {
+    "kind": "boiled in white wine or vinegar",
+    "context_quote": "And boiled in white wine or vinegar, it is prevalent for them that have their arteries loosened"
+   },
+   {
+    "kind": "decoction of the roots boiled in wine",
+    "context_quote": "The decoction of the roots boiled in wine and taken, is good to clear the sight"
+   }
+  ],
+  "dosage_notes": [
+   "taken",
+   "held in the mouth",
+   "back and belly bathed therewith"
+  ],
+  "cautions": [],
+  "authority_citations": []
+ },
+ "resolutions": [
+  {
+   "historical_name": "Prickly Asparagus",
+   "candidates": [
+    {
+     "scientific_name": "Asparagus acutifolius",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Asparagus albus",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.6,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Asparagus aphyllus",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.4,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Asparagus acutifolius",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Sperage",
+   "candidates": [
+    {
+     "scientific_name": "Asparagus acutifolius",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Asparagus officinalis",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.3,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Asparagus densiflorus",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.25,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Asparagus acutifolius",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Asparagus acutifolius",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Phytochemical Characterization and Bioactivity of Asparagus acutifolius: A Focus on Antioxidant, Cytotoxic, Lipase Inhibitory and Antimicrobial Activities.",
+     "identifier": "34206066",
+     "year": "2021",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/34206066/",
+     "relevance_note": "Characterizes phytochemicals and bioactivity including antioxidant and antimicrobial properties relevant to traditional diuretic uses."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Antiproliferative and pro-apoptotic activities of wild asparagus (Asparagus acutifolius L.), black bryony (Tamus communis L.) and butcher's broom (Ruscus aculeatus L.) aqueous extracts against T24 and A549 cancer cell lines.",
+     "identifier": "31353591",
+     "year": "2019",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/31353591/",
+     "relevance_note": "Demonstrates antiproliferative and pro-apoptotic activities of aqueous extracts, potentially relevant to pain management claims."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Steroidal saponins from Asparagus acutifolius.",
+     "identifier": "17449075",
+     "year": "2007",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/17449075/",
+     "relevance_note": "Identifies steroidal saponins, constituents often associated with anti-inflammatory and diuretic traditional effects."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "Steroidal saponins",
+    "Antioxidants"
+   ],
+   "summary": "Modern research identifies steroidal saponins and antioxidant compounds in Asparagus acutifolius. While specific clinical trials for gout or kidney stones are absent, the documented antimicrobial, anti-inflammatory, and cytotoxic activities provide a plausible mechanistic basis for traditional uses regarding pain relief, diuresis, and potential stone management."
+  }
+ ],
+ "concordance": {
+  "grade": "C",
+  "direction": "partial",
+  "rationale": "Modern evidence (PMID: 34206066, 31353591) confirms antioxidant and cytotoxic activities but lacks clinical data for diuretic, lithotriptic, or analgesic effects claimed historically.",
+  "uncertainty": "High uncertainty due to absence of specific clinical trials validating traditional uses like gravel expulsion or toothache relief in Asparagus acutifolius.",
+  "caveats": [
+   "No EMA approval for urinary indications",
+   "Cytotoxicity may limit internal use"
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "against stiff and benumbed sinews, or those that are shrunk by cramps and convulsions",
+   "and helpeth pains in the reins",
+   "and is good against the stranguary or difficulty of making water",
+   "being held in the mouth easeth the toothache",
+   "boiled in white wine, provoke urine, being stopped",
+   "it expelleth the gravel and stone out of the kidneys",
+   "or are troubled with the hip-gout or sciatica",
+   "prevalent for them that have their arteries loosened"
+  ],
+  "quotes_failed": [
+   "HEADING: Prickly Asparagus, Or Sperage"
+  ],
+  "issues": [
+   "Unearned Grade C: The concordance grade 'C' is justified by the lack of clinical data for specific traditional uses (diuretic, lithotriptic), but the entry lacks EMA approval or robust clinical evidence entirely. A grade of 'C' implies some level of validated efficacy; without any positive clinical trials or regulatory approval, a grade of 'D' or 'E' (insufficient evidence) would be more appropriate for a knowledge graph requiring audited claims.",
+   "Missing Evidence Resolution: The entry resolves historical names to *Asparagus acutifolius* based on LLM proposals and GBIF exact matches, but provides no primary source text or citation verifying that *A. acutifolius* is the specific species historically known as 'Sperage' in the relevant context (often confused with *A. officinalis* or other varieties).",
+   "Evidence Gap: The evidence list shows only 3 PubMed IDs for *Asparagus acutifolius*. These must be explicitly linked to the claims of antioxidant/cytotoxic activity mentioned in the rationale. Without these links, the 'partial' direction is unsupported."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T05:55:19Z"
+ }
+}

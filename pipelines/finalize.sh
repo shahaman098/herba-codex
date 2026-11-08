@@ -5,6 +5,9 @@
 set -euo pipefail
 cd "$(dirname "$0")/.."
 
+echo "== 0. deterministic re-audit (heading-inclusive quote verification) =="
+uv run python pipelines/reaudit.py
+
 echo "== 1. knowledge graph exports =="
 uv run herba build-kg
 

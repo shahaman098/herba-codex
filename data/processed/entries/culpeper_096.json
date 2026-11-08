@@ -1,0 +1,200 @@
+{
+ "id": "culpeper_096",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Down, Or Cotton-Thistle",
+  "book": "",
+  "chapter": "",
+  "char_start": 254752,
+  "char_end": 256299,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "_Descript._] THIS has large leaves lying on the ground, somewhat cut\nin, and as it were crumpled on the edges, of a green colour on the\nupper side, but covered with long hairy wool, or Cotton Down, set with\nmost sharp and cruel pricks, from the middle of whose head of flowers,\nthrust forth many purplish crimson threads, and sometimes (although\nvery seldom) white ones. The seed that follows in the heads, lying in\na great deal of white down, is somewhat large, long, and round, like\nthe seed of ladies thistle, but paler. The root is great and thick,\nspreading much, yet it usually dies after seed-time.\n\n_Place._] It grows in divers ditches, banks, and in corn-fields, and\nhighways, generally every where throughout the land.\n\n_Time._] It flowers and bears seed about the end of Summer, when other\nthistles do flower and seed.\n\n_Government and virtues._] Mars owns the plant, and manifest to the\nworld, that though it may hurt your finger, it will help your body; for\nI fancy it much for the ensuing virtues. Pliny and Dioscorides write,\nThat the leaves and roots thereof taken in drink, help those that have\na crick in their neck; whereby they cannot turn their neck but their\nwhole body must turn also (sure they do not mean those that have got a\ncrick in their neck by being under the hangman’s hand.) Galen saith,\nthat the root and leaves hereof are of a healing quality, and good\nfor such persons as have their bodies drawn together by some spasm or\nconvulsion, as it is with children that have the rickets.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Cotton-Thistle",
+    "context_quote": "covered with long hairy wool, or Cotton Down",
+    "part_used": "leaves and roots"
+   },
+   {
+    "name_text": "Down",
+    "context_quote": "HEADING: Down, Or Cotton-Thistle",
+    "part_used": "plant"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "crick in their neck",
+    "context_quote": "help those that have a crick in their neck",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "spasm or convulsion",
+    "context_quote": "good for such persons as have their bodies drawn together by some spasm or convulsion",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "rickets",
+    "context_quote": "as it is with children that have the rickets",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "drink",
+    "context_quote": "The leaves and roots thereof taken in drink"
+   }
+  ],
+  "dosage_notes": [],
+  "cautions": [
+   "it may hurt your finger",
+   "set with most sharp and cruel pricks"
+  ],
+  "authority_citations": [
+   "Pliny",
+   "Dioscorides",
+   "Galen"
+  ]
+ },
+ "resolutions": [
+  {
+   "historical_name": "Cotton-Thistle",
+   "candidates": [
+    {
+     "scientific_name": "Onopordum acanthium",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Silybum marianum",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.3,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Eryngium campestre",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.25,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Onopordum acanthium",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Down",
+   "candidates": [
+    {
+     "scientific_name": "Onopordum acanthium",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Cirsium arvense",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.2,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Onopordum acanthium",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Onopordum acanthium",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "A Traditional Medicine Plant, Onopordum acanthium L. (Asteraceae): Chemical Composition and Pharmacological Research.",
+     "identifier": "30759795",
+     "year": "2019",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/30759795/",
+     "relevance_note": "Reviews chemical composition and pharmacology, noting potential anti-inflammatory and antioxidant properties relevant to spasm management."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Echinacea purpurea and Onopordum acanthium Combined Extracts Cause Immunomodulatory Effects in Lipopolysaccharide-Challenged Rats.",
+     "identifier": "39683190",
+     "year": "2024",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/39683190/",
+     "relevance_note": "Demonstrates immunomodulatory effects in rats, suggesting potential relevance to inflammatory conditions like rickets or convulsions."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Phytochemical riches and bioactive potential of Onopordum acanthium L. (Asteraceae) from Iran.",
+     "identifier": "41193840",
+     "year": "2026",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/41193840/",
+     "relevance_note": "Highlights phytochemical richness and bioactive potential, though specific clinical data for traditional uses remains limited."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "flavonoids",
+    "phenolic acids"
+   ],
+   "summary": "Modern research indicates Onopordum acanthium possesses anti-inflammatory and antioxidant properties via flavonoids. While direct evidence for treating rickets or convulsions is absent, immunomodulatory effects in animal models suggest potential relevance to inflammatory conditions. Traditional uses require further clinical validation."
+  }
+ ],
+ "concordance": {
+  "grade": "C",
+  "direction": "none",
+  "rationale": "Modern evidence (PMID: 30759795, 39683190) confirms chemical composition and immunomodulatory effects in rats but lacks clinical data for neck spasms or rickets.",
+  "uncertainty": "Clinical efficacy for specific historical claims is absent; only preclinical pharmacology exists.",
+  "caveats": [
+   "No human trials found",
+   "Mechanism unclear for bone/muscle"
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "as it is with children that have the rickets",
+   "covered with long hairy wool, or Cotton Down",
+   "good for such persons as have their bodies drawn together by some spasm or convulsion",
+   "help those that have a crick in their neck"
+  ],
+  "quotes_failed": [
+   "HEADING: Down, Or Cotton-Thistle"
+  ],
+  "issues": [
+   "Unearned grade 'C': The concordance rationale cites modern preclinical evidence (PMIDs) but assigns a low grade due to lack of clinical data. However, the entry lacks any EMA approval or human clinical trial evidence for the specific historical claims (neck spasms, rickets). Per strict audit rules, a grade of 'C' implies some level of validated efficacy or strong consensus which is absent here; without human trials or regulatory approval, the entry should likely be rejected or flagged as having unearned confidence in its therapeutic claims. Additionally, the 'quotes_failed' list contains a heading string rather than a verifiable quote text, indicating a mechanical extraction failure that prevents proper verification."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T05:55:26Z"
+ }
+}
