@@ -1,25 +1,26 @@
 {
  "meta": {
   "note": "derived from JSONL run traces + processed dataset; no synthetic figures",
-  "run_traces": 6
+  "run_traces": 9
  },
  "llm": {
-  "total_calls": 868,
-  "prompt_tokens": 614425,
-  "completion_tokens": 341505,
-  "avg_completion_tokens": 393.4
+  "total_calls": 887,
+  "prompt_tokens": 628832,
+  "completion_tokens": 351764,
+  "avg_completion_tokens": 396.6
  },
  "tools": {
-  "total_tool_plans": 514,
+  "total_tool_plans": 522,
+  "total_tool_invocations": 680,
   "by_tool": {
-   "powo_search": 181,
-   "ema_monograph_lookup": 156,
-   "pubmed_search": 156,
-   "verify_quote": 177
+   "powo_search": 184,
+   "ema_monograph_lookup": 158,
+   "pubmed_search": 158,
+   "verify_quote": 180
   }
  },
  "llm_pacing": {
-  "median_seconds_between_calls": 10.225243,
+  "median_seconds_between_calls": 10.258432,
   "note": "guided mode issues one LLM call per agent stage; interactive mode adds agent_run spans"
  },
  "throughput": {

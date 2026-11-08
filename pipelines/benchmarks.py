@@ -68,6 +68,10 @@ def main() -> None:
         },
         "tools": {
             "total_tool_plans": len(tools),
+            "total_tool_invocations": sum(
+                1 for e in tools
+                for t in ([(e["payload"] or {}).get("tool")] if (e["payload"] or {}).get("tool")
+                          else (e["payload"] or {}).get("tools") or [])),
             "by_tool": (lambda c: dict(c))(
                 Counter(
                     t

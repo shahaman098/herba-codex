@@ -130,6 +130,15 @@ terms (Kew POWO CC-BY 4.0, GBIF open, NCBI E-utilities, PubChem CC0); EMA
 monograph links under EU reuse decision 2011/833/EU. Details and the
 traditional-knowledge note: [docs/DATA_SOURCES.md](docs/DATA_SOURCES.md).
 
+## Acknowledgements
+
+Built for **EthnoHack 2026** (ETHCSTWIN / NKUA / Fraunhofer SCAI & partners).
+In-kind sponsors **Aitho** and **Anakin**; community partners **Uniai** and
+**Evorozen** — full list and honest sponsor-tool disclosure:
+[docs/SPONSORS.md](docs/SPONSORS.md). Data: Culpeper via Project Gutenberg;
+Kew POWO (CC-BY 4.0); GBIF; EMA; NCBI/PubMed; PubChem — see
+[docs/DATA_SOURCES.md](docs/DATA_SOURCES.md).
+
 ## Team
 
 Team Herba Codex — EthnoHack 2026, Track 🌿 Traditional Knowledge.

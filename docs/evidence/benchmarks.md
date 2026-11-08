@@ -52,6 +52,10 @@ Same model (qwen3.5-9B local), same 22 scored gold entries:
 | Resolution accuracy@1 | 81.8% | **87.0%** |
 | Quote checking | 86.4% — but of the **1 quote it chose** to produce | **82.7% — across all 266 quotes it extracts**, mechanically verified, failures kept visible |
 
+*(0.81 vs 0.87: two matchers on the same pairs — `eval/results.json` credits only the
+selected name; `eval/ablation.json` additionally credits when the gold taxon appears
+among tool-verified candidates. Both are published.)*
+
 The pipeline's advantage is not a magic accuracy jump; it is that every one of
 the 266 extracted quotes is *individually verified and auditable*, every
 taxon is tool-checked, and every grade carries provenance — capabilities the
@@ -65,7 +69,7 @@ single-shot baseline does not attempt.
 | Wall throughput | **63 entries/hour** on an Apple M4 Pro laptop |
 | LLM calls | 868 |
 | Tokens | 614k prompt / 342k completion |
-| Tool plans | 514 (POWO 181 · EMA 156 · PubMed 156 · verify_quote 177) |
+| Tool plan events / tool invocations | 514 plans → **670 tool invocations** (POWO 181 · EMA 156 · PubMed 156 · verify_quote 177) |
 | Median gap between LLM calls | 10.2 s |
 | Cloud API spend | **$0.00** — fully local inference; any OpenAI-compatible endpoint is a config change |
 
