@@ -7,6 +7,13 @@
 Herba Codex — from Culpeper to contemporary evidence, one audited claim at a time
 ```
 
+## One-sentence memorability (use in the first line of the description & the video's first 30 seconds)
+```
+Herba Codex reads 370-year-old herbals and shows you what modern science says about
+every remedy — with the receipts: the exact quote, the plant's verified identity,
+and the graded evidence behind every claim.
+```
+
 ## Track
 🌿 Traditional knowledge
 
