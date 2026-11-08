@@ -1,0 +1,311 @@
+{
+ "id": "culpeper_290",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "The Wallnut Tree",
+  "book": "",
+  "chapter": "",
+  "char_start": 702360,
+  "char_end": 707746,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "IT is so well known, that it needs no description.\n\n_Time._] It blossoms early before the leaves come forth, and the fruit\nis ripe in September.\n\n_Government and virtues._] This is also a plant of the Sun. Let the\nfruit of it be gathered accordingly, which you shall find to be of most\nvirtues while they are green, before they have shells. The bark of\nthe Tree doth bind and dry very much, and the leaves are much of the\nsame temperature: but the leaves when they are older, are heating and\ndrying in the second degree, and harder of digestion than when they\nare fresh, which, by reason of their sweetness, are more pleasing,\nand better digesting in the stomach; and taken with sweet wine, they\nmove the belly downwards, but being old, they grieve the stomach; and\nin hot bodies cause the choler to abound and the head-ach, and are an\nenemy to those that have the cough; but are less hurtful to those that\nhave a colder stomach, and are said to kill the broad worms in the\nbelly or stomach. If they be taken with onions, salt, and honey, they\nhelp the biting of a mad dog, or the venom or infectious poison of any\nbeast, &c. Caias Pompeius found in the treasury of Mithridates, king\nof Pontus, when he was overthrown, a scroll of his own hand writing,\ncontaining a medicine against any poison or infection; which is this;\nTake two dry walnuts, and as many good figs, and twenty leaves of\nrue, bruised and beaten together with two or three corns of salt and\ntwenty juniper berries, which take every morning fasting, preserves\nfrom danger of poison, and infection that day it is taken. The juice\nof the other green husks boiled with honey is an excellent gargle for\nsore mouths, or the heat and inflammations in the throat and stomach.\nThe kernels, when they grow old, are more oily, and therefore not\nfit to be eaten, but are then used to heal the wounds of the sinews,\ngangrenes, and carbuncles. The said kernels being burned, are very\nastringent, and will stay lasks and women’s courses, being taken in\nred wine, and stay the falling of the hair, and make it fair, being\nanointed with oil and wine. The green husks will do the like, being\nused in the same manner. The kernels beaten with rue and wine, being\napplied, help the quinsy; and bruised with some honey, and applied to\nthe ears, ease the pains and inflammation of them. A piece of the green\nhusks put into a hollow tooth, eases the pain. The catkins hereof,\ntaken before they fall off, dried, and given a dram thereof in powder\nwith white wine, wonderfully helps those that are troubled with the\nrising of the mother. The oil that is pressed out of the kernels,\nis very profitable, taken inwardly like oil of almonds, to help the\ncholic, and to expel wind very effectually; an ounce or two thereof may\nbe taken at any time. The young green nuts taken before they be half\nripe, and preserved with sugar, are of good use for those that have\nweak stomachs, or defluctions thereon. The distilled water of the green\nhusks, before they be half ripe, is of excellent use to cool the heat\nof agues, being drank an ounce or two at a time: as also to resist the\ninfection of the plague, if some of the same be also applied to the\nsores thereof. The same also cools the heat of green wounds and old\nulcers, and heals them, being bathed therewith. The distilled water of\nthe green husks being ripe, when they are shelled from the nuts, and\ndrank with a little vinegar, is good for the place, so as before the\ntaking thereof a vein be opened. The said water is very good against\nthe quinsy, being gargled and bathed therewith, and wonderfully helps\ndeafness, the noise, and other pains in the ears. The distilled water\nof the young green leaves in the end of May, performs a singular cure\non foul running ulcers and sores, to be bathed, with wet cloths or\nspunges applied to them every morning.\n\n    WOLD, WELD, OR DYER’S WEED.\n\nTHE common kind grows bushing with many leaves, long, narrow and\nflat upon the ground; of a dark blueish green colour, somewhat like\nunto Woad, but nothing so large, a little crumpled, and as it were\nround-pointed, which do so abide the first year; and the next spring\nfrom among them, rise up divers round stalks, two or three feet high,\nbeset with many such like leaves thereon, but smaller, and shooting\nforth small branches, which with the stalks carry many small yellow\nflowers, in a long spiked head at the top of them, where afterwards\ncome the seed, which is small and black, inclosed in heads that are\ndivided at the tops into four parts. The root is long, white and thick,\nabiding the Winter. The whole herb changes to be yellow, after it hath\nbeen in flower awhile.\n\n_Place._] It grows every where by the way sides, in moist grounds, as\nwell as dry, in corners of fields and bye lanes, and sometimes all over\nthe field. In Sussex and Kent they call it Green Weed.\n\n_Time._] It flowers in June.\n\n_Government and virtues._] Matthiolus saith, that the root hereof cures\ntough phlegm, digests raw phlegm, thins gross humours, dissolves hard\ntumours, and opens obstructions. Some do highly commend it against\nthe biting of venomous creatures, to be taken inwardly and applied\noutwardly to the hurt place; as also for the plague or pestilence. The\npeople in some countries of this land, do use to bruise the herb, and\nlay it to cuts or wounds in the hands or legs, to heal them.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "The Wallnut Tree",
+    "context_quote": "HEADING: The Wallnut Tree",
+    "part_used": "Tree"
+   },
+   {
+    "name_text": "fruit",
+    "context_quote": "Let the fruit of it be gathered accordingly, which you shall find to be of most virtues while they are green, before they have shells.",
+    "part_used": "fruit"
+   },
+   {
+    "name_text": "bark",
+    "context_quote": "The bark of the Tree doth bind and dry very much",
+    "part_used": "bark"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "biting of a mad dog",
+    "context_quote": "If they be taken with onions, salt, and honey, they help the biting of a mad dog",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "venom or infectious poison",
+    "context_quote": "or the venom or infectious poison of any beast",
+    "polarity": "prevents",
+    "strength": "claimed"
+   },
+   {
+    "name": "sore mouths",
+    "context_quote": "The juice of the other green husks boiled with honey is an excellent gargle for sore mouths",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "heat and inflammations in the throat",
+    "context_quote": "or the heat and inflammations in the throat",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "wounds of the sinews",
+    "context_quote": "but are then used to heal the wounds of the sinews",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "gangrenes",
+    "context_quote": "gangrenes, and carbuncles",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "falling of the hair",
+    "context_quote": "and stay the falling of the hair",
+    "polarity": "prevents",
+    "strength": "claimed"
+   },
+   {
+    "name": "quinsy",
+    "context_quote": "The kernels beaten with rue and wine, being applied, help the quinsy",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "gargle",
+    "context_quote": "The juice of the other green husks boiled with honey is an excellent gargle for sore mouths"
+   },
+   {
+    "kind": "powder",
+    "context_quote": "dried, and given a dram thereof in powder with white wine"
+   },
+   {
+    "kind": "oil",
+    "context_quote": "The oil that is pressed out of the kernels, is very profitable, taken inwardly like oil of almonds"
+   },
+   {
+    "kind": "distilled water",
+    "context_quote": "The distilled water of the green husks, before they be half ripe, is of excellent use to cool the heat of agues"
+   }
+  ],
+  "dosage_notes": [
+   "Take two dry walnuts, and as many good figs, and twenty leaves of rue",
+   "an ounce or two thereof may be taken at any time",
+   "being drank an ounce or two at a time"
+  ],
+  "cautions": [
+   "but being old, they grieve the stomach",
+   "in hot bodies cause the choler to abound and the head-ach",
+   "are an enemy to those that have the cough"
+  ],
+  "authority_citations": [
+   "Caias Pompeius"
+  ]
+ },
+ "resolutions": [
+  {
+   "historical_name": "The Wallnut Tree",
+   "candidates": [
+    {
+     "scientific_name": "Juglans regia",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Juglans nigra",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.4,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Juglans cinerea",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.35,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Juglans regia",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "fruit",
+   "candidates": [
+    {
+     "scientific_name": "Juglans regia L.",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Juglans nigra L.",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.45,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Juglans cathayensis",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.3,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Juglans regia L.",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "bark",
+   "candidates": [
+    {
+     "scientific_name": "Juglans regia L.",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Juglans cinerea L.",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.4,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Juglans microcarpa",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.25,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Juglans regia L.",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Juglans regia",
+   "ema_monograph": null,
+   "pubmed": [],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "ellagitannins",
+    "juglone"
+   ],
+   "summary": "No specific modern clinical evidence found for treating throat heat, gangrene, or mad dog bites in the provided dataset."
+  },
+  {
+   "taxon": "Juglans regia L.",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Topical Analgesic and Anti-Inflammatory Properties of Bioengineered Juglans regia L. Silver Nanoparticles.",
+     "identifier": "38044699",
+     "year": "2023",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/38044699/",
+     "relevance_note": "Supports traditional use for wounds and inflammation via silver nanoparticle formulation."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Phenolic Profile and Antioxidant, Antibacterial, and Antiproliferative Activity of Juglans regia L. Male Flowers.",
+     "identifier": "35566113",
+     "year": "2022",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/35566113/",
+     "relevance_note": "Demonstrates antibacterial and antiproliferative activity of male flowers, potentially relevant for infectious wounds."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Mechanistic Insights into the Biological Effects and Antioxidant Activity of Walnut (Juglans regia L.) Ellagitannins: A Systematic Review.",
+     "identifier": "39199220",
+     "year": "2024",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/39199220/",
+     "relevance_note": "Reviews antioxidant mechanisms of ellagitannins, offering potential for soothing throat heat."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "ellagitannins",
+    "juglone"
+   ],
+   "summary": "Modern research supports traditional uses for wounds and inflammation through antibacterial properties and topical analgesic effects. Antioxidant activity may address 'heat' in the throat, though specific evidence for gangrene or venom is absent."
+  }
+ ],
+ "concordance": {
+  "grade": "C",
+  "direction": "partial",
+  "rationale": "Modern evidence (PMID: 38044699, 35566113) supports anti-inflammatory and antibacterial properties of *Juglans regia*, partially aligning with claims for sore mouths, throat inflammation, and wounds. No evidence supports rabies treatment or venom neutralization.",
+  "uncertainty": "High uncertainty due to lack of clinical trials for specific historical indications like rabies or gangrene healing in humans.",
+  "caveats": [
+   "No EMA approval",
+   "No human clinical data for rabies",
+   "Topical studies only"
+  ]
+ },
+ "audit": {
+  "schema_ok": false,
+  "quotes_verified": [
+   "If they be taken with onions, salt, and honey, they help the biting of a mad dog",
+   "Let the fruit of it be gathered accordingly, which you shall find to be of most virtues while they are green, before they have shells.",
+   "The bark of the Tree doth bind and dry very much",
+   "The juice of the other green husks boiled with honey is an excellent gargle for sore mouths",
+   "The kernels beaten with rue and wine, being applied, help the quinsy",
+   "and stay the falling of the hair",
+   "but are then used to heal the wounds of the sinews",
+   "gangrenes, and carbuncles",
+   "or the heat and inflammations in the throat",
+   "or the venom or infectious poison of any beast"
+  ],
+  "quotes_failed": [
+   "HEADING: The Wallnut Tree"
+  ],
+  "issues": [
+   "Incomplete rationale: The concordance grade 'C' with direction 'partial' is asserted based on a truncated sentence ending in '*Jug'. The specific findings (anti-inflammatory/antibacterial) are not fully detailed to justify the partial grade or explain what evidence was missing for a higher grade.",
+   "Missing Family Resolution: All taxon candidates lack a 'family' field populated (e.g., Juglandaceae), violating completeness requirements for resolved taxa.",
+   "Unearned Grade Risk: The entry relies on LLM proposals without explicit EMA approval (all ema=false). While the grade is 'C', the rationale text cuts off, preventing verification that the evidence actually supports the claim. If the evidence is weak or incomplete as implied by the cutoff, the grade may be unearned."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T05:22:50Z"
+ }
+}

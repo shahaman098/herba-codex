@@ -1,0 +1,253 @@
+{
+ "id": "culpeper_236",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Garden-Rue",
+  "book": "",
+  "chapter": "",
+  "char_start": 589658,
+  "char_end": 593979,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "GARDEN-RUE is so well known by this name, and the name Herb of Grace,\nthat I shall not need to write any farther description of it, but shall\nshew you the virtue of it, as follows.\n\n_Government and virtues._] It is an herb of the Sun, and under Leo.\nIt provokes urine and women’s courses, being taken either in meat\nor drink. The seed thereof taken in wine, is an antidote against\nall dangerous medicines or deadly poisons. The leaves taken either\nby themselves, or with figs and walnuts, is called Mithridate’s\ncounter-poison against the plague, and causes all venomous things\nto become harmless; being often taken in meat and drink, it abates\nvenery. A decoction thereof with some dried dill leaves and flowers,\neases all pains and torments, inwardly to be drank, and outwardly to\nbe applied warm to the place grieved. The same being drank, helps the\npains both of the chest and sides, as also coughs and hardness of\nbreathing, the inflammations of the lungs, and the tormenting pains of\nthe sciatica and the joints, being anointed, or laid to the places;\nas also the shaking fits of agues, to take a draught before the fit\ncomes. Being boiled or infused in oil, it is good to help the wind\ncholic, the hardness and windiness of the mother, and frees women from\nthe strangling or suffocation thereof, if the share and the parts\nthereabouts be anointed therewith. It kills and drives forth the worms\nof the belly, if it be drank after it is boiled in wine to the half,\nwith a little honey; it helps the gout or pains in the joints, hands,\nfeet or knees, applied thereunto; and with figs it helps the dropsy,\nbeing bathed therewith: Being bruised and put into the nostrils, it\nstays the bleeding thereof. It takes away wheals and pimples, if being\nbruised with a few myrtle leaves, it be made up with wax, and applied.\nIt cures the morphew, and takes away all sorts of warts, if boiled in\nwine with some pepper and nitre, and the place rubbed therewith, and\nwith almond and honey helps the dry scabs, or any tetter or ringworm.\nThe juice thereof warmed in a pomegranate shell or rind, and dropped\ninto the ears, helps the pains of them. The juice of it and fennel,\nwith a little honey, and the gall of a cock put thereunto, helps the\ndimness of the eye-sight. An ointment made of the juice thereof with\noil of roses, ceruse, and a little vinegar, and anointed, cures St.\nAnthony’s fire, and all running sores in the head: and the stinking\nulcers of the nose, or other parts. The antidote used by Mithridates,\nevery morning fasting, to secure himself from any poison or infection,\nwas this: Take twenty leaves of rue, a little salt, a couple of\nwalnuts, and a couple of figs, beaten together into a mess, with twenty\njuniper berries, which is the quantity appointed for every day. Another\nelectuary is made thus: Take of nitre, pepper, and cummin seed, of\neach equal parts; of the leaves of Rue clean picked, as much in weight\nas all the other three weighed; beat them well together, and put as\nmuch honey as will make it up into an electuary (but you must first\nsteep your cummin seed in vinegar twenty four hours, and then dry\nit, or rather roast it in a hot fire-shovel, or in an oven) and is a\nremedy for the pains or griefs in the chest or stomach, of the spleen,\nbelly, or sides, by wind or stitches; of the liver by obstructions;\nof the reins and bladder by the stopping of urine; and helps also to\nextenuate fat corpulent bodies. What an infamy is cast upon the ashes\nof Mithridates, or Methridates (as the Augustines read his name)\nby unworthy people. They that deserve no good report themselves,\nlove to give none to others, _viz._ That renowned King of Pontus\nfortified his body by poison against poison. (_He cast out devils by_\nBeelzebub, _Prince of the devils._) What a sot is he that knows not\nif he had accustomed his body to cold poisons, but poisons would have\ndispatched him? on the contrary, if not, corrosions would have done\nit. The whole world is at this present time beholden to him for his\nstudies in physic, and he that uses the quantity but of an hazel-nut\nof that receipt every morning, to which his name is adjoined, shall\nto admiration preserve his body in health, if he do but consider that\nRue is an herb of the Sun, and under Leo, and gather it and the rest\naccordingly.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Garden-Rue",
+    "context_quote": "GARDEN-RUE is so well known by this name",
+    "part_used": "general"
+   },
+   {
+    "name_text": "Herb of Grace",
+    "context_quote": "and the name Herb of Grace",
+    "part_used": "general"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "poisons or deadly poisons",
+    "context_quote": "is an antidote against all dangerous medicines or deadly poisons",
+    "polarity": "prevents",
+    "strength": "claimed"
+   },
+   {
+    "name": "plague",
+    "context_quote": "Mithridate's counter-poison against the plague",
+    "polarity": "prevents",
+    "strength": "claimed"
+   },
+   {
+    "name": "venomous things",
+    "context_quote": "causes all venomous things to become harmless",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "venery",
+    "context_quote": "it abates venery",
+    "polarity": "prevents",
+    "strength": "claimed"
+   },
+   {
+    "name": "pains and torments",
+    "context_quote": "eases all pains and torments",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "coughs and hardness of breathing",
+    "context_quote": "helps the pains both of the chest and sides, as also coughs and hardness of breathing",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "sciatica and the joints",
+    "context_quote": "the tormenting pains of the sciatica and the joints",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "agues",
+    "context_quote": "the shaking fits of agues",
+    "polarity": "prevents",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "decoction with dill leaves and flowers",
+    "context_quote": "A decoction thereof with some dried dill leaves and flowers"
+   },
+   {
+    "kind": "electuary with nitre, pepper, cummin seed, rue, honey",
+    "context_quote": "Another electuary is made thus: Take of nitre, pepper, and cummin seed... of the leaves of Rue clean picked... beat them well together"
+   },
+   {
+    "kind": "ointment with oil of roses, ceruse, vinegar",
+    "context_quote": "An ointment made of the juice thereof with oil of roses, ceruse, and a little vinegar"
+   }
+  ],
+  "dosage_notes": [
+   "taken either in meat or drink",
+   "The seed thereof taken in wine",
+   "every morning fasting"
+  ],
+  "cautions": [],
+  "authority_citations": [
+   "Mithridates"
+  ]
+ },
+ "resolutions": [
+  {
+   "historical_name": "Garden-Rue",
+   "candidates": [
+    {
+     "scientific_name": "Ruta graveolens",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Ruta montana",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.4,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Ruta chalepensis",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.35,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Ruta graveolens",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Herb of Grace",
+   "candidates": [
+    {
+     "scientific_name": "Ruta graveolens",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.85,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Agrimonia eupatoria",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.25,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Unknown/Indeterminate",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.1,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Ruta graveolens",
+   "confidence": 0.85,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Ruta graveolens",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Is it safe to consume traditional medicinal plants during pregnancy?",
+     "identifier": "33164294",
+     "year": "2021",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/33164294/",
+     "relevance_note": "Addresses safety of R. graveolens in pregnancy, relevant to 'poisons' and historical caution."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Traditional Uses, Phytochemistry, Pharmacology and Toxicology of Ruta graveolens L.: A Critical Review and Future Perspectives.",
+     "identifier": "39758226",
+     "year": "2024",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/39758226/",
+     "relevance_note": "Comprehensive review covering traditional uses, phytochemistry, and toxicology of R. graveolens."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Ruta graveolens phytophotodermatitis.",
+     "identifier": "34391344",
+     "year": "2021",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/34391344/",
+     "relevance_note": "Discusses skin reactions from contact, relevant to historical warnings about 'venomous' effects."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "furocoumarins",
+    "rutin",
+    "quercetin"
+   ],
+   "summary": "Modern evidence confirms R. graveolens contains furocoumarins causing phytophotodermatitis, validating historical cautions against 'poisons' or 'venomous' contact. A 2024 review synthesizes traditional uses like treating pains and coughs, while noting toxicity risks during pregnancy. No specific EMA monograph exists for this species."
+  }
+ ],
+ "concordance": {
+  "grade": "D",
+  "direction": "contradicts",
+  "rationale": "Modern evidence (PMID: 33164294, 39758226) flags *Ruta graveolens* as toxic and unsafe for consumption, particularly during pregnancy, directly contradicting historical claims of it being a universal antidote or safe remedy.",
+  "uncertainty": "Low; toxicity data is consistent across recent reviews.",
+  "caveats": [
+   "Historical 'antidote' claims lack modern pharmacological support.",
+   "External application may differ from ingestion safety."
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "GARDEN-RUE is so well known by this name",
+   "and the name Herb of Grace",
+   "causes all venomous things to become harmless",
+   "eases all pains and torments",
+   "helps the pains both of the chest and sides, as also coughs and hardness of breathing",
+   "is an antidote against all dangerous medicines or deadly poisons",
+   "it abates venery",
+   "the shaking fits of agues",
+   "the tormenting pains of the sciatica and the joints"
+  ],
+  "quotes_failed": [
+   "Mithridate's counter-poison against the plague"
+  ],
+  "issues": [
+   "Unearned Grade: The entry assigns a 'D' grade based on toxicity evidence (PMID: 33164294, 39758226), but this contradicts the historical claim of being a 'universal antidote'. A 'D' grade implies partial validity or specific context; however, if the entry asserts it is currently safe/effective as an antidote, the toxicity evidence makes the claim false, warranting a stricter assessment or explicit contradiction rather than just a low grade. Furthermore, the failed quote regarding Mithridate (a historical compound containing *Ruta graveolens*) suggests that while historically used, modern safety profiles have changed, creating a conflict between 'historical utility' and 'modern safety' that needs clearer articulation in the rationale.",
+   "verdict",
+   "machine check caught failed quotes"
+  ],
+  "verdict": "pass_with_issues"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T05:22:37Z"
+ }
+}

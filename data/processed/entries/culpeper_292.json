@@ -1,0 +1,215 @@
+{
+ "id": "culpeper_292",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "The Willow Tree",
+  "book": "",
+  "chapter": "",
+  "char_start": 710301,
+  "char_end": 712145,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "THESE are so well known that they need no description. I shall\ntherefore only shew you the virtues therof.\n\n_Government and virtues._] The Moon owns it. Both the leaves, bark,\nand the seed, are used to stanch bleeding of wounds, and at mouth and\nnose, spitting of blood, and other fluxes of blood in man or woman,\nand to stay vomiting, and provocation thereunto, if the decoction of\nthem in wine be drank. It helps also to stay thin, hot, sharp, salt\ndistillations from the head upon the lungs, causing a consumption. The\nleaves bruised with some pepper, and drank in wine, helps much the wind\ncholic. The leaves bruised and boiled in wine, and drank, stays the\nheat of lust in man or woman, and quite extinguishes it, if it be long\nused: The seed also is of the same effect. Water that is gathered from\nthe Willow, when it flowers, the bark being slit, and a vessel fitting\nto receive it, is very good for redness and dimness of sight, or films\nthat grow over the eyes, and stay the rheums that fall into them; to\nprovoke urine, being stopped, if it be drank; to clear the face and\nskin from spots and discolourings. Galen saith, The flowers have an\nadmirable faculty in drying up humours, being a medicine without any\nsharpness or corrosion; you may boil them in white wine, and drink as\nmuch as you will, so you drink not yourself drunk. The bark works the\nsame effect, if used in the same manner, and the Tree hath always a\nbark upon it, though not always flowers; the burnt ashes of the bark\nbeing mixed with vinegar, takes away warts, corns, and superfluous\nflesh, being applied to the place. The decoction of the leaves or bark\nin wine, takes away scurff and dandriff by washing the place with it.\nIt is a fine cool tree, the boughs of which are very convenient to be\nplaced in the chamber of one sick of a fever.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Willow Tree",
+    "context_quote": "THESE are so well known that they need no description.",
+    "part_used": "leaves, bark, and the seed"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "bleeding of wounds",
+    "context_quote": "Both the leaves, bark, and the seed, are used to stanch bleeding of wounds",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "spitting of blood",
+    "context_quote": "and at mouth and nose, spitting of blood",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "other fluxes of blood",
+    "context_quote": "and other fluxes of blood in man or woman",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "vomiting",
+    "context_quote": "and to stay vomiting, and provocation thereunto",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "consumption from head distillations",
+    "context_quote": "It helps also to stay thin, hot, sharp, salt distillations from the head upon the lungs, causing a consumption.",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "wind cholic",
+    "context_quote": "The leaves bruised with some pepper, and drank in wine, helps much the wind cholic.",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "heat of lust",
+    "context_quote": "stays the heat of lust in man or woman, and quite extinguishes it",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "redness and dimness of sight",
+    "context_quote": "is very good for redness and dimness of sight, or films that grow over the eyes",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "decoction in wine",
+    "context_quote": "if the decoction of them in wine be drank."
+   },
+   {
+    "kind": "leaves bruised with pepper",
+    "context_quote": "The leaves bruised with some pepper, and drank in wine"
+   },
+   {
+    "kind": "leaves boiled in wine",
+    "context_quote": "The leaves bruised and boiled in wine, and drank"
+   },
+   {
+    "kind": "water gathered from flowers",
+    "context_quote": "Water that is gathered from the Willow, when it flowers, the bark being slit"
+   }
+  ],
+  "dosage_notes": [
+   "drink as much as you will",
+   "so you drink not yourself drunk"
+  ],
+  "cautions": [
+   "drink not yourself drunk"
+  ],
+  "authority_citations": [
+   "Galen saith"
+  ]
+ },
+ "resolutions": [
+  {
+   "historical_name": "Willow Tree",
+   "candidates": [
+    {
+     "scientific_name": "Salix alba",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.85,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Salix viminalis",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.75,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Salix pentandra",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.65,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Salix alba",
+   "confidence": 0.85,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF NONE"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Salix alba",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Efficacy and Safety of White Willow Bark (Salix alba) Extracts.",
+     "identifier": "25997859",
+     "year": "2015",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/25997859/",
+     "relevance_note": "Reviews anti-inflammatory and analgesic effects of willow bark, supporting traditional use for pain and fever."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Willow Bark.",
+     "identifier": "30000964",
+     "year": "2006",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/30000964/",
+     "relevance_note": "Discusses historical and modern applications of willow bark for pain relief and inflammation management."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Mechanisms of herb-induced nephrotoxicity.",
+     "identifier": "23597204",
+     "year": "2013",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/23597204/",
+     "relevance_note": "Examines potential kidney toxicity associated with salicylate-containing herbs like white willow bark."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "Salicin",
+    "Tannins"
+   ],
+   "summary": "Modern evidence supports the use of Salix alba for pain and inflammation via salicin conversion to salicylic acid. While traditional uses included stopping bleeding (fluxes) and treating vomiting, current literature focuses on analgesia and safety warnings regarding renal toxicity, rather than hemostasis or anti-emetic effects."
+  }
+ ],
+ "concordance": {
+  "grade": "C",
+  "direction": "partial",
+  "rationale": "Modern evidence (PMID: 25997859, 30000964) supports anti-inflammatory/analgesic properties of Salix alba. No clinical data supports hemostasis for wounds or specific 'fluxes' claims.",
+  "uncertainty": "Historical claims regarding wound stanching and specific fluxes lack modern clinical validation; evidence is limited to general pharmacological plausibility.",
+  "caveats": [
+   "No safety data for topical wound application in historical context",
+   "Modern use restricted to oral analgesia/anti-inflammatory"
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "Both the leaves, bark, and the seed, are used to stanch bleeding of wounds",
+   "It helps also to stay thin, hot, sharp, salt distillations from the head upon the lungs, causing a consumption.",
+   "THESE are so well known that they need no description.",
+   "The leaves bruised with some pepper, and drank in wine, helps much the wind cholic.",
+   "and at mouth and nose, spitting of blood",
+   "and other fluxes of blood in man or woman",
+   "and to stay vomiting, and provocation thereunto",
+   "is very good for redness and dimness of sight, or films that grow over the eyes",
+   "stays the heat of lust in man or woman, and quite extinguishes it"
+  ],
+  "quotes_failed": [],
+  "issues": [
+   "Unearned grade: Grade 'C' assigned despite only 3 PubMed hits (PMID: 25997859, 30000964) supporting general anti-inflammatory/analgesic properties; no clinical evidence provided for specific historical claims like hemostasis or 'fluxes', yet the entry is marked 'resolved' without explicit citation of the 3 sources in the payload to verify their content against the rationale."
+  ],
+  "verdict": "pass_with_issues"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T05:23:18Z"
+ }
+}
