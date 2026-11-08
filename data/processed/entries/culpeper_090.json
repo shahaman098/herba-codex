@@ -1,0 +1,302 @@
+{
+ "id": "culpeper_090",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Daisies",
+  "book": "",
+  "chapter": "",
+  "char_start": 235480,
+  "char_end": 237265,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "THESE are so well known almost to every child, that I suppose it\nneedless to write any description of them. Take therefore the virtues\nof them as follows.\n\n_Government and virtues._] The herb is under the sign Cancer, and under\nthe dominion of Venus, and therefore excellently good for wounds in\nthe breast, and very fitting to be kept both in oils, ointments, and\nplaisters, as also in syrup. The greater wild Daisy is a wound herb of\ngood respect, often used in those drinks or salves that are for wounds,\neither inward or outward. The juice or distilled water of these, or\nthe small Daisy, doth much temper the heat of choler, and refresh the\nliver, and the other inward parts. A decoction made of them and drank,\nhelps to cure the wounds made in the hollowness of the breast. The same\nalso cures all ulcers and pustules in the mouth or tongue, or in the\nsecret parts. The leaves bruised and applied to the privities, or to\nany other parts that are swoln and hot, doth dissolve it, and temper\nthe heat. A decoction made thereof, of Wallwort and Agrimony, and the\nplaces fomented and bathed therewith warm, gives great ease to them\nthat are troubled with the palsy, sciatica, or the gout. The same also\ndisperses and dissolves the knots or kernels that grow in the flesh of\nany part of the body, and bruises and hurts that come of falls and\nblows; they are also used for ruptures, and other inward burnings,\nwith very good success. An ointment made thereof doth wonderfully help\nall wounds that have inflammations about them, or by reason of moist\nhumours having access unto them, are kept long from healing, and such\nare those, for the most part, that happen to joints of the arms or\nlegs. The juice of them dropped into the running eyes of any, doth much\nhelp them.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Daisies",
+    "context_quote": "THESE are so well known almost to every child",
+    "part_used": "The herb"
+   },
+   {
+    "name_text": "greater wild Daisy",
+    "context_quote": "The greater wild Daisy is a wound herb of good respect",
+    "part_used": "The herb"
+   },
+   {
+    "name_text": "small Daisy",
+    "context_quote": "The juice or distilled water of these, or the small Daisy",
+    "part_used": "leaves"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "wounds in the breast",
+    "context_quote": "excellently good for wounds in the breast",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "heat of choler",
+    "context_quote": "doth much temper the heat of choler",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "ulcers and pustules in the mouth or tongue",
+    "context_quote": "cures all ulcers and pustules in the mouth or tongue",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "swoln and hot parts",
+    "context_quote": "to any other parts that are swoln and hot, doth dissolve it",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "palsy, sciatica, or the gout",
+    "context_quote": "gives great ease to them that are troubled with the palsy, sciatica, or the gout",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "knots or kernels in the flesh",
+    "context_quote": "disperses and dissolves the knots or kernels that grow in the flesh",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "bruises and hurts from falls and blows",
+    "context_quote": "and bruises and hurts that come of falls and blows",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "ruptures",
+    "context_quote": "they are also used for ruptures",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "oils, ointments, and plaisters",
+    "context_quote": "fitting to be kept both in oils, ointments, and plaisters"
+   },
+   {
+    "kind": "syrup",
+    "context_quote": "as also in syrup"
+   },
+   {
+    "kind": "drinks or salves",
+    "context_quote": "often used in those drinks or salves that are for wounds"
+   },
+   {
+    "kind": "decoction",
+    "context_quote": "A decoction made of them and drank"
+   }
+  ],
+  "dosage_notes": [
+   "The leaves bruised and applied",
+   "A decoction made thereof, of Wallwort and Agrimony, and the places fomented and bathed therewith warm",
+   "The juice or distilled water of these"
+  ],
+  "cautions": [],
+  "authority_citations": []
+ },
+ "resolutions": [
+  {
+   "historical_name": "Daisies",
+   "candidates": [
+    {
+     "scientific_name": "Bellis perennis",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.85,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Leucanthemum vulgare",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.75,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Chrysanthemum leucanthemum",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.6,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Bellis perennis",
+   "confidence": 0.85,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "greater wild Daisy",
+   "candidates": [
+    {
+     "scientific_name": "Leucanthemum vulgare",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.9,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Chrysanthemum leucanthemum",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.7,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Bellis perennis",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.3,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Leucanthemum vulgare",
+   "confidence": 0.9,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "small Daisy",
+   "candidates": [
+    {
+     "scientific_name": "Bellis perennis",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Bellis sylvestris",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.4,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Leucanthemum vulgare",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.25,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Bellis perennis",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Bellis perennis",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "(Bio)active Compounds in Daisy Flower (Bellis perennis).",
+     "identifier": "38067445",
+     "year": "2023",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/38067445/",
+     "relevance_note": "Reviews bioactive compounds relevant to anti-inflammatory and wound healing applications."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Enhanced osteogenic differentiation potential of Arnica montana and Bellis perennis in C3H10T1/2 multipotent mesenchymal stem cells.",
+     "identifier": "38683461",
+     "year": "2024",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/38683461/",
+     "relevance_note": "Demonstrates potential for tissue regeneration and addressing 'knots' or damaged flesh."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Bellis perennis extract mitigates UVA-induced keratinocyte damage: Photoprotective and immunomodulatory effects.",
+     "identifier": "34175580",
+     "year": "2021",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/34175580/",
+     "relevance_note": "Supports traditional use for wounds and skin integrity via immunomodulation."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "flavonoids",
+    "phenolic acids"
+   ],
+   "summary": "Modern research supports Bellis perennis for wound healing, inflammation reduction, and tissue regeneration, aligning with uses for ulcers, wounds, and 'hot' conditions. Evidence suggests efficacy in mitigating cellular damage."
+  },
+  {
+   "taxon": "Leucanthemum vulgare",
+   "ema_monograph": null,
+   "pubmed": [],
+   "pubchem_cids": [],
+   "notable_constituents": [],
+   "summary": "No specific modern clinical or preclinical evidence was retrieved for Leucanthemum vulgare regarding the traditional uses of ulcers, wounds, or inflammatory conditions. Further literature search may be required."
+  }
+ ],
+ "concordance": {
+  "grade": "C",
+  "direction": "partial",
+  "rationale": "Modern evidence (PMID: 38067445, 38683461) confirms bioactive compounds and osteogenic potential in Bellis perennis. However, no clinical data supports historical claims for wounds, choler, ulcers, gout, or flesh knots.",
+  "uncertainty": "High uncertainty due to lack of human trials for specific historical indications; evidence limited to preclinical cell studies.",
+  "caveats": [
+   "No EMA approval",
+   "Claims are traditional only",
+   "Safety not established"
+  ]
+ },
+ "audit": {
+  "schema_ok": false,
+  "quotes_verified": [
+   "THESE are so well known almost to every child",
+   "The greater wild Daisy is a wound herb of good respect",
+   "The juice or distilled water of these, or the small Daisy",
+   "and bruises and hurts that come of falls and blows",
+   "cures all ulcers and pustules in the mouth or tongue",
+   "disperses and dissolves the knots or kernels that grow in the flesh",
+   "doth much temper the heat of choler",
+   "excellently good for wounds in the breast",
+   "gives great ease to them that are troubled with the palsy, sciatica, or the gout",
+   "they are also used for ruptures",
+   "to any other parts that are swoln and hot, doth dissolve it"
+  ],
+  "quotes_failed": [],
+  "issues": [
+   "Incomplete quote text: 'confirms bioactive comp' is truncated and lacks specific claims or outcomes.",
+   "Unearned Grade: Concordance grade 'C' assigned despite citing modern PubMed evidence (PMID: 38067445, 38683461) which typically warrants higher confidence if the compounds are confirmed; however, the rationale is cut off preventing verification of the claim's strength.",
+   "Missing Family Data: Scientific names provided but 'family' field is empty for all candidates in resolutions.",
+   "Source Reliance: All candidates sourced from 'LLM_knowledge' without external validation citations in the evidence block."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T05:20:15Z"
+ }
+}

@@ -1,0 +1,249 @@
+{
+ "id": "culpeper_078",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Comfrey",
+  "book": "",
+  "chapter": "",
+  "char_start": 208116,
+  "char_end": 211562,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "THIS is a very common but a very neglected plant. It contains very\ngreat virtues.\n\n_Descript._] The common Great Comfrey has divers very large hairy green\nleaves lying on the ground, so hairy or prickly, that if they touch any\ntender parts of the hands, face, or body, it will cause it to itch; the\nstalks that rise from among them, being two or three feet high, hollow\nand cornered, is very hairy also, having many such like leaves as grow\nbelow, but less and less up to the top: At the joints of the stalks it\nis divided into many branches, with some leaves thereon, and at the\nends stand many flowers in order one above another, which are somewhat\nlong and hollow like the finger of a glove, of a pale whitish colour,\nafter which come small black seeds. The roots are great and long,\nspreading great thick branches under ground, black on the outside,\nand whitish within, short and easy to break, and full of glutinous or\nclammy juice, of little or no taste at all.\n\nThere is another sort in all things like this, only somewhat less, and\nbears flowers of a pale purple colour.\n\n_Place._] They grow by ditches and water-sides, and in divers fields\nthat are moist, for therein they chiefly delight to grow. The first\ngenerally through all the land, and the other but in some places. By\nthe leave of my authors, I know the first grows in dry places.\n\n_Time._] They flower in June or July, and give their seed in August.\n\n_Government and virtues._] This is an herb of Saturn, and I suppose\nunder the sign Capricorn, cold, dry, and earthy in quality. What was\nspoken of Clown’s Woundwort may be said of this. The Great Comfrey\nhelps those that spit blood, or make a bloody urine. The root boiled\nin water or wine, and the decoction drank, helps all inward hurts,\nbruises, wounds, and ulcer of the lungs, and causes the phlegm that\noppresses them to be easily spit forth: It helps the defluction of\nrheum from the head upon the lungs, the fluxes of blood or humours by\nthe belly, women’s immoderate courses, as well the reds as the whites,\nand the running of the reins happening by what cause soever. A syrup\nmade thereof is very effectual for all those inward griefs and hurts,\nand the distilled water for the same purpose also, and for outward\nwounds and sores in the fleshy or sinewy part of the body whatsoever,\nas also to take away the fits of agues, and to allay the sharpness\nof humours. A decoction of the leaves hereof is available to all\nthe purposes, though not so effectual as the roots. The roots being\noutwardly applied, help fresh wounds or cuts immediately, being bruised\nand laid thereto; and is special good for ruptures and broken bones;\nyea, it is said to be so powerful to consolidate and knit together,\nthat if they be boiled with dissevered pieces of flesh in a pot, it\nwill join them together again. It is good to be applied to women’s\nbreasts that grow sore by the abundance of milk coming into them; also\nto repress the over much bleeding of the hæmorrhoids, to cool the\ninflammation of the parts thereabouts, and to give ease of pains. The\nroots of Comfrey taken fresh, beaten small, and spread upon leather,\nand laid upon any place troubled with the gout, doth presently give\nease of the pains; and applied in the same manner, gives ease to pained\njoints, and profits very much for running and moist ulcers, gangrenes,\nmortifications, and the like, for which it hath by often experience\nbeen found helpful.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Great Comfrey",
+    "context_quote": "The common Great Comfrey has divers very large hairy green leaves lying on the ground",
+    "part_used": "leaves, stalks, roots"
+   },
+   {
+    "name_text": "Clown's Woundwort",
+    "context_quote": "What was spoken of Clown's Woundwort may be said of this.",
+    "part_used": "general comparison"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "spitting blood",
+    "context_quote": "The Great Comfrey helps those that spit blood",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "bloody urine",
+    "context_quote": "or make a bloody urine",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "inward hurts, bruises, wounds",
+    "context_quote": "helps all inward hurts, bruises, wounds, and ulcer of the lungs",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "ulcer of the lungs",
+    "context_quote": "and ulcer of the lungs",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "oppressive phlegm",
+    "context_quote": "causes the phlegm that oppresses them to be easily spit forth",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "fluxes of blood or humours by the belly",
+    "context_quote": "the fluxes of blood or humours by the belly",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "women's immoderate courses",
+    "context_quote": "women's immoderate courses, as well the reds as the whites",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "running of the reins",
+    "context_quote": "and the running of the reins happening by what cause soever",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "decoction in water or wine",
+    "context_quote": "The root boiled in water or wine, and the decoction drank"
+   },
+   {
+    "kind": "syrup",
+    "context_quote": "A syrup made thereof is very effectual for all those inward griefs and hurts"
+   },
+   {
+    "kind": "distilled water",
+    "context_quote": "and the distilled water for the same purpose also, and for outward wounds and sores"
+   },
+   {
+    "kind": "fresh roots beaten small on leather",
+    "context_quote": "The roots of Comfrey taken fresh, beaten small, and spread upon leather"
+   }
+  ],
+  "dosage_notes": [
+   "decoction drank",
+   "syrup made thereof",
+   "distilled water for the same purpose also"
+  ],
+  "cautions": [
+   "leaves are so hairy or prickly that if they touch any tender parts of the hands, face, or body, it will cause it to itch",
+   "roots are short and easy to break",
+   "none explicitly stated beyond general application methods"
+  ],
+  "authority_citations": []
+ },
+ "resolutions": [
+  {
+   "historical_name": "Great Comfrey",
+   "candidates": [
+    {
+     "scientific_name": "Symphytum officinale",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Symphytum tuberosum",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.4,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Symphytum officinale",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Clown's Woundwort",
+   "candidates": [
+    {
+     "scientific_name": "Symphytum officinale",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.9,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Symphytum asperum",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.35,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Symphytum officinale",
+   "confidence": 0.9,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Symphytum officinale",
+   "ema_monograph": {
+    "kind": "EMA_monograph",
+    "title": "Symphyti radix (comfrey root)",
+    "identifier": "https://www.ema.europa.eu/en/medicines/herbal/symphyti-radix",
+    "year": "",
+    "url": "https://www.ema.europa.eu/en/medicines/herbal/symphyti-radix",
+    "relevance_note": "Addresses safety and efficacy of comfrey root, noting hepatotoxicity risks which contradicts historical internal use for fluxes or bloody urine."
+   },
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Comfrey.",
+     "identifier": "30000832",
+     "year": "2006",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/30000832/",
+     "relevance_note": "Reviews historical use for wounds and bruises but highlights toxicity preventing internal use for lung ulcers or bloody urine."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Ethnopharmacological insights into Symphytum officinale L.: traditional uses, phytochemical composition, therapeutic potential, and clinical-toxicological implications.",
+     "identifier": "41993578",
+     "year": "2026",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/41993578/",
+     "relevance_note": "Analyzes traditional applications for wounds and bruises while documenting modern contraindications for internal administration."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Phytochemical profiling and bioactivity assessment of underutilized Symphytum species in comparison with Symphytum officinale.",
+     "identifier": "38252561",
+     "year": "2024",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/38252561/",
+     "relevance_note": "Compares phytochemistry of S. officinale with other species, focusing on wound healing potential versus toxicity."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "alkaloids",
+    "coumarins",
+    "phenolic acids"
+   ],
+   "summary": "Modern evidence confirms traditional efficacy for external wounds and bruises but strongly advises against internal use for lung ulcers, fluxes, or bloody urine due to hepatotoxic pyrrolizidine alkaloids."
+  }
+ ],
+ "concordance": {
+  "grade": "D",
+  "direction": "contradicts",
+  "rationale": "Symphytum officinale contains pyrrolizidine alkaloids causing severe hepatotoxicity and pulmonary fibrosis, contraindicating internal use for 'inward hurts', bleeding, or lung ulcers.",
+  "uncertainty": "Low; toxicity data is definitive for this species.",
+  "caveats": [
+   "External use only",
+   "Never ingest"
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "The Great Comfrey helps those that spit blood",
+   "The common Great Comfrey has divers very large hairy green leaves lying on the ground",
+   "and the running of the reins happening by what cause soever",
+   "and ulcer of the lungs",
+   "causes the phlegm that oppresses them to be easily spit forth",
+   "helps all inward hurts, bruises, wounds, and ulcer of the lungs",
+   "or make a bloody urine",
+   "the fluxes of blood or humours by the belly"
+  ],
+  "quotes_failed": [
+   "What was spoken of Clown's Woundwort may be said of this.",
+   "women's immoderate courses, as well the reds as the whites"
+  ],
+  "issues": [
+   "Unearned Grade: The entry assigns a 'D' grade based on definitive hepatotoxicity data (pyrrolizidine alkaloids), which is scientifically accurate and severe. However, the presence of failed quotes regarding internal use ('inward hurts', bleeding) suggests the extraction process could not validate the specific historical claims that led to this toxicity conclusion. If the toxicity is 'definitive' as stated in the rationale, the grade is justified by modern science, but the failure to verify the specific historical quotes means the entry relies on external knowledge rather than the provided text evidence for those specific claims. Strict adherence requires that if quotes fail verification, they cannot support the entry's narrative unless fully replaced by other evidence. Here, the 'D' grade is earned by toxicity data, but the failed quotes represent missing evidence chains for the historical context.",
+   "Completeness Gap: The resolution for 'Clown's Woundwort' and 'Great Comfrey' both point to Symphytum officinale, but the provided evidence only lists 3 PubMed citations. The specific historical claims (internal use contraindications) are not explicitly supported by the text of those 3 citations in the extraction context, leading to quote failures."
+  ],
+  "verdict": "pass_with_issues"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T05:19:45Z"
+ }
+}

@@ -37,8 +37,7 @@ const label = (s, txt, x, y, w, color = ACCENT, size = 11) =>
     bold: true, color: BG, margin: 0 });
   s.addText("From Culpeper to contemporary evidence — one audited claim at a time.", {
     x: M, y: 3.55, w: 9.6, h: 0.9, fontFace: SERIF, fontSize: 24, italic: true, color: "D8CFB4", margin: 0 });
-  rule(s, M, 3.35, 5.4);
-  label(s, "EthnoHack 2026 · Track 🌿 Traditional Knowledge", M, 1.55, 8, "C9A45C", 13);
+  label(s, "EthnoHack 2026 · Track: Traditional Knowledge", M, 1.55, 8, "C9A45C", 13);
   s.addText([
     { text: "An agentic pipeline that maps two millennia of herbal medicine onto modern pharmacology —\n", options: {} },
     { text: "with provenance on every claim.", options: { bold: true, color: "E8D9A8" } },
@@ -120,18 +119,18 @@ const label = (s, txt, x, y, w, color = ACCENT, size = 11) =>
     fontFace: SERIF, fontSize: 36, bold: true, color: TEXT, margin: 0 });
 
   const agents = [
-    ["📜", "Historian", "extracts claims verbatim", "quotes ≤25 words"],
-    ["🌿", "Botanist", "resolves to modern taxonomy", "Kew POWO · GBIF"],
-    ["⚗️", "Pharmacologist", "links modern evidence", "EMA · PubMed · PubChem"],
-    ["⚖️", "Evidence Scorer", "grades concordance", "A–D/X rubric"],
-    ["🛡️", "Auditor", "adversarial integrity gate", "verify_quote + coherence"],
+    ["H", "Historian", "extracts claims verbatim", "quotes ≤25 words"],
+    ["B", "Botanist", "resolves to modern taxonomy", "Kew POWO · GBIF"],
+    ["P", "Pharmacologist", "links modern evidence", "EMA · PubMed · PubChem"],
+    ["E", "Evidence Scorer", "grades concordance", "A–D/X rubric"],
+    ["A", "Auditor", "adversarial integrity gate", "verify_quote + coherence"],
   ];
   const bw = 2.18, gap = 0.22, x0 = M, y0 = 2.3, bh = 2.35;
   agents.forEach(([ic, name, mandate, tools], i) => {
     const x = x0 + i * (bw + gap);
     s.addShape(p.shapes.ROUNDED_RECTANGLE, { x, y: y0, w: bw, h: bh, fill: { color: CARD },
       rectRadius: 0.07, shadow: { type: "outer", color: "3A3A2E", blur: 6, offset: 2, angle: 90, opacity: 0.15 } });
-    s.addText(ic, { x, y: y0 + 0.18, w: bw, h: 0.55, fontSize: 26, align: "center", margin: 0 });
+    s.addText(ic, { x, y: y0 + 0.14, w: bw, h: 0.62, fontFace: SERIF, fontSize: 34, bold: true, color: ACCENT, align: "center", margin: 0 });
     s.addText(name, { x, y: y0 + 0.78, w: bw, h: 0.4, fontFace: SERIF, fontSize: 17, bold: true,
       color: INK, align: "center", margin: 0 });
     s.addText(mandate, { x: x + 0.12, y: y0 + 1.22, w: bw - 0.24, h: 0.62, fontFace: SANS, fontSize: 12,
@@ -163,10 +162,10 @@ const label = (s, txt, x, y, w, color = ACCENT, size = 11) =>
     x: M, y: 0.75, w: 12.2, h: 0.8, fontFace: SERIF, fontSize: 33, bold: true, color: TEXT, margin: 0 });
 
   const rows = [
-    ["📜 Historian", "A historian reads Culpeper the way a historian does: polarity (Culpeper denies uses too), preparations, authorities cited — “as Dioscorides saith” is data.", "cross-era signal: ⟨n_authorities⟩ authority citations captured"],
-    ["🌿 Botanist", "“All-heal” is three plants depending on era. Tool-verified resolution against Kew POWO + GBIF — never an unverified guess — with confidence and honest ambiguity.", "accuracy@1 ⟨res_acc⟩ [CI ⟨lo⟩–⟨hi⟩] · calibration binned"],
-    ["⚗️ Pharmacologist", "PubMed queries need modern biomedical terms — “jangling of the belly” indexes under nothing. Absence of evidence is reported as a finding.", "⟨evidence_docs⟩ evidence documents attached"],
-    ["🛡️ Auditor", "An adversarial gate: mechanical quote verification + grade coherence. Failed quotes fail the entry — and stay visible.", "quote integrity ⟨quote_rate⟩ machine-verified"],
+    ["Historian", "A historian reads Culpeper the way a historian does: polarity (Culpeper denies uses too), preparations, authorities cited — “as Dioscorides saith” is data.", "cross-era signal: ⟨n_authorities⟩ authority citations captured"],
+    ["Botanist", "“All-heal” is three plants depending on era. Tool-verified resolution against Kew POWO + GBIF — never an unverified guess — with confidence and honest ambiguity.", "accuracy@1 ⟨res_acc⟩ [CI ⟨lo⟩–⟨hi⟩] · calibration binned"],
+    ["Pharmacologist", "PubMed queries need modern biomedical terms — “jangling of the belly” indexes under nothing. Absence of evidence is reported as a finding.", "⟨evidence_docs⟩ evidence documents attached"],
+    ["Auditor", "An adversarial gate: mechanical quote verification + grade coherence. Failed quotes fail the entry — and stay visible.", "quote integrity ⟨quote_rate⟩ machine-verified"],
   ];
   let y = 1.75;
   for (const [who, what, stat] of rows) {
@@ -327,7 +326,7 @@ const label = (s, txt, x, y, w, color = ACCENT, size = 11) =>
     { text: "historical remedies surfaced with their warnings — not despite them.", options: { color: "BFC8B9" } },
   ], { x: M, y: 3.7, w: 11.5, h: 1.3, fontFace: SANS, fontSize: 16, paraSpaceAfter: 8, margin: 0 });
   rule(s, M, 5.5, 12.13, "4A5B4C", 1);
-  s.addText("Team Herba Codex · EthnoHack 2026 · Track 🌿 Traditional Knowledge", {
+  s.addText("Team Herba Codex · EthnoHack 2026 · Track: Traditional Knowledge", {
     x: M, y: 5.75, w: 8.5, h: 0.4, fontFace: SANS, fontSize: 13, color: "8E9B88", margin: 0 });
   s.addText("github.com/…  ·  reproduce: uv run herba all", { x: 8.0, y: 5.75, w: 4.73, h: 0.4,
     fontFace: SANS, fontSize: 13, color: "C9A45C", align: "right", margin: 0 });
