@@ -67,9 +67,9 @@ single-shot baseline does not attempt.
 |---|---|
 | Entries processed end-to-end | 182 (checkpointed, shuffled order) |
 | Wall throughput | **63 entries/hour** on an Apple M4 Pro laptop |
-| LLM calls | 868 |
-| Tokens | 614k prompt / 342k completion |
-| Tool plan events / tool invocations | 514 plans → **670 tool invocations** (POWO 181 · EMA 156 · PubMed 156 · verify_quote 177) |
+| LLM calls | 887 |
+| Tokens | 629k prompt / 352k completion (avg 397 out/call) |
+| Tool plan events / tool invocations | 522 plans → **680 tool invocations** (POWO 184 · EMA 158 · PubMed 158 · verify_quote 180) |
 | Median gap between LLM calls | 10.2 s |
 | Cloud API spend | **$0.00** — fully local inference; any OpenAI-compatible endpoint is a config change |
 
