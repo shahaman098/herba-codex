@@ -1,0 +1,12 @@
+$ uv run herba run --max 2 --shuffle-remaining   # live run: two previously-unseen entries, full five-agent pipeline
+run run_20261108_083304_a02df5 — 2 entries
+                         pipeline complete                          
+┏━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃            ┃                                                     ┃
+┡━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
+│ entries    │ 184                                                 │
+│ resolved   │ 297                                                 │
+│ ambiguous  │ 28                                                  │
+│ unresolved │ 3                                                   │
+│ grades     │ {'D': 73, 'C': 86, 'X': 11, 'B': 8, '-': 5, 'A': 1} │
+└────────────┴─────────────────────────────────────────────────────┘

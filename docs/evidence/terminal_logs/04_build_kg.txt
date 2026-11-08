@@ -1,0 +1,20 @@
+$ uv run herba build-kg   # knowledge-graph build + export over the frozen 182-entry dataset
+{
+  "entries": 182,
+  "with_extraction": 176,
+  "taxa_resolved": 293,
+  "taxa_ambiguous": 28,
+  "taxa_unresolved": 3,
+  "name_resolutions": 324,
+  "evidence_docs": 494,
+  "grades": {
+    "D": 73,
+    "C": 83,
+    "X": 11,
+    "B": 8,
+    "?": 6,
+    "A": 1
+  },
+  "nodes": 2458,
+  "edges": 3214
+}

@@ -1,0 +1,184 @@
+<!doctype html><html><head><meta charset="utf-8"><style>
+  body { background:#1a1a1e; margin:0; padding:28px; font-family:"SF Mono",Menlo,monospace; }
+  h1 { color:#e8e6df; font-family:Georgia,serif; font-size:26px; margin:0 0 4px; }
+  p.note { color:#8f8d85; font-size:13px; margin:0 0 24px; }
+  .card { border-radius:10px; overflow:hidden; margin:0 0 26px; box-shadow:0 8px 30px rgba(0,0,0,.45); }
+  .bar { background:#2c2c31; padding:9px 14px; display:flex; align-items:center; gap:7px; }
+  .dot { width:11px; height:11px; border-radius:50%; display:inline-block; }
+  .r { background:#ff5f57; } .y { background:#febc2e; } .g { background:#28c840; }
+  .cap { color:#d8d6cf; font-family:Georgia,serif; font-size:14.5px; margin-left:10px; }
+  .file { color:#77756d; font-size:11px; margin-left:auto; }
+  pre { background:#111114; color:#c9e8b5; margin:0; padding:16px 18px; font-size:12.3px; line-height:1.5; white-space:pre-wrap; }
+</style></head><body>
+<h1>Herba Codex — terminal evidence</h1>
+<p class="note">Typeset from real captured run logs · raw .txt files: docs/evidence/terminal_logs/ · re-run any command from the repo root</p>
+
+    <div class="card">
+      <div class="bar"><span class="dot r"></span><span class="dot y"></span><span class="dot g"></span>
+        <span class="cap">Engineering: deterministic core test suite (10/10 passing)</span>
+        <span class="file">01_tests.txt</span></div>
+      <pre>$ uv run pytest tests/ -v
+configfile: pyproject.toml
+plugins: anyio-4.16.0
+collecting ... collected 10 items
+
+tests/test_core.py::test_verify_quote_positive PASSED                    [ 10%]
+tests/test_core.py::test_verify_quote_case_punctuation_insensitive PASSED [ 20%]
+tests/test_core.py::test_verify_quote_ligature_insensitive PASSED        [ 30%]
+tests/test_core.py::test_verify_quote_negative PASSED                    [ 40%]
+tests/test_core.py::test_verify_quote_missing_args PASSED                [ 50%]
+tests/test_core.py::test_segmentation_shape_and_stability PASSED         [ 60%]
+tests/test_core.py::test_segmentation_is_deterministic PASSED            [ 70%]
+tests/test_core.py::test_kg_nodes_and_provenance PASSED                  [ 80%]
+tests/test_core.py::test_export_summary PASSED                           [ 90%]
+tests/test_core.py::test_fuzzy_and_name_match PASSED                     [100%]
+
+============================== 10 passed in 0.18s ==============================
+</pre>
+    </div>
+    <div class="card">
+      <div class="bar"><span class="dot r"></span><span class="dot y"></span><span class="dot g"></span>
+        <span class="cap">Independent provenance audit: every claim re-verified against the primary source</span>
+        <span class="file">02_provenance_audit.txt</span></div>
+      <pre>$ uv run python pipelines/verify_provenance.py
+{
+ &quot;claims_checked&quot;: 2125,
+ &quot;verified_vs_primary_source&quot;: 1977,
+ &quot;rate&quot;: 0.9304,
+ &quot;by_type&quot;: {
+  &quot;plant_name&quot;: 0.9012,
+  &quot;ailment&quot;: 0.9357,
+  &quot;preparation&quot;: 0.9354
+ },
+ &quot;selected_taxa_with_powo_backing&quot;: 1.0,
+ &quot;evidence_identifiers_ok&quot;: 1.0
+}
+</pre>
+    </div>
+    <div class="card">
+      <div class="bar"><span class="dot r"></span><span class="dot y"></span><span class="dot g"></span>
+        <span class="cap">Live pipeline run: two previously-unseen entries, five-agent pipeline end-to-end</span>
+        <span class="file">03_live_run.txt</span></div>
+      <pre>$ uv run herba run --max 2 --shuffle-remaining   # live run: two previously-unseen entries, full five-agent pipeline
+run run_20261108_083304_a02df5 — 2 entries
+                         pipeline complete                          
+┏━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃            ┃                                                     ┃
+┡━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
+│ entries    │ 184                                                 │
+│ resolved   │ 297                                                 │
+│ ambiguous  │ 28                                                  │
+│ unresolved │ 3                                                   │
+│ grades     │ {&#x27;D&#x27;: 73, &#x27;C&#x27;: 86, &#x27;X&#x27;: 11, &#x27;B&#x27;: 8, &#x27;-&#x27;: 5, &#x27;A&#x27;: 1} │
+└────────────┴─────────────────────────────────────────────────────┘
+</pre>
+    </div>
+    <div class="card">
+      <div class="bar"><span class="dot r"></span><span class="dot y"></span><span class="dot g"></span>
+        <span class="cap">Knowledge-graph build &amp; export over the frozen 182-entry dataset</span>
+        <span class="file">04_build_kg.txt</span></div>
+      <pre>$ uv run herba build-kg   # knowledge-graph build + export over the frozen 182-entry dataset
+{
+  &quot;entries&quot;: 182,
+  &quot;with_extraction&quot;: 176,
+  &quot;taxa_resolved&quot;: 293,
+  &quot;taxa_ambiguous&quot;: 28,
+  &quot;taxa_unresolved&quot;: 3,
+  &quot;name_resolutions&quot;: 324,
+  &quot;evidence_docs&quot;: 494,
+  &quot;grades&quot;: {
+    &quot;D&quot;: 73,
+    &quot;C&quot;: 83,
+    &quot;X&quot;: 11,
+    &quot;B&quot;: 8,
+    &quot;?&quot;: 6,
+    &quot;A&quot;: 1
+  },
+  &quot;nodes&quot;: 2458,
+  &quot;edges&quot;: 3214
+}
+</pre>
+    </div>
+    <div class="card">
+      <div class="bar"><span class="dot r"></span><span class="dot y"></span><span class="dot g"></span>
+        <span class="cap">Evaluation: accuracy + bootstrap 95% CIs on the hand-curated gold set</span>
+        <span class="file">05_eval.txt</span></div>
+      <pre>$ uv run python eval/evaluate.py   # accuracy metrics + bootstrap CIs on the gold set
+      &quot;accuracy&quot;: null
+    },
+    &quot;70-85&quot;: {
+      &quot;n&quot;: 0,
+      &quot;accuracy&quot;: null
+    },
+    &quot;85-100&quot;: {
+      &quot;n&quot;: 21,
+      &quot;accuracy&quot;: 0.81
+    }
+  },
+  &quot;quote_integrity&quot;: {
+    &quot;verified&quot;: 220,
+    &quot;failed&quot;: 46,
+    &quot;rate&quot;: 0.827
+  },
+  &quot;concordance_coverage&quot;: {
+    &quot;graded&quot;: 22,
+    &quot;of&quot;: 22
+  },
+  &quot;n_gold_pairs&quot;: 22,
+  &quot;bootstrap_95&quot;: {
+    &quot;resolution_accuracy_at_1&quot;: {
+      &quot;lo&quot;: 0.636,
+      &quot;hi&quot;: 0.952
+    },
+    &quot;quote_integrity_rate&quot;: {
+      &quot;lo&quot;: 0.698,
+      &quot;hi&quot;: 0.926
+    }
+  }
+}
+</pre>
+    </div>
+    <div class="card">
+      <div class="bar"><span class="dot r"></span><span class="dot y"></span><span class="dot g"></span>
+        <span class="cap">Ablation results + CLI + git history</span>
+        <span class="file">06_ablation_cli.txt</span></div>
+      <pre>$ uv run python -c &#x27;import json; print(json.dumps(json.load(open(&quot;eval/ablation.json&quot;)), indent=1))&#x27;   # ablation: single-shot vs five-agent
+{
+ &quot;baseline_single_shot&quot;: {
+  &quot;resolution_accuracy_at_1&quot;: 0.818,
+  &quot;quote_fidelity&quot;: 0.864,
+  &quot;n&quot;: 22,
+  &quot;notes&quot;: &quot;one unaided LLM call; no tools, no verification, no audit&quot;
+ },
+ &quot;agent_pipeline&quot;: {
+  &quot;resolution_accuracy_at_1&quot;: 0.87,
+  &quot;quote_integrity&quot;: 0.827,
+  &quot;notes&quot;: &quot;5 agents, POWO/GBIF verification, mechanical + agent audit&quot;
+ }
+}
+
+$ uv run herba --help
+ Usage: herba [OPTIONS] COMMAND [ARGS]...                                       
+                                                                                
+ Herba Codex agentic pipeline                                                   
+                                                                                
+╭─ Options ────────────────────────────────────────────────────────────────────╮
+│ --help          Show this message and exit.                                  │
+╰──────────────────────────────────────────────────────────────────────────────╯
+╭─ Commands ───────────────────────────────────────────────────────────────────╮
+│ segment                                                                      │
+│ run                                                                          │
+│ build-kg                                                                     │
+│ all                                                                          │
+╰──────────────────────────────────────────────────────────────────────────────╯
+
+
+$ git log --oneline | head -5
+b3974a2 video script: one-liner in first 30 seconds
+224fdad judge-memory one-liner added to devpost pack (idea-audit per strategy framework)
+06d8ab7 devpost pack with final numbers; command centre tracker updated
+ec67a8e FINAL DATA: 182 entries, KG 2458n/3214e, eval (acc@1 0.81 CI 0.64-0.95, quote integrity 0.827), ablation (82 vs 87), deck with real numbers + honest ablation framing, X backfill, web data refresh
+5bb3a70 reaudit: X-grade backfill for honestly ungradable entries
+</pre>
+    </div>
+</body></html>

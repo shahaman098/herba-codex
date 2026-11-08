@@ -1,0 +1,13 @@
+$ uv run python pipelines/verify_provenance.py
+{
+ "claims_checked": 2125,
+ "verified_vs_primary_source": 1977,
+ "rate": 0.9304,
+ "by_type": {
+  "plant_name": 0.9012,
+  "ailment": 0.9357,
+  "preparation": 0.9354
+ },
+ "selected_taxa_with_powo_backing": 1.0,
+ "evidence_identifiers_ok": 1.0
+}

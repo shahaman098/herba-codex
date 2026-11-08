@@ -50,10 +50,10 @@ def run_pipeline(max: int = typer.Option(0, "--max", help="limit entries (0=all)
         rest = [e for e in entries if e["id"] not in done]
         done_e = [e for e in entries if e["id"] in done]
         random.Random(seed).shuffle(rest)
-        entries = done_e + rest
+        entries = done_e + (rest[:max] if max else rest)
     trace = TraceLogger(run_id or None)
     console.print(f"[bold]run {trace.run_id}[/bold] — {min(max, len(entries)) if max else len(entries)} entries")
-    results = run(entries, trace, max_entries=max, workers=workers, interactive=interactive)
+    results = run(entries, trace, max_entries=(0 if shuffle_remaining else max), workers=workers, interactive=interactive)
     trace.close()
     table = Table(title="pipeline complete")
     for k, v in _quick_stats(results).items():

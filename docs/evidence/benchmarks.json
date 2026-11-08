@@ -1,0 +1,41 @@
+{
+ "meta": {
+  "note": "derived from JSONL run traces + processed dataset; no synthetic figures",
+  "run_traces": 6
+ },
+ "llm": {
+  "total_calls": 868,
+  "prompt_tokens": 614425,
+  "completion_tokens": 341505,
+  "avg_completion_tokens": 393.4
+ },
+ "tools": {
+  "total_tool_plans": 514,
+  "by_tool": {
+   "powo_search": 181,
+   "ema_monograph_lookup": 156,
+   "pubmed_search": 156,
+   "verify_quote": 177
+  }
+ },
+ "llm_pacing": {
+  "median_seconds_between_calls": 10.225243,
+  "note": "guided mode issues one LLM call per agent stage; interactive mode adds agent_run spans"
+ },
+ "throughput": {
+  "entries_processed": 182,
+  "wall_time_hours": 2.89,
+  "entries_per_hour": 63.0,
+  "hardware": "Apple M4 Pro (24 GB), Ollama qwen3.5-9B local inference, 2-3 workers"
+ },
+ "scale": {
+  "kg_nodes": 2458,
+  "kg_edges": 3214,
+  "evidence_docs": 494,
+  "name_resolutions": 324
+ },
+ "cost": {
+  "cloud_api_spend_usd": 0.0,
+  "note": "entire pipeline + demo ran on local inference; cloud swap is config-only"
+ }
+}

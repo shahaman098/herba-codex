@@ -1,0 +1,33 @@
+$ uv run python eval/evaluate.py   # accuracy metrics + bootstrap CIs on the gold set
+      "accuracy": null
+    },
+    "70-85": {
+      "n": 0,
+      "accuracy": null
+    },
+    "85-100": {
+      "n": 21,
+      "accuracy": 0.81
+    }
+  },
+  "quote_integrity": {
+    "verified": 220,
+    "failed": 46,
+    "rate": 0.827
+  },
+  "concordance_coverage": {
+    "graded": 22,
+    "of": 22
+  },
+  "n_gold_pairs": 22,
+  "bootstrap_95": {
+    "resolution_accuracy_at_1": {
+      "lo": 0.636,
+      "hi": 0.952
+    },
+    "quote_integrity_rate": {
+      "lo": 0.698,
+      "hi": 0.926
+    }
+  }
+}

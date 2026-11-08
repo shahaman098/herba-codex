@@ -94,6 +94,11 @@ with their warnings — not despite them.
 
 ## Links to attach
 - **GitHub repo:** https://github.com/shahaman098/herba-codex (public ✓)
+- **Evidence pack (mention in the description's last line):** independent provenance
+  audit (93.0% of 2,125 claims verified against the primary source, failures itemized),
+  benchmarks with bootstrap CIs, single-shot ablation, terminal run logs + screenshots,
+  and a prior-art comparison matrix — all in `docs/evidence/` + `docs/COMPARISON.md`
+  + `docs/RESEARCH_NOTES.md`, each regenerable with one command.
 - **Video (you are producing this):** the narration script with per-second structure is at
   `docs/pitch/video_script.md`; a TTS-narrated reference cut (4:11, shows the flow + all views)
   sits at `docs/pitch/herba_codex_pitch.mp4` if you want a base to re-narrate. Upload your final

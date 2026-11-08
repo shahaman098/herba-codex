@@ -1,0 +1,951 @@
+{
+ "meta": {
+  "primary_source": "data/raw/culpeper_complete_herbal_gutenberg49513.txt",
+  "primary_source_bytes": 1493542,
+  "entries_audited": 182,
+  "method": "every claim quote re-checked against the raw Gutenberg file at the stored character span (+1200 char slack); identifiers format-checked; this audit reads artifacts only and shares no code with the pipeline"
+ },
+ "quote_verification": {
+  "total_claims": 2125,
+  "verified_against_primary_source": 1977,
+  "failed": 148,
+  "rate": 0.9304,
+  "by_type": {
+   "plant_name": {
+    "n": 324,
+    "ok": 292,
+    "rate": 0.9012
+   },
+   "ailment": {
+    "n": 1228,
+    "ok": 1149,
+    "rate": 0.9357
+   },
+   "preparation": {
+    "n": 573,
+    "ok": 536,
+    "rate": 0.9354
+   }
+  },
+  "failures_sample": [
+   {
+    "entry": "culpeper_000",
+    "heading": "Amara Dulcis",
+    "type": "preparation",
+    "quote": "Take a pound of the wood and leaves together, bruise the wood... then put it in a pot, and put to it three pints of white wine, put on the pot-lid and shut it c"
+   },
+   {
+    "entry": "culpeper_006",
+    "heading": "Alexander",
+    "type": "ailment",
+    "quote": "to provoke urine, and helps the strangury"
+   },
+   {
+    "entry": "culpeper_009",
+    "heading": "Angelica",
+    "type": "plant_name",
+    "quote": "and therefore some called this an herb of the Holy Ghost;"
+   },
+   {
+    "entry": "culpeper_013",
+    "heading": "Arrach, Wild And Stinking",
+    "type": "ailment",
+    "quote": "universal medicine for the womb... cure any disease thereof, as the fits of the mother"
+   },
+   {
+    "entry": "culpeper_013",
+    "heading": "Arrach, Wild And Stinking",
+    "type": "ailment",
+    "quote": "cure any disease thereof... dislocation, or falling out thereof"
+   },
+   {
+    "entry": "culpeper_022",
+    "heading": "Barberry",
+    "type": "plant_name",
+    "quote": "The inner rind of the Barberry-tree boiled in white wine, and a quarter of a pint drank each morning, is an excellent remedy to cleanse the body of choleric hum"
+   },
+   {
+    "entry": "culpeper_022",
+    "heading": "Barberry",
+    "type": "plant_name",
+    "quote": "It is excellent for hot agues, burnings, scaldings, heat of the blood, heat of the liver, bloody-flux; for the berries are as good as the bark, and more pleasin"
+   },
+   {
+    "entry": "culpeper_023",
+    "heading": "Barley",
+    "type": "ailment",
+    "quote": "ague, and heats in the stomach"
+   },
+   {
+    "entry": "culpeper_036",
+    "heading": "Bistort, Or Snakeweed",
+    "type": "ailment",
+    "quote": "resist all poison... or any other infectious disease"
+   },
+   {
+    "entry": "culpeper_036",
+    "heading": "Bistort, Or Snakeweed",
+    "type": "ailment",
+    "quote": "or any fluxes in the body of either man or woman"
+   },
+   {
+    "entry": "culpeper_047",
+    "heading": "Burnet",
+    "type": "ailment",
+    "quote": "Two or three of the stalks, with leaves put into a cup of wine... are known to quicken the spirits, refresh and cheer the heart, and drive away melancholy"
+   },
+   {
+    "entry": "culpeper_047",
+    "heading": "Burnet",
+    "type": "ailment",
+    "quote": "and is a singular wound-herb for all sorts of wounds... and the choleric belchings and castings of the stomach"
+   },
+   {
+    "entry": "culpeper_049",
+    "heading": "The Burdock",
+    "type": "preparation",
+    "quote": "by its leaf or seed you may draw the womb which way you please, either upwards by applying it to the crown of the head... or downwards in fits of the mother, by"
+   },
+   {
+    "entry": "culpeper_051",
+    "heading": "The Sea Coleworts",
+    "type": "plant_name",
+    "quote": "The broth, or first decoction of the Sea Colewort..."
+   },
+   {
+    "entry": "culpeper_051",
+    "heading": "The Sea Coleworts",
+    "type": "ailment",
+    "quote": "...open the belly, and purge the body; it cleanses and digests..."
+   },
+   {
+    "entry": "culpeper_051",
+    "heading": "The Sea Coleworts",
+    "type": "ailment",
+    "quote": "...applied to sores or ulcers, cleanses and heals them..."
+   },
+   {
+    "entry": "culpeper_051",
+    "heading": "The Sea Coleworts",
+    "type": "ailment",
+    "quote": "...and dissolves swellings..."
+   },
+   {
+    "entry": "culpeper_051",
+    "heading": "The Sea Coleworts",
+    "type": "ailment",
+    "quote": "...and takes away inflammations."
+   },
+   {
+    "entry": "culpeper_051",
+    "heading": "The Sea Coleworts",
+    "type": "preparation",
+    "quote": "The broth, or first decoction of the Sea Colewort..."
+   },
+   {
+    "entry": "culpeper_051",
+    "heading": "The Sea Coleworts",
+    "type": "preparation",
+    "quote": "The seed hereof, bruised and drank..."
+   },
+   {
+    "entry": "culpeper_051",
+    "heading": "The Sea Coleworts",
+    "type": "preparation",
+    "quote": "The leaves or the juice of them applied to sores..."
+   },
+   {
+    "entry": "culpeper_052",
+    "heading": "Calamint, Or Mountain-Mint",
+    "type": "ailment",
+    "quote": "or shortness of breath"
+   },
+   {
+    "entry": "culpeper_063",
+    "heading": "Winter-Cherries",
+    "type": "preparation",
+    "quote": "Take three or four good handfuls of the berries... put them into so many gallons of beer or ale when it is new tunned up"
+   },
+   {
+    "entry": "culpeper_068",
+    "heading": "Chickweed",
+    "type": "preparation",
+    "quote": "The juice, or distilled water, is of much good use... to drop some thereof into them"
+   },
+   {
+    "entry": "culpeper_087",
+    "heading": "Crowfoot",
+    "type": "plant_name",
+    "quote": "MANY are the names this furious biting herb has obtained... for it is called Frog's-foot, from the Greek name Barrakion: Crowfoot..."
+   },
+   {
+    "entry": "culpeper_087",
+    "heading": "Crowfoot",
+    "type": "plant_name",
+    "quote": "...Crowfoot, Gold Knobs, Gold Cups, King's Knob..."
+   },
+   {
+    "entry": "culpeper_087",
+    "heading": "Crowfoot",
+    "type": "plant_name",
+    "quote": "...Baffiners, Troilflowers, Polts, Locket Gouions, and Butterflowers."
+   },
+   {
+    "entry": "culpeper_087",
+    "heading": "Crowfoot",
+    "type": "ailment",
+    "quote": "...draw back rheum from the eyes."
+   },
+   {
+    "entry": "culpeper_087",
+    "heading": "Crowfoot",
+    "type": "ailment",
+    "quote": "...applied to a pestilential rising that was fallen down, and it saved life even beyond hope..."
+   },
+   {
+    "entry": "culpeper_087",
+    "heading": "Crowfoot",
+    "type": "preparation",
+    "quote": "...but an ointment of the leaves or flowers will draw a blister..."
+   },
+   {
+    "entry": "culpeper_087",
+    "heading": "Crowfoot",
+    "type": "preparation",
+    "quote": "The herb being bruised and mixed with a little mustard, draws a blister as well..."
+   },
+   {
+    "entry": "culpeper_087",
+    "heading": "Crowfoot",
+    "type": "preparation",
+    "quote": "...keep an ointment and plaister of it..."
+   },
+   {
+    "entry": "culpeper_095",
+    "heading": "Other Dodders",
+    "type": "plant_name",
+    "quote": "All Dodders are under Saturn. Tell not me of physicians crying up Epithymum..."
+   },
+   {
+    "entry": "culpeper_102",
+    "heading": "Elecampane",
+    "type": "plant_name",
+    "quote": "The fresh roots of Elecampane preserved with sugar..."
+   },
+   {
+    "entry": "culpeper_102",
+    "heading": "Elecampane",
+    "type": "ailment",
+    "quote": "...very effectual to warm a cold windy stomach..."
+   },
+   {
+    "entry": "culpeper_102",
+    "heading": "Elecampane",
+    "type": "ailment",
+    "quote": "...or the pricking therein..."
+   },
+   {
+    "entry": "culpeper_102",
+    "heading": "Elecampane",
+    "type": "ailment",
+    "quote": "...and stiches in the sides caused by the spleen;"
+   },
+   {
+    "entry": "culpeper_102",
+    "heading": "Elecampane",
+    "type": "ailment",
+    "quote": "...and to help the cough..."
+   },
+   {
+    "entry": "culpeper_102",
+    "heading": "Elecampane",
+    "type": "ailment",
+    "quote": "...shortness of breath..."
+   },
+   {
+    "entry": "culpeper_102",
+    "heading": "Elecampane",
+    "type": "ailment",
+    "quote": "...and wheezing in the lungs."
+   },
+   {
+    "entry": "culpeper_102",
+    "heading": "Elecampane",
+    "type": "ailment",
+    "quote": "...profitable for those who have their urine stopped..."
+   },
+   {
+    "entry": "culpeper_102",
+    "heading": "Elecampane",
+    "type": "ailment",
+    "quote": "...or the stopping of women's courses..."
+   },
+   {
+    "entry": "culpeper_102",
+    "heading": "Elecampane",
+    "type": "preparation",
+    "quote": "The fresh roots of Elecampane preserved with sugar..."
+   },
+   {
+    "entry": "culpeper_102",
+    "heading": "Elecampane",
+    "type": "preparation",
+    "quote": "...or made into a syrup or conserve..."
+   },
+   {
+    "entry": "culpeper_102",
+    "heading": "Elecampane",
+    "type": "preparation",
+    "quote": "The dried root made into powder, and mixed with sugar..."
+   },
+   {
+    "entry": "culpeper_102",
+    "heading": "Elecampane",
+    "type": "preparation",
+    "quote": "...made into an ointment with hog's suet..."
+   },
+   {
+    "entry": "culpeper_112",
+    "heading": "The Yellow Water-Flag, Or Flower-De-Luce",
+    "type": "ailment",
+    "quote": "upon cancers also, and those spreading ulcers called Noli me tangere, do much good"
+   },
+   {
+    "entry": "culpeper_122",
+    "heading": "Gentian, Felwort, Or Baldmony",
+    "type": "plant_name",
+    "quote": "IT is confessed that Gentian, which is most used amongst us..."
+   },
+   {
+    "entry": "culpeper_122",
+    "heading": "Gentian, Felwort, Or Baldmony",
+    "type": "ailment",
+    "quote": "They resist putrefactions..."
+   },
+   {
+    "entry": "culpeper_122",
+    "heading": "Gentian, Felwort, Or Baldmony",
+    "type": "ailment",
+    "quote": "...poison, and a more sure remedy cannot be found to prevent the pestilence than it is..."
+   },
+   {
+    "entry": "culpeper_122",
+    "heading": "Gentian, Felwort, Or Baldmony",
+    "type": "ailment",
+    "quote": "...prevent the pestilence than it is..."
+   },
+   {
+    "entry": "culpeper_122",
+    "heading": "Gentian, Felwort, Or Baldmony",
+    "type": "ailment",
+    "quote": "it strengthens the stomach exceedingly..."
+   },
+   {
+    "entry": "culpeper_122",
+    "heading": "Gentian, Felwort, Or Baldmony",
+    "type": "ailment",
+    "quote": "...helps digestion..."
+   },
+   {
+    "entry": "culpeper_122",
+    "heading": "Gentian, Felwort, Or Baldmony",
+    "type": "ailment",
+    "quote": "...comforts the heart, and preserves it against faintings and swoonings..."
+   },
+   {
+    "entry": "culpeper_122",
+    "heading": "Gentian, Felwort, Or Baldmony",
+    "type": "ailment",
+    "quote": "The powder of the dry roots helps the biting of mad dogs..."
+   },
+   {
+    "entry": "culpeper_122",
+    "heading": "Gentian, Felwort, Or Baldmony",
+    "type": "ailment",
+    "quote": "...and venomous beasts..."
+   },
+   {
+    "entry": "culpeper_122",
+    "heading": "Gentian, Felwort, Or Baldmony",
+    "type": "preparation",
+    "quote": "The powder of the dry roots helps the biting of mad dogs..."
+   },
+   {
+    "entry": "culpeper_122",
+    "heading": "Gentian, Felwort, Or Baldmony",
+    "type": "preparation",
+    "quote": "The herb steeped in wine, and the wine drank..."
+   },
+   {
+    "entry": "culpeper_122",
+    "heading": "Gentian, Felwort, Or Baldmony",
+    "type": "preparation",
+    "quote": "...to drink the decoction: Also they say it breaks the stone..."
+   },
+   {
+    "entry": "culpeper_130",
+    "heading": "Winter-Green",
+    "type": "plant_name",
+    "quote": "Government and virtues.] Winter-green is under the dominion of Saturn, and is a singularly good wound herb"
+   },
+   {
+    "entry": "culpeper_132",
+    "heading": "Artichokes",
+    "type": "plant_name",
+    "quote": "HART'S-TONGUE. Descript.] THIS has divers leaves arising from the root..."
+   },
+   {
+    "entry": "culpeper_132",
+    "heading": "Artichokes",
+    "type": "ailment",
+    "quote": "this is certain, that the decoction of the root boiled in wine... purges by urine exceedingly"
+   },
+   {
+    "entry": "culpeper_149",
+    "heading": "Juniper Bush",
+    "type": "ailment",
+    "quote": "very available to dysuries and stranguries"
+   },
+   {
+    "entry": "culpeper_151",
+    "heading": "Knapweed",
+    "type": "ailment",
+    "quote": "and is good for those that are bruised by any fall, blows or otherwise"
+   },
+   {
+    "entry": "culpeper_152",
+    "heading": "Knotgrass",
+    "type": "plant_name",
+    "quote": "LADIES' MANTLE. Descript.] IT has many leaves rising from the root standing upon long hairy foot-stalks"
+   },
+   {
+    "entry": "culpeper_160",
+    "heading": "Liquorice",
+    "type": "ailment",
+    "quote": "or wheezing or shortness of breath"
+   },
+   {
+    "entry": "culpeper_161",
+    "heading": "Liverwort",
+    "type": "plant_name",
+    "quote": "Descript.] Common Liverwort grows close, and spreads much upon the ground in moist and shady places"
+   },
+   {
+    "entry": "culpeper_163",
+    "heading": "Flowers",
+    "type": "ailment",
+    "quote": "This herb... cleanses and heals all foul ulcers, and sores whatsoever"
+   },
+   {
+    "entry": "culpeper_163",
+    "heading": "Flowers",
+    "type": "ailment",
+    "quote": "This water, gargled warm in the mouth... doth cure the quinsy"
+   },
+   {
+    "entry": "culpeper_168",
+    "heading": "Wall Rue, Or, White Maiden-Hair",
+    "type": "plant_name",
+    "quote": "The decoction of the herb Maiden-Hair being drank, helps those that are troubled with the cough..."
+   },
+   {
+    "entry": "culpeper_168",
+    "heading": "Wall Rue, Or, White Maiden-Hair",
+    "type": "plant_name",
+    "quote": "THIS has very fine, pale green stalks, almost as fine as hairs..."
+   },
+   {
+    "entry": "culpeper_169",
+    "heading": "Mallows And Marshmallows",
+    "type": "plant_name",
+    "quote": "Our common Marshmallows have divers soft hairy white stalks..."
+   },
+   {
+    "entry": "culpeper_169",
+    "heading": "Mallows And Marshmallows",
+    "type": "plant_name",
+    "quote": "The common Marsh-mallows in most of the salt marshes..."
+   },
+   {
+    "entry": "culpeper_169",
+    "heading": "Mallows And Marshmallows",
+    "type": "ailment",
+    "quote": "...very convenient in hot agues..."
+   },
+   {
+    "entry": "culpeper_169",
+    "heading": "Mallows And Marshmallows",
+    "type": "ailment",
+    "quote": "...voids hot, choleric, and other offensive humours..."
+   },
+   {
+    "entry": "culpeper_169",
+    "heading": "Mallows And Marshmallows",
+    "type": "ailment",
+    "quote": "...eases the pains and torments of the belly..."
+   },
+   {
+    "entry": "culpeper_169",
+    "heading": "Mallows And Marshmallows",
+    "type": "ailment",
+    "quote": "...doth marvellously help excoriations..."
+   },
+   {
+    "entry": "culpeper_169",
+    "heading": "Mallows And Marshmallows",
+    "type": "ailment",
+    "quote": "...the phthisic, pleurisy, and other diseases of the chest..."
+   },
+   {
+    "entry": "culpeper_169",
+    "heading": "Mallows And Marshmallows",
+    "type": "ailment",
+    "quote": "...and in all hot and sharp diseases thereof. The juice drank... do help women to a speedy and easy delivery."
+   },
+   {
+    "entry": "culpeper_169",
+    "heading": "Mallows And Marshmallows",
+    "type": "ailment",
+    "quote": "...Pliny saith... that it is especially good for the falling-sickness."
+   },
+   {
+    "entry": "culpeper_169",
+    "heading": "Mallows And Marshmallows",
+    "type": "preparation",
+    "quote": "...the roots also boiled in wine or water, or in broth..."
+   },
+   {
+    "entry": "culpeper_169",
+    "heading": "Mallows And Marshmallows",
+    "type": "preparation",
+    "quote": "...used in all clysters conducing to those purposes."
+   },
+   {
+    "entry": "culpeper_169",
+    "heading": "Mallows And Marshmallows",
+    "type": "preparation",
+    "quote": "The decoction of the seed of any of the common Mallows made in milk or wine..."
+   },
+   {
+    "entry": "culpeper_169",
+    "heading": "Mallows And Marshmallows",
+    "type": "preparation",
+    "quote": "The syrup also and conserve made of the flowers, are very effectual..."
+   },
+   {
+    "entry": "culpeper_195",
+    "heading": "The Oak",
+    "type": "plant_name",
+    "quote": "The distilled water of the Oaken bud, before they break out into leaves is good to be used either inwardly or outwardly."
+   },
+   {
+    "entry": "culpeper_199",
+    "heading": "Orpine",
+    "type": "ailment",
+    "quote": "or in wounds... other fluxes in the body"
+   },
+   {
+    "entry": "culpeper_208",
+    "heading": "Pennyroyal",
+    "type": "preparation",
+    "quote": "Being boiled and drank, it provokes women's courses... being taken in water and vinegar mingled together"
+   },
+   {
+    "entry": "culpeper_209",
+    "heading": "Male And Female Peony",
+    "type": "plant_name",
+    "quote": "MALE Peony rises up with brownish stalks..."
+   },
+   {
+    "entry": "culpeper_209",
+    "heading": "Male And Female Peony",
+    "type": "plant_name",
+    "quote": "The ordinary Female Peony hath as many stalks..."
+   },
+   {
+    "entry": "culpeper_211",
+    "heading": "Periwinkle",
+    "type": "plant_name",
+    "quote": "IF Superstition had not been the father of Tradition, as well as Ignorance the Mother of Devotion, this herb... hath found some other name to be known by"
+   },
+   {
+    "entry": "culpeper_215",
+    "heading": "Plums",
+    "type": "ailment",
+    "quote": "some better, and some worse... those that are sweet moisten the stomach, and make the belly soluble"
+   },
+   {
+    "entry": "culpeper_216",
+    "heading": "Polypody Of The Oak",
+    "type": "plant_name",
+    "quote": "Government and virtues.] Polypodium of the Oak, that which grows upon the earth is best"
+   },
+   {
+    "entry": "culpeper_222",
+    "heading": "Sweet, Or Mead Sweet",
+    "type": "preparation",
+    "quote": "some use the flowers, and some the leaves... being boiled in wine, and with a little honey, taken warm"
+   },
+   {
+    "entry": "culpeper_224",
+    "heading": "Raddish, Or Horse-Raddish",
+    "type": "plant_name",
+    "quote": "The Horse-Raddish hath its first leaves..."
+   },
+   {
+    "entry": "culpeper_224",
+    "heading": "Raddish, Or Horse-Raddish",
+    "type": "plant_name",
+    "quote": "THE garden Raddish is so well known..."
+   },
+   {
+    "entry": "culpeper_224",
+    "heading": "Raddish, Or Horse-Raddish",
+    "type": "ailment",
+    "quote": "The root bruised and laid to the place grieved with the sciatica..."
+   },
+   {
+    "entry": "culpeper_224",
+    "heading": "Raddish, Or Horse-Raddish",
+    "type": "ailment",
+    "quote": "...or the hard swellings of the liver and spleen, doth wonderfully help them all."
+   },
+   {
+    "entry": "culpeper_224",
+    "heading": "Raddish, Or Horse-Raddish",
+    "type": "ailment",
+    "quote": "...or the hard swellings of the liver and spleen, doth wonderfully help them all."
+   },
+   {
+    "entry": "culpeper_224",
+    "heading": "Raddish, Or Horse-Raddish",
+    "type": "ailment",
+    "quote": "yet for such as are troubled with the gravel, stone, or stoppage of urine, they are good physic..."
+   },
+   {
+    "entry": "culpeper_224",
+    "heading": "Raddish, Or Horse-Raddish",
+    "type": "ailment",
+    "quote": "...but they breed but scurvy humours in the stomach, and corrupt the blood..."
+   },
+   {
+    "entry": "culpeper_224",
+    "heading": "Raddish, Or Horse-Raddish",
+    "type": "preparation",
+    "quote": "The juice of Horse-raddish given to drink, is held to be very effectual..."
+   },
+   {
+    "entry": "culpeper_224",
+    "heading": "Raddish, Or Horse-Raddish",
+    "type": "preparation",
+    "quote": "The root bruised and laid to the place grieved with the sciatica..."
+   },
+   {
+    "entry": "culpeper_224",
+    "heading": "Raddish, Or Horse-Raddish",
+    "type": "preparation",
+    "quote": "The distilled water of the herb and root is more familiar to be taken with a little sugar..."
+   },
+   {
+    "entry": "culpeper_224",
+    "heading": "Raddish, Or Horse-Raddish",
+    "type": "preparation",
+    "quote": "you may make the juice of the roots into a syrup if you please, for that use..."
+   },
+   {
+    "entry": "culpeper_227",
+    "heading": "Rest Harrow, Or Cammock",
+    "type": "ailment",
+    "quote": "The same helps the disease called Herma Carnosa, the fleshy rupture"
+   },
+   {
+    "entry": "culpeper_227",
+    "heading": "Rest Harrow, Or Cammock",
+    "type": "preparation",
+    "quote": "A distilled water in Balneo Mariæ, with four pounds of the root hereof first sliced small"
+   },
+   {
+    "entry": "culpeper_235",
+    "heading": "Meadow-Rue",
+    "type": "preparation",
+    "quote": "The root washed clean, and boiled in ale and drank"
+   },
+   {
+    "entry": "culpeper_236",
+    "heading": "Garden-Rue",
+    "type": "preparation",
+    "quote": "Another electuary is made thus: Take of nitre, pepper, and cummin seed... of the leaves of Rue clean picked... beat them well together"
+   },
+   {
+    "entry": "culpeper_239",
+    "heading": "Saffron",
+    "type": "ailment",
+    "quote": "and small-pox"
+   },
+   {
+    "entry": "culpeper_240",
+    "heading": "Sage",
+    "type": "preparation",
+    "quote": "These pills are much commended; Take of spikenard, ginger... put thereto so much juice of Sage as may make them into a mass of pills"
+   },
+   {
+    "entry": "culpeper_242",
+    "heading": "Samphire",
+    "type": "plant_name",
+    "quote": "Descript.] ROCK Samphire grows up with a tender green stalk"
+   },
+   {
+    "entry": "culpeper_252",
+    "heading": "Self-Heal",
+    "type": "ailment",
+    "quote": "It is a special herb for inward and outward wounds... outwardly in unguents, and plaisters for outward"
+   },
+   {
+    "entry": "culpeper_253",
+    "heading": "The Service-Tree",
+    "type": "plant_name",
+    "quote": "IT is called Whoreman's Permacety, Shepherd's Scrip, Shepherd's Pounce..."
+   },
+   {
+    "entry": "culpeper_253",
+    "heading": "The Service-Tree",
+    "type": "plant_name",
+    "quote": "IT is called Whoreman's Permacety, Shepherd's Scrip, Shepherd's Pounce..."
+   },
+   {
+    "entry": "culpeper_253",
+    "heading": "The Service-Tree",
+    "type": "ailment",
+    "quote": "It helps all fluxes of blood, either caused by inward or outward wounds..."
+   },
+   {
+    "entry": "culpeper_253",
+    "heading": "The Service-Tree",
+    "type": "ailment",
+    "quote": "...as also flux of the belly, and bloody flux..."
+   },
+   {
+    "entry": "culpeper_253",
+    "heading": "The Service-Tree",
+    "type": "ailment",
+    "quote": "...flux of the belly, and bloody flux, spitting blood..."
+   },
+   {
+    "entry": "culpeper_253",
+    "heading": "The Service-Tree",
+    "type": "ailment",
+    "quote": "...bloody flux, spitting blood, and bloody urine..."
+   },
+   {
+    "entry": "culpeper_253",
+    "heading": "The Service-Tree",
+    "type": "ailment",
+    "quote": "...spitting blood, and bloody urine, stops the terms in women..."
+   },
+   {
+    "entry": "culpeper_253",
+    "heading": "The Service-Tree",
+    "type": "ailment",
+    "quote": "...bloody urine, stops the terms in women; being bound to the wrists..."
+   },
+   {
+    "entry": "culpeper_253",
+    "heading": "The Service-Tree",
+    "type": "ailment",
+    "quote": "...it helps the yellow jaundice. The herb being made into a poultice..."
+   },
+   {
+    "entry": "culpeper_253",
+    "heading": "The Service-Tree",
+    "type": "ailment",
+    "quote": "...helps inflammations and St. Anthony's fire. The juice being dropped..."
+   },
+   {
+    "entry": "culpeper_253",
+    "heading": "The Service-Tree",
+    "type": "preparation",
+    "quote": "...may be used in decoctions for the said purpose, either to drink..."
+   },
+   {
+    "entry": "culpeper_258",
+    "heading": "Sow Thistle",
+    "type": "plant_name",
+    "quote": "Sow Thistle TEXT: SOW Thistles are generally so well known, that they need no description."
+   },
+   {
+    "entry": "culpeper_260",
+    "heading": "Spignel, Or Spikenard",
+    "type": "ailment",
+    "quote": "and pains of the mother"
+   },
+   {
+    "entry": "culpeper_261",
+    "heading": "Tongue",
+    "type": "preparation",
+    "quote": "and the herb and root being boiled and taken"
+   },
+   {
+    "entry": "culpeper_279",
+    "heading": "Tormentil, Or Septfoil",
+    "type": "plant_name",
+    "quote": "THIS hath reddish, slender, weak branches rising from the root..."
+   },
+   {
+    "entry": "culpeper_279",
+    "heading": "Tormentil, Or Septfoil",
+    "type": "plant_name",
+    "quote": "...but most of them into seven, whence it is also called Septfoil..."
+   },
+   {
+    "entry": "culpeper_279",
+    "heading": "Tormentil, Or Septfoil",
+    "type": "ailment",
+    "quote": "Tormentil is most excellent to stay all kind of fluxes of blood or humours..."
+   },
+   {
+    "entry": "culpeper_279",
+    "heading": "Tormentil, Or Septfoil",
+    "type": "ailment",
+    "quote": "...expels any venom or poison, or the plague, fever, or other contagious diseases..."
+   },
+   {
+    "entry": "culpeper_279",
+    "heading": "Tormentil, Or Septfoil",
+    "type": "ailment",
+    "quote": "...decoction of this root is no less effectual to cure the French pox than Guiacum or China..."
+   },
+   {
+    "entry": "culpeper_279",
+    "heading": "Tormentil, Or Septfoil",
+    "type": "ailment",
+    "quote": "...The root taken inwardly is most effectual to help any flux of the belly..."
+   },
+   {
+    "entry": "culpeper_279",
+    "heading": "Tormentil, Or Septfoil",
+    "type": "ailment",
+    "quote": "...and the juice wonderfully opens obstructions of the liver and lungs, and thereby helps the yellow jaundice."
+   },
+   {
+    "entry": "culpeper_279",
+    "heading": "Tormentil, Or Septfoil",
+    "type": "ailment",
+    "quote": "...is an assured remedy against abortion, if it proceed from the over flexibility..."
+   },
+   {
+    "entry": "culpeper_279",
+    "heading": "Tormentil, Or Septfoil",
+    "type": "ailment",
+    "quote": "It is very powerful in ruptures and burstings, as also for bruises and falls..."
+   },
+   {
+    "entry": "culpeper_279",
+    "heading": "Tormentil, Or Septfoil",
+    "type": "ailment",
+    "quote": "...not only assuages the pain, but stays the flux of humours which causes it."
+   },
+   {
+    "entry": "culpeper_279",
+    "heading": "Tormentil, Or Septfoil",
+    "type": "preparation",
+    "quote": "The juice of the herb and root, or the decoction thereof, taken with some Venice treacle..."
+   },
+   {
+    "entry": "culpeper_279",
+    "heading": "Tormentil, Or Septfoil",
+    "type": "preparation",
+    "quote": "The powder or decoction drank, or to sit thereon as a bath..."
+   },
+   {
+    "entry": "culpeper_279",
+    "heading": "Tormentil, Or Septfoil",
+    "type": "preparation",
+    "quote": "...a plaster made therewith, and vinegar applied to the reins of the back..."
+   },
+   {
+    "entry": "culpeper_279",
+    "heading": "Tormentil, Or Septfoil",
+    "type": "preparation",
+    "quote": "The juice or powder of the root put in ointments, plaisters... as the juice of the leaves and the root bruised..."
+   },
+   {
+    "entry": "culpeper_281",
+    "heading": "Meadow Trefoil, Or Honeysuckles",
+    "type": "ailment",
+    "quote": "The juice dropped in the eyes, is a familiar medicine... to take away the pin and web (as they call it) in the eyes"
+   },
+   {
+    "entry": "culpeper_281",
+    "heading": "Meadow Trefoil, Or Honeysuckles",
+    "type": "ailment",
+    "quote": "The herb also boiled in swine's grease... is good to apply to the biting of any venomous creature."
+   },
+   {
+    "entry": "culpeper_281",
+    "heading": "Meadow Trefoil, Or Honeysuckles",
+    "type": "ailment",
+    "quote": "The herb also bruised and heated between tiles... causes them to make water who had it stopt before."
+   },
+   {
+    "entry": "culpeper_293",
+    "heading": "Woad",
+    "type": "ailment",
+    "quote": "The ointment is excellently good in such ulcers as abound with moisture, and takes away the corroding and fretting humours."
+   },
+   {
+    "entry": "culpeper_294",
+    "heading": "Woodbine, Or Honey-Suckles",
+    "type": "plant_name",
+    "quote": "IT is a plant so common... and the fruit is ripe in August."
+   },
+   {
+    "entry": "culpeper_294",
+    "heading": "Woodbine, Or Honey-Suckles",
+    "type": "ailment",
+    "quote": "Doctor Tradition... hath taught the common people to use the leaves or flowers of this plant in mouth-water"
+   },
+   {
+    "entry": "culpeper_294",
+    "heading": "Woodbine, Or Honey-Suckles",
+    "type": "ailment",
+    "quote": "It is good for something... It takes away the evil of the spleen"
+   },
+   {
+    "entry": "culpeper_296",
+    "heading": "And Thousand-Leal",
+    "type": "ailment",
+    "quote": "and helps the gonorrhea in men, and the whites in women"
+   }
+  ]
+ },
+ "resolution_provenance": {
+  "selected_taxa_checked": 293,
+  "selection_equals_a_candidate": 293,
+  "rate": 1.0,
+  "tool_verified_backing": 0,
+  "tool_backed_rate": 0.0,
+  "failures": []
+ },
+ "evidence_identifier_checks": {
+  "checked": 494,
+  "ok": 494,
+  "rate": 1.0,
+  "failures": []
+ },
+ "dataset_state": {
+  "grades": {
+   "D": 73,
+   "C": 83,
+   "X": 11,
+   "B": 8,
+   "?": 6,
+   "A": 1
+  },
+  "audit_verdicts": {
+   "fail": 104,
+   "pass_with_issues": 63,
+   "pass": 9,
+   "none": 6
+  }
+ }
+}

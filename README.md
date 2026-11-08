@@ -107,6 +107,22 @@ docs/         ARCHITECTURE.md · DATA_SOURCES.md · METHODOLOGY.md
 - Full methodology: [docs/METHODOLOGY.md](docs/METHODOLOGY.md). Numbers
   reported for the demo run: see `eval/results.json` + `data/processed/summary.json`.
 
+## Evidence pack — benchmarks, proofs, comparisons
+
+All quantitative claims are script-generated from real artifacts:
+
+| Proof | Artifact / how to re-run |
+|---|---|
+| **Independent provenance audit** — 2,125 claims re-verified against the raw primary source: **93.0%** (failures itemized) | `uv run python pipelines/verify_provenance.py` → `docs/evidence/provenance_audit.json` |
+| **Quality benchmarks** — acc@1 0.81 [CI 0.64–0.95], quote integrity 0.827, calibration | `uv run python eval/evaluate.py` → `eval/results.json` |
+| **Ablation** — single-shot 82% vs five-agent 87% (same model, same gold pairs) | `uv run python eval/ablation.py` → `eval/ablation.json` |
+| **Performance** — 63 entries/hour on a laptop, 868 LLM calls, 514 tool plans, $0 cloud | `uv run python pipelines/benchmarks.py` → `docs/evidence/benchmarks.json` |
+| **Engineering tests** — 10 deterministic core tests | `uv run pytest tests/ -q` |
+| **Terminal run logs + screenshots** | `docs/evidence/terminal_logs/*.txt`, `docs/evidence/terminal_screenshots/*.png` |
+| **Prior-art comparison matrix** | [docs/COMPARISON.md](docs/COMPARISON.md) |
+| **Research dossier** (gap analysis, judge/organiser intel, source register) | [docs/RESEARCH_NOTES.md](docs/RESEARCH_NOTES.md) |
+| **Consolidated numbers** | [docs/evidence/benchmarks.md](docs/evidence/benchmarks.md) |
+
 ## Data & licences
 
 Public-domain corpus (Gutenberg #49513); live APIs used under their open
