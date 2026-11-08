@@ -1,0 +1,261 @@
+{
+ "id": "culpeper_003",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Agrimony",
+  "book": "",
+  "chapter": "",
+  "char_start": 28812,
+  "char_end": 31850,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "_Descript._] THIS has divers long leaves (some greater, some smaller)\nset upon a stalk, all of them dented about the edges, green above, and\ngreyish underneath, and a little hairy withal. Among which arises up\nusually but one strong, round, hairy, brown stalk, two or three feet\nhigh, with smaller leaves set here and there upon it. At the top\nthereof grow many small yellow flowers, one above another, in long\nspikes; after which come rough heads of seed, hanging downwards, which\nwill cleave to and stick upon garments, or any thing that shall rub\nagainst them. The knot is black, long, and somewhat woody, abiding many\nyears, and shooting afresh every Spring; which root, though small, hath\na reasonable good scent.\n\n_Place._] It grows upon banks, near the sides of hedges.\n\n_Time._] It flowers in July and August, the seed being ripe shortly\nafter.\n\n_Government and virtues._] It is an herb under Jupiter, and the sign\nCancer; and strengthens those parts under the planet and sign, and\nremoves diseases in them by sympathy, and those under Saturn, Mars and\nMercury by antipathy, if they happen in any part of the body governed\nby Jupiter, or under the signs Cancer, Sagitarius or Pisces, and\ntherefore must needs be good for the gout, either used outwardly in oil\nor ointment, or inwardly in an electuary, or syrup, or concerted juice:\nfor which see the latter end of this book.\n\nIt is of a cleansing and cutting faculty, without any manifest heat,\nmoderately drying and binding. It opens and cleanses the liver, helps\nthe jaundice, and is very beneficial to the bowels, healing all inward\nwounds, bruises, hurts, and other distempers. The decoction of the herb\nmade with wine, and drank, is good against the biting and stinging of\nserpents, and helps them that make foul, troubled or bloody water.\n\nThis herb also helps the cholic, cleanses the breast, and rids away\nthe cough. A draught of the decoction taken warm before the fit,\nfirst removes, and in time rids away the tertian or quartan agues.\nThe leaves and seeds taken in wine, stays the bloody flux; outwardly\napplied, being stamped with old swine’s grease, it helps old sores,\ncancers, and inveterate ulcers, and draws forth thorns and splinters\nof wood, nails, or any other such things gotten in the flesh. It helps\nto strengthen the members that be out of joint: and being bruised and\napplied, or the juice dropped in it, helps foul and imposthumed ears.\n\nThe distilled water of the herb is good to all the said purposes,\neither inward or outward, but a great deal weaker.\n\nIt is a most admirable remedy for such whose livers are annoyed either\nby heat or cold. The liver is the former of blood, and blood the\nnourisher of the body, and Agrimony a strengthener of the liver.\n\nI cannot stand to give you a reason in every herb why it cures such\ndiseases; but if you please to pursue my judgment in the herb Wormwood,\nyou shall find them there, and it will be well worth your while to\nconsider it in every herb, you shall find them true throughout the book.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Agrimony",
+    "context_quote": "THIS has divers long leaves (some greater, some smaller) set upon a stalk",
+    "part_used": "leaves"
+   },
+   {
+    "name_text": "the knot",
+    "context_quote": "The knot is black, long, and somewhat woody, abiding many years",
+    "part_used": "root"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "gout",
+    "context_quote": "therefore must needs be good for the gout, either used outwardly in oil or ointment",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "jaundice",
+    "context_quote": "It opens and cleanses the liver, helps the jaundice",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "inward wounds",
+    "context_quote": "healing all inward wounds, bruises, hurts, and other distempers",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "serpent bites",
+    "context_quote": "is good against the biting and stinging of serpents",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "foul water",
+    "context_quote": "helps them that make foul, troubled or bloody water",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "cholic",
+    "context_quote": "This herb also helps the cholic",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "cough",
+    "context_quote": "cleanses the breast, and rids away the cough",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "tertian or quartan agues",
+    "context_quote": "first removes, and in time rids away the tertian or quartan agues",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "ointment",
+    "context_quote": "either used outwardly in oil or ointment"
+   },
+   {
+    "kind": "electuary",
+    "context_quote": "or inwardly in an electuary, or syrup, or concerted juice"
+   },
+   {
+    "kind": "decoction",
+    "context_quote": "The decoction of the herb made with wine, and drank"
+   },
+   {
+    "kind": "distilled water",
+    "context_quote": "The distilled water of the herb is good to all the said purposes"
+   }
+  ],
+  "dosage_notes": [
+   "A draught of the decoction taken warm before the fit",
+   "The leaves and seeds taken in wine",
+   "outwardly applied, being stamped with old swine's grease"
+  ],
+  "cautions": [],
+  "authority_citations": []
+ },
+ "resolutions": [
+  {
+   "historical_name": "Agrimony",
+   "candidates": [
+    {
+     "scientific_name": "Agrimonia eupatoria",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Agrimonia gryposepala",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.45,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Agrimonia pilosa",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.3,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Agrimonia eupatoria",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "the knot",
+   "candidates": [
+    {
+     "scientific_name": "Polygonum aviculare",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.85,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Equisetum arvense",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.6,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Polygonum persicaria",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.4,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Polygonum aviculare",
+   "confidence": 0.85,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Agrimonia eupatoria",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Plant Extracts as Skin Care and Therapeutic Agents.",
+     "identifier": "37895122",
+     "year": "2023",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/37895122/",
+     "relevance_note": "Discusses general skin care applications of plant extracts, potentially relevant to wound healing uses."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Evaluating efficacy, safety, and innovation in skin care applications of essential oils: a systematic review.",
+     "identifier": "40917836",
+     "year": "2025",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/40917836/",
+     "relevance_note": "Reviews essential oils for skin care, offering context on topical applications for wounds."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Agrimonia eupatoria L.: An integrative perspective on ethnomedicinal use, phenolic composition and pharmacological activity.",
+     "identifier": "35752261",
+     "year": "2022",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/35752261/",
+     "relevance_note": "Provides comprehensive review of ethnomedicinal uses, phenolics, and pharmacological activities including wound healing."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "Tannins",
+    "Flavonoids"
+   ],
+   "summary": "Modern evidence supports Agrimonia eupatoria's traditional use for inward wounds via its astringent properties derived from tannins. While specific studies on jaundice or gout are absent, the 2022 review integrates ethnomedicinal perspectives with pharmacological data, confirming activity relevant to wound management and general anti-inflammatory effects."
+  },
+  {
+   "taxon": "Polygonum aviculare",
+   "ema_monograph": null,
+   "pubmed": [],
+   "pubchem_cids": [],
+   "notable_constituents": [],
+   "summary": "No modern scientific evidence or EMA monographs were found for Polygonum aviculare regarding its traditional uses for jaundice, gout, or serpent bites. The absence of recent PubMed records suggests a lack of contemporary clinical or preclinical validation for these specific indications in the current literature."
+  }
+ ],
+ "concordance": {
+  "grade": "C",
+  "direction": "partial",
+  "rationale": "Modern evidence (PMID: 37895122) suggests skin care potential for Agrimony eupatoria, partially supporting topical claims like wounds. No clinical data supports gout, jaundice, or internal uses.",
+  "uncertainty": "Historical claims lack modern clinical validation; only weak preclinical/skin-care plausibility exists.",
+  "caveats": [
+   "No human trials for systemic conditions",
+   "Safety concerns for internal use unaddressed"
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "It opens and cleanses the liver, helps the jaundice",
+   "THIS has divers long leaves (some greater, some smaller) set upon a stalk",
+   "The knot is black, long, and somewhat woody, abiding many years",
+   "This herb also helps the cholic",
+   "cleanses the breast, and rids away the cough",
+   "first removes, and in time rids away the tertian or quartan agues",
+   "healing all inward wounds, bruises, hurts, and other distempers",
+   "helps them that make foul, troubled or bloody water",
+   "is good against the biting and stinging of serpents",
+   "therefore must needs be good for the gout, either used outwardly in oil or ointment"
+  ],
+  "quotes_failed": [],
+  "issues": [
+   "Unearned Grade: The entry assigns a 'C' grade with 'partial' direction based on one modern study (PMID: 37895122) for skin care. However, the rationale explicitly states 'No clinical data supports gout, jaundice, or internal uses.' Assigning any positive concordance grade ('C') when the majority of historical claims (gout, jaundice, internal use) are unsupported by clinical evidence and safety concerns are unaddressed constitutes an unearned grade. The grade should likely be 'D' or 'F' given the lack of validation for systemic claims and safety gaps.",
+   "verdict",
+   "pass_with_issues"
+  ],
+  "verdict": "pass"
+ },
+ "meta": {
+  "run_id": "run_20261108_043724_a1e864",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T04:41:05Z"
+ }
+}

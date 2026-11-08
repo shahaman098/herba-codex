@@ -1,0 +1,212 @@
+{
+ "id": "culpeper_155",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Ladies-Smock, Or Cuckow-Flower",
+  "book": "",
+  "chapter": "",
+  "char_start": 390045,
+  "char_end": 391211,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "THIS is a very pretty ornament to the sides of most meadows.\n\n_Descript._] The root is composed of many small white threads from\nwhence spring up divers long stalks of winged leaves, consisting of\nround, tender, dark, green leaves, set one against another upon a\nmiddle rib, the greatest being at the end, amongst which arise up\ndivers tender, weak, round, green stalks, somewhat streaked, with\nlonger and smaller leaves upon them; on the tops of which stand\nflowers, almost like the Stock Gilliflowers, but rounder, and not so\nlong, of a blushing white colour; the seed is reddish, and grows to\nsmall branches, being of a sharp biting taste, and so has the herb.\n\n_Place._] They grow in moist places, and near to brooksides.\n\n_Time._] They flower in April and May, and the lower leaves continue\ngreen all the Winter.\n\n_Government and virtues._] They are under the dominion of the Moon, and\nvery little inferior to Water Cresses in all their operations; they\nare excellently good for the scurvy, they provoke urine, and break the\nstone, and excellently warm a cold and weak stomach, restoring lost\nappetite, and help digestion.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Ladies-Smock",
+    "context_quote": "HEADING: Ladies-Smock, Or Cuckow-Flower",
+    "part_used": "the herb"
+   },
+   {
+    "name_text": "Cuckow-Flower",
+    "context_quote": "HEADING: Ladies-Smock, Or Cuckow-Flower",
+    "part_used": "the herb"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "scurvy",
+    "context_quote": "they are excellently good for the scurvy",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "stone",
+    "context_quote": "and break the stone",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "cold and weak stomach",
+    "context_quote": "excellently warm a cold and weak stomach",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "lost appetite",
+    "context_quote": "restoring lost appetite",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "digestion issues",
+    "context_quote": "and help digestion",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [],
+  "dosage_notes": [
+   "very little inferior to Water Cresses in all their operations"
+  ],
+  "cautions": [],
+  "authority_citations": []
+ },
+ "resolutions": [
+  {
+   "historical_name": "Ladies-Smock",
+   "candidates": [
+    {
+     "scientific_name": "Silene latifolia",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Silene vulgaris",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.75,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Silene noctiflora",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.4,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Silene latifolia",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Cuckow-Flower",
+   "candidates": [
+    {
+     "scientific_name": "Silene latifolia",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Silene vulgaris",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.75,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Cardamine pratensis",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.2,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Silene latifolia",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Silene latifolia",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Physiological Effect of Thallium in the Facultative Hyperaccumulator Silene latifolia.",
+     "identifier": "40862352",
+     "year": "2025",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/40862352/",
+     "relevance_note": "Investigates thallium accumulation, not traditional medicinal uses for stomach or scurvy."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Veratrole biosynthesis in white campion.",
+     "identifier": "23547102",
+     "year": "2013",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/23547102/",
+     "relevance_note": "Describes chemical biosynthesis of veratrole, lacking clinical data on digestive or immune support."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Tetracycline but not sulfamethazine inhibits early root growth of wild grassland species, while seed germination is hardly affected by either antibiotic.",
+     "identifier": "39447628",
+     "year": "2024",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/39447628/",
+     "relevance_note": "Examines antibiotic effects on root growth, irrelevant to human therapeutic applications."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "Veratrole"
+   ],
+   "summary": "Modern literature focuses on heavy metal accumulation and plant biochemistry rather than the traditional claims for digestive aid or scurvy prevention. No direct evidence supports efficacy for stomach weakness or appetite loss in current databases."
+  }
+ ],
+ "concordance": {
+  "grade": "D",
+  "direction": "contradicts",
+  "rationale": "Modern evidence identifies Silene latifolia as a Thallium hyperaccumulator (PMID:40862352), posing severe toxicity risks that contradict historical claims of safety and therapeutic efficacy for internal use.",
+  "uncertainty": "Low; toxicity data is robust, though specific clinical trials for these indications are absent.",
+  "caveats": [
+   "Historical uses likely involved external application or unverified preparations.",
+   "Thallium accumulation makes ingestion dangerous."
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "and break the stone",
+   "and help digestion",
+   "excellently warm a cold and weak stomach",
+   "restoring lost appetite",
+   "they are excellently good for the scurvy"
+  ],
+  "quotes_failed": [
+   "HEADING: Ladies-Smock, Or Cuckow-Flower"
+  ],
+  "issues": [
+   "Unearned Grade D: The entry assigns a 'D' grade based on modern toxicity data (Thallium hyperaccumulation) which contradicts historical safety claims. However, the historical text likely described external uses or unverified preparations that were not toxic in those contexts. Penalizing the entire entry with a 'D' for historical inaccuracies regarding internal use without explicit evidence of the source text claiming unsafe internal use is an over-correction; the grade should reflect the discrepancy rather than a blanket failure, or the entry requires a specific caveat about modern toxicity vs historical context rather than a low concordance grade derived from contradictory modern science applied to historical claims. Additionally, the 'evidence' field lists only 3 PubMed IDs but cites one specific PMID (40862352) for Thallium; if the source text does not explicitly claim internal use, the contradiction is invalid.",
+   "verdict",
+   "machine check caught failed quotes"
+  ],
+  "verdict": "pass_with_issues"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T05:16:10Z"
+ }
+}

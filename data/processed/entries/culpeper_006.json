@@ -1,0 +1,288 @@
+{
+ "id": "culpeper_006",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Alexander",
+  "book": "",
+  "chapter": "",
+  "char_start": 37161,
+  "char_end": 38112,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "IT is called Alisander, Horse-parsley, and Wild-parsley, and the Black\nPot-herb; the seed of it is that which is usually sold in apothecaries’\nshops for Macedonian Parsley-seed.\n\n_Descript._] It is usually sown in all the gardens in Europe, and so\nwell known, that it needs no farther description.\n\n_Time._] It flowers in June and July; the seed is ripe in August.\n\n_Government and virtues._] It is an herb of Jupiter, and therefore\nfriendly to nature, for it warms a cold stomach, and opens a stoppage\nof the liver and spleen; it is good to move women’s courses, to\nexpel the afterbirth, to break wind, to provoke urine, and helps the\nstranguary; and these things the seeds will do likewise. If either of\nthem be boiled in wine, or being bruised and taken in wine, is also\neffectual against the biting of serpents. And you know what Alexander\npottage is good for, that you may no longer eat it out of ignorance but\nout of knowledge.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Alisander",
+    "context_quote": "IT is called Alisander",
+    "part_used": "whole plant implied"
+   },
+   {
+    "name_text": "Horse-parsley",
+    "context_quote": "It is called Alisander, Horse-parsley",
+    "part_used": "whole plant implied"
+   },
+   {
+    "name_text": "Macedonian Parsley-seed",
+    "context_quote": "the seed of it is that which is usually sold in apothecaries' shops for Macedonian Parsley-seed",
+    "part_used": "seed"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "cold stomach",
+    "context_quote": "for it warms a cold stomach",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "stoppage of the liver and spleen",
+    "context_quote": "and opens a stoppage of the liver and spleen",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "women's courses (amenorrhea)",
+    "context_quote": "it is good to move women's courses",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "retained afterbirth",
+    "context_quote": "to expel the afterbirth",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "flatulence",
+    "context_quote": "to break wind",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "urinary retention",
+    "context_quote": "to provoke urine, and helps the strangury",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "serpent bites",
+    "context_quote": "is also effectual against the biting of serpents",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "boiled in wine",
+    "context_quote": "If either of them be boiled in wine"
+   },
+   {
+    "kind": "bruised and taken in wine",
+    "context_quote": "or being bruised and taken in wine"
+   }
+  ],
+  "dosage_notes": [],
+  "cautions": [],
+  "authority_citations": []
+ },
+ "resolutions": [
+  {
+   "historical_name": "Alisander",
+   "candidates": [
+    {
+     "scientific_name": "Petroselinum crispum",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Apium graveolens",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.6,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Petroselinum sativum",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.4,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Petroselinum crispum",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Horse-parsley",
+   "candidates": [
+    {
+     "scientific_name": "Conopodium majus",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Heracleum sphondylium",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.3,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Petroselinum crispum var. tuberosum",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.15,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Conopodium majus",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Macedonian Parsley-seed",
+   "candidates": [
+    {
+     "scientific_name": "Petroselinum crispum",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.85,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Apium graveolens var. dulce",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.45,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Pimpinella anisum",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.25,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Petroselinum crispum",
+   "confidence": 0.85,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Petroselinum crispum",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Parsley.",
+     "identifier": "30000940",
+     "year": "2006",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/30000940/",
+     "relevance_note": "Reviews diuretic effects relevant to urinary retention and general digestive support."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Petroselinum crispum (Mill.) Fuss (Parsley): An Updated Review of the Traditional Uses, Phytochemistry, and Pharmacology.",
+     "identifier": "38189231",
+     "year": "2024",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/38189231/",
+     "relevance_note": "Comprehensive review covering traditional uses including digestive aid and potential effects on reproductive health."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Renal health benefits and therapeutic effects of parsley (Petroselinum crispum): a review.",
+     "identifier": "39735703",
+     "year": "2024",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/39735703/",
+     "relevance_note": "Specifically evaluates evidence for renal health and diuretic properties supporting urinary retention claims."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "apiin",
+    "apigenin",
+    "luteolin"
+   ],
+   "summary": "Modern literature supports parsley's traditional use as a diuretic for urinary retention and digestive aid. Evidence regarding uterine effects (amenorrhea) or specific organ stoppage is less robust, often relying on historical context rather than clinical trials."
+  },
+  {
+   "taxon": "Conopodium majus",
+   "ema_monograph": null,
+   "pubmed": [],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "conopodium sesquiterpene lactones"
+   ],
+   "summary": "No modern scientific evidence or reviews were found for Conopodium majus regarding its traditional uses for cold stomach, retained afterbirth, or organ stoppage. The lack of recent literature suggests these applications remain unverified by contemporary pharmacological standards."
+  }
+ ],
+ "concordance": {
+  "grade": "C",
+  "direction": "partial",
+  "rationale": "Modern reviews (PMID: 38189231) confirm diuretic effects for urinary retention but lack clinical evidence for other claims like liver stoppage or serpent bites.",
+  "uncertainty": "High uncertainty due to absence of modern clinical trials for most historical indications.",
+  "caveats": [
+   "Claims are based on traditional use and pharmacological plausibility only.",
+   "No evidence supports efficacy for venomous bites or reproductive regulation."
+  ]
+ },
+ "audit": {
+  "schema_ok": false,
+  "quotes_verified": [
+   "IT is called Alisander",
+   "It is called Alisander, Horse-parsley",
+   "and opens a stoppage of the liver and spleen",
+   "for it warms a cold stomach",
+   "is also effectual against the biting of serpents",
+   "to break wind",
+   "to expel the afterbirth"
+  ],
+  "quotes_failed": [
+   "it is good to move women's courses",
+   "the seed of it is that which is usually sold in apothecaries' shops for Macedonian Parsley-seed",
+   "to provoke urine, and helps the strangury"
+  ],
+  "issues": [
+   "Incomplete citation string for PMID 38189 in rationale",
+   "Missing family field for all taxon candidates",
+   "Missing authorship field for all taxon candidates",
+   "Unearned 'C' grade: Evidence shows 0 PubMed hits for Conopodium majus and only 3 for Petroselinum crispum with no EMA approval; a 'C' grade typically requires some clinical or regulatory validation, which is absent here.",
+   "LLM_knowledge source lacks external verification evidence",
+   "Taxon resolutions rely solely on LLM proposals without primary literature support"
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_044207_e1e225",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T04:46:33Z"
+ }
+}

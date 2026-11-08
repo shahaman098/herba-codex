@@ -1,0 +1,260 @@
+{
+ "id": "culpeper_002",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Alkanet",
+  "book": "",
+  "chapter": "",
+  "char_start": 23681,
+  "char_end": 28811,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "BESIDES the common name, it is called Orchanet, and Spanish Bugloss,\nand by apothecaries, Enchusa.\n\n_Descript._] Of the many sorts of this herb, there is but one known to\ngrow commonly in this nation; of which one take this description: It\nhath a great and thick root, of a reddish colour, long, narrow, hairy\nleaves, green like the leaves of Bugloss, which lie very thick upon the\nground; the stalks rise up compassed round about, thick with leaves,\nwhich are less and narrower than the former; they are tender, and\nslender, the flowers are hollow, small, and of a reddish colour.\n\n_Place._] It grows in Kent near Rochester, and in many places in the\nWest Country, both in Devonshire and Cornwall.\n\n_Time._] They flower in July and the beginning of August, and the\nseed is ripe soon after, but the root is in its prime, as carrots and\nparsnips are, before the herb runs up to stalk.\n\n_Government and virtues._] It is an herb under the dominion of Venus,\nand indeed one of her darlings, though somewhat hard to come by. It\nhelps old ulcers, hot inflammations, burnings by common fire, and St.\nAnthony’s fire, by antipathy to Mars; for these uses, your best way is\nto make it into an ointment; also, if you make a vinegar of it, as you\nmake vinegar of roses, it helps the morphew and leprosy; if you apply\nthe herb to the privities, it draws forth the dead child. It helps the\nyellow jaundice, spleen, and gravel in the kidneys. Dioscorides saith\nit helps such as are bitten by a venomous beast, whether it be taken\ninwardly, or applied to the wound; nay, he saith further, if any one\nthat hath newly eaten it, do but spit into the mouth of a serpent, the\nserpent instantly dies. It stays the flux of the belly, kills worms,\nhelps the fits of the mother. Its decoction made in wine, and drank,\nstrengthens the back, and eases the pains thereof: It helps bruises\nand falls, and is as gallant a remedy to drive out the small pox and\nmeasles as any is; an ointment made of it, is excellent for green\nwounds, pricks or thrusts.\n\n    ADDER’S TONGUE OR SERPENT’S TONGUE.\n\n_Descript._] THIS herb has but one leaf, which grows with the stalk\na finger’s length above the ground, being flat and of a fresh green\ncolour; broad like Water Plantain, but less, without any rib in it;\nfrom the bottom of which leaf, on the inside, rises up (ordinarily)\none, sometimes two or three slender stalks, the upper half whereof\nis somewhat bigger, and dented with small dents of a yellowish green\ncolour, like the tongue of an adder serpent (only this is as useful as\nthey are formidable). The roots continue all the year.\n\n_Place._] It grows in moist meadows, and such like places.\n\n_Time._] It is to be found in May or April, for it quickly perishes\nwith a little heat.\n\n_Government and virtues._] It is an herb under the dominion of the Moon\nand Cancer, and therefore if the weakness of the retentive faculty be\ncaused by an evil influence of Saturn in any part of the body governed\nby the Moon, or under the dominion of Cancer, this herb cures it by\nsympathy: It cures these diseases after specified, in any part of the\nbody under the influence of Saturn, by antipathy.\n\nIt is temperate in respect of heat, but dry in the second degree. The\njuice of the leaves, drank with the distilled water of Horse-tail, is\na singular remedy for all manner of wounds in the breast, bowels, or\nother parts of the body, and is given with good success to those that\nare troubled with casting, vomiting, or bleeding at the mouth or nose,\nor otherwise downwards. The said juice given in the distilled water\nof Oaken-buds, is very good for women who have their usual courses,\nor the whites flowing down too abundantly. It helps sore eyes. Of the\nleaves infused or boiled in oil, omphacine or unripe olives, set in the\nsun four certain days, or the green leaves sufficiently boiled in the\nsaid oil, is made an excellent green balsam, not only for green and\nfresh wounds, but also for old and inveterate ulcers, especially if a\nlittle fine clear turpentine be dissolved therein. It also stays and\nrefreshes all inflammations that arise upon pains by hurts and wounds.\n\nWhat parts of the body are under each planet and sign, and also what\ndisease may be found in my astrological judgment of diseases; and for\nthe internal work of nature in the body of man; as vital, animal,\nnatural and procreative spirits of man; the apprehension, judgment,\nmemory; the external senses, _viz._ seeing, hearing, smelling, tasting\nand feeling; the virtuous, attractive, retentive, digestive, expulsive,\n&c. under the dominion of what planets they are, may be found in my\n_Ephemeris_ for the year 1651. In both which you shall find the chaff\nof authors blown away by the fame of Dr. Reason, and nothing but\nrational truths left for the ingenious to feed upon.\n\nLastly. To avoid blotting paper with one thing many times, and also\nto ease your purses in the price of the book, and withal to make you\nstudious in physic; you have at the latter end of the book, the way\nof preserving all herbs either in juice, conserve, oil, ointment or\nplaister, electuary, pills, or troches.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Alkanet",
+    "context_quote": "BESIDES the common name, it is called Orchanet, and Spanish Bugloss,",
+    "part_used": "root"
+   },
+   {
+    "name_text": "Enchusa",
+    "context_quote": "and by apothecaries, Enchusa.",
+    "part_used": "herb"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "old ulcers",
+    "context_quote": "It helps old ulcers",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "hot inflammations",
+    "context_quote": "hot inflammations",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "burnings by common fire",
+    "context_quote": "burnings by common fire",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "St. Anthony's fire",
+    "context_quote": "and St. Anthony's fire",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "morphew and leprosy",
+    "context_quote": "it helps the morphew and leprosy",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "dead child in womb",
+    "context_quote": "it draws forth the dead child",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "yellow jaundice",
+    "context_quote": "It helps the yellow jaundice",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "gravel in the kidneys",
+    "context_quote": "and gravel in the kidneys",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "ointment",
+    "context_quote": "your best way is to make it into an ointment"
+   },
+   {
+    "kind": "vinegar",
+    "context_quote": "if you make a vinegar of it, as you make vinegar of roses"
+   },
+   {
+    "kind": "decoction in wine",
+    "context_quote": "Its decoction made in wine, and drank"
+   }
+  ],
+  "dosage_notes": [
+   "taken inwardly or applied to the wound",
+   "given with good success",
+   "set in the sun four certain days"
+  ],
+  "cautions": [],
+  "authority_citations": [
+   "Dioscorides"
+  ]
+ },
+ "resolutions": [
+  {
+   "historical_name": "Alkanet",
+   "candidates": [
+    {
+     "scientific_name": "Paeonia officinalis",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Paeonia mascula",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.65,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Paeonia lactiflora",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.3,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Paeonia officinalis",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Enchusa",
+   "candidates": [
+    {
+     "scientific_name": "Euphorbia cyparissias",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.85,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Euphorbia amygdaloides",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.5,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Euphorbia peplus",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.4,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Euphorbia cyparissias",
+   "confidence": 0.85,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Paeonia officinalis",
+   "ema_monograph": null,
+   "pubmed": [],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "paeoniflorin"
+   ],
+   "summary": "No modern clinical evidence found for traditional uses like 'St. Anthony's fire' or ulcers in the provided search results."
+  },
+  {
+   "taxon": "Euphorbia cyparissias",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Cytotoxic, Antioxidant, and Metabolic Enzyme Inhibitory Activities of Euphorbia cyparissias Extracts.",
+     "identifier": "33178390",
+     "year": "2020",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/33178390/",
+     "relevance_note": "Demonstrates antioxidant and cytotoxic properties relevant to inflammatory conditions."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Phytotherapeutic activity of Euphorbia cyparissias extracts on Ixodidae (Acari) female ticks.",
+     "identifier": "25392580",
+     "year": "2014",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/25392580/",
+     "relevance_note": "Investigates anti-parasitic effects, potentially relevant to skin infections."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Effect of Euphorbia cyparissias ointments on acanthosis.",
+     "identifier": "25371556",
+     "year": "2014",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/25371556/",
+     "relevance_note": "Evaluates topical efficacy for skin thickening and inflammatory lesions."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "euphorbol esters"
+   ],
+   "summary": "Modern studies confirm antioxidant, cytotoxic, and anti-acanthosis activities. Evidence supports potential utility for treating inflammatory skin conditions like 'burnings' or ulcers, though specific historical indications lack direct modern validation."
+  }
+ ],
+ "concordance": {
+  "grade": "D",
+  "direction": "contradicts",
+  "rationale": "Selected taxon Paeonia officinalis lacks modern evidence. Euphorbia cyparissias shows cytotoxicity (PMID:33178390), contradicting claims of treating ulcers, inflammations, or jaundice.",
+  "uncertainty": "Low uncertainty regarding safety and lack of efficacy for listed conditions.",
+  "caveats": [
+   "Historical identity may be incorrect.",
+   "No EMA approval exists."
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "BESIDES the common name, it is called Orchanet, and Spanish Bugloss,",
+   "It helps old ulcers",
+   "It helps the yellow jaundice",
+   "and by apothecaries, Enchusa.",
+   "and gravel in the kidneys",
+   "burnings by common fire",
+   "hot inflammations",
+   "it draws forth the dead child",
+   "it helps the morphew and leprosy"
+  ],
+  "quotes_failed": [
+   "and St. Anthony's fire"
+  ],
+  "issues": [
+   "Grade 'D' is unearned: The entry lists specific therapeutic claims (treating ulcers, inflammations, jaundice) but provides zero EMA approval or clinical evidence (pubmed_n=0 for Paeonia officinalis). A grade of 'D' typically implies some level of efficacy or safety validation; without any positive evidence and with explicit cytotoxicity noted for the other taxon, the entry should be rejected entirely rather than graded down. The presence of a failed quote ('and St. Anthony's fire') further invalidates the historical context.",
+   "Verdict logic: Any failed quote results in 'fail' per strict guidelines."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_043724_a1e864",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T04:41:18Z"
+ }
+}

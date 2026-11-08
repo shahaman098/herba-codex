@@ -48,10 +48,21 @@ def client_for(model_key: str | None = None) -> tuple[OpenAI, str]:
 
 
 def complete_messages(model: str, messages: list[dict], max_tokens: int) -> dict:
-    """One completion. Returns {'text', 'usage'}. Transport chosen by endpoint."""
-    if _is_ollama():
-        return _ollama_complete(model, messages, max_tokens)
-    return _openai_complete(model, messages, max_tokens)
+    """One completion with one retry. Returns {'text', 'usage'}. Transport chosen by endpoint."""
+    import time as _time
+
+    for attempt in range(2):
+        if _is_ollama():
+            out = _ollama_complete(model, messages, max_tokens)
+        else:
+            out = _openai_complete(model, messages, max_tokens)
+        if out.get("text") or out.get("error"):
+            # empty text with no error means the model stalled: retry once
+            if out.get("text"):
+                return out
+        if attempt == 0:
+            _time.sleep(2.0)
+    return out
 
 
 def _ollama_complete(model: str, messages: list[dict], max_tokens: int) -> dict:
@@ -64,7 +75,7 @@ def _ollama_complete(model: str, messages: list[dict], max_tokens: int) -> dict:
         "options": {"num_ctx": 8192, "num_predict": max_tokens, "temperature": 0.1},
     }
     try:
-        r = httpx.post("http://localhost:11434/api/chat", json=payload, timeout=300.0)
+        r = httpx.post("http://localhost:11434/api/chat", json=payload, timeout=180.0)
         r.raise_for_status()
         d = r.json()
     except Exception as exc:  # noqa: BLE001

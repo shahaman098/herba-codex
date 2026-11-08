@@ -1,0 +1,163 @@
+{
+ "id": "culpeper_248",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "The Common White Saxifrage",
+  "book": "",
+  "chapter": "",
+  "char_start": 617658,
+  "char_end": 619723,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "_Descript._] THIS hath a few small reddish kernels of roots covered\nwith some skins, lying among divers small blackish fibres, which\nsend forth divers round, faint or yellow green leaves, and greyish\nunderneath, lying above the grounds, unevenly dented about the edges,\nand somewhat hairy, every one upon a little foot-stalk, from whence\nrises up round, brownish, hairy, green stalks, two or three feet\nhigh, with a few such like round leaves as grow below, but smaller,\nand somewhat branched at the top, whereon stand pretty large white\nflowers of five leaves a-piece, with some yellow threads in the middle,\nstanding in a long crested, brownish green husk. After the flowers are\npast, there arises sometimes a round hard head, forked at the top,\nwherein is contained small black seed, but usually they fall away\nwithout any seed, and it is the kernels or grains of the root which are\nusually called the White Saxifrage-seed, and so used.\n\n_Place._] It grows in many places of our land, as well in the\nlower-most, as in the upper dry corners of meadows, and grassy sandy\nplaces. It used to grow near Lamb’s conduit, on the backside of Gray’s\nInn.\n\n_Time._] It flowers in May, and then gathered, as well for that which\nis called the seed, as to distil, for it quickly perishes down to the\nground when any hot weather comes.\n\n_Government and virtues._] It is very effectual to cleanse the reins\nand bladder, and to dissolve the stone engendered in them, and to\nexpel it and the gravel by urine; to help the stranguary; for which\npurpose the decoction of the herb or roots in white wine, is most\nusual, or the powder of the small kernelly root, which is called the\nseed, taken in white wine, or in the same decoction made with white\nwine, is most usual. The distilled water of the whole herb, root\nand flowers, is most familiar to be taken. It provokes also women’s\ncourses, and frees and cleanses the stomach and lungs from thick and\ntough phlegm that trouble them. There are not many better medicines to\nbreak the stone than this.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "White Saxifrage-seed",
+    "context_quote": "it is the kernels or grains of the root which are usually called the White Saxifrage-seed, and so used.",
+    "part_used": "kernels or grains of the root"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "stone engendered in reins and bladder",
+    "context_quote": "to dissolve the stone engendered in them, and to expel it and the gravel by urine",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "stranguary",
+    "context_quote": "to help the stranguary",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "women's courses (amenorrhea)",
+    "context_quote": "It provokes also women's courses",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "thick and tough phlegm in stomach and lungs",
+    "context_quote": "frees and cleanses the stomach and lungs from thick and tough phlegm that trouble them",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "cleansing reins and bladder",
+    "context_quote": "It is very effectual to cleanse the reins and bladder",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "decoction of the herb or roots in white wine",
+    "context_quote": "for which purpose the decoction of the herb or roots in white wine, is most usual"
+   },
+   {
+    "kind": "powder of the small kernelly root taken in white wine",
+    "context_quote": "or the powder of the small kernelly root, which is called the seed, taken in white wine"
+   },
+   {
+    "kind": "decoction made with white wine",
+    "context_quote": "or in the same decoction made with white wine"
+   },
+   {
+    "kind": "distilled water of the whole herb, root and flowers",
+    "context_quote": "The distilled water of the whole herb, root and flowers, is most familiar to be taken."
+   }
+  ],
+  "dosage_notes": [],
+  "cautions": [
+   "it quickly perishes down to the ground when any hot weather comes"
+  ],
+  "authority_citations": []
+ },
+ "resolutions": [
+  {
+   "historical_name": "White Saxifrage-seed",
+   "candidates": [
+    {
+     "scientific_name": "Saxifraga tridactylites",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.85,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Saxifraga cespitosa",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.75,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Saxifraga hypnoides",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.65,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Saxifraga tridactylites",
+   "confidence": 0.85,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Saxifraga tridactylites",
+   "ema_monograph": null,
+   "pubmed": [],
+   "pubchem_cids": [],
+   "notable_constituents": [],
+   "summary": "No modern clinical evidence or EMA monographs were found for Saxifraga tridactylites regarding its traditional uses for gynecological conditions, urinary stones, or respiratory ailments. Current literature lacks validated data supporting these specific indications."
+  }
+ ],
+ "concordance": {
+  "grade": "D",
+  "direction": "contradicts",
+  "rationale": "Modern evidence shows Saxifraga tridactylites is not EMA-approved and lacks clinical trials. Historical claims of treating kidney stones, strangury, and amenorrhea are unsupported by current pharmacological data.",
+  "uncertainty": "Low; taxon resolved but zero modern efficacy data exists for these specific indications.",
+  "caveats": [
+   "Historical uses may refer to different Saxifraga species.",
+   "No safety data available for internal use."
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "It is very effectual to cleanse the reins and bladder",
+   "frees and cleanses the stomach and lungs from thick and tough phlegm that trouble them",
+   "it is the kernels or grains of the root which are usually called the White Saxifrage-seed, and so used.",
+   "to dissolve the stone engendered in them, and to expel it and the gravel by urine",
+   "to help the stranguary"
+  ],
+  "quotes_failed": [
+   "It provokes also women's courses"
+  ],
+  "issues": [
+   "Unearned grade: Grade 'D' is justified by lack of modern evidence, but the specific failed quote regarding 'women's courses' (amenorrhea) represents a historical claim that is explicitly contradicted by the rationale ('unsupported by current pharmacological data'). The entry admits this historical claim without flagging it as a known falsehood or distinguishing it from modern efficacy, potentially propagating debunked medical advice.",
+   "Completeness gap: The 'evidence' section lists zero PubMed citations and EMA status false, yet the concordance rationale cites 'Modern evidence'. This creates a logical gap; the 'modern evidence' is implied but not cited in the provided evidence list, making the contradiction claim less robust without specific references."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T05:13:42Z"
+ }
+}

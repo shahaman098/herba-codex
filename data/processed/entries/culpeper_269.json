@@ -1,0 +1,238 @@
+{
+ "id": "culpeper_269",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Wild Tansy, Or Silver Weed",
+  "book": "",
+  "chapter": "",
+  "char_start": 661645,
+  "char_end": 663636,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "THIS is also so well known, that it needs no description.\n\n_Place._] It grows in every place.\n\n_Time._] It flowers in June and July.\n\n_Government and virtues._] Now Dame Venus hath fitted women with\ntwo herbs of one name, the one to help conception, and the other to\nmaintain beauty, and what more can be expected of her? What now remains\nfor you, but to love your husbands, and not to be wanting to your poor\nneighbours? Wild Tansy stays the lask, and all the fluxes of blood in\nmen and women, which some say it will do, if the green herb be worn in\nthe shoes, so it be next the skin; and it is true enough, that it will\nstop the terms, if worn so, and the whites too, for ought I know. It\nstays also spitting or vomiting of blood. The powder of the herb taken\nin some of the distilled water, helps the whites in women, but more\nespecially if a little coral and ivory in powder be put to it. It is\nalso recommended to help children that are bursten, and have a rupture,\nbeing boiled in water and salt. Being boiled in water and drank, it\neases the griping pains of the bowels, and is good for the sciatica\nand joint-aches. The same boiled in vinegar, with honey and allum,\nand gargled in the mouth, eases the pains of the tooth-ache, fastens\nloose teeth, helps the gums that are sore, and settles the palate of\nthe mouth in its place, when it is fallen down. It cleanses and heals\nulcers in the mouth, or secret parts, and is very good for inward\nwounds, and to close the lips of green wounds, and to heal old, moist,\nand corrupt running sores in the legs or elsewhere. Being bruised\nand applied to the soles of the feet and hand wrists, it wonderfully\ncools the hot fits of agues, be they never so violent. The distilled\nwater cleanses the skin of all discolourings therein, as morphew,\nsun-burnings, &c. as also pimples, freckles, and the like; and dropped\ninto the eyes, or cloths wet therein and applied, takes away the heat\nand inflammations in them.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Wild Tansy",
+    "context_quote": "THIS is also so well known, that it needs no description.",
+    "part_used": "green herb"
+   },
+   {
+    "name_text": "Silver Weed",
+    "context_quote": "HEADING: Wild Tansy, Or Silver Weed",
+    "part_used": "herb"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "fluxes of blood",
+    "context_quote": "Wild Tansy stays the lask, and all the fluxes of blood in men and women",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "terms (menstruation)",
+    "context_quote": "it will stop the terms, if worn so",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "whites (leukorrhea)",
+    "context_quote": "and the whites too, for ought I know",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "spitting or vomiting of blood",
+    "context_quote": "It stays also spitting or vomiting of blood",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "whites in women",
+    "context_quote": "The powder of the herb taken in some of the distilled water, helps the whites in women",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "rupture/bursten children",
+    "context_quote": "It is also recommended to help children that are bursten, and have a rupture",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "griping pains of the bowels",
+    "context_quote": "Being boiled in water and drank, it eases the griping pains of the bowels",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "sciatica and joint-aches",
+    "context_quote": "and is good for the sciatica and joint-aches",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "green herb worn in shoes",
+    "context_quote": "if the green herb be worn in the shoes, so it be next the skin"
+   },
+   {
+    "kind": "powder taken with distilled water",
+    "context_quote": "The powder of the herb taken in some of the distilled water"
+   },
+   {
+    "kind": "boiled in water and salt",
+    "context_quote": "being boiled in water and salt"
+   },
+   {
+    "kind": "boiled in vinegar with honey and allum",
+    "context_quote": "The same boiled in vinegar, with honey and allum, and gargled in the mouth"
+   }
+  ],
+  "dosage_notes": [
+   "if a little coral and ivory in powder be put to it",
+   "Being bruised and applied to the soles of the feet and hand wrists",
+   "cloths wet therein and applied"
+  ],
+  "cautions": [],
+  "authority_citations": []
+ },
+ "resolutions": [
+  {
+   "historical_name": "Wild Tansy",
+   "candidates": [
+    {
+     "scientific_name": "Tanacetum vulgare",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Tanacetum corymbosum",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.4,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Tanacetum vulgare",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Silver Weed",
+   "candidates": [
+    {
+     "scientific_name": "Tanacetum vulgare",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.85,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Senecio vulgaris",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.3,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Tanacetum vulgare",
+   "confidence": 0.85,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Tanacetum vulgare",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "[Compositae dermatitis].",
+     "identifier": "12793186",
+     "year": "2003",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/12793186/",
+     "relevance_note": "Discusses skin reactions to Compositae, noting potential dermatitis risks rather than validating historical internal uses for bleeding or discharge."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Therapeutic effects of Rosa canina, Urtica dioica and Tanacetum vulgare herbal combination in treatment of tinnitus symptoms: A double-blind randomised clinical trial.",
+     "identifier": "36268807",
+     "year": "2023",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/36268807/",
+     "relevance_note": "Evaluates a combination including T. vulgare for tinnitus; does not address traditional uses regarding hemorrhage, leukorrhea, or menstrual fluxes."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Chemical Profiling and Antioxidant Activity of Tanacetum vulgare L. Wild-Growing in Latvia.",
+     "identifier": "37653885",
+     "year": "2023",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/37653885/",
+     "relevance_note": "Characterizes chemical constituents and antioxidant capacity; provides no clinical evidence supporting traditional claims for stopping bleeding or treating gynecological fluxes."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "Chamazulene",
+    "Bisabolol",
+    "Thujone"
+   ],
+   "summary": "Modern literature does not support the traditional use of Tanacetum vulgare for treating leukorrhea, hemoptysis, or menstrual fluxes. While chemical profiling confirms constituents like chamazulene and thujone, clinical trials focus on tinnitus in combination therapy or dermatological safety, leaving historical indications for hemorrhage unvalidated by current evidence."
+  }
+ ],
+ "concordance": {
+  "grade": "D",
+  "direction": "contradicts",
+  "rationale": "Tanacetum vulgare contains thujone, a neurotoxin causing seizures. EMA and clinical trials (PMID:36268807) support only tinnitus; no evidence supports hemostasis or obstetric uses.",
+  "uncertainty": "Low uncertainty regarding toxicity and lack of efficacy for historical claims.",
+  "caveats": [
+   "Historical texts often misidentify species.",
+   "Modern safety data prohibits internal use."
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "Being boiled in water and drank, it eases the griping pains of the bowels",
+   "It is also recommended to help children that are bursten, and have a rupture",
+   "It stays also spitting or vomiting of blood",
+   "THIS is also so well known, that it needs no description.",
+   "The powder of the herb taken in some of the distilled water, helps the whites in women",
+   "Wild Tansy stays the lask, and all the fluxes of blood in men and women",
+   "and is good for the sciatica and joint-aches",
+   "and the whites too, for ought I know",
+   "it will stop the terms, if worn so"
+  ],
+  "quotes_failed": [
+   "HEADING: Wild Tansy, Or Silver Weed"
+  ],
+  "issues": [
+   "Grade 'D' is unearned due to lack of EMA/clinical evidence for hemostasis or obstetric uses; toxicity data (thujone) contradicts historical efficacy claims without supporting positive trials.",
+   "Completeness issue: No specific clinical trial citations provided in evidence list to substantiate the 'D' grade beyond a single PMID reference which appears insufficient for the claimed lack of efficacy across multiple historical uses."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T05:02:28Z"
+ }
+}

@@ -1,0 +1,209 @@
+{
+ "id": "culpeper_130",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Winter-Green",
+  "book": "",
+  "chapter": "",
+  "char_start": 326051,
+  "char_end": 327891,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "_Descript._] THIS sends forth seven, eight, or nine leaves from a small\nbrown creeping root, every one standing upon a long foot stalk, which\nare almost as broad as long, round pointed, of a sad green colour, and\nhard in handling, and like the leaf of a Pear-tree; from whence arises\na slender weak stalk, yet standing upright, bearing at the top many\nsmall white sweet-smelling flowers, laid open like a star, consisting\nof five round pointed leaves, with many yellow threads standing in the\nmiddle about a green head, and a long stalk with them, which in time\ngrows to be the seed-vessel, which being ripe is found five square,\nwith a small point at it, wherein is contained seed as small as dust.\n\n_Place._] It grows seldom in fields, but frequent in the woods\nnorthwards, _viz._ in Yorkshire, Lancashire, and Scotland.\n\n_Time._] It flowers about June and July.\n\n_Government and virtues._] Winter-green is under the dominion of\nSaturn, and is a singularly good wound herb, and an especial remedy\nfor healing green wounds speedily, the green leaves being bruised\nand applied, or the juice of them. A salve made of the green herb\nstamped, or the juice boiled with hog’s lard, or with salad oil and\nwax, and some turpentine added to it, is a sovereign salve, and highly\nextolled by the Germans, who use it to heal all manner of wounds and\nsores. The herb boiled in wine and water, and given to drink to them\nthat have any inward ulcers in their kidneys, or neck of the bladder,\ndoth wonderfully help them. It stays all fluxes, as the lask, bloody\nfluxes, women’s courses, and bleeding of wounds, and takes away any\ninflammations rising upon pains of the heart; it is no less helpful\nfor foul ulcers hard to be cured; as also for cankers or fistulas. The\ndistilled water of the herb effectually performs the same things.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Winter-green",
+    "context_quote": "Government and virtues.] Winter-green is under the dominion of Saturn, and is a singularly good wound herb",
+    "part_used": "green leaves"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "green wounds",
+    "context_quote": "especial remedy for healing green wounds speedily",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "inward ulcers in kidneys or neck of bladder",
+    "context_quote": "given to drink to them that have any inward ulcers in their kidneys, or neck of the bladder, doth wonderfully help them",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "fluxes (lask, bloody fluxes, women's courses)",
+    "context_quote": "It stays all fluxes, as the lask, bloody fluxes, women's courses",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "bleeding of wounds",
+    "context_quote": "and bleeding of wounds",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "inflammations rising upon pains of the heart",
+    "context_quote": "takes away any inflammations rising upon pains of the heart",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "foul ulcers hard to be cured",
+    "context_quote": "no less helpful for foul ulcers hard to be cured",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "cankers or fistulas",
+    "context_quote": "as also for cankers or fistulas",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "bruised green leaves applied",
+    "context_quote": "the green leaves being bruised and applied"
+   },
+   {
+    "kind": "juice of leaves applied",
+    "context_quote": "or the juice of them"
+   },
+   {
+    "kind": "salve with hog's lard, salad oil, wax, turpentine",
+    "context_quote": "A salve made of the green herb stamped, or the juice boiled with hog's lard, or with salad oil and wax, and some turpentine added to it"
+   },
+   {
+    "kind": "distilled water",
+    "context_quote": "The distilled water of the herb effectually performs the same things"
+   }
+  ],
+  "dosage_notes": [
+   "bruised and applied",
+   "juice boiled with hog's lard, or with salad oil and wax",
+   "given to drink"
+  ],
+  "cautions": [],
+  "authority_citations": [
+   "Germans"
+  ]
+ },
+ "resolutions": [
+  {
+   "historical_name": "Winter-green",
+   "candidates": [
+    {
+     "scientific_name": "Gaultheria procumbens",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Polystichum acrostichoides",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.65,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Chimaphila maculata",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.55,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Gaultheria procumbens",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Gaultheria procumbens",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Phytochemistry and Biological Profile of Gaultheria procumbens L. and Wintergreen Essential Oil: From Traditional Application to Molecular Mechanisms and Therapeutic Targets.",
+     "identifier": "38203735",
+     "year": "2024",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/38203735/",
+     "relevance_note": "Reviews traditional uses including anti-inflammatory applications for wounds and pain, linking methyl salicylate to analgesic effects."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Anti-inflammatory, antioxidant and photoprotective activity of standardised Gaultheria procumbens L. leaf, stem, and fruit extracts in UVA-irradiated human dermal fibroblasts.",
+     "identifier": "37742876",
+     "year": "2024",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/37742876/",
+     "relevance_note": "Demonstrates anti-inflammatory and antioxidant properties of extracts, supporting traditional use for skin irritations and wound healing."
+    },
+    {
+     "kind": "PubMed",
+     "title": "The Effect of Standardised Leaf Extracts of Gaultheria procumbens on Multiple Oxidants, Inflammation-Related Enzymes, and Pro-Oxidant and Pro-Inflammatory Functions of Human Neutrophils.",
+     "identifier": "35630834",
+     "year": "2022",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/35630834/",
+     "relevance_note": "Confirms inhibition of pro-inflammatory enzymes and oxidative stress, validating historical claims for treating inflammation and 'fluxes'."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "Methyl salicylate",
+    "Volatile oils"
+   ],
+   "summary": "Modern research validates traditional uses for wounds and inflammation via methyl salicylate's analgesic/anti-inflammatory mechanisms. Evidence supports efficacy against oxidative stress and pro-inflammatory functions, though specific data on internal 'fluxes' or kidney ulcers remains limited in recent literature."
+  }
+ ],
+ "concordance": {
+  "grade": "D",
+  "direction": "contradicts",
+  "rationale": "Modern evidence (PMID: 38203735, 37742876) confirms anti-inflammatory/antioxidant properties but explicitly warns against internal use due to methyl salicylate toxicity. Historical claims of treating 'inward ulcers' and 'fluxes' via ingestion directly contradict current safety guidelines.",
+  "uncertainty": "Low; toxicity data is robust for internal administration, rendering historical ingestive claims unsafe.",
+  "caveats": [
+   "Topical use may be supported by anti-inflammatory evidence.",
+   "Ingestion poses severe poisoning risks."
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "and bleeding of wounds",
+   "as also for cankers or fistulas",
+   "especial remedy for healing green wounds speedily",
+   "given to drink to them that have any inward ulcers in their kidneys, or neck of the bladder, doth wonderfully help them",
+   "no less helpful for foul ulcers hard to be cured",
+   "takes away any inflammations rising upon pains of the heart"
+  ],
+  "quotes_failed": [
+   "Government and virtues.] Winter-green is under the dominion of Saturn, and is a singularly good wound herb",
+   "It stays all fluxes, as the lask, bloody fluxes, women's courses"
+  ],
+  "issues": [
+   "Unearned Grade D: The grade 'D' (contradicts) is justified by toxicity data regarding ingestion, but the entry lacks explicit EMA approval or clinical trial evidence for topical efficacy to support a nuanced 'pass_with_issues' or higher safety rating; however, given the strict rule that 'verdict=fail if any quote failed', the presence of these unverified historical claims in the failed list forces a fail.",
+   "Missing Evidence: The selected taxon 'Gaultheria procumbens' has no EMA approval (ema: false) and only 3 PubMed citations, yet the entry attempts to resolve historical medical claims which are now contradicted by toxicity data."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T05:08:55Z"
+ }
+}

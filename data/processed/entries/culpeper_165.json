@@ -1,0 +1,195 @@
+{
+ "id": "culpeper_165",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Lungwort",
+  "book": "",
+  "chapter": "",
+  "char_start": 407215,
+  "char_end": 408031,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "_Descript._] THIS is a kind of moss, that grows on sundry sorts of\ntrees, especially oaks and beeches, with broad, greyish, tough leaves\ndiversly folded, crumpled, and gashed in on the edges, and some spotted\nalso with many small spots on the upper-side. It was never seen to bear\nany stalk or flower at any time.\n\n_Government and virtues._] Jupiter seems to own this herb. It is of\ngreat use to physicians to help the diseases of the lungs, and for\ncoughs, wheezings, and shortness of breath, which it cures both in man\nand beast. It is very profitable to put into lotions that are taken to\nstay the moist humours that flow to ulcers, and hinder their healing,\nas also to wash all other ulcers in the privy parts of a man or woman.\nIt is an excellent remedy boiled in beer for broken-winded horses.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Lungwort",
+    "context_quote": "HEADING: Lungwort",
+    "part_used": "herb"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "diseases of the lungs",
+    "context_quote": "It is of great use to physicians to help the diseases of the lungs",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "coughs",
+    "context_quote": "and for coughs, wheezings, and shortness of breath, which it cures both in man and beast",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "wheezings",
+    "context_quote": "and for coughs, wheezings, and shortness of breath, which it cures both in man and beast",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "shortness of breath",
+    "context_quote": "and for coughs, wheezings, and shortness of breath, which it cures both in man and beast",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "ulcers that stay moist humours",
+    "context_quote": "put into lotions that are taken to stay the moist humours that flow to ulcers, and hinder their healing",
+    "polarity": "prevents",
+    "strength": "claimed"
+   },
+   {
+    "name": "broken-winded horses",
+    "context_quote": "It is an excellent remedy boiled in beer for broken-winded horses",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "lotions",
+    "context_quote": "It is very profitable to put into lotions that are taken to stay the moist humours that flow to ulcers, and hinder their healing"
+   },
+   {
+    "kind": "washings",
+    "context_quote": "as also to wash all other ulcers in the privy parts of a man or woman"
+   },
+   {
+    "kind": "beer decoction",
+    "context_quote": "It is an excellent remedy boiled in beer for broken-winded horses"
+   }
+  ],
+  "dosage_notes": [
+   "boiled in beer",
+   "put into lotions",
+   "wash all other ulcers"
+  ],
+  "cautions": [],
+  "authority_citations": []
+ },
+ "resolutions": [
+  {
+   "historical_name": "Lungwort",
+   "candidates": [
+    {
+     "scientific_name": "Pulmonaria officinalis",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Pulmonaria vulgaris",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.85,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Pulmonaria rubra",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.6,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Pulmonaria officinalis",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Pulmonaria officinalis",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Pulmonaria obscura and Pulmonaria officinalis Extracts as Mitigators of Peroxynitrite-Induced Oxidative Stress and Cyclooxygenase-2 Inhibitors-In Vitro and In Silico Studies.",
+     "identifier": "33530389",
+     "year": "2021",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/33530389/",
+     "relevance_note": "Demonstrates antioxidant activity relevant to lung tissue protection and inflammation modulation."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Yunnaneic Acid B, a Component of Pulmonaria officinalis Extract, Prevents Peroxynitrite-Induced Oxidative Stress in Vitro.",
+     "identifier": "28453265",
+     "year": "2017",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/28453265/",
+     "relevance_note": "Identifies specific constituent preventing oxidative stress, supporting traditional respiratory uses."
+    },
+    {
+     "kind": "PubMed",
+     "title": "The Pros and Cons of Cystic Fibrosis (CF) Patient Use of Herbal Supplements Containing Pulmonaria officinalis L. Extract: the Evidence from an In Vitro Study on Staphylococcus aureus CF Clinical Isolates.",
+     "identifier": "30909529",
+     "year": "2019",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/30909529/",
+     "relevance_note": "Evaluates antimicrobial efficacy against pathogens common in chronic lung conditions."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "Yunnaneic Acid B"
+   ],
+   "summary": "Modern studies support the traditional use of Pulmonaria officinalis for respiratory ailments by demonstrating antioxidant properties that mitigate oxidative stress and potential antimicrobial activity against relevant pathogens, though clinical efficacy in humans remains to be fully established."
+  }
+ ],
+ "concordance": {
+  "grade": "C",
+  "direction": "partial",
+  "rationale": "Modern evidence (PMID: 33530389, 28453265) demonstrates antioxidant and anti-inflammatory properties in vitro. This pharmacological plausibility partially supports historical claims for respiratory ailments but lacks clinical trial data for curing coughs or ulcers.",
+  "uncertainty": "High uncertainty due to absence of human clinical trials and reliance solely on in vitro/in silico studies.",
+  "caveats": [
+   "No evidence for treating ulcers",
+   "No evidence for veterinary use",
+   "In vitro data only"
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "It is an excellent remedy boiled in beer for broken-winded horses",
+   "It is of great use to physicians to help the diseases of the lungs",
+   "and for coughs, wheezings, and shortness of breath, which it cures both in man and beast",
+   "put into lotions that are taken to stay the moist humours that flow to ulcers, and hinder their healing"
+  ],
+  "quotes_failed": [
+   "HEADING: Lungwort"
+  ],
+  "issues": [
+   "Unearned grade 'C': The concordance rationale cites in vitro evidence (PMID: 33530389, 28453265) as supporting pharmacological plausibility but explicitly notes the lack of clinical trial data. Assigning a grade based solely on in vitro findings for historical claims like 'curing coughs' is scientifically weak and arguably unearned given the high uncertainty flag.",
+   "Missing EMA evidence: The entry lists 'ema': false, yet no EMA approval or traditional medicinal product status was verified for Pulmonaria officinalis in the provided evidence, which is a standard completeness check for herbal entries.",
+   "Incomplete taxon resolution: While P. officinalis was selected, the other candidates (P. vulgaris, P. rubra) were not explicitly ruled out with specific botanical distinctions in the reasoning, relying only on 'LLM proposal' confidence scores."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T05:11:12Z"
+ }
+}

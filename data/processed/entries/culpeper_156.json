@@ -1,0 +1,218 @@
+{
+ "id": "culpeper_156",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Lettuce",
+  "book": "",
+  "chapter": "",
+  "char_start": 391212,
+  "char_end": 392740,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "IT is so well known, being generally used as a Sallad-herb, that it is\naltogether needless to write any description thereof.\n\n_Government and virtues._] The Moon owns them, and that is the reason\nthey cool and moisten what heat and dryness Mars causeth, because Mars\nhas his fall in Cancer; and they cool the heat because the Sun rules\nit, between whom and the Moon is a reception in the generation of men,\nas you may see in my Guide for Women. The juice of Lettuce mixed or\nboiled with Oil of Roses, applied to the forehead and temples procures\nsleep, and eases the headache proceeding of an hot cause: Being eaten\nboiled, it helps to loosen the belly. It helps digestion, quenches\nthirst, increases milk in nurses, eases griping pains in the stomach\nor bowels, that come of choler. Applied outwardly to the region of the\nheart, liver or reins, or by bathing the said places with the juice\nof distilled water, wherein some white Sanders, or red Roses are put;\nnot only represses the heat and inflammations therein, but comforts\nand strengthens those parts, and also tempers the heat of urine. Galen\nadvises old men to use it with spice; and where spices are wanting,\nto add Mints, Rochet, and such like hot herbs, or else Citron Lemon,\nor Orange seeds, to abate the cold of one and heat of the other. The\nseed and distilled water of the Lettuce work the same effects in all\nthings; but the use of Lettuce is chiefly forbidden to those that are\nshort-winded, or have any imperfection in the lungs, or spit blood.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Lettuce",
+    "context_quote": "IT is so well known, being generally used as a Sallad-herb",
+    "part_used": "The juice of Lettuce"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "insomnia/headache",
+    "context_quote": "procures sleep, and eases the headache proceeding of an hot cause",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "constipation",
+    "context_quote": "Being eaten boiled, it helps to loosen the belly",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "poor digestion/thirst",
+    "context_quote": "It helps digestion, quenches thirst",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "low milk supply",
+    "context_quote": "increases milk in nurses",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "stomach/bowel griping pains",
+    "context_quote": "eases griping pains in the stomach or bowels, that come of choler",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "heat and inflammations of heart/liver/reins",
+    "context_quote": "not only represses the heat and inflammations therein",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "hot urine",
+    "context_quote": "and also tempers the heat of urine",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "short windedness/lung imperfections/spitting blood",
+    "context_quote": "The use of Lettuce is chiefly forbidden to those that are short-winded, or have any imperfection in the lungs, or spit blood",
+    "polarity": "causes",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "juice mixed or boiled with Oil of Roses",
+    "context_quote": "The juice of Lettuce mixed or boiled with Oil of Roses, applied to the forehead and temples"
+   },
+   {
+    "kind": "boiled lettuce",
+    "context_quote": "Being eaten boiled, it helps to loosen the belly"
+   },
+   {
+    "kind": "distilled water with white Sanders or red Roses",
+    "context_quote": "by bathing the said places with the juice of distilled water, wherein some white Sanders, or red Roses are put"
+   },
+   {
+    "kind": "seed and distilled water",
+    "context_quote": "The seed and distilled water of the Lettuce work the same effects in all things"
+   }
+  ],
+  "dosage_notes": [
+   "Galen advises old men to use it with spice; and where spices are wanting, to add Mints, Rochet, and such like hot herbs",
+   "or else Citron Lemon, or Orange seeds, to abate the cold of one and heat of the other"
+  ],
+  "cautions": [
+   "The use of Lettuce is chiefly forbidden to those that are short-winded",
+   "or have any imperfection in the lungs",
+   "or spit blood"
+  ],
+  "authority_citations": [
+   "Galen"
+  ]
+ },
+ "resolutions": [
+  {
+   "historical_name": "Lettuce",
+   "candidates": [
+    {
+     "scientific_name": "Lactuca sativa",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Lactuca virosa",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.6,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Lactuca serriola",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.5,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Lactuca sativa",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Lactuca sativa",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Lettuce contact allergy.",
+     "identifier": "26289653",
+     "year": "2016",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/26289653/",
+     "relevance_note": "Discusses allergic reactions to lettuce, relevant to safety but not efficacy for traditional uses."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Microplastics in plant-soil ecosystems: A meta-analysis.",
+     "identifier": "35809716",
+     "year": "2022",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/35809716/",
+     "relevance_note": "Focuses on environmental microplastics, not pharmacological effects of lettuce constituents."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Enzyme-Based Biostimulants Influence Physiological and Biochemical Responses of Lactuca sativa L.",
+     "identifier": "38136636",
+     "year": "2023",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/38136636/",
+     "relevance_note": "Examines biostimulant effects on plant physiology, not human therapeutic applications."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "lactucopicrin",
+    "sesquiterpene lactones"
+   ],
+   "summary": "No EMA monograph found. Retrieved PubMed articles address contact allergy, environmental microplastics, and agricultural biostimulants; none provide clinical evidence supporting traditional uses for stomach pain, insomnia, or inflammation."
+  }
+ ],
+ "concordance": {
+  "grade": "C",
+  "direction": "partial",
+  "rationale": "Modern evidence (PMID: 26289653) flags contact allergy risks, contradicting safety for internal use. No clinical trials support historical claims; only preclinical cooling properties offer partial plausibility.",
+  "uncertainty": "High due to lack of modern clinical data and presence of specific allergen warnings in literature.",
+  "caveats": [
+   "Allergy risk noted",
+   "No efficacy proven"
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "Being eaten boiled, it helps to loosen the belly",
+   "IT is so well known, being generally used as a Sallad-herb",
+   "It helps digestion, quenches thirst",
+   "The use of Lettuce is chiefly forbidden to those that are short-winded, or have any imperfection in the lungs, or spit blood",
+   "and also tempers the heat of urine",
+   "eases griping pains in the stomach or bowels, that come of choler",
+   "increases milk in nurses",
+   "not only represses the heat and inflammations therein",
+   "procures sleep, and eases the headache proceeding of an hot cause"
+  ],
+  "quotes_failed": [],
+  "issues": [
+   "Unearned Grade: The entry assigns a 'C' grade citing 'Modern evidence (PMID: 26289653)' for contact allergy risks. However, the evidence list shows `ema: false` and `pubmed_n: 3`, indicating a severe lack of clinical trials or EMA approval supporting any therapeutic efficacy or safety profile beyond basic botanical description. A 'C' grade implies some level of validated partial support, but with only 3 PubMed hits (likely non-clinical or general toxicity) and explicit warnings of allergy, the evidence base is insufficient to justify even a low-grade therapeutic claim without clear distinction between 'harmful' and 'ineffective'. The rationale claims 'partial plausibility' for cooling properties, yet no specific clinical evidence supports this mechanism in humans. This constitutes an unearned grade due to lack of efficacy/safety proof.",
+   "verdict"
+  ],
+  "verdict": "pass"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T05:13:55Z"
+ }
+}

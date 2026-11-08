@@ -1,0 +1,285 @@
+{
+ "id": "culpeper_000",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Amara Dulcis",
+  "book": "",
+  "chapter": "",
+  "char_start": 17701,
+  "char_end": 21365,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "CONSIDERING divers shires in this nation give divers names to one and\nthe same herb, and that the common name which it bears in one county,\nis not known in another; I shall take the pains to set down all the\nnames that I know of each herb: pardon me for setting that name first,\nwhich is most common to myself. Besides Amara Dulcis, some call it\nMortal, others Bitter-sweet; some Woody Night-shade, and others\nFelon-wort.\n\n_Descript._] It grows up with woody stalks even to a man’s height, and\nsometimes higher. The leaves fall off at the approach of winter, and\nspring out of the same stalk at spring-time: the branch is compassed\nabout with a whitish bark, and has a pith in the middle of it: the\nmain branch branches itself into many small ones with claspers, laying\nhold on what is next to them, as vines do: it bears many leaves, they\ngrow in no order at all, at least in no regular order; the leaves are\nlongish, though somewhat broad, and pointed at the ends: many of them\nhave two little leaves growing at the end of their foot-stalk; some\nhave but one, and some none. The leaves are of a pale green colour;\nthe flowers are of a purple colour, or of a perfect blue, like to\nviolets, and they stand many of them together in knots: the berries are\ngreen at first, but when they are ripe they are very red; if you taste\nthem, you shall find them just as the crabs which we in Sussex call\nBittersweet, _viz._ sweet at first and bitter afterwards.\n\n_Place._] They grow commonly almost throughout England, especially in\nmoist and shady places.\n\n_Time._] The leaves shoot out about the latter end of March, if the\ntemperature of the air be ordinary; it flowers in July, and the seeds\nare ripe soon after, usually in the next month.\n\n_Government and virtues._] It is under the planet Mercury, and\na notable herb of his also, if it be rightly gathered under his\ninfluence. It is excellently good to remove witchcraft both in men\nand beasts, as also all sudden diseases whatsoever. Being tied round\nabout the neck, is one of the most admirable remedies for the vertigo\nor dizziness in the head; and that is the reason (as Tragus saith) the\npeople in Germany commonly hang it about their cattle’s necks, when\nthey fear any such evil hath betided them: Country people commonly\ntake the berries of it, and having bruised them, apply them to felons,\nand thereby soon rid their fingers of such troublesome guests.\n\nWe have now showed you the external use of the herb; we shall speak\na word or two of the internal, and so conclude. Take notice, it is a\nMercurial herb, and therefore of very subtile parts, as indeed all\nMercurial plants are; therefore take a pound of the wood and leaves\ntogether, bruise the wood (which you may easily do, for it is not so\nhard as oak) then put it in a pot, and put to it three pints of white\nwine, put on the pot-lid and shut it close; and let it infuse hot over\na gentle fire twelve hours, then strain it out, so have you a most\nexcellent drink to open obstructions of the liver and spleen, to help\ndifficulty of breath, bruises and falls, and congealed blood in any\npart of the body, it helps the yellow jaundice, the dropsy, and black\njaundice, and to cleanse women newly brought to bed. You may drink a\nquarter of a pint of the infusion every morning. It purges the body\nvery gently, and not churlishly as some hold. And when you find good by\nthis, remember me.\n\nThey that think the use of these medicines is too brief, it is only for\nthe cheapness of the book; let them read those books of mine, of the\nlast edition, _viz._ _Reverius_, _Veslingus_, _Riolanus_, _Johnson_,\n_Sennertus_, and _Physic for the Poor_.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Amara Dulcis",
+    "context_quote": "Besides Amara Dulcis, some call it Mortal, others Bitter-sweet; some Woody Night-shade, and others Felon-wort.",
+    "part_used": "wood and leaves"
+   },
+   {
+    "name_text": "Mortal",
+    "context_quote": "Besides Amara Dulcis, some call it Mortal, others Bitter-sweet; some Woody Night-shade, and others Felon-wort.",
+    "part_used": "wood and leaves"
+   },
+   {
+    "name_text": "Bitter-sweet",
+    "context_quote": "Besides Amara Dulcis, some call it Mortal, others Bitter-sweet; some Woody Night-shade, and others Felon-wort.",
+    "part_used": "wood and leaves"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "witchcraft",
+    "context_quote": "It is excellently good to remove witchcraft both in men and beasts, as also all sudden diseases whatsoever.",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "sudden diseases",
+    "context_quote": "It is excellently good to remove witchcraft both in men and beasts, as also all sudden diseases whatsoever.",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "vertigo or dizziness",
+    "context_quote": "Being tied round about the neck, is one of the most admirable remedies for the vertigo or dizziness in the head",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "felons",
+    "context_quote": "Country people commonly take the berries of it, and having bruised them, apply them to felons, and thereby soon rid their fingers of such troublesome guests.",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "obstructions of the liver and spleen",
+    "context_quote": "so have you a most excellent drink to open obstructions of the liver and spleen, to help difficulty of breath, bruises and falls, and congealed blood in any part of the body",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "difficulty of breath",
+    "context_quote": "so have you a most excellent drink to open obstructions of the liver and spleen, to help difficulty of breath, bruises and falls, and congealed blood in any part of the body",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "bruises and falls",
+    "context_quote": "so have you a most excellent drink to open obstructions of the liver and spleen, to help difficulty of breath, bruises and falls, and congealed blood in any part of the body",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "congealed blood",
+    "context_quote": "so have you a most excellent drink to open obstructions of the liver and spleen, to help difficulty of breath, bruises and falls, and congealed blood in any part of the body",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "infusion",
+    "context_quote": "Take a pound of the wood and leaves together, bruise the wood... then put it in a pot, and put to it three pints of white wine, put on the pot-lid and shut it close; and let it infuse hot over a gentle fire twelve hours, then strain it out"
+   },
+   {
+    "kind": "topical application",
+    "context_quote": "Country people commonly take the berries of it, and having bruised them, apply them to felons"
+   }
+  ],
+  "dosage_notes": [
+   "You may drink a quarter of a pint of the infusion every morning.",
+   "Take a pound of the wood and leaves together",
+   "put to it three pints of white wine"
+  ],
+  "cautions": [
+   "It purges the body very gently, and not churlishly as some hold.",
+   "if it be rightly gathered under his influence",
+   ""
+  ],
+  "authority_citations": [
+   "Tragus"
+  ]
+ },
+ "resolutions": [
+  {
+   "historical_name": "Amara Dulcis",
+   "candidates": [
+    {
+     "scientific_name": "Solanum dulcamara",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Datura stramonium",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.15,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Solanum dulcamara var. dulcamara",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.85,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Solanum dulcamara",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Mortal",
+   "candidates": [
+    {
+     "scientific_name": "Digitalis purpurea",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.6,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Aconitum napellus",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.5,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Atropa belladonna",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.4,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "",
+   "confidence": 0.36,
+   "status": "ambiguous",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Bitter-sweet",
+   "candidates": [
+    {
+     "scientific_name": "Solanum dulcamara",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.97,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Celastrus scandens",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.1,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Solanum dulcamara subsp. dulcamara",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.9,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Solanum dulcamara",
+   "confidence": 0.97,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Solanum dulcamara",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Contact dermatitis as an adverse reaction to some topically used European herbal medicinal products Part 3: Mentha x piperita Solanum dulcamara.",
+     "identifier": "26563681",
+     "year": "2016",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/26563681/",
+     "relevance_note": "Documents adverse skin reactions to topical use, contradicting traditional safety for internal or external application."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Spirosolane-containing Solanum species and induction of congenital craniofacial malformations.",
+     "identifier": "2080514",
+     "year": "1990",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/2080514/",
+     "relevance_note": "Links specific Solanum compounds to severe developmental toxicity, suggesting high risk for internal use."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Toxic Risks of Nightshade Species: A comprehensive review of the documented toxicity of Atropa belladonna, Solanum dulcamara, and Solanum nigrum.",
+     "identifier": "41819152",
+     "year": "2026",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/41819152/",
+     "relevance_note": "Reviews documented toxicity of S. dulcamara, supporting avoidance of traditional uses involving ingestion."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "Spirosolane",
+    "Alkaloids"
+   ],
+   "summary": "Modern toxicology highlights severe risks including dermatitis and congenital malformations associated with Solanum dulcamara. Evidence suggests that traditional uses for internal conditions like liver obstruction or vertigo are unsafe, while external use carries significant irritation risks."
+  }
+ ],
+ "concordance": {
+  "grade": "D",
+  "direction": "contradicts",
+  "rationale": "Modern evidence flags Solanum dulcamara as a cause of contact dermatitis (PMID:26563681) and congenital malformations (PMID:2080514), contradicting safe therapeutic use claims.",
+  "uncertainty": "Low; toxicity data is robust for this taxon.",
+  "caveats": [
+   "Historical claims lack clinical validation.",
+   "Topical application carries documented risks."
+  ]
+ },
+ "audit": {
+  "schema_ok": false,
+  "quotes_verified": [
+   "Being tied round about the neck, is one of the most admirable remedies for the vertigo or dizziness in the head",
+   "Besides Amara Dulcis, some call it Mortal, others Bitter-sweet; some Woody Night-shade, and others Felon-wort.",
+   "Country people commonly take the berries of it, and having bruised them, apply them to felons, and thereby soon rid their fingers of such troublesome guests.",
+   "It is excellently good to remove witchcraft both in men and beasts, as also all sudden diseases whatsoever.",
+   "so have you a most excellent drink to open obstructions of the liver and spleen, to help difficulty of breath, bruises and falls, and congealed blood in any part of the body"
+  ],
+  "quotes_failed": [],
+  "issues": [
+   "Unresolved taxon 'Mortal' (status: ambiguous) violates completeness requirement for every name.",
+   "Evidence for 'Solanum dulcamara' is insufficient to support a high confidence grade; EMA status is false and PubMed count is low (3), yet the entry proceeds without explicit clinical validation.",
+   "Concordance rationale is truncated ('PMID:20...'), preventing full verification of the contradiction claim regarding congenital malformations.",
+   "Grade 'D' assigned with 'contradicts' direction lacks sufficient supporting evidence in the provided snippet to justify the specific negative classification without seeing the full text of the cited PMIDs."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_043724_a1e864",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T04:41:12Z"
+ }
+}

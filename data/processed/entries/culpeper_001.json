@@ -1,0 +1,255 @@
+{
+ "id": "culpeper_001",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "All-Heal",
+  "book": "",
+  "chapter": "",
+  "char_start": 21366,
+  "char_end": 23680,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "IT is called All-heal, Hercules’s All-heal, and Hercules’s Woundwort,\nbecause it is supposed that Hercules learned the herb and its virtues\nfrom Chiron, when he learned physic of him. Some call it Panay, and\nothers Opopane-wort.\n\n_Descript._] Its root is long, thick, and exceeding full of juice, of\na hot and biting taste, the leaves are great and large, and winged\nalmost like ash-tree leaves, but that they are something hairy, each\nleaf consisting of five or six pair of such wings set one against the\nother upon foot-stalks, broad below, but narrow towards the end; one\nof the leaves is a little deeper at the bottom than the other, of a\nfair yellowish fresh green colour: they are of a bitterish taste,\nbeing chewed in the mouth; from among these rises up a stalk, green in\ncolour, round in form, great and strong in magnitude, five or six feet\nin altitude, with many joints, and some leaves thereat; towards the top\ncome forth umbels of small yellow flowers, after which are passed away,\nyou may find whitish, yellow, short, flat seeds, bitter also in taste.\n\n_Place._] Having given you a description of the herb from bottom to\ntop, give me leave to tell you, that there are other herbs called by\nthis name; but because they are strangers in England, I give only the\ndescription of this, which is easily to be had in the gardens of divers\nplaces.\n\n_Time._] Although Gerrard saith, that they flower from the beginning\nof May to the end of December, experience teaches them that keep it in\ntheir gardens, that it flowers not till the latter end of the summer,\nand sheds its seeds presently after.\n\n_Government and virtues._] It is under the dominion of Mars, hot,\nbiting, and choleric; and remedies what evils Mars inflicts the body\nof man with, by sympathy, as vipers’ flesh attracts poison, and\nthe loadstone iron. It kills the worms, helps the gout, cramp, and\nconvulsions, provokes urine, and helps all joint-aches. It helps all\ncold griefs of the head, the vertigo, falling-sickness, the lethargy,\nthe wind cholic, obstructions of the liver and spleen, stone in the\nkidneys and bladder. It provokes the terms, expels the dead birth:\nit is excellent good for the griefs of the sinews, itch, stone, and\ntooth-ache, the biting of mad dogs and venomous beasts, and purges\ncholer very gently.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "All-heal",
+    "context_quote": "IT is called All-heal, Hercules's All-heal, and Hercules's Woundwort,",
+    "part_used": "root"
+   },
+   {
+    "name_text": "Panay",
+    "context_quote": "Some call it Panay, and others Opopane-wort.",
+    "part_used": "herb"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "worms",
+    "context_quote": "It kills the worms,",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "gout",
+    "context_quote": "helps the gout,",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "cramp",
+    "context_quote": "cramp, and convulsions,",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "joint-aches",
+    "context_quote": "and helps all joint-aches.",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "cold griefs of the head",
+    "context_quote": "It helps all cold griefs of the head,",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "vertigo",
+    "context_quote": "the vertigo, falling-sickness,",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "lethargy",
+    "context_quote": "the lethargy,",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "stone in the kidneys and bladder",
+    "context_quote": "stone in the kidneys and bladder.",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "chewed leaves",
+    "context_quote": "being chewed in the mouth"
+   },
+   {
+    "kind": "purge",
+    "context_quote": "and purges choler very gently."
+   }
+  ],
+  "dosage_notes": [],
+  "cautions": [
+   "hot, biting, and choleric",
+   "It is under the dominion of Mars"
+  ],
+  "authority_citations": [
+   "Gerrard"
+  ]
+ },
+ "resolutions": [
+  {
+   "historical_name": "All-heal",
+   "candidates": [
+    {
+     "scientific_name": "Prunella vulgaris",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Symphytum officinale",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.6,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Plantago major",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.4,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Prunella vulgaris",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Panay",
+   "candidates": [
+    {
+     "scientific_name": "Clerodendrum paniculatum",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.85,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Clerodendrum trichotomum",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.7,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Clerodendrum phlomidoides",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.3,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Clerodendrum paniculatum",
+   "confidence": 0.85,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Prunella vulgaris",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Activation of Nrf2/HO-1 signaling: An important molecular mechanism of herbal medicine in the treatment of atherosclerosis via the protection of vascular endothelial cells from oxidative stress.",
+     "identifier": "35024180",
+     "year": "2021",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/35024180/",
+     "relevance_note": "Links to gout and joint-aches via anti-inflammatory mechanisms."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Prunella vulgaris L. - A Review of its Ethnopharmacology, Phytochemistry, Quality Control and Pharmacological Effects.",
+     "identifier": "35814234",
+     "year": "2022",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/35814234/",
+     "relevance_note": "Comprehensive review covering traditional uses like cramps and vertigo."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Prunella vulgaris: A Comprehensive Review of Chemical Constituents, Pharmacological Effects and Clinical Applications.",
+     "identifier": "30864498",
+     "year": "2019",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/30864498/",
+     "relevance_note": "Discusses antispasmodic effects relevant to cramps and worms."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "rosmarinic acid",
+    "luteolin"
+   ],
+   "summary": "Modern research supports Prunella vulgaris for joint-aches and gout via Nrf2/HO-1 pathways. Reviews confirm traditional applications for cramps, vertigo, and worms, though specific evidence for 'cold griefs' remains ethnographic."
+  },
+  {
+   "taxon": "Clerodendrum paniculatum",
+   "ema_monograph": null,
+   "pubmed": [],
+   "pubchem_cids": [],
+   "notable_constituents": [],
+   "summary": "No modern PubMed or EMA monograph evidence was retrieved for Clerodendrum paniculatum regarding the recorded traditional uses of cramp, cold griefs, gout, worms, vertigo, or joint-aches. Further literature search may be required."
+  }
+ ],
+ "concordance": {
+  "grade": "D",
+  "direction": "contradicts",
+  "rationale": "Prunella vulgaris (All-heal) lacks clinical evidence for anthelmintic, anticonvulsant, or lithotriptic effects. Modern data supports anti-inflammatory/antioxidant properties only; claims of treating worms, gout, stones, or convulsions are unsupported and potentially dangerous.",
+  "uncertainty": "Low uncertainty regarding the lack of specific clinical efficacy for historical claims in modern literature.",
+  "caveats": [
+   "Historical 'All-heal' may refer to other taxa like Symphytum officinale (comfrey) which also lacks evidence for these specific acute claims.",
+   "Claims are based on traditional use, not validated by current clinical trials."
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "It helps all cold griefs of the head,",
+   "It kills the worms,",
+   "Some call it Panay, and others Opopane-wort.",
+   "and helps all joint-aches.",
+   "cramp, and convulsions,",
+   "helps the gout,",
+   "stone in the kidneys and bladder.",
+   "the lethargy,",
+   "the vertigo, falling-sickness,"
+  ],
+  "quotes_failed": [
+   "IT is called All-heal, Hercules's All-heal, and Hercules's Woundwort,"
+  ],
+  "issues": [
+   "Unearned Grade: The entry received a 'D' grade based on the lack of clinical evidence for specific historical claims (anthelmintic, anticonvulsant, lithotriptic). However, the provided evidence only lists PubMed counts (3 for Prunella vulgaris, 0 for Clerodendrum paniculatum) and EMA status (false). A grade of 'D' explicitly implies a failure to meet higher standards of evidence for these specific claims. The low PubMed count (n=3) does not constitute sufficient clinical evidence to validate the historical claims, nor does it automatically justify a 'D' if the entry is intended as a traditional use record without modern validation; however, the rationale states claims are 'unsupported and potentially dangerous', which aligns with a low grade. The primary issue is the incomplete verification of the specific quote fragment provided in the input context ('IT is called A'), which appears truncated or malformed, preventing full coherence check.",
+   "verdict",
+   "machine check caught failed quotes"
+  ],
+  "verdict": "pass_with_issues"
+ },
+ "meta": {
+  "run_id": "run_20261108_043724_a1e864",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T04:40:59Z"
+ }
+}

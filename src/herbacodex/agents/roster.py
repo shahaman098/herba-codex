@@ -64,7 +64,7 @@ HISTORIAN = Agent(
         "you are audited mechanically and fabricated quotes fail you. If the entry is not "
         "about a plant medicine, return empty lists. Max ~500 words total."
     ),
-    max_tokens=1500,
+    max_tokens=800,
 )
 
 BOTANIST = Agent(
@@ -91,7 +91,7 @@ BOTANIST = Agent(
     ),
     tools=dict(BOTANY_TOOLS),
     max_steps=5,
-    max_tokens=1600,
+    max_tokens=700,
 )
 
 PHARMACOLOGIST = Agent(
@@ -116,7 +116,7 @@ PHARMACOLOGIST = Agent(
     ),
     tools=dict(MEDCHEM_TOOLS),
     max_steps=5,
-    max_tokens=1600,
+    max_tokens=700,
 )
 
 SCORER = Agent(
@@ -135,7 +135,7 @@ SCORER = Agent(
         'contradicts|none", "rationale": "<=60 words citing specific evidence identifiers", '
         '"uncertainty": "<=30 words", "caveats": ["<=20 words each", ...]}'
     ),
-    max_tokens=700,
+    max_tokens=380,
 )
 
 AUDITOR = Agent(
@@ -157,7 +157,7 @@ AUDITOR = Agent(
     ),
     tools={"verify_quote": VERIFY_QUOTE_TOOL},
     max_steps=4,
-    max_tokens=1100,
+    max_tokens=450,
 )
 
 ROSTER = {a.name: a for a in (HISTORIAN, BOTANIST, PHARMACOLOGIST, SCORER, AUDITOR)}

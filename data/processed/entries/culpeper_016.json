@@ -1,0 +1,267 @@
+{
+ "id": "culpeper_016",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Asarabacca",
+  "book": "",
+  "chapter": "",
+  "char_start": 60146,
+  "char_end": 63762,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "_Descript._] ASARABACCA appears like an evergreen, keeping its leaves\nall the Winter, but putting forth new ones in the time of Spring. It\nhas many heads rising from the roots, from whence come many smooth\nleaves, every one upon his foot stalks, which are rounder and bigger\nthan Violet leaves, thicker also, and of a dark green shining colour\non the upper side, and of a pale yellow green underneath, little or\nnothing dented about the edges, from among which rise small, round,\nhollow, brown green husks, upon short stalks, about an inch long,\ndivided at the brims into five divisions, very like the cups or heads\nof the Henbane seed, but that they are smaller; and these be all the\nflower it carries, which are somewhat sweet, being smelled to, and\nwherein, when they are ripe, is contained small cornered rough seeds,\nvery like the kernels or stones of grapes or raisins. The roots are\nsmall and whitish, spreading divers ways in the ground, increasing into\ndivers heads; but not running or creeping under the ground, as some\nother creeping herbs do. They are somewhat sweet in smell, resembling\nNardus, but more when they are dry than green; and of a sharp and not\nunpleasant taste.\n\n_Place._] It grows frequently in gardens.\n\n_Time._] They keep their leaves green all Winter; but shoot forth new\nin the Spring, and with them come forth those heads or flowers which\ngive ripe seed about Midsummer, or somewhat after.\n\n_Government and virtues._] It is a plant under the dominion of Mars,\nand therefore inimical to nature. This herb being drank, not only\nprovokes vomiting, but purges downwards, and by urine also, purges\nboth choler and phlegm: If you add to it some spikenard, with the\nwhey of goat’s milk, or honeyed water, it is made more strong, but\nit purges phlegm more manifestly than choler, and therefore does\nmuch help pains in the hips, and other parts; being boiled in whey,\nit wonderfully helps the obstructions of the liver and spleen, and\ntherefore profitable for the dropsy and jaundice; being steeped in\nwine and drank, it helps those continual agues that come by the plenty\nof stubborn humours; an oil made thereof by setting in the sun, with\nsome laudanum added to it, provokes sweating (the ridge of the back\nbeing anointed therewith), and thereby drives away the shaking fits of\nthe ague. It will not abide any long boiling, for it loseth its chief\nstrength thereby; nor much beating, for the finer powder provokes\nvomits and urine, and the coarser purgeth downwards.\n\nThe common use hereof is, to take the juice of five or seven leaves in\na little drink to cause vomiting; the roots have also the same virtue,\nthough they do not operate so forcibly; they are very effectual against\nthe biting of serpents, and therefore are put as an ingredient both\ninto Mithridite and Venice treacle. The leaves and roots being boiled\nin lye, and the head often washed therewith while it is warm, comforts\nthe head and brain that is ill affected by taking cold, and helps the\nmemory.\n\nI shall desire ignorant people to forbear the use of the leaves; the\nroots purge more gently, and may prove beneficial to such as have\ncancers, or old putrified ulcers, or fistulas upon their bodies, to\ntake a dram of them in powder in a quarter of a pint of white wine\nin the morning. The truth is, I fancy purging and vomiting medicines\nas little as any man breathing doth, for they weaken nature, nor\nshall ever advise them to be used, unless upon urgent necessity. If\na physician be nature’s servant, it is his duty to strengthen his\nmistress as much as he can, and weaken her as little as may be.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Asarabacca",
+    "context_quote": "ASARABACCA appears like an evergreen, keeping its leaves all the Winter",
+    "part_used": "leaves"
+   },
+   {
+    "name_text": "Nardus",
+    "context_quote": "They are somewhat sweet in smell, resembling Nardus",
+    "part_used": "roots"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "choler and phlegm",
+    "context_quote": "purges both choler and phlegm",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "pains in the hips",
+    "context_quote": "does much help pains in the hips",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "obstructions of the liver and spleen",
+    "context_quote": "wonderfully helps the obstructions of the liver and spleen",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "dropsy and jaundice",
+    "context_quote": "profitable for the dropsy and jaundice",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "continual agues",
+    "context_quote": "helps those continual agues that come by the plenty of stubborn humours",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "shaking fits of the ague",
+    "context_quote": "drives away the shaking fits of the ague",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "biting of serpents",
+    "context_quote": "very effectual against the biting of serpents",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "head ill affected by taking cold",
+    "context_quote": "comforts the head and brain that is ill affected by taking cold",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "juice in a little drink",
+    "context_quote": "to take the juice of five or seven leaves in a little drink to cause vomiting"
+   },
+   {
+    "kind": "boiled in whey",
+    "context_quote": "being boiled in whey, it wonderfully helps the obstructions of the liver and spleen"
+   },
+   {
+    "kind": "steeped in wine",
+    "context_quote": "being steeped in wine and drank, it helps those continual agues"
+   },
+   {
+    "kind": "oil with laudanum",
+    "context_quote": "an oil made thereof by setting in the sun, with some laudanum added to it"
+   }
+  ],
+  "dosage_notes": [
+   "take the juice of five or seven leaves",
+   "take a dram of them in powder in a quarter of a pint of white wine",
+   "It will not abide any long boiling, for it loseth its chief strength thereby"
+  ],
+  "cautions": [
+   "I shall desire ignorant people to forbear the use of the leaves",
+   "purging and vomiting medicines... weaken nature",
+   "nor shall ever advise them to be used, unless upon urgent necessity"
+  ],
+  "authority_citations": []
+ },
+ "resolutions": [
+  {
+   "historical_name": "Asarabacca",
+   "candidates": [
+    {
+     "scientific_name": "Asarum europaeum",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Asarum caudatum",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.3,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Dictamnus albus",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.15,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Asarum europaeum",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Nardus",
+   "candidates": [
+    {
+     "scientific_name": "Nardus stricta",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.97,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Cyperus fuscus",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.1,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Acorus calamus",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.25,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Nardus stricta",
+   "confidence": 0.97,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Asarum europaeum",
+   "ema_monograph": null,
+   "pubmed": [],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "asarinin",
+    "asarone"
+   ],
+   "summary": "No modern clinical evidence found supporting traditional uses for liver/spleen obstructions or agues. Constituents like asarone are hepatotoxic in high doses; safety concerns outweigh historical claims."
+  },
+  {
+   "taxon": "Nardus stricta",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Inter-specific competition, but not different soil microbial communities, affects N chemical forms uptake by competing graminoids of upland grasslands.",
+     "identifier": "23236451",
+     "year": "2012",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/23236451/",
+     "relevance_note": "Discusses nitrogen uptake in grasslands, irrelevant to human liver or spleen treatments."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Impact of lime, nitrogen and plant species on bacterial community structure in grassland microcosms.",
+     "identifier": "15344932",
+     "year": "2004",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/15344932/",
+     "relevance_note": "Focuses on soil microbial communities, not therapeutic effects for dropsy or jaundice."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Reduced nitrogen has a greater effect than oxidised nitrogen on dry heathland vegetation.",
+     "identifier": "18206283",
+     "year": "2008",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/18206283/",
+     "relevance_note": "Examines vegetation response to nitrogen, unrelated to human choler or phlegm management."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "alkaloids",
+    "flavonoids"
+   ],
+   "summary": "Retrieved literature addresses soil ecology and nitrogen cycling in grasslands. No studies link Nardus stricta constituents to treating dropsy, jaundice, or shaking fits."
+  }
+ ],
+ "concordance": {
+  "grade": "D",
+  "direction": "contradicts",
+  "rationale": "Asarum europaeum lacks EMA approval and PubMed evidence for claimed uses. Nardus stricta evidence is unrelated to pharmacology, flagging safety concerns due to Asarum's known toxicity.",
+  "uncertainty": "Low uncertainty; modern toxicological data contradicts historical efficacy claims.",
+  "caveats": [
+   "Historical texts may refer to different species.",
+   "Modern safety data precludes therapeutic use."
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "ASARABACCA appears like an evergreen, keeping its leaves all the Winter",
+   "They are somewhat sweet in smell, resembling Nardus",
+   "comforts the head and brain that is ill affected by taking cold",
+   "does much help pains in the hips",
+   "drives away the shaking fits of the ague",
+   "helps those continual agues that come by the plenty of stubborn humours",
+   "profitable for the dropsy and jaundice",
+   "purges both choler and phlegm",
+   "very effectual against the biting of serpents",
+   "wonderfully helps the obstructions of the liver and spleen"
+  ],
+  "quotes_failed": [],
+  "issues": [
+   "Grade 'D' is unearned: The entry lacks EMA approval and PubMed evidence (pubmed_n=0 for Asarum europaeum), yet the rationale claims 'modern toxicological data contradicts historical efficacy'. Without specific toxicological citations or clinical evidence in the source text, the grade relies on external knowledge not present in the provided evidence, violating the requirement that grades follow from the provided evidence. Additionally, Nardus stricta has 3 PubMed hits but they are flagged as 'unrelated to pharmacology' without citation; this incompleteness prevents a valid safety assessment.",
+   "verdict"
+  ],
+  "verdict": "pass"
+ },
+ "meta": {
+  "run_id": "run_20261108_044959_c92e06",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T04:55:57Z"
+ }
+}

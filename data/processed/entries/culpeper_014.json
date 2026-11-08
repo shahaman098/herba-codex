@@ -1,0 +1,290 @@
+{
+ "id": "culpeper_014",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Archangel",
+  "book": "",
+  "chapter": "",
+  "char_start": 53562,
+  "char_end": 57459,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "TO put a gloss upon their practice, the physicians call a herb (which\ncountry people vulgarly know by the name of Dead Nettle) Archangel;\nwhether they favour more of superstition or folly, I leave to the\njudicious reader. There is more curiosity than courtesy to my\ncountrymen used by others in the explanation as well of the names, as\ndiscription of this so well known herb; which that I may not also be\nguilty of, take this short discription: first, of the Red Archangel.\nThis is likewise called Bee Nettle.\n\n_Descript._] This has divers square stalks, somewhat hairy, at the\njoints whereof grow two sad green leaves dented about the edges,\nopposite to one another to the lowermost, upon long foot stalks, but\nwithout any toward the tops, which are somewhat round, yet pointed, and\na little crumpled and hairy; round about the upper joints, where the\nleaves grow thick, are sundry gaping flowers of a pale reddish colour;\nafter which come the seeds three or four in a husk. The root is small\nand thready, perishing every year; the whole plant hath a strong smell\nbut not stinking.\n\nWhite Archangel hath divers square stalks, none standing straight\nupward, but bending downward, whereon stand two leaves at a joint,\nlarger and more pointed than the other, dented about the edges, and\ngreener also, more like unto Nettle leaves, but not stinking, yet\nhairy. At the joints, with the leaves, stand larger and more open\ngaping white flowers, husks round about the stalks, but not with such a\nbush of leaves as flowers set in the top, as is on the other, wherein\nstand small roundish black seeds: the root is white, with many strings\nat it, not growing downward but lying under the upper crust of the\nearth, and abides many years increasing; this has not so strong a scent\nas the former.\n\nYellow Archangel is like the White in the stalks and leaves; but that\nthe stalks are more straight and upright, and the joints with leaves\nare farther asunder, having longer leaves than the former, and the\nflowers a little larger and more gaping, of a fair yellow colour in\nmost, in some paler. The roots are like the white, only they creep not\nso much under the ground.\n\n_Place._] They grow almost every where (unless it be in the middle of\nthe street), the yellow most usually in the wet grounds of woods, and\nsometimes in the dryer, in divers counties of this nation.\n\n_Time._] They flower from the beginning of the Spring all the Summer\nlong.\n\n_Government and virtues._] The Archangels are somewhat hot and drier\nthan the stinging Nettles, and used with better success for the\nstopping and hardness of the spleen, than they, by using the decoction\nof the herb in wine, and afterwards applying the herb hot into the\nregion of the spleen as a plaister, or the decoction with spunges.\nFlowers of the White Archangel are preserved or conserved to be used\nto stay the whites, and the flowers of the red to stay the reds in\nwomen. It makes the heart merry, drives away melancholy, quickens the\nspirits, is good against quartan agues, stancheth bleeding at mouth\nand nose, if it be stamped and applied to the nape of the neck; the\nherb also bruised, and with some salt and vinegar and hog’s-grease,\nlaid upon a hard tumour or swelling, or that vulgarly called the\nking’s evil, do help to dissolve or discuss them; and being in like\nmanner applied, doth much allay the pains, and give ease to the gout,\nsciatica, and other pains of the joints and sinews. It is also very\neffectual to heal green wounds, and old ulcers; also to stay their\nfretting, gnawing, and spreading. It draws forth splinters, and such\nlike things gotten into the flesh, and is very good against bruises and\nburnings. But the Yellow Archangel is most commended for old, filthy,\ncorrupt sores and ulcers, yea although they grow to be hollow, and to\ndissolve tumours. The chief use of them is for women, it being a herb\nof Venus.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Archangel",
+    "context_quote": "the physicians call a herb (which country people vulgarly know by the name of Dead Nettle) Archangel",
+    "part_used": "herb"
+   },
+   {
+    "name_text": "Bee Nettle",
+    "context_quote": "This is likewise called Bee Nettle",
+    "part_used": "Red Archangel"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "hardness of the spleen",
+    "context_quote": "used with better success for the stopping and hardness of the spleen",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "whites in women",
+    "context_quote": "Flowers of the White Archangel are preserved or conserved to be used to stay the whites",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "reds in women",
+    "context_quote": "the flowers of the red to stay the reds in women",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "melancholy",
+    "context_quote": "drives away melancholy",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "quartan agues",
+    "context_quote": "is good against quartan agues",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "bleeding at mouth and nose",
+    "context_quote": "stancheth bleeding at mouth and nose, if it be stamped and applied to the nape of the neck",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "hard tumour or swelling",
+    "context_quote": "laid upon a hard tumour or swelling, or that vulgarly called the king's evil, do help to dissolve or discuss them",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "gout, sciatica, and other pains of the joints and sinews",
+    "context_quote": "doth much allay the pains, and give ease to the gout, sciatica, and other pains of the joints and sinews",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "decoction in wine",
+    "context_quote": "by using the decoction of the herb in wine"
+   },
+   {
+    "kind": "hot plaister",
+    "context_quote": "applying the herb hot into the region of the spleen as a plaister"
+   },
+   {
+    "kind": "conserved flowers",
+    "context_quote": "Flowers of the White Archangel are preserved or conserved to be used"
+   },
+   {
+    "kind": "bruised herb with salt, vinegar and hog's-grease",
+    "context_quote": "the herb also bruised, and with some salt and vinegar and hog's-grease"
+   }
+  ],
+  "dosage_notes": [
+   "decoction of the herb in wine",
+   "applying the herb hot into the region of the spleen as a plaister",
+   "stamped and applied to the nape of the neck"
+  ],
+  "cautions": [],
+  "authority_citations": []
+ },
+ "resolutions": [
+  {
+   "historical_name": "Archangel",
+   "candidates": [
+    {
+     "scientific_name": "Angelica archangelica",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Angelica sylvestris",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.1,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Angelica archangelica",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Bee Nettle",
+   "candidates": [
+    {
+     "scientific_name": "Urtica dioica",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.9,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Lamium album",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.15,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Melittis melissophyllum",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.2,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Urtica dioica",
+   "confidence": 0.9,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Angelica archangelica",
+   "ema_monograph": {
+    "kind": "EMA_monograph",
+    "title": "Angelicae radix (angelica root)",
+    "identifier": "https://www.ema.europa.eu/en/medicines/herbal/angelicae-radix",
+    "year": "",
+    "url": "https://www.ema.europa.eu/en/medicines/herbal/angelicae-radix",
+    "relevance_note": "Confirms traditional use for respiratory and digestive complaints, aligning with historical records for pleurisy and cold pains."
+   },
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Understanding the phytochemistry and molecular insights to the pharmacology of Angelica archangelica L. (garden angelica) and its bioactive components.",
+     "identifier": "34254374",
+     "year": "2021",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/34254374/",
+     "relevance_note": "Reviews phytochemistry supporting traditional uses for respiratory and circulatory issues."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Effects of Angelica archangelica Extract on Overactive Bladder: A Pilot Randomized Controlled Trial.",
+     "identifier": "41368330",
+     "year": "2025",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/41368330/",
+     "relevance_note": "Modern clinical trial investigating urological effects, distinct from historical plague or poison antidote claims."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "Ferulic acid",
+    "Coumarins",
+    "Eugenol"
+   ],
+   "summary": "Evidence supports traditional applications for respiratory ailments and cold pains via phytochemical analysis. Modern trials focus on urology, while historical uses for plague or poison lack specific contemporary clinical validation in these documents."
+  },
+  {
+   "taxon": "Urtica dioica",
+   "ema_monograph": {
+    "kind": "EMA_monograph",
+    "title": "Urticae herba (nettle)",
+    "identifier": "https://www.ema.europa.eu/en/medicines/herbal/urticae-herba",
+    "year": "",
+    "url": "https://www.ema.europa.eu/en/medicines/herbal/urticae-herba",
+    "relevance_note": "Validates traditional use for urinary tract issues and inflammation, though does not explicitly address historical uses like spleen hardness or melancholy."
+   },
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Natural Compounds Used for Treating Hair Loss.",
+     "identifier": "37151166",
+     "year": "2023",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/37151166/",
+     "relevance_note": "Reviews bioactive compounds in nettle, supporting modern dermatological applications distinct from historical melancholy or bleeding uses."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Stinging Nettle (Urtica dioica L.): Nutritional Composition, Bioactive Compounds, and Food Functional Properties.",
+     "identifier": "36014458",
+     "year": "2022",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/36014458/",
+     "relevance_note": "Details nutritional profile and bioactive constituents, offering modern context for traditional claims regarding vitality and bleeding."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Stinging Nettle.",
+     "identifier": "37011125",
+     "year": "2012",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/37011125/",
+     "relevance_note": "Provides a general overview of the plant's chemistry and potential health benefits, bridging traditional knowledge with modern science."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "Histamine",
+    "Acetylcholine",
+    "Serotonin",
+    "Ascorbic acid"
+   ],
+   "summary": "Modern evidence supports Urtica dioica for urinary health and inflammation via bioactive compounds like histamine. While EMA monographs confirm efficacy for specific conditions, direct clinical validation for historical uses such as melancholy or spleen hardness is absent in current literature."
+  }
+ ],
+ "concordance": {
+  "grade": "D",
+  "direction": "contradicts",
+  "rationale": "Modern evidence for Angelica archangelica (PMID: 34254374) supports phytochemistry but lacks clinical data for spleen, leukorrhea, or melancholy. Urtica dioica shows no evidence for these specific historical claims.",
+  "uncertainty": "Low; historical indications lack modern pharmacological validation and may reflect outdated humoral theory.",
+  "caveats": [
+   "Historical claims rely on pre-modern medical frameworks.",
+   "No current clinical trials support the specific listed uses."
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "Flowers of the White Archangel are preserved or conserved to be used to stay the whites",
+   "This is likewise called Bee Nettle",
+   "doth much allay the pains, and give ease to the gout, sciatica, and other pains of the joints and sinews",
+   "drives away melancholy",
+   "is good against quartan agues",
+   "stancheth bleeding at mouth and nose, if it be stamped and applied to the nape of the neck",
+   "the flowers of the red to stay the reds in women",
+   "the physicians call a herb (which country people vulgarly know by the name of Dead Nettle) Archangel",
+   "used with better success for the stopping and hardness of the spleen"
+  ],
+  "quotes_failed": [
+   "laid upon a hard tumour or swelling, or that vulgarly called the king's evil, do help to dissolve or discuss them"
+  ],
+  "issues": [
+   "Unearned Grade: The entry received a 'D' grade with rationale citing lack of clinical data for specific historical claims (spleen, leukorrhea, melancholy). However, the failed quote regarding 'king's evil' (scrofula) represents a major historical claim that is explicitly unsupported by modern evidence. While the rationale mentions this, the presence of a confirmed failed quote regarding such a significant claim without any mitigating evidence in the graph makes the overall validation strict fail. The grade 'D' implies some validity or partial support which is contradicted by the failure of the primary historical indication (King's Evil) to have supporting evidence.",
+   "Completeness Issue: The resolution for 'Archangel' and 'Bee Nettle' relies on LLM proposals with GBIF EXACT status, but lacks specific authorship citations or original source text references in the extraction, relying solely on modern taxonomic matching which may not capture the full historical context of the claims being audited."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_044959_c92e06",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T04:55:05Z"
+ }
+}

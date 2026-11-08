@@ -1,0 +1,255 @@
+{
+ "id": "culpeper_106",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Osmond Royal, Or Water Fern",
+  "book": "",
+  "chapter": "",
+  "char_start": 273986,
+  "char_end": 275445,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "_Descript._] THIS shoots forth in Spring time (for in the Winter the\nleaves perish) divers rough hard stalks, half round, and yellowish, or\nflat on the other side, two feet high, having divers branches of winged\nyellowish green leaves on all sides, set one against another, longer,\nnarrower, and not nicked on the edges as the former. From the top of\nsome of these stalks grow forth a long bush of small and more yellow,\ngreen, scaly aglets, set in the same manner on the stalks as the leaves\nare, which are accounted the flowers and seeds. The root is rough,\nthick and scabby: with a white pith in the middle, which is called the\nheart thereof.\n\n_Place._] It grows on moors, bogs, and watery places, in many parts of\nthis land.\n\n_Time._] It is green all the summer, and the root only abides in winter.\n\n_Government and virtues._] Saturn owns the plant. This has all the\nvirtues mentioned in the former Ferns, and is much more effectual than\nthey, both for inward and outward griefs, and is accounted singularly\ngood in wounds, bruises, or the like. The decoction to be drank, or\nboiled into an ointment of oil, as a balsam or balm, and so it is\nsingularly good against bruises, and bones broken, or out of joint,\nand gives much ease to the cholic and splenetic diseases: as also\nfor ruptures or burstings. The decoction of the root in white wine,\nprovokes urine exceedingly, and cleanses the bladder and passages of\nurine.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Osmond Royal",
+    "context_quote": "HEADING: Osmond Royal, Or Water Fern",
+    "part_used": "The root"
+   },
+   {
+    "name_text": "Water Fern",
+    "context_quote": "HEADING: Osmond Royal, Or Water Fern",
+    "part_used": "The root"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "wounds",
+    "context_quote": "singularly good in wounds",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "bruises",
+    "context_quote": "singularly good against bruises",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "bones broken",
+    "context_quote": "and bones broken",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "out of joint",
+    "context_quote": "or out of joint",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "cholic diseases",
+    "context_quote": "gives much ease to the cholic",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "splenetic diseases",
+    "context_quote": "and splenetic diseases",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "ruptures",
+    "context_quote": "as also for ruptures or burstings",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "urine retention",
+    "context_quote": "provokes urine exceedingly, and cleanses the bladder",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "decoction to be drank",
+    "context_quote": "The decoction to be drank, or boiled into an ointment of oil"
+   },
+   {
+    "kind": "ointment of oil",
+    "context_quote": "boiled into an ointment of oil, as a balsam or balm"
+   },
+   {
+    "kind": "decoction in white wine",
+    "context_quote": "The decoction of the root in white wine"
+   }
+  ],
+  "dosage_notes": [
+   "It is green all the summer, and the root only abides in winter.",
+   "This has all the virtues mentioned in the former Ferns",
+   "much more effectual than they"
+  ],
+  "cautions": [],
+  "authority_citations": []
+ },
+ "resolutions": [
+  {
+   "historical_name": "Osmond Royal",
+   "candidates": [
+    {
+     "scientific_name": "Osmunda regalis",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Osmundastrum cinnamomeum",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.3,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Osmunda claytoniana",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.25,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Osmunda regalis",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Water Fern",
+   "candidates": [
+    {
+     "scientific_name": "Ceratopteris thalictroides",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.85,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Azolla filiculoides",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.4,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Marsilea quadrifolia",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.35,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Ceratopteris thalictroides",
+   "confidence": 0.85,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Osmunda regalis",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Cytotoxic Natural Products from the Jurassic Relict Osmunda regalis L.",
+     "identifier": "39275095",
+     "year": "2024",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/39275095/",
+     "relevance_note": "Identifies cytotoxic compounds in the species, potentially relevant to treating wounds or cancer-related 'cholic' conditions."
+    },
+    {
+     "kind": "PubMed",
+     "title": "The influence of Osmunda regalis root extract on head and neck cancer cell proliferation, invasion and gene expression.",
+     "identifier": "29202741",
+     "year": "2017",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/29202741/",
+     "relevance_note": "Demonstrates anti-proliferative effects of root extract on cancer cells, supporting traditional use for severe ailments."
+    },
+    {
+     "kind": "PubMed",
+     "title": "In situ assessment of genotoxic hazards of environmental pollution.",
+     "identifier": "2655178",
+     "year": "1989",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/2655178/",
+     "relevance_note": "Assesses genotoxicity; relevance to traditional wound healing or toxicity management is unclear."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "Cytotoxic natural products"
+   ],
+   "summary": "Modern research confirms cytotoxic properties in O. regalis, offering potential mechanisms for treating wounds or severe diseases like cancer ('cholic'). However, direct evidence linking these findings to specific traditional uses for bones or bruises remains limited."
+  },
+  {
+   "taxon": "Ceratopteris thalictroides",
+   "ema_monograph": null,
+   "pubmed": [],
+   "pubchem_cids": [],
+   "notable_constituents": [],
+   "summary": "No modern scientific evidence was found in the provided search results for C. thalictroides regarding its traditional uses for bones, bruises, or cholic diseases. Consequently, no notable constituents or specific identifiers could be reported based on current data."
+  }
+ ],
+ "concordance": {
+  "grade": "D",
+  "direction": "contradicts",
+  "rationale": "Modern evidence identifies Osmunda regalis as cytotoxic (PMID: 39275095, 29202741), contradicting historical claims of treating wounds and bruises. No clinical evidence supports the other claimed uses.",
+  "uncertainty": "Taxon resolution is high; safety concerns are significant for internal use.",
+  "caveats": [
+   "Historical 'Water Fern' may refer to Ceratopteris, but cytotoxicity of Osmunda dominates safety profile.",
+   "No modern clinical trials exist for any claimed indication."
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "and bones broken",
+   "and splenetic diseases",
+   "as also for ruptures or burstings",
+   "gives much ease to the cholic",
+   "or out of joint",
+   "provokes urine exceedingly, and cleanses the bladder",
+   "singularly good against bruises",
+   "singularly good in wounds"
+  ],
+  "quotes_failed": [
+   "HEADING: Osmond Royal, Or Water Fern"
+  ],
+  "issues": [
+   "Unearned Grade D: The grade 'D' (contradicts) is based on cytotoxicity evidence for Osmunda regalis. However, the entry lacks specific EMA or clinical trial data to support a definitive safety contradiction for all historical uses; the rationale relies solely on modern toxicology which may not fully negate historical topical efficacy without explicit contraindication in trials. Additionally, 'Water Fern' (Ceratopteris thalictroides) has 0 PubMed hits and no EMA status, yet is included in the entry with a resolved status, lacking sufficient evidence for its specific claims if any were attached to that name.",
+   "Missing Evidence: The resolution for 'Water Fern' cites LLM knowledge and GBIF EXACT but provides zero clinical or EMA evidence (pubmed_n: 0), making any therapeutic claim associated with this taxon in the graph unsupported by the required audit standards."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T05:11:25Z"
+ }
+}

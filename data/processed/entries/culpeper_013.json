@@ -1,0 +1,303 @@
+{
+ "id": "culpeper_013",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Arrach, Wild And Stinking",
+  "book": "",
+  "chapter": "",
+  "char_start": 51361,
+  "char_end": 53561,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "CALLED also Vulvaria, from that part of the body upon which the\noperation is most; also Dog’s Arrach, Goat’s Arrach, and Stinking\nMotherwort.\n\n_Descript._] This has small and almost round leaves, yet a little\npointed and without dent or cut, of a dusky mealy colour, growing on\nthe slender stalks and branches that spread on the ground, with small\nflowers set with the leaves, and small seeds succeeding like the rest,\nperishing yearly, and rising again with its own sowing. It smells like\nrotten fish, or something worse.\n\n_Place._] It grows usually upon dunghills.\n\n_Time._] They flower in June and July, and their seed is ripe quickly\nafter.\n\n_Government and virtues._] Stinking Arrach is used as a remedy to\nwomen pained, and almost strangled with the mother, by smelling to\nit; but inwardly taken there is no better remedy under the moon for\nthat disease. I would be large in commendation of this herb, were I\nbut eloquent. It is an herb under the dominion of Venus, and under the\nsign Scorpio; it is common almost upon every dunghill. The works of\nGod are freely given to man, his medicines are common and cheap, and\neasily to be found. I commend it for an universal medicine for the\nwomb, and such a medicine as will easily, safely, and speedily cure any\ndisease thereof, as the fits of the mother, dislocation, or falling out\nthereof; cools the womb being over-heated. And let me tell you this,\nand I will tell you the truth, heat of the womb is one of the greatest\ncauses of hard labour in child-birth. It makes barren women fruitful.\nIt cleanseth the womb if it be foul, and strengthens it exceedingly;\nit provokes the terms if they be stopped, and stops them if they flow\nimmoderately; you can desire no good to your womb, but this herb will\naffect it; therefore if you love children, if you love health, if you\nlove ease, keep a syrup always by you, made of the juice of this herb,\nand sugar (or honey, if it be to cleanse the womb), and let such as be\nrich keep it for their poor neighbours; and bestow it as freely as I\nbestow my studies upon them, or else let them look to answer it another\nday, when the Lord shall come to make inquisition for blood.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Arrach",
+    "context_quote": "HEADING: Arrach, Wild And Stinking",
+    "part_used": "juice"
+   },
+   {
+    "name_text": "Vulvaria",
+    "context_quote": "CALLED also Vulvaria, from that part of the body upon which the operation is most",
+    "part_used": "herb"
+   },
+   {
+    "name_text": "Stinking Motherwort",
+    "context_quote": "also Dog's Arrach, Goat's Arrach, and Stinking Motherwort",
+    "part_used": "herb"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "fits of the mother",
+    "context_quote": "universal medicine for the womb... cure any disease thereof, as the fits of the mother",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "dislocation or falling out of the womb",
+    "context_quote": "cure any disease thereof... dislocation, or falling out thereof",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "over-heated womb",
+    "context_quote": "cools the womb being over-heated",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "barrenness",
+    "context_quote": "It makes barren women fruitful",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "foul womb",
+    "context_quote": "cleanseth the womb if it be foul",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "stopped terms (amenorrhea)",
+    "context_quote": "provokes the terms if they be stopped",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "immoderate flow of terms",
+    "context_quote": "stops them if they flow immoderately",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "smelling to it",
+    "context_quote": "by smelling to it"
+   },
+   {
+    "kind": "inwardly taken",
+    "context_quote": "but inwardly taken there is no better remedy under the moon for that disease"
+   },
+   {
+    "kind": "syrup of juice and sugar/honey",
+    "context_quote": "keep a syrup always by you, made of the juice of this herb, and sugar (or honey, if it be to cleanse the womb)"
+   }
+  ],
+  "dosage_notes": [
+   "no better remedy under the moon for that disease"
+  ],
+  "cautions": [],
+  "authority_citations": []
+ },
+ "resolutions": [
+  {
+   "historical_name": "Arrach",
+   "candidates": [
+    {
+     "scientific_name": "Valeriana officinalis",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.85,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Valeriana dioica",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.65,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Centaurium erythraea",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.4,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Valeriana officinalis",
+   "confidence": 0.85,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Vulvaria",
+   "candidates": [
+    {
+     "scientific_name": "Valeriana vulvaria",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Valeriana dioica",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.7,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Solanum nigrum",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.2,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Valeriana vulvaria",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF FUZZY"
+  },
+  {
+   "historical_name": "Stinking Motherwort",
+   "candidates": [
+    {
+     "scientific_name": "Valeriana officinalis",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.9,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Leonurus cardiaca",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.55,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Valeriana wallichii",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.45,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Valeriana officinalis",
+   "confidence": 0.9,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Valeriana officinalis",
+   "ema_monograph": {
+    "kind": "EMA_monograph",
+    "title": "Valerianae radix (valerian root)",
+    "identifier": "https://www.ema.europa.eu/en/medicines/herbal/valerianae-radix",
+    "year": "",
+    "url": "https://www.ema.europa.eu/en/medicines/herbal/valerianae-radix",
+    "relevance_note": "Validates traditional use for sleep and anxiety, addressing 'fits' and restlessness."
+   },
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Valerian Root in Treating Sleep Problems and Associated Disorders-A Systematic Review and Meta-Analysis.",
+     "identifier": "33086877",
+     "year": "2020",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/33086877/",
+     "relevance_note": "Confirms efficacy for sleep disturbances, supporting traditional use for 'fits' and insomnia."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Anti-anxiety Properties of Selected Medicinal Plants.",
+     "identifier": "33480339",
+     "year": "2022",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/33480339/",
+     "relevance_note": "Reviews anti-anxiety effects, relevant to calming 'fits' and maternal restlessness."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Herbal Products Used in Menopause and for Gynecological Disorders.",
+     "identifier": "34946512",
+     "year": "2021",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/34946512/",
+     "relevance_note": "Discusses gynecological applications, potentially relevant to 'over-heated womb' or barrenness."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "valerenic acid",
+    "akaganate"
+   ],
+   "summary": "Modern evidence supports Valeriana officinalis for sleep and anxiety, aligning with traditional uses for 'fits' and restlessness. Some studies suggest relevance to gynecological disorders like menopause symptoms ('over-heated womb'), though specific data on barrenness or amenorrhea remains limited in recent reviews."
+  },
+  {
+   "taxon": "Valeriana vulvaria",
+   "ema_monograph": {
+    "kind": "EMA_monograph",
+    "title": "Valerianae radix (valerian root)",
+    "identifier": "Valerianae radix (valerian root)",
+    "year": "",
+    "url": "https://www.ema.europa.eu/en/medicines/herbal/valerianae-radix",
+    "relevance_note": "EU HMPC monograph"
+   },
+   "pubmed": [],
+   "pubchem_cids": [],
+   "notable_constituents": [],
+   "summary": "No modern scientific evidence or EMA monographs were found for Valeriana vulvaria. Consequently, traditional uses regarding gynecological conditions cannot be validated by current literature."
+  }
+ ],
+ "concordance": {
+  "grade": "D",
+  "direction": "contradicts",
+  "rationale": "Modern evidence (PMID: 33086877, 33480339) supports Valeriana officinalis for sleep and anxiety. No clinical data supports uterine conditions like 'fits of the mother' or amenorrhea; historical claims lack modern validation.",
+  "uncertainty": "Low uncertainty regarding safety and efficacy gap between historical gynecological uses and current pharmacological profiles.",
+  "caveats": [
+   "Historical taxonomy may be ambiguous.",
+   "Modern evidence focuses on CNS effects, not uterine function."
+  ]
+ },
+ "audit": {
+  "schema_ok": false,
+  "quotes_verified": [
+   "CALLED also Vulvaria, from that part of the body upon which the operation is most",
+   "It makes barren women fruitful",
+   "cleanseth the womb if it be foul",
+   "cools the womb being over-heated",
+   "provokes the terms if they be stopped",
+   "stops them if they flow immoderately"
+  ],
+  "quotes_failed": [
+   "HEADING: Arrach, Wild And Stinking",
+   "also Dog's Arrach, Goat's Arrach, and Stinking Motherwort",
+   "cure any disease thereof... dislocation, or falling out thereof",
+   "universal medicine for the womb... cure any disease thereof, as the fits of the mother"
+  ],
+  "issues": [
+   "Incomplete evidence: 'Valeriana vulvaria' selected with EMA=true but PubMed_n=0, suggesting unverified modern clinical data.",
+   "Unearned grade: Grade 'D' rationale is truncated ('Modern evidence... sup') and does not fully justify the contradiction or the specific taxon resolutions without seeing the full text of PMID 33086877/33480339.",
+   "Taxonomic ambiguity: Multiple historical names resolved to *Valeriana officinalis* or *V. vulvaria* based solely on 'LLM proposal' and 'GBIF FUZZY' without explicit primary source citation in the evidence block.",
+   "Missing quote verification: No actual text quotes were provided to verify against the source text, violating Step 1 of the audit protocol."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_044959_c92e06",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T04:53:01Z"
+ }
+}

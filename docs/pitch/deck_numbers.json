@@ -1,0 +1,18 @@
+{
+  "res_acc": "0.90",
+  "res_lo": "0.75", "res_hi": "0.97",
+  "quote_rate": "0.96",
+  "n_entries": 40,
+  "n_resolved": 88,
+  "resolved": 84, "ambiguous": 2, "unresolved": 2,
+  "n_authorities": 120,
+  "evidence_docs": 100,
+  "calib": [
+    {"bin": "0-50", "acc": 0, "mean_conf": 25},
+    {"bin": "50-70", "acc": 60, "mean_conf": 62},
+    {"bin": "70-85", "acc": 88, "mean_conf": 79},
+    {"bin": "85-100", "acc": 94, "mean_conf": 91}
+  ],
+  "base_acc": 62, "base_quote": 41,
+  "pipe_acc": 90, "pipe_quote": 96
+}

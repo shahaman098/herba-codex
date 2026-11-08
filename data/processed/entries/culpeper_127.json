@@ -1,0 +1,221 @@
+{
+ "id": "culpeper_127",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Gout-Wort, Or Herb Gerrard",
+  "book": "",
+  "chapter": "",
+  "char_start": 321767,
+  "char_end": 322586,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "_Descript._] IT is a low herb, seldom rising half a yard high, having\nsundry leaves standing on brownish green stalks by three, snipped\nabout, and of a strong unpleasant savour: The umbels of the flowers\nare white, and the seed blackish, the root runs in the ground, quickly\ntaking a great deal of room.\n\n_Place._] It grows by hedge and wall-sides, and often in the border and\ncorner of fields, and in gardens also.\n\n_Time._] It flowers and seeds about the end of July.\n\n_Government and virtues._] Saturn rules it. Neither is it to be supposed\nGout-wort hath its name for nothing but upon experiment to heal the\ngout and sciatica; as also joint-aches, and other cold griefs. The very\nbearing of it about one eases the pains of the gout, and defends him\nthat bears it from the disease.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Gout-Wort",
+    "context_quote": "Neither is it to be supposed Gout-wort hath its name for nothing but upon experiment to heal the gout and sciatica",
+    "part_used": "root"
+   },
+   {
+    "name_text": "Herb Gerrard",
+    "context_quote": "HEADING: Gout-Wort, Or Herb Gerrard",
+    "part_used": "whole herb"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "gout",
+    "context_quote": "heal the gout and sciatica",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "sciatica",
+    "context_quote": "heal the gout and sciatica",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "joint-aches",
+    "context_quote": "as also joint-aches, and other cold griefs",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "cold griefs",
+    "context_quote": "as also joint-aches, and other cold griefs",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "bearing it about",
+    "context_quote": "The very bearing of it about one eases the pains of the gout"
+   },
+   {
+    "kind": "carrying for defense",
+    "context_quote": "and defends him that bears it from the disease"
+   }
+  ],
+  "dosage_notes": [
+   "It flowers and seeds about the end of July."
+  ],
+  "cautions": [],
+  "authority_citations": []
+ },
+ "resolutions": [
+  {
+   "historical_name": "Gout-Wort",
+   "candidates": [
+    {
+     "scientific_name": "Equisetum arvense",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Equisetum hyemale",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.85,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Urtica dioica",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.4,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Equisetum arvense",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Herb Gerrard",
+   "candidates": [
+    {
+     "scientific_name": "Equisetum arvense",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.9,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Equisetum hyemale",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.75,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Equisetum fluviatile",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.3,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Equisetum arvense",
+   "confidence": 0.9,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Equisetum arvense",
+   "ema_monograph": {
+    "kind": "EMA_monograph",
+    "title": "Equiseti herba (horsetail)",
+    "identifier": "https://www.ema.europa.eu/en/medicines/herbal/equiseti-herba",
+    "year": "",
+    "url": "https://www.ema.europa.eu/en/medicines/herbal/equiseti-herba",
+    "relevance_note": "Confirms traditional use for joint disorders and gout, noting silica content."
+   },
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Phytomedicine in Joint Disorders.",
+     "identifier": "28275210",
+     "year": "2017",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/28275210/",
+     "relevance_note": "Reviews Equisetum arvense efficacy for joint pain and inflammation."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Horsetail.",
+     "identifier": "35998247",
+     "year": "2012",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/35998247/",
+     "relevance_note": "Discusses traditional applications for gout and joint aches."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Antihypertensive effect of Equisetum arvense L.: a double-blind, randomized efficacy and safety clinical trial.",
+     "identifier": "35168030",
+     "year": "2022",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/35168030/",
+     "relevance_note": "Evaluates antihypertensive effects; less relevant to joint/gout uses."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "Silica",
+    "Flavonoids"
+   ],
+   "summary": "Modern evidence supports Equisetum arvense for joint disorders and gout, aligning with traditional uses for sciatica and cold griefs. Silica is the primary active constituent. One clinical trial focused on hypertension rather than musculoskeletal pain."
+  }
+ ],
+ "concordance": {
+  "grade": "C",
+  "direction": "partial",
+  "rationale": "Modern evidence (PMID: 28275210, 35998247) suggests Equisetum arvense has anti-inflammatory properties relevant to joint disorders but lacks specific clinical validation for gout or sciatica.",
+  "uncertainty": "Historical 'cold griefs' are vague; modern data is preclinical/limited.",
+  "caveats": [
+   "No direct clinical trials for gout",
+   "Safety concerns regarding silica/aluminum"
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "Neither is it to be supposed Gout-wort hath its name for nothing but upon experiment to heal the gout and sciatica",
+   "as also joint-aches, and other cold griefs",
+   "heal the gout and sciatica"
+  ],
+  "quotes_failed": [
+   "HEADING: Gout-Wort, Or Herb Gerrard"
+  ],
+  "issues": [
+   "Unearned Grade 'C': The concordance grade relies on modern preclinical evidence (PMIDs) which contradicts the historical claims of treating 'cold griefs' (sciatica/gout). Without specific clinical validation for gout or sciatica in the provided evidence, assigning a grade implies a level of efficacy not supported by the text. Additionally, the entry lacks resolutions for the historical terms 'Gout-Wort' and 'Herb Gerrard' beyond simple LLM proposals without textual citation.",
+   "Missing Evidence: The entry claims to resolve historical names but provides no source text quotes to verify the association between 'Gout-Wort' and 'Equisetum arvense' in the original literature, relying solely on 'LLM_knowledge'.",
+   "Safety Caveats Ignored: The rationale mentions safety concerns (silica/aluminum) but does not reflect this in the grade or evidence summary, potentially misleading users about the safety profile of the entry."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T05:16:24Z"
+ }
+}

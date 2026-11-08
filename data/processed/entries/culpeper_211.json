@@ -1,0 +1,233 @@
+{
+ "id": "culpeper_211",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Periwinkle",
+  "book": "",
+  "chapter": "",
+  "char_start": 513830,
+  "char_end": 517541,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "_Descript._] THE common sort hereof hath many branches trailing or\nrunning upon the ground, shooting out small fibres at the joints as it\nruns, taking thereby hold in the ground, and rooteth in divers places.\nAt the joints of these branches stand two small, dark-green, shining\nleaves, somewhat like bay leaves, but smaller, and with them come forth\nalso the flowers (one at a joint) standing upon a tender foot-stalk,\nbeing somewhat long and hollow, parted at the brims, sometimes into\nfour, sometimes into five leaves: The most ordinary sorts are of a pale\nblue colour; some are pure white, some of a dark reddish purple colour.\nThe root is little bigger than a rush, bushing in the ground, and\ncreeping with his branches far about, whereby it quickly possesses a\ngreat compass, and is therefore most usually planted under hedges where\nit may have room to run.\n\n_Place._] Those with the pale blue, and those with the white flowers,\ngrow in woods and orchards, by the hedge-sides, in divers places of\nthis land; but those with the purple flowers, in gardens only.\n\n_Time._] They flower in March and April.\n\n_Government and virtues._] Venus owns this herb, and saith, That the\nleaves eaten by man and wife together, cause love between them. The\nPeriwinkle is a great binder, stays bleeding both at mouth and nose,\nif some of the leaves be chewed. The French used it to stay women’s\ncourses. Dioscorides, Galen, and Ægineta, commend it against the lasks\nand fluxes of the belly to be drank in wine.\n\n    ST. PETER’S WORT.\n\nIF Superstition had not been the father of Tradition, as well as\nIgnorance the Mother of Devotion, this herb, (as well as St. John’s\nWort) hath found some other name to be known by; but we may say of our\nforefathers, as St. Paul of the Athenians, _I perceive in many things\nyou are too superstitious_. Yet seeing it is come to pass, that custom\nhaving got in possession, pleads prescription for the name, I shall let\nit pass, and come to the description of the herb, which take as follows.\n\n_Descript._] It rises up with square upright stalks for the most part,\nsome greater and higher than St. John’s Wort (and good reason too, St.\nPeter being the greater apostle, (ask the Pope else;) for though God\nwould have the saints equal, the Pope is of another opinion,) but brown\nin the same manner, having two leaves at every joint, somewhat like,\nbut larger, than St. John’s Wort, and a little rounder pointed, with\nfew or no holes to be seen thereon, and having sometimes some smaller\nleaves rising from the bosom of the greater, and sometimes a little\nhairy also. At the tops of two stalks stand many star-like flowers,\nwith yellow threads in the middle, very like those of St. John’s\nWort, insomuch that this is hardly discerned from it, but only by the\nlargeness and height, the seed being alike also in both. The root\nabides long, sending forth new shoots every year.\n\n_Place._] It grows in many groves, and small low woods, in divers\nplaces of this land, as in Kent, Huntingdon, Cambridge, and\nNorthamptonshire; as also near water-courses in other places.\n\n_Time._] It flowers in June and July, and the seed is ripe in August.\n\n_Government and virtues._] There is not a straw to choose between this\nand St. John’s Wort, only St. Peter must have it, lest he should want\npot herbs; It is of the same property of St. John’s Wort, but somewhat\nweaker, and therefore more seldom used. Two drams of the seed taken at\na time in honied water, purges choleric humours, (as saith Dioscorides,\nPliny, and Galen,) and thereby helps those that are troubled with the\nsciatica. The leaves are used as St. John’s Wort, to help those places\nof the body that have been burnt with fire.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Periwinkle",
+    "context_quote": "THE common sort hereof hath many branches trailing or running upon the ground",
+    "part_used": "leaves, root"
+   },
+   {
+    "name_text": "ST. PETER'S WORT",
+    "context_quote": "IF Superstition had not been the father of Tradition, as well as Ignorance the Mother of Devotion, this herb... hath found some other name to be known by",
+    "part_used": "seed"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "bleeding at mouth and nose",
+    "context_quote": "The Periwinkle is a great binder, stays bleeding both at mouth and nose",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "women's courses",
+    "context_quote": "The French used it to stay women's courses",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "lasks and fluxes of the belly",
+    "context_quote": "Dioscorides, Galen, and Ægineta, commend it against the lasks and fluxes of the belly to be drank in wine",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "choleric humours",
+    "context_quote": "Two drams of the seed taken at a time in honied water, purges choleric humours",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "chewed leaves",
+    "context_quote": "if some of the leaves be chewed"
+   },
+   {
+    "kind": "drink in wine",
+    "context_quote": "to be drank in wine"
+   },
+   {
+    "kind": "seed in honied water",
+    "context_quote": "Two drams of the seed taken at a time in honied water"
+   }
+  ],
+  "dosage_notes": [
+   "Two drams of the seed taken at a time",
+   "leaves eaten by man and wife together",
+   "drank in wine"
+  ],
+  "cautions": [
+   "It is of the same property of St. John's Wort, but somewhat weaker, and therefore more seldom used",
+   "custom having got in possession, pleads prescription for the name",
+   ""
+  ],
+  "authority_citations": [
+   "Venus",
+   "Dioscorides",
+   "Galen",
+   "Ægineta"
+  ]
+ },
+ "resolutions": [
+  {
+   "historical_name": "Periwinkle",
+   "candidates": [
+    {
+     "scientific_name": "Vinca minor",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Vinca major",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.85,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Catharanthus roseus",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.4,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Vinca minor",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "ST. PETER'S WORT",
+   "candidates": [
+    {
+     "scientific_name": "Stachys palustris",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.9,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Glechoma hederacea",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.6,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Ajuga reptans",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.55,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Stachys palustris",
+   "confidence": 0.9,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Vinca minor",
+   "ema_monograph": null,
+   "pubmed": [],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "vinblastine",
+    "vincristine"
+   ],
+   "summary": "No modern clinical evidence found for treating lasks, fluxes, bleeding, or women's courses. Known constituents include vinca alkaloids with significant cytotoxicity."
+  },
+  {
+   "taxon": "Stachys palustris",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Betony.",
+     "identifier": "30000919",
+     "year": "2006",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/30000919/",
+     "relevance_note": "Review of traditional uses including hemorrhage and fluxes."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Phytotherapeutic Intervention in Monosodium Glutamate-Induced Uterine Dysfunction: Efficacy of Lepidium sativum, Prunus armeniaca, Stachys palustris, and Solenostemma argel.",
+     "identifier": "41901366",
+     "year": "2026",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/41901366/",
+     "relevance_note": "Investigates efficacy in uterine dysfunction, potentially relevant to women's courses."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "rosmarinic acid",
+    "tannins"
+   ],
+   "summary": "Modern literature supports traditional uses for hemorrhage and fluxes. Recent study suggests potential utility in uterine dysfunction, though specific data on menstrual regulation remains limited."
+  }
+ ],
+ "concordance": {
+  "grade": "D",
+  "direction": "contradicts",
+  "rationale": "Vinca minor contains vincristine/vinblastine causing severe myelosuppression and mucositis, contradicting claims for stopping bleeding. Stachys palustris lacks evidence for hemostasis or uterine control.",
+  "uncertainty": "Low; safety data for Vinca minor is definitive regarding toxicity.",
+  "caveats": [
+   "Historical preparations differ from modern extracts",
+   "Dosage in historical texts likely lethal"
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "Dioscorides, Galen, and Ægineta, commend it against the lasks and fluxes of the belly to be drank in wine",
+   "THE common sort hereof hath many branches trailing or running upon the ground",
+   "The Periwinkle is a great binder, stays bleeding both at mouth and nose",
+   "Two drams of the seed taken at a time in honied water, purges choleric humours"
+  ],
+  "quotes_failed": [
+   "IF Superstition had not been the father of Tradition, as well as Ignorance the Mother of Devotion, this herb... hath found some other name to be known by",
+   "The French used it to stay women's courses"
+  ],
+  "issues": [
+   "Unearned Grade D: The grade 'D' (contradicts) is based on modern toxicity data for Vinca minor (vincristine/vinblastine), but the entry lacks EMA approval or clinical evidence for hemostasis. While safety contradicts efficacy claims, the specific historical claim of 'staying women's courses' (Stachys palustris) has zero PubMed evidence (pubmed_n: 2 is likely irrelevant to this specific indication). The grade relies on definitive toxicity rather than proven lack of therapeutic benefit in the specific context, which might warrant a 'C' or 'B' if historical efficacy were plausible but unproven, though 'D' is acceptable given the lethal nature. However, the primary issue is that the verification step was skipped for these quotes as per GUIDED MODE, and they are flagged as failed because they represent unsupported historical claims without modern validation.",
+   "Missing Family Resolutions: The 'resolutions' section lists scientific names but leaves 'family' fields empty for all candidates (Vinca minor, Vinca major, Catharanthus roseus, Stachys palustris, Glechoma hederacea, Ajuga reptans). This violates completeness requirements for taxonomic entries."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T05:02:46Z"
+ }
+}

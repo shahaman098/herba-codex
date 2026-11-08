@@ -1,0 +1,160 @@
+@import "tailwindcss";
+
+@theme {
+  /* Typography */
+  --font-display: "EB Garamond", Georgia, "Times New Roman", serif;
+  --font-sans: "Inter Variable", ui-sans-serif, system-ui, -apple-system, sans-serif;
+  --font-mono: ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+
+  /* Scholarly early-modern palette */
+  --color-parchment: #f7f3e9;
+  --color-parchment-2: #f1ead9;
+  --color-parchment-3: #e7dcc3;
+  --color-ink: #26211a;
+  --color-ink-soft: #57503f;
+  --color-ink-faint: #8a8069;
+  --color-forest: #2f5233;
+  --color-forest-deep: #1f3b27;
+  --color-forest-bright: #3e6b48;
+  --color-forest-pale: #dde8d8;
+  --color-gold: #a67c2e;
+  --color-gold-bright: #c9a227;
+  --color-gold-pale: #f0e4c3;
+  --color-rust: #8b3a2f;
+  --color-rust-pale: #f2ddd6;
+  --color-evidblue: #2b5d8a;
+  --color-evidblue-pale: #dce6ee;
+  --color-amethyst: #6b4d8a;
+  --color-amethyst-pale: #e6ddef;
+  --color-verdigris: #1f7a72;
+  --color-verdigris-pale: #d7eae6;
+  --color-stone: #6b6a5e;
+  --color-stone-pale: #e3e0d4;
+  --color-amber: #b7791f;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  background-color: var(--color-parchment);
+  color: var(--color-ink);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+/* Subtle parchment texture: faint fibrous bands + vignette */
+.parchment-bg {
+  background-color: var(--color-parchment);
+  background-image:
+    repeating-linear-gradient(0deg, rgba(166, 124, 46, 0.025) 0 2px, transparent 2px 6px),
+    radial-gradient(120% 90% at 50% 0%, rgba(255, 252, 243, 0.8) 0%, transparent 55%),
+    radial-gradient(140% 110% at 50% 115%, rgba(120, 90, 30, 0.08) 0%, transparent 60%);
+}
+
+.parchment-card {
+  background-color: var(--color-parchment-2);
+  background-image:
+    repeating-linear-gradient(0deg, rgba(166, 124, 46, 0.03) 0 2px, transparent 2px 7px),
+    radial-gradient(100% 100% at 50% 0%, rgba(255, 253, 246, 0.7) 0%, transparent 60%);
+  box-shadow: 0 1px 2px rgba(38, 33, 26, 0.08), inset 0 0 40px rgba(166, 124, 46, 0.05);
+}
+
+/* Small-caps section headings, engraved look */
+.rule-title {
+  font-family: var(--font-sans);
+  font-weight: 600;
+  font-size: 0.68rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--color-ink-soft);
+}
+
+/* Quote highlights inside the source panel */
+mark.hl {
+  background: transparent;
+  color: inherit;
+  padding: 0 1px;
+  border-radius: 2px;
+  box-shadow: inset 0 -0.45em 0 var(--hl, rgba(201, 162, 39, 0.35));
+}
+mark.hl-name {
+  --hl: rgba(201, 162, 39, 0.42);
+}
+mark.hl-ailment {
+  --hl: rgba(139, 58, 47, 0.3);
+}
+mark.hl-prep {
+  --hl: rgba(31, 122, 114, 0.28);
+}
+mark.hl-authority {
+  --hl: rgba(107, 77, 138, 0.3);
+}
+
+/* Scrollbars, restrained */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: rgba(138, 128, 105, 0.5) transparent;
+}
+*::-webkit-scrollbar {
+  width: 9px;
+  height: 9px;
+}
+*::-webkit-scrollbar-thumb {
+  background: rgba(138, 128, 105, 0.45);
+  border-radius: 6px;
+  border: 2px solid transparent;
+  background-clip: content-box;
+}
+*::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::selection {
+  background: rgba(201, 162, 39, 0.35);
+}
+
+/* Cytoscape canvas should inherit the parchment */
+.cy-canvas canvas {
+  background: transparent !important;
+}
+
+/* Drop caps for the source text panel */
+.source-dropcap::first-letter {
+  font-family: var(--font-display);
+  font-weight: 600;
+  font-size: 2.6em;
+  line-height: 0.85;
+  float: left;
+  padding-right: 0.08em;
+  color: var(--color-forest);
+}
+
+/* Spinner */
+@keyframes hc-spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+.hc-spinner {
+  animation: hc-spin 0.9s linear infinite;
+}
+
+@keyframes hc-fade-up {
+  from {
+    opacity: 0;
+    transform: translateY(4px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+.hc-fade {
+  animation: hc-fade-up 0.25s ease-out both;
+}

@@ -39,8 +39,18 @@ def run_pipeline(max: int = typer.Option(0, "--max", help="limit entries (0=all)
                  workers: int = typer.Option(3, "--workers"),
                  interactive: bool = typer.Option(False, "--interactive",
                                                   help="agents drive their own tool loops"),
+                 shuffle_remaining: bool = typer.Option(False, "--shuffle-remaining",
+                                                        help="process not-yet-done entries in random order"),
+                 seed: int = typer.Option(42, "--seed"),
                  run_id: str = typer.Option("", help="reuse a trace run id")) -> None:
     entries = json.loads((INTERIM / "culpeper_entries.json").read_text(encoding="utf-8"))
+    if shuffle_remaining:
+        import random
+        done = {f.stem for f in Path("data/processed/entries").glob("*.json")}
+        rest = [e for e in entries if e["id"] not in done]
+        done_e = [e for e in entries if e["id"] in done]
+        random.Random(seed).shuffle(rest)
+        entries = done_e + rest
     trace = TraceLogger(run_id or None)
     console.print(f"[bold]run {trace.run_id}[/bold] — {min(max, len(entries)) if max else len(entries)} entries")
     results = run(entries, trace, max_entries=max, workers=workers, interactive=interactive)

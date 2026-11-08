@@ -1,0 +1,31 @@
+{
+ "id": "culpeper_067",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Earth Chesnuts",
+  "book": "",
+  "chapter": "",
+  "char_start": 186141,
+  "char_end": 186808,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "THEY are called Earth-nuts, Earth Chesnuts, Ground Nuts, Ciper-nuts,\nand in Sussex Pig-nuts. A description of them were needless, for every\nchild knows them.\n\n_Government and virtues._] They are something hot and dry in quality,\nunder the dominion of Venus, they provoke lust exceedingly, and stir\nup to those sports she is mistress of; the seed is excellent good to\nprovoke urine; and so also is the root, but it doth not perform it\nso forcibly as the seed doth. The root being dried and beaten into\npowder, and the powder made into an electuary, is as singular a remedy\nfor spitting and pissing of blood, as the former Chesnut was for coughs.",
+ "extraction": null,
+ "resolutions": [],
+ "evidence": [],
+ "concordance": null,
+ "audit": null,
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "note": "no extraction or non-medicinal"
+ }
+}

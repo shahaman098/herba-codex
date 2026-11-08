@@ -1,0 +1,304 @@
+{
+ "id": "culpeper_015",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Arssmart",
+  "book": "",
+  "chapter": "",
+  "char_start": 57460,
+  "char_end": 60145,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "The hot Arssmart is called also Water-pepper, or Culrage. The mild\nArssmart is called dead Arssmart Persicaria, or Peach-wort, because\nthe leaves are so like the leaves of a peach-tree; it is also called\nPlumbago.\n\n_Description of the mild._] This has broad leaves set at the great red\njoint of the stalks; with semicircular blackish marks on them, usually\neither blueish or whitish, with such like seed following. The root is\nlong, with many strings thereat, perishing yearly; this has no sharp\ntaste (as another sort has, which is quick and biting) but rather sour\nlike sorrel, or else a little drying, or without taste.\n\n_Place._] It grows in watery places, ditches, and the like, which for\nthe most part are dry in summer.\n\n_Time._] It flowers in June, and the seed is ripe in August.\n\n_Government and virtues._] As the virtue of both these is various, so\nis also their government; for that which is hot and biting, is under\nthe dominion of Mars, but Saturn, challenges the other, as appears by\nthat leaden coloured spot he hath placed upon the leaf.\n\nIt is of a cooling and drying quality, and very effectual for putrified\nulcers in man or beast, to kill worms, and cleanse the putrified\nplaces. The juice thereof dropped in, or otherwise applied, consumes\nall colds, swellings, and dissolveth the congealed blood of bruises by\nstrokes, falls, &c. A piece of the root, or some of the seeds bruised,\nand held to an aching tooth, takes away the pain. The leaves bruised\nand laid to the joint that has a felon thereon, takes it away. The\njuice destroys worms in the ears, being dropped into them; if the hot\nArssmart be strewed in a chamber, it will soon kill all the fleas;\nand the herb or juice of the cold Arssmart, put to a horse or other\ncattle’s sores, will drive away the fly in the hottest time of Summer;\na good handful of the hot biting Arssmart put under a horse’s saddle,\nwill make him travel the better, although he were half tired before.\nThe mild Arssmart is good against all imposthumes and inflammations at\nthe beginning, and to heal green wounds.\n\nAll authors chop the virtues of both sorts of Arssmart together, as men\nchop herbs for the pot, when both of them are of contrary qualities.\nThe hot Arssmart grows not so high or tall as the mild doth, but\nhas many leaves of the colour of peach leaves, very seldom or never\nspotted; in other particulars it is like the former, but may easily be\nknown from it, if you will but be pleased to break a leaf of it cross\nyour tongue, for the hot will make your tongue to smart, but the cold\nwill not. If you see them both together, you may easily distinguish\nthem, because the mild hath far broader leaves.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Arssmart",
+    "context_quote": "The hot Arssmart is called also Water-pepper, or Culrage.",
+    "part_used": "root, seeds, leaves, juice"
+   },
+   {
+    "name_text": "dead Arssmart Persicaria, or Peach-wort",
+    "context_quote": "The mild Arssmart is called dead Arssmart Persicaria, or Peach-wort, because the leaves are so like the leaves of a peach-tree; it is also called Plumbago.",
+    "part_used": "leaves"
+   },
+   {
+    "name_text": "Water-pepper",
+    "context_quote": "The hot Arssmart is called also Water-pepper, or Culrage.",
+    "part_used": "general"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "putrified ulcers",
+    "context_quote": "very effectual for putrified ulcers in man or beast",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "worms",
+    "context_quote": "to kill worms, and cleanse the putrified places",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "colds",
+    "context_quote": "consumes all colds, swellings",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "swellings",
+    "context_quote": "consumes all colds, swellings",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "congealed blood of bruises",
+    "context_quote": "dissolveth the congealed blood of bruises by strokes, falls, &c.",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "aching tooth",
+    "context_quote": "A piece of the root, or some of the seeds bruised, and held to an aching tooth, takes away the pain.",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "felon",
+    "context_quote": "The leaves bruised and laid to the joint that has a felon thereon, takes it away.",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "worms in the ears",
+    "context_quote": "The juice destroys worms in the ears, being dropped into them",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "juice dropped in",
+    "context_quote": "The juice thereof dropped in, or otherwise applied"
+   },
+   {
+    "kind": "root or seeds bruised",
+    "context_quote": "A piece of the root, or some of the seeds bruised, and held to an aching tooth"
+   },
+   {
+    "kind": "leaves bruised",
+    "context_quote": "The leaves bruised and laid to the joint that has a felon thereon"
+   },
+   {
+    "kind": "herb or juice applied to sores",
+    "context_quote": "the herb or juice of the cold Arssmart, put to a horse or other cattle's sores"
+   }
+  ],
+  "dosage_notes": [
+   "A good handful of the hot biting Arssmart put under a horse's saddle",
+   "The juice thereof dropped in, or otherwise applied",
+   "A piece of the root, or some of the seeds bruised"
+  ],
+  "cautions": [
+   "hot will make your tongue to smart",
+   "It grows in watery places, ditches, and the like, which for the most part are dry in summer.",
+   "All authors chop the virtues of both sorts of Arssmart together"
+  ],
+  "authority_citations": []
+ },
+ "resolutions": [
+  {
+   "historical_name": "Arssmart",
+   "candidates": [
+    {
+     "scientific_name": "Persicaria maculosa",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.85,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Persicaria hydropiper",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.75,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Persicaria lapathifolia",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.6,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Persicaria maculosa",
+   "confidence": 0.85,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "dead Arssmart Persicaria, or Peach-wort",
+   "candidates": [
+    {
+     "scientific_name": "Persicaria maculosa",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.8,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Persicaria lapathifolia",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.7,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Polygonum persicaria",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.65,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Persicaria maculosa",
+   "confidence": 0.8,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Water-pepper",
+   "candidates": [
+    {
+     "scientific_name": "Persicaria hydropiper",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Lysimachia terrestris",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.85,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Persicaria amphibia",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.6,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Persicaria hydropiper",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Persicaria maculosa",
+   "ema_monograph": null,
+   "pubmed": [],
+   "pubchem_cids": [],
+   "notable_constituents": [],
+   "summary": "No modern scientific evidence or reviews were found for Persicaria maculosa regarding its traditional uses for worms, colds, ulcers, bruises, toothache, or swellings. Further research is needed to validate these claims."
+  },
+  {
+   "taxon": "Persicaria hydropiper",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Persicaria hydropiper (L.) Delarbre: A review on traditional uses, bioactive chemical constituents and pharmacological and toxicological activities.",
+     "identifier": "31884037",
+     "year": "2020",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/31884037/",
+     "relevance_note": "Reviews traditional uses including dysentery, inflammation, and pain relief."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Ethnobotanical, Phytochemical, Pharmacological, and Toxicological Aspects of Persicaria hydropiper (L.) Delarbre.",
+     "identifier": "24834098",
+     "year": "2014",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/24834098/",
+     "relevance_note": "Discusses ethnobotanical applications for wounds, inflammation, and digestive issues."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Review on Pharmacological and Phytochemical Prospects of Traditional Medicinal Plant: Persicaria hydropiper (Smartweed).",
+     "identifier": "33655861",
+     "year": "2021",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/33655861/",
+     "relevance_note": "Examines pharmacological potential for antimicrobial and anti-inflammatory activities."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "flavonoids",
+    "tannins",
+    "alkaloids"
+   ],
+   "summary": "Modern literature supports P. hydropiper's traditional use for inflammation, pain, and wounds via flavonoids and tannins. Evidence suggests potential antimicrobial activity relevant to ulcers and infections, though specific claims for worms or congealed blood require further validation."
+  }
+ ],
+ "concordance": {
+  "grade": "C",
+  "direction": "partial",
+  "rationale": "Modern evidence (PMID: 31884037, 24834098) confirms traditional uses of P. hydropiper but lacks clinical trials for specific claims like 'putrified ulcers' or 'worms'. No EMA status exists.",
+  "uncertainty": "Taxonomic resolution includes P. maculosa with no modern evidence, limiting generalization to the historical entry's full scope.",
+  "caveats": [
+   "No clinical trials for specific claims",
+   "P. maculosa lacks modern data"
+  ]
+ },
+ "audit": {
+  "schema_ok": false,
+  "quotes_verified": [
+   "A piece of the root, or some of the seeds bruised, and held to an aching tooth, takes away the pain.",
+   "The hot Arssmart is called also Water-pepper, or Culrage.",
+   "The juice destroys worms in the ears, being dropped into them",
+   "The leaves bruised and laid to the joint that has a felon thereon, takes it away.",
+   "The mild Arssmart is called dead Arssmart Persicaria, or Peach-wort, because the leaves are so like the leaves of a peach-tree; it is also called Plumbago.",
+   "consumes all colds, swellings",
+   "dissolveth the congealed blood of bruises by strokes, falls, &c.",
+   "to kill worms, and cleanse the putrified places",
+   "very effectual for putrified ulcers in man or beast"
+  ],
+  "quotes_failed": [],
+  "issues": [
+   "Unearned Grade C: The concordance grade 'C' is assigned based on 'Modern evidence', but the evidence list shows 0 PubMed citations for Persicaria maculosa and only 3 for Persicaria hydropiper with no EMA approval. A grade of 'C' typically implies moderate clinical or regulatory support, which is absent here.",
+   "Missing Family Resolution: The 'family' field is empty for all resolved taxa (Persicaria maculosa, Persicaria hydropiper), violating completeness requirements.",
+   "Source Reliability: All candidates are sourced from 'LLM_knowledge' without external verification (e.g., GBIF EXACT claim contradicts the source label or lacks supporting data).",
+   "Incomplete Evidence Mapping: The rationale cites 'Modern evidence' but provides zero quantitative support (PubMed=0 for the primary taxon)."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_044959_c92e06",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T04:55:43Z"
+ }
+}

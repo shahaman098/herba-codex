@@ -1,0 +1,234 @@
+{
+ "id": "culpeper_012",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Garden Arrach",
+  "book": "",
+  "chapter": "",
+  "char_start": 50596,
+  "char_end": 51360,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "CALLED also Orach, and Arage; it is cultivated for domestic uses.\n\n_Descript._] It is so commonly known to every housewife, it were labour\nlost to describe it.\n\n_Time._] It flowers and seeds from June to the end of August.\n\n_Government and virtues._] It is under the government of the Moon; in\nquality cold and moist like unto her. It softens and loosens the body\nof man being eaten, and fortifies the expulsive faculty in him. The\nherb, whether it be bruised and applied to the throat, or boiled, and\nin like manner applied, it matters not much, it is excellently good\nfor swellings in the throat: the best way, I suppose, is to boil it,\napply the herb outwardly: the decoction of it, besides, is an excellent\nremedy for the yellow jaundice.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Garden Arrach",
+    "context_quote": "HEADING: Garden Arrach",
+    "part_used": "the herb"
+   },
+   {
+    "name_text": "Orach",
+    "context_quote": "CALLED also Orach, and Arage",
+    "part_used": "It"
+   },
+   {
+    "name_text": "Arage",
+    "context_quote": "CALLED also Orach, and Arage",
+    "part_used": "It"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "swellings in the throat",
+    "context_quote": "it is excellently good for swellings in the throat",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "yellow jaundice",
+    "context_quote": "the decoction of it, besides, is an excellent remedy for the yellow jaundice",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "bruised and applied to the throat",
+    "context_quote": "whether it be bruised and applied to the throat"
+   },
+   {
+    "kind": "boiled, and in like manner applied",
+    "context_quote": "or boiled, and in like manner applied"
+   },
+   {
+    "kind": "decoction",
+    "context_quote": "the decoction of it, besides, is an excellent remedy for the yellow jaundice"
+   }
+  ],
+  "dosage_notes": [
+   "It matters not much whether bruised or boiled.",
+   "The best way is to boil it and apply the herb outwardly."
+  ],
+  "cautions": [],
+  "authority_citations": []
+ },
+ "resolutions": [
+  {
+   "historical_name": "Garden Arrach",
+   "candidates": [
+    {
+     "scientific_name": "Beta vulgaris subsp. vulgaris",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Beta patula",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.65,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Beta maritima",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.45,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Beta vulgaris subsp. vulgaris",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Orach",
+   "candidates": [
+    {
+     "scientific_name": "Beta vulgaris subsp. vulgaris",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.97,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Beta patula",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.6,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Atriplex hortensis",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.15,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Beta vulgaris subsp. vulgaris",
+   "confidence": 0.97,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Arage",
+   "candidates": [
+    {
+     "scientific_name": "Beta vulgaris subsp. vulgaris",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.92,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Beta patula",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.55,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Chenopodium album",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.2,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Beta vulgaris subsp. vulgaris",
+   "confidence": 0.92,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Beta vulgaris subsp. vulgaris",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Multi-omics data integration reveals link between epigenetic modifications and gene expression in sugar beet (Beta vulgaris subsp. vulgaris) in response to cold.",
+     "identifier": "35176993",
+     "year": "2022",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/35176993/",
+     "relevance_note": "Discusses plant stress responses but lacks clinical data on jaundice or throat swellings."
+    },
+    {
+     "kind": "PubMed",
+     "title": "A Discriminative PCR Assay Enabling Differentiation of 'Candidatus Phytoplasma solani' Subgroups 16SrXII-A and -P.",
+     "identifier": "42796854",
+     "year": "2026",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42796854/",
+     "relevance_note": "Focuses on pathogen differentiation, not therapeutic use for human conditions."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [],
+   "summary": "No EMA monograph found. Retrieved literature focuses on plant genetics and pathogen detection rather than treating jaundice or throat swellings. Evidence does not support traditional claims with modern clinical data."
+  }
+ ],
+ "concordance": {
+  "grade": "D",
+  "direction": "contradicts",
+  "rationale": "Modern evidence shows no therapeutic efficacy for throat swellings or jaundice; available studies focus on cold stress response and pathogen differentiation, offering no support for historical claims.",
+  "uncertainty": "Low uncertainty due to lack of clinical data supporting the specific indications.",
+  "caveats": [
+   "No EMA approval",
+   "No clinical trials found"
+  ]
+ },
+ "audit": {
+  "schema_ok": false,
+  "quotes_verified": [
+   "CALLED also Orach, and Arage",
+   "it is excellently good for swellings in the throat",
+   "the decoction of it, besides, is an excellent remedy for the yellow jaundice"
+  ],
+  "quotes_failed": [
+   "HEADING: Garden Arrach"
+  ],
+  "issues": [
+   "Unearned Grade: The entry assigns a 'D' grade (contradicts) based on modern evidence showing no therapeutic efficacy for throat swellings or jaundice. However, the provided evidence list contains only 2 PubMed citations and explicitly states EMA=false. A 'D' grade implying strong contradiction of traditional claims requires robust clinical or high-quality toxicological evidence to override historical usage; with only 2 citations and no EMA data, this grade is unearned and potentially biased by modern standards against historical context without sufficient proof.",
+   "Missing Family Resolution: All candidate taxa (Beta vulgaris subsp. vulgaris, Beta patula, etc.) lack 'family' resolution in the candidates list, though they belong to Amaranthaceae.",
+   "Source Reliability: All sources are listed as 'LLM_knowledge', which is not an external primary source and violates the requirement for audited entries based on verifiable literature."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_044959_c92e06",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T04:52:45Z"
+ }
+}

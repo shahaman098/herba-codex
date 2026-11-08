@@ -1,0 +1,305 @@
+{
+ "id": "culpeper_005",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Alehoof, Or Ground-Ivy",
+  "book": "",
+  "chapter": "",
+  "char_start": 33985,
+  "char_end": 37160,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "SEVERAL counties give it different names, so that there is scarcely\nany herb growing of that bigness that has got so many: It is called\nCat’s-foot, Ground-ivy, Gill-go-by-ground, and Gill-creep-by-ground,\nTurn-hoof, Haymaids, and Alehoof.\n\n_Descript._] This well known herb lies, spreads and creeps upon the\nground, shoots forth roots, at the corners of tender jointed stalks,\nset with two round leaves at every joint somewhat hairy, crumpled\nand unevenly dented about the edges with round dents; at the joints\nlikewise, with the leaves towards the end of the branches, come forth\nhollow, long flowers, of a blueish purple colour, with small white\nspots upon the lips that hang down. The root is small with strings.\n\n_Place._] It is commonly found under hedges, and on the sides of\nditches, under houses, or in shadowed lanes, and other waste grounds,\nin almost every part of this land.\n\n_Time._] They flower somewhat early, and abide a great while; the\nleaves continue green until Winter, and sometimes abide, except the\nWinter be very sharp and cold.\n\n_Government and virtues._] It is an herb of Venus, and therefore cures\nthe diseases she causes by sympathy, and those of Mars by antipathy;\nyou may usually find it all the year long except the year be extremely\nfrosty; it is quick, sharp, and bitter in taste, and is thereby found\nto be hot and dry; a singular herb for all inward wounds, exulcerated\nlungs, or other parts, either by itself, or boiled with other the like\nherbs; and being drank, in a short time it eases all griping pains,\nwindy and choleric humours in the stomach, spleen or belly; helps the\nyellow jaundice, by opening the stoppings of the gall and liver, and\nmelancholy, by opening the stoppings of the spleen; expels venom or\npoison, and also the plague; it provokes urine and women’s courses; the\ndecoction of it in wine drank for some time together, procures ease\nto them that are troubled with the sciatica, or hip-gout: as also the\ngout in hands, knees or feet; if you put to the decoction some honey\nand a little burnt alum, it is excellently good to gargle any sore\nmouth or throat, and to wash the sores and ulcers in the privy parts of\nman or woman; it speedily helps green wounds, being bruised and bound\nthereto. The juice of it boiled with a little honey and verdigrease,\ndoth wonderfully cleanse fistulas, ulcers, and stays the spreading or\neating of cancers and ulcers; it helps the itch, scabs, wheals, and\nother breakings out in any part of the body. The juice of Celandine,\nField-daisies, and Ground-ivy clarified, and a little fine sugar\ndissolved therein, and dropped into the eyes, is a sovereign remedy\nfor all pains, redness, and watering of them; as also for the pin and\nweb, skins and films growing over the sight, it helps beasts as well as\nmen. The juice dropped into the ears, wonderfully helps the noise and\nsinging of them, and helps the hearing which is decayed. It is good to\ntun up with new drink, for it will clarify it in a night, that it will\nbe the fitter to be drank the next morning; or if any drink be thick\nwith removing, or any other accident, it will do the like in a few\nhours.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Alehoof",
+    "context_quote": "It is called Cat's-foot, Ground-ivy, Gill-go-by-ground, and Gill-creep-by-ground, Turn-hoof, Haymaids, and Alehoof.",
+    "part_used": "whole herb"
+   },
+   {
+    "name_text": "Ground-Ivy",
+    "context_quote": "It is called Cat's-foot, Ground-ivy, Gill-go-by-ground, and Gill-creep-by-ground, Turn-hoof, Haymaids, and Alehoof.",
+    "part_used": "whole herb"
+   },
+   {
+    "name_text": "Cat's-foot",
+    "context_quote": "It is called Cat's-foot, Ground-ivy, Gill-go-by-ground, and Gill-creep-by-ground, Turn-hoof, Haymaids, and Alehoof.",
+    "part_used": "whole herb"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "inward wounds",
+    "context_quote": "a singular herb for all inward wounds, exulcerated lungs, or other parts",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "exulcerated lungs",
+    "context_quote": "a singular herb for all inward wounds, exulcerated lungs, or other parts",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "griping pains",
+    "context_quote": "in a short time it eases all griping pains, windy and choleric humours in the stomach, spleen or belly",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "windy and choleric humours",
+    "context_quote": "in a short time it eases all griping pains, windy and choleric humours in the stomach, spleen or belly",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "yellow jaundice",
+    "context_quote": "helps the yellow jaundice, by opening the stoppings of the gall and liver",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "melancholy",
+    "context_quote": "and melancholy, by opening the stoppings of the spleen",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "venom or poison",
+    "context_quote": "expels venom or poison, and also the plague",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "plague",
+    "context_quote": "expels venom or poison, and also the plague",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "decoction in wine",
+    "context_quote": "the decoction of it in wine drank for some time together, procures ease to them that are troubled with the sciatica, or hip-gout"
+   },
+   {
+    "kind": "gargle with honey and burnt alum",
+    "context_quote": "if you put to the decoction some honey and a little burnt alum, it is excellently good to gargle any sore mouth or throat"
+   },
+   {
+    "kind": "wash for sores and ulcers",
+    "context_quote": "and to wash the sores and ulcers in the privy parts of man or woman"
+   },
+   {
+    "kind": "eye drop with Celandine and Field-daisies",
+    "context_quote": "The juice of Celandine, Field-daisies, and Ground-ivy clarified, and a little fine sugar dissolved therein, and dropped into the eyes"
+   }
+  ],
+  "dosage_notes": [
+   "drank for some time together",
+   "in a short time it eases all griping pains",
+   "dropped into the eyes"
+  ],
+  "cautions": [
+   "except the year be extremely frosty",
+   "The leaves continue green until Winter, and sometimes abide, except the Winter be very sharp and cold.",
+   ""
+  ],
+  "authority_citations": []
+ },
+ "resolutions": [
+  {
+   "historical_name": "Alehoof",
+   "candidates": [
+    {
+     "scientific_name": "Glechoma hederacea",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Lamium galeobdolon",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.3,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Lycopus europaeus",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.1,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Glechoma hederacea",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Ground-Ivy",
+   "candidates": [
+    {
+     "scientific_name": "Glechoma hederacea",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.97,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Lamium amplexicaule",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.2,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Lycopus europaeus",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.15,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Glechoma hederacea",
+   "confidence": 0.97,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Cat's-foot",
+   "candidates": [
+    {
+     "scientific_name": "Galium verum",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.85,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Galium aparine",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.6,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Asarum europaeus",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.25,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Galium verum",
+   "confidence": 0.85,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Glechoma hederacea",
+   "ema_monograph": null,
+   "pubmed": [],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "rosmarinic acid",
+    "methyl jasmonate"
+   ],
+   "summary": "No modern clinical or preclinical evidence was retrieved to support traditional uses for griping pains, jaundice, or lung exulceration. Research focus remains limited."
+  },
+  {
+   "taxon": "Galium verum",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "A Review of Phytochemical and Pharmacological Studies on Galium verum L., Rubiaceae.",
+     "identifier": "40333892",
+     "year": "2025",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/40333892/",
+     "relevance_note": "Reviews phytochemistry and pharmacology of Galium verum."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Phytochemical Screening and Antioxidant Activity of Selected Estonian Galium Species.",
+     "identifier": "36985838",
+     "year": "2023",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/36985838/",
+     "relevance_note": "Screens phytochemicals and antioxidant activity in Estonian Galium species."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Galium verum L. extract mitigates cardiovascular events in psoriasis rats.",
+     "identifier": "39894905",
+     "year": "2025",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/39894905/",
+     "relevance_note": "Demonstrates mitigation of cardiovascular events in a rat model."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "galiumin",
+    "quercetin"
+   ],
+   "summary": "Modern studies highlight antioxidant and cardiovascular protective effects. Evidence does not directly confirm historical uses for jaundice or melancholy, though anti-inflammatory properties are noted."
+  }
+ ],
+ "concordance": {
+  "grade": "C",
+  "direction": "partial",
+  "rationale": "Modern evidence for Glechoma hederacea is absent (no EMA, no PubMed). Evidence for Galium verum exists but contradicts the taxonomic resolution. No clinical data supports historical claims.",
+  "uncertainty": "Taxonomy resolved to Glechoma; zero modern clinical or pharmacological evidence found for this species regarding the specific historical indications.",
+  "caveats": [
+   "No EMA approval",
+   "No PubMed records for Glechoma hederacea",
+   "Claims rely solely on historical text"
+  ]
+ },
+ "audit": {
+  "schema_ok": false,
+  "quotes_verified": [
+   "a singular herb for all inward wounds, exulcerated lungs, or other parts",
+   "and melancholy, by opening the stoppings of the spleen",
+   "expels venom or poison, and also the plague",
+   "helps the yellow jaundice, by opening the stoppings of the gall and liver",
+   "in a short time it eases all griping pains, windy and choleric humours in the stomach, spleen or belly"
+  ],
+  "quotes_failed": [
+   "It is called Cat's-foot, Ground-ivy, Gill-go-by-ground, and Gill-creep-by-ground, Turn-hoof, Haymaids, and Alehoof."
+  ],
+  "issues": [
+   "Unearned Grade C: The concordance grade 'C' is partially justified by the lack of modern evidence for Glechoma hederacea (0 EMA, 0 PubMed), but the entry lacks explicit textual quotes to verify against. Without source text quotes, verification cannot be performed mechanically.",
+   "Missing Evidence Resolution: Galium verum has 3 PubMed hits listed in evidence, yet no specific citations or quotes are provided to substantiate these claims within the graph.",
+   "Incomplete Taxon Resolution: The 'Cat's-foot' resolution (Galium verum) shares the same taxon as the second historical name, but the entry structure implies distinct entities without clarifying if they refer to the same modern scientific name in a single node or separate nodes.",
+   "LLM Source Reliance: All candidate selections rely on 'LLM_knowledge' and 'GBIF EXACT' without primary source text quotes, violating the requirement for audited entries to have verifiable textual evidence."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_044207_e1e225",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T04:44:33Z"
+ }
+}

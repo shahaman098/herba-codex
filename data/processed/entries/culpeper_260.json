@@ -1,0 +1,248 @@
+{
+ "id": "culpeper_260",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Spignel, Or Spikenard",
+  "book": "",
+  "chapter": "",
+  "char_start": 644097,
+  "char_end": 645765,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "_Descript._] THE roots of common Spignel do spread much and deep in\nthe ground, many strings or branches growing from one head, which is\nhairy at the top, of a blackish brown colour on the outside, and white\nwithin, smelling well, and of an aromatical taste from whence rise\nsundry long stalks of most fine cut leaves like hair, smaller than\ndill, set thick on both sides of the stalks, and of a good scent. Among\nthese leaves rise up round stiff stalks, with a few joints and leaves\non them, and at the tops an umbel of pure white flowers; at the edges\nwhereof sometimes will be seen a shew of the reddish blueish colour,\nespecially before they be full blown, and are succeeded by small,\nsomewhat round seeds, bigger than the ordinary fennel, and of a brown\ncolour, divided into two parts, and crusted on the back, as most of the\numbelliferous seeds are.\n\n_Place._] It grows wild in Lancashire, Yorkshire, and other northern\ncounties, and is also planted in gardens.\n\n_Government and virtues._] It is an herb of Venus. Galen saith, The\nroots of Spignel are available to provoke urine, and women’s courses;\nbut if too much thereof be taken, it causes head-ache. The roots\nboiled in wine or water, and drank, helps the stranguary and stoppings\nof the urine, the wind, swellings and pains in the stomach, pains of\nthe mother, and all joint-aches. If the powder of the root be mixed\nwith honey, and the same taken as a licking medicine, it breaks tough\nphlegm, and dries up the rheum that falls on the lungs. The roots are\naccounted very effectual against the stinging or biting of any venomous\ncreature.\n\n    SPLEENWORT, CETERACH, OR HEART’S",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Spignel",
+    "context_quote": "THE roots of common Spignel do spread much and deep in the ground",
+    "part_used": "roots"
+   },
+   {
+    "name_text": "Spikenard",
+    "context_quote": "HEADING: Spignel, Or Spikenard",
+    "part_used": "roots"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "stranguary and stoppings of the urine",
+    "context_quote": "helps the stranguary and stoppings of the urine",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "the wind, swellings and pains in the stomach",
+    "context_quote": "the wind, swellings and pains in the stomach",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "pains of the mother",
+    "context_quote": "and pains of the mother",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "all joint-aches",
+    "context_quote": "and all joint-aches",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "tough phlegm",
+    "context_quote": "it breaks tough phlegm",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "rheum that falls on the lungs",
+    "context_quote": "and dries up the rheum that falls on the lungs",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "stinging or biting of any venomous creature",
+    "context_quote": "against the stinging or biting of any venomous creature",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "head-ache",
+    "context_quote": "but if too much thereof be taken, it causes head-ache",
+    "polarity": "causes",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "boiled in wine or water and drank",
+    "context_quote": "The roots boiled in wine or water, and drank"
+   },
+   {
+    "kind": "powder mixed with honey taken as a licking medicine",
+    "context_quote": "If the powder of the root be mixed with honey, and the same taken as a licking medicine"
+   }
+  ],
+  "dosage_notes": [
+   "if too much thereof be taken, it causes head-ache"
+  ],
+  "cautions": [
+   "if too much thereof be taken, it causes head-ache"
+  ],
+  "authority_citations": [
+   "Galen saith"
+  ]
+ },
+ "resolutions": [
+  {
+   "historical_name": "Spignel",
+   "candidates": [
+    {
+     "scientific_name": "Asarum europaeum",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Nardostachys jatamansi",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.45,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Valeriana officinalis",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.35,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Asarum europaeum",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Spikenard",
+   "candidates": [
+    {
+     "scientific_name": "Asarum europaeum",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.9,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Nardostachys jatamansi",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.85,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Valeriana wallichii",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.4,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Asarum europaeum",
+   "confidence": 0.9,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Asarum europaeum",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Ethno-pharmacology of Asaroon (Asarum europaeum L.) with special reference to Unani System of Medicine.",
+     "identifier": "34388332",
+     "year": "2022",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/34388332/",
+     "relevance_note": "Reviews traditional uses including dyspepsia, rheumatism, and urinary issues in Unani medicine."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Hepatic metabolism of carcinogenic β-asarone.",
+     "identifier": "26273788",
+     "year": "2015",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/26273788/",
+     "relevance_note": "Discusses safety concerns regarding beta-asarone, a key constituent of Asarum species."
+    },
+    {
+     "kind": "PubMed",
+     "title": "What risks do herbal products pose to the Australian community?",
+     "identifier": "28152355",
+     "year": "2017",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/28152355/",
+     "relevance_note": "General safety assessment of herbal products, noting potential toxicity of Asarum species."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "beta-asarone",
+    "asarone"
+   ],
+   "summary": "Traditional uses for stomach pain, rheumatism, and urinary stoppages are documented in Unani literature. Modern evidence highlights the presence of beta-asarone, a hepatotoxic constituent requiring caution, though specific clinical trials validating these traditional indications are absent."
+  }
+ ],
+ "concordance": {
+  "grade": "D",
+  "direction": "contradicts",
+  "rationale": "Modern evidence (PMID: 26273788) identifies β-asarone in Asarum europaeum as a carcinogen. EMA status is false, and no clinical trials support the historical claims for urinary or respiratory conditions.",
+  "uncertainty": "Low; safety data contradicts therapeutic use.",
+  "caveats": [
+   "Historical 'Spikenard' may refer to Nardostachys jatamansi, which has different safety profiles.",
+   "Traditional uses are not supported by modern toxicology."
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "THE roots of common Spignel do spread much and deep in the ground",
+   "against the stinging or biting of any venomous creature",
+   "and all joint-aches",
+   "and dries up the rheum that falls on the lungs",
+   "but if too much thereof be taken, it causes head-ache",
+   "helps the stranguary and stoppings of the urine",
+   "it breaks tough phlegm",
+   "the wind, swellings and pains in the stomach"
+  ],
+  "quotes_failed": [
+   "HEADING: Spignel, Or Spikenard",
+   "and pains of the mother"
+  ],
+  "issues": [
+   "Unearned Grade D: The grade 'D' is justified by safety data (carcinogen), but the entry lacks EMA approval or clinical trial evidence for therapeutic efficacy, making any claim of 'support' for historical conditions unearned. The rationale correctly identifies the contradiction but fails to explicitly flag that the entry admits no therapeutic benefit despite the high confidence in taxonomic resolution.",
+   "Incomplete Evidence: No PubMed IDs provided for the specific claims regarding 'pains of the mother' or respiratory conditions, only a generic count (n=3) and one safety study.",
+   "Taxonomic Ambiguity Ignored: The entry resolves both 'Spignel' and 'Spikenard' to Asarum europaeum with high confidence, ignoring the significant historical distinction where 'Spikenard' often refers to Nardostachys jatamansi (which has different safety profiles), a caveat noted but not resolved in the final graph structure."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T05:02:36Z"
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "id": "culpeper_026",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Beans",
+  "book": "",
+  "chapter": "",
+  "char_start": 81605,
+  "char_end": 83426,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "BOTH the garden and field beans are so well known, that it saves me the\nlabour of writing any description of them. The virtues follow.\n\n_Government and virtues._] They are plants of Venus, and the distilled\nwater of the flower of garden beans is good to clean the face and\nskin from spots and wrinkles, and the meal or flour of them, or the\nsmall beans doth the same. The water distilled from the green husk,\nis held to be very effectual against the stone, and to provoke urine.\nBean flour is used in poultices to assuage inflammations arising from\nwounds, and the swelling of women’s breasts caused by the curdling of\ntheir milk, and represses their milk; Flour of beans and Fenugreek\nmixed with honey, and applied to felons, boils, bruises, or blue marks\nby blows, or the imposthumes in the kernels of the ears, helps them\nall, and with Rose leaves, Frankincense and the white of an egg, being\napplied to the eyes, helps them that are swollen or do water, or have\nreceived any blow upon them, if used with wine. If a bean be parted in\ntwo, the skin being taken away, and laid on the place where the leech\nhath been set that bleeds too much, stays the bleeding. Bean flour\nboiled to a poultice with wine and vinegar, and some oil put thereto,\neases both pains and swelling of the privities. The husk boiled in\nwater to the consumption of a third part thereof, stays a lask; and the\nashes of the husks, made up with old hog’s grease, helps the old pains,\ncontusions, and wounds of the sinews, the sciatica and gout. The field\nbeans have all the aforementioned virtues as the garden beans.\n\nBeans eaten are extremely windy meat; but if after the Dutch fashion,\nwhen they are half boiled you husk them and then stew them (I cannot\ntell you how, for I never was a cook in all my life), they are\nwholesome food.",
+ "extraction": null,
+ "resolutions": [],
+ "evidence": [],
+ "concordance": null,
+ "audit": null,
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "note": "no extraction or non-medicinal"
+ }
+}

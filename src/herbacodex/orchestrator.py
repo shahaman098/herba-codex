@@ -109,12 +109,12 @@ def stage_historian(raw: dict, trace: TraceLogger, interactive: bool) -> Extract
     if interactive:
         payload = ROSTER["Historian"].run(
             f"Extract the medicinal content of this herbal entry.\n\n"
-            f"HEADING: {raw['locator']['heading']}\n\nTEXT:\n{raw['source_text'][:4500]}",
+            f"HEADING: {raw['locator']['heading']}\n\nTEXT:\n{raw['source_text'][:3500]}",
             trace, entry_id=raw["id"], stage="extraction")
     else:
         r = _llm("Historian", ROSTER["Historian"].system_prompt,
                  f"Extract the medicinal content of this herbal entry.\n\n"
-                 f"HEADING: {raw['locator']['heading']}\n\nTEXT:\n{raw['source_text'][:4500]}",
+                 f"HEADING: {raw['locator']['heading']}\n\nTEXT:\n{raw['source_text'][:3500]}",
                  1100)
         trace.log("llm_call", {"agent": "Historian", "usage": r.get("usage"),
                                "response_preview": r.get("text", "")[:1500]}, agent="Historian")
@@ -124,7 +124,7 @@ def stage_historian(raw: dict, trace: TraceLogger, interactive: bool) -> Extract
         r = _llm("Historian", ROSTER["Historian"].system_prompt +
                  "\nYour previous answer was invalid. Follow the schema EXACTLY.",
                  f"Extract the medicinal content of this herbal entry.\n\n"
-                 f"HEADING: {raw['locator']['heading']}\n\nTEXT:\n{raw['source_text'][:4500]}",
+                 f"HEADING: {raw['locator']['heading']}\n\nTEXT:\n{raw['source_text'][:3500]}",
                  1100)
         trace.log("stage_retry", {"entry": raw["id"], "stage": "extraction"})
         payload = _parse_json(r.get("text", "")) or {}
@@ -498,7 +498,7 @@ def process_entry(raw: dict, trace: TraceLogger, out_dir: Path, models: dict,
 
     entry_for_audit = {
         "id": entry_id, "heading": raw["locator"]["heading"],
-        "source_text": raw["source_text"][:4500],
+        "source_text": raw["source_text"][:3500],
         "extraction": extraction.model_dump(),
         "resolutions": [r.model_dump() for r in resolutions],
         "evidence": [e.model_dump() for e in evidence],

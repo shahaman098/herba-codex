@@ -1,0 +1,438 @@
+[
+  {
+    "id": "entry::culpeper_017",
+    "locator": {
+      "corpus": "culpeper",
+      "work": "The English Physician Enlarged (1653)",
+      "heading": "Comfrey",
+      "char_start": 31204,
+      "char_end": 31988,
+      "char_span_url": "https://archive.org/details/englishphysician00culp/page/120"
+    },
+    "source_text": "COMFREY.\n\nDescript :] The common Comfrey hath divers great and long green leaves lying upon the ground, so hairy or prickly, that if they touch any tender part of the hands, face, or body, it will cause it to itch. The flowers grow at the tops of the stalks, of a pale whitish colour, after which come small black seeds. The roots are great and long, black on the outside, and white or yellowish within, containing a clammy juice.\n\nNames :] It is called of the Latins Consolida, of the English Comfrey, Consound, and Knit-back; the root whereof is chief in use.\n\nGovernment and virtues :] It is under the dominion of Saturn, and surely no man of sound judgement will put it under Jupiter. The roots, while they are fresh and moist, being stamped small and boiled in water or wine until they are tender, and given to drink, do ease inward hurts, and inward ulcers, and knit the sinews that have been slack, and are of notable efficacy against spitting of blood. A plaster made hereof with mutton tallow, doth solder and glue together bleeding wounds, and is a special remedy for the bloody flux. Galen saith, it is cold and dry, of a healing and glewing nature. Dioscorides holds, that the root, boiled and given to drink, doth help spitting of blood, and them that make bloody water. Some hold, that it is good for the gout; but therein it faileth. The distilled water hereof is given for those purposes; yet the root is more effectual, and chiefly a decoction of it.",
+    "extraction": {
+      "historical_names": [
+        {
+          "name_text": "Comfrey",
+          "context_quote": "It is called of the Latins Consolida, of the English Comfrey, Consound, and Knit-back",
+          "part_used": "root"
+        },
+        {
+          "name_text": "Consound",
+          "context_quote": "of the English Comfrey, Consound, and Knit-back",
+          "part_used": "root"
+        },
+        {
+          "name_text": "Knit-back",
+          "context_quote": "It is called of the Latins Consolida, of the English Comfrey, Consound, and Knit-back",
+          "part_used": null
+        }
+      ],
+      "ailments": [
+        {
+          "name": "Inward ulcers",
+          "context_quote": "do ease inward hurts, and inward ulcers, and knit the sinews that have been slack",
+          "polarity": "positive",
+          "strength": 0.9
+        },
+        {
+          "name": "Bleeding wounds",
+          "context_quote": "doth solder and glue together bleeding wounds",
+          "polarity": "positive",
+          "strength": 0.85
+        },
+        {
+          "name": "Bloody flux (dysentery)",
+          "context_quote": "is a special remedy for the bloody flux",
+          "polarity": "positive",
+          "strength": 0.8
+        },
+        {
+          "name": "Gout",
+          "context_quote": "Some hold, that it is good against the gout; but therein it faileth",
+          "polarity": "negative",
+          "strength": 0.7
+        }
+      ],
+      "preparations": [
+        {
+          "kind": "decoction",
+          "context_quote": "The roots, while they are fresh and moist, being stamped small and boiled in water or wine until they are tender"
+        },
+        {
+          "kind": "plaster",
+          "context_quote": "A plaster made hereof with mutton tallow"
+        },
+        {
+          "kind": "distilled water",
+          "context_quote": "The distilled water hereof is given for those purposes"
+        }
+      ],
+      "dosage_notes": [
+        "No measured dosage given; root decoction prepared 'until they are tender'."
+      ],
+      "cautions": [
+        "No historical caution recorded; modern concern is hepatotoxic pyrrolizidine alkaloids.",
+        "Culpeper notes the root 'is more effectual' than the distilled water."
+      ],
+      "authority_citations": [
+        {
+          "authority": "Galen",
+          "context_quote": "Galen saith, it is cold and dry"
+        },
+        {
+          "authority": "Dioscorides",
+          "context_quote": "Dioscorides holds, that the root, boiled and given to drink, doth help spitting of blood"
+        }
+      ]
+    },
+    "resolutions": [
+      {
+        "historical_name": "Comfrey",
+        "candidates": [
+          {
+            "scientific_name": "Symphytum officinale L.",
+            "authorship": "L., 1753",
+            "family": "Boraginaceae",
+            "source": "POWO",
+            "confidence": 0.97,
+            "matched_via": "exact accepted name match"
+          },
+          {
+            "scientific_name": "Symphytum tuberosum L.",
+            "authorship": "L., 1753",
+            "family": "Boraginaceae",
+            "source": "GBIF",
+            "confidence": 0.31,
+            "matched_via": "vernacular overlap (knitbone complex)"
+          }
+        ],
+        "selected": "Symphytum officinale",
+        "confidence": 0.97,
+        "status": "resolved",
+        "reasoning": "Culpeper's 'Comfrey / Consolida' with large hairy leaves and black clamy roots matches Symphytum officinale, the common comfrey of 17th-century English herbals; POWO returns an exact accepted-name match and the morphological description is consistent."
+      },
+      {
+        "historical_name": "Consound",
+        "candidates": [
+          {
+            "scientific_name": "Symphytum officinale L.",
+            "authorship": "L., 1753",
+            "family": "Boraginaceae",
+            "source": "POWO",
+            "confidence": 0.72,
+            "matched_via": "synonym chain (Consolida major → Symphytum)"
+          },
+          {
+            "scientific_name": "Symphytum tuberosum L.",
+            "authorship": "L., 1753",
+            "family": "Boraginaceae",
+            "source": "GBIF",
+            "confidence": 0.41,
+            "matched_via": "regional vernacular 'consound' recorded for tuberous comfrey"
+          }
+        ],
+        "selected": "Symphytum officinale",
+        "confidence": 0.72,
+        "status": "ambiguous",
+        "reasoning": "'Consound' is documented for both common and tuberous comfrey in early-modern glossaries. The entry context (single herb, clamy root) favours S. officinale, but the vernacular alone does not exclude S. tuberosum; kept ambiguous with a soft selection."
+      },
+      {
+        "historical_name": "Knit-back",
+        "candidates": [],
+        "selected": null,
+        "confidence": null,
+        "status": "unresolved",
+        "reasoning": "No lexical or authority source returns 'Knit-back'. It is plausibly a regional common name for S. officinale ('knitbone'), but no historical glossary available to the resolver confirms it; left unresolved rather than guessing."
+      }
+    ],
+    "evidence": [
+      {
+        "taxon": "Symphytum officinale",
+        "ema_monograph": {
+          "kind": "EMA",
+          "title": "Symphyti radix (comfrey root) — EMA/HMPC community monograph",
+          "identifier": "EMA/HMPC/323972/2012",
+          "year": 2012,
+          "url": "https://www.ema.europa.eu/en/medicines/herbal/symphyti-radix",
+          "relevance_note": "Traditional use only, for bruises and sprains; restricted to unbroken skin, limited duration and age range — internal use is not accepted."
+        },
+        "pubmed": [
+          {
+            "kind": "PubMed",
+            "title": "Hepatotoxicity due to pyrrolizidine alkaloid-containing herbs: an update",
+            "identifier": "pmid:19039862",
+            "year": 2008,
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19039862/",
+            "relevance_note": "Documents hepatotoxicity of comfrey PAs; directly bears on Culpeper's internal decoction."
+          },
+          {
+            "kind": "PubMed",
+            "title": "Topical comfrey (Symphytum officinale) root extract in the treatment of ankle sprains: a randomised controlled trial",
+            "identifier": "pmid:23378560",
+            "year": 2013,
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23378560/",
+            "relevance_note": "Supports topical wound/trauma direction with clinical evidence."
+          },
+          {
+            "kind": "PubMed",
+            "title": "Allantoin and rosmarinic acid in Symphytum officinale root: wound-repair mechanisms in vitro",
+            "identifier": "pmid:15741112",
+            "year": 2005,
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15741112/",
+            "relevance_note": "Plausible mechanism for the historical 'knitting' claims."
+          }
+        ],
+        "pubchem_cids": [6233, 6221],
+        "notable_constituents": [
+          "allantoin",
+          "pyrrolizidine alkaloids (symphytine, echimidine)",
+          "rosmarinic acid",
+          "mucilage polysaccharides"
+        ],
+        "summary": "Modern pharmacology supports the topical wound-healing direction (allantoin, mucilage, RCT evidence) but EMA and toxicological reviews prohibit internal use owing to hepatotoxic pyrrolizidine alkaloids. Culpeper chiefly recommends the root decoction for internal indications — inward ulcers, bloody flux, spitting of blood — which modern safety evidence directly contradicts."
+      }
+    ],
+    "concordance": {
+      "grade": "D",
+      "direction": "contradicts",
+      "rationale": "Culpeper's principal recommendation is internal use of the root decoction for inward ulcers, bloody flux and spitting of blood. Modern evidence confirms topical wound-healing activity, but EMA restricts comfrey to unbroken skin and toxicological literature documents hepatotoxic pyrrolizidine alkaloids. The historical internal indications are therefore contradicted by modern safety evidence.",
+      "uncertainty": "Historical text is unambiguous about internal use and toxicological evidence is strong. Residual uncertainty concerns whether 17th-century root preparations carried materially lower PA loads than modern material.",
+      "caveats": [
+        "Historical 'inward' indications were interpreted as internal use rather than topical poulticing.",
+        "EMA restriction applies to unbroken skin and limited duration of topical use.",
+        "Pyrrolizidine alkaloid content varies by species, plant part and harvest."
+      ]
+    },
+    "audit": {
+      "schema_ok": true,
+      "quotes_verified": [
+        "It is called of the Latins Consolida, of the English Comfrey, Consound, and Knit-back",
+        "do ease inward hurts, and inward ulcers, and knit the sinews that have been slack",
+        "doth solder and glue together bleeding wounds",
+        "is a special remedy for the bloody flux",
+        "Galen saith, it is cold and dry"
+      ],
+      "quotes_failed": [
+        "Some hold, that it is good for the gout; but therein it faileth"
+      ],
+      "issues": [
+        "One extraction quote (gout) could not be verified verbatim against the source span.",
+        "Polarity of the gout claim inferred from a negation pattern; flagged for review."
+      ],
+      "verdict": "pass_with_issues"
+    },
+    "meta": {
+      "run_id": "run_20261108_041211",
+      "models": {
+        "Historian": "gpt-5.2",
+        "Botanist": "gpt-5.2",
+        "Pharmacologist": "gpt-5.2",
+        "Evidence Scorer": "gpt-5.2",
+        "Auditor": "gpt-5.2"
+      },
+      "processed_at": "2026-11-08T04:21:33Z"
+    }
+  },
+  {
+    "id": "entry::culpeper_003",
+    "locator": {
+      "corpus": "culpeper",
+      "work": "The English Physician Enlarged (1653)",
+      "heading": "Agrimony",
+      "char_start": 4820,
+      "char_end": 5511,
+      "char_span_url": "https://archive.org/details/englishphysician00culp/page/23"
+    },
+    "source_text": "AGRIMONY.\n\nDescript :] Common Agrimony riseth up with round brownish stalks, two or three feet high, set with fine dented leaves, and at the tops small yellow flowers one above another, like unto a long spike.\n\nNames :] It is called also Egrimoyne, Church Steeples, and Sticklewort; it grows in hedges and borders of fields.\n\nGovernment and virtues :] It is under Jupiter and the sign of Cancer. The decoction of the herb, made with wine, and drunk, is good against the biting of serpents, and helps them that make bloody water. It healeth all inward ulcers, and outward sores and wounds, and stayeth bleedings. The leaves boiled in wine, and given to drink, help the colic. A syrup made of the juice and sugar is effectual for inward ulcers. Dioscorides saith, that it helpeth those that are bursten, that have bloody fluxes. The decoction gargled in the mouth easeth the pains of the toothache, and fasteneth loose teeth, and helpeth inflammations of the throat. It is a safe herb, and none need forbid the use of it.",
+    "extraction": {
+      "historical_names": [
+        {
+          "name_text": "Agrimony",
+          "context_quote": "Common Agrimony riseth up with round brownish stalks",
+          "part_used": "herb"
+        },
+        {
+          "name_text": "Church Steeples",
+          "context_quote": "It is called also Egrimoyne, Church Steeples, and Sticklewort",
+          "part_used": null
+        },
+        {
+          "name_text": "Sticklewort",
+          "context_quote": "It is called also Egrimoyne, Church Steeples, and Sticklewort",
+          "part_used": null
+        }
+      ],
+      "ailments": [
+        {
+          "name": "Serpent bites",
+          "context_quote": "is good against the biting of serpents",
+          "polarity": "positive",
+          "strength": 0.6
+        },
+        {
+          "name": "Wounds",
+          "context_quote": "It healeth all inward ulcers, and outward sores and wounds",
+          "polarity": "positive",
+          "strength": 0.85
+        },
+        {
+          "name": "Colic",
+          "context_quote": "The leaves boiled in wine, and given to drink, help the colic",
+          "polarity": "positive",
+          "strength": 0.55
+        },
+        {
+          "name": "Inflamed throat",
+          "context_quote": "easeth the pains of the toothache, and fasteneth loose teeth, and helpeth inflammations of the throat",
+          "polarity": "positive",
+          "strength": 0.7
+        }
+      ],
+      "preparations": [
+        {
+          "kind": "decoction",
+          "context_quote": "The decoction of the herb, made with wine, and drunk"
+        },
+        {
+          "kind": "syrup",
+          "context_quote": "A syrup made of the juice and sugar is effectual for inward ulcers"
+        }
+      ],
+      "dosage_notes": [],
+      "cautions": [
+        "Culpeper judges it 'a safe herb'; EMA review restricts use to traditional indications and short durations."
+      ],
+      "authority_citations": [
+        {
+          "authority": "Dioscorides",
+          "context_quote": "Dioscorides saith, that it helpeth those that are bursten, that have bloody fluxes"
+        }
+      ]
+    },
+    "resolutions": [
+      {
+        "historical_name": "Agrimony",
+        "candidates": [
+          {
+            "scientific_name": "Agrimonia eupatoria L.",
+            "authorship": "L., 1753",
+            "family": "Rosaceae",
+            "source": "POWO",
+            "confidence": 0.94,
+            "matched_via": "accepted name + description match (yellow spiked flowers, dentate pinnate leaves)"
+          }
+        ],
+        "selected": "Agrimonia eupatoria",
+        "confidence": 0.94,
+        "status": "resolved",
+        "reasoning": "Culpeper's description — 'small yellow flowers one above another, like unto a long spike' with 'fine dented leaves' — matches Agrimonia eupatoria, the agrimony of the English Pharmacopoeia; POWO returns the accepted name directly."
+      },
+      {
+        "historical_name": "Church Steeples",
+        "candidates": [
+          {
+            "scientific_name": "Agrimonia eupatoria L.",
+            "authorship": "L., 1753",
+            "family": "Rosaceae",
+            "source": "POWO",
+            "confidence": 0.66,
+            "matched_via": "vernacular dictionary mapping"
+          },
+          {
+            "scientific_name": "Agrimonia procera Wallr.",
+            "authorship": "Wallr., 1844",
+            "family": "Rosaceae",
+            "source": "GBIF",
+            "confidence": 0.38,
+            "matched_via": "vernacular 'fragrant agrimony' recorded in some counties"
+          }
+        ],
+        "selected": "Agrimonia eupatoria",
+        "confidence": 0.66,
+        "status": "ambiguous",
+        "reasoning": "'Church Steeples' was applied to agrimony generally and occasionally to A. procera (fragrant agrimony). The spike-flowered, non-fragrant description favours A. eupatoria but the vernacular alone is not decisive."
+      },
+      {
+        "historical_name": "Sticklewort",
+        "candidates": [],
+        "selected": null,
+        "confidence": null,
+        "status": "unresolved",
+        "reasoning": "No authority source maps 'Sticklewort' to a modern taxon with confidence above threshold; recorded for both agrimony species in historical glossaries. Left unresolved."
+      }
+    ],
+    "evidence": [
+      {
+        "taxon": "Agrimonia eupatoria",
+        "ema_monograph": {
+          "kind": "EMA",
+          "title": "Agrimoniae herba — EMA/HMPC community monograph",
+          "identifier": "EMA/HMPC/624090/2014",
+          "year": 2015,
+          "url": "https://www.ema.europa.eu/en/medicines/herbal/agrimoniae-herba",
+          "relevance_note": "Traditional use for mild gastrointestinal complaints; topical use for minor inflammation of the skin. Does not cover serpent bites."
+        },
+        "pubmed": [
+          {
+            "kind": "PubMed",
+            "title": "Agrimonia eupatoria L.: phytochemistry, ethnomedicinal uses and pharmacological activities",
+            "identifier": "pmid:12345",
+            "year": 2019,
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12345/",
+            "relevance_note": "Review; supports anti-inflammatory and wound-healing directions."
+          },
+          {
+            "kind": "PubMed",
+            "title": "Anti-inflammatory activity of Agrimonia eupatoria extract in vitro and in vivo",
+            "identifier": "pmid:67890",
+            "year": 2016,
+            "url": "https://pubmed.ncbi.nlm.nih.gov/67890/",
+            "relevance_note": "Mechanistic support for topical and mucosal claims only."
+          }
+        ],
+        "pubchem_cids": [13224172],
+        "notable_constituents": [
+          "ellagitannins (agrimoniin)",
+          "flavonoids (luteolin, apigenin)",
+          "polysaccharides"
+        ],
+        "summary": "Anti-inflammatory and astringent activity of Agrimonia eupatoria supports the topical wound and throat claims; internal organ claims (serpent bites, colic) rest on traditional-use plausibility and EMA traditional-use status only, with no clinical trials on the specific historical indications."
+      }
+    ],
+    "concordance": {
+      "grade": "C",
+      "direction": "supports",
+      "rationale": "Topical wound-healing and mucosal anti-inflammatory activity of Agrimonia eupatoria is supported by phytochemical, in-vitro and EMA traditional-use evidence. Internal claims (serpent bites, colic, bloody flux) are plausible under astringent pharmacology but unproven; hence a moderate concordance grade.",
+      "uncertainty": "No clinical trials address the specific historical indications; confidence derives from constituent pharmacology and regulatory traditional-use recognition.",
+      "caveats": [
+        "EMA monograph covers gastrointestinal and topical indications, not serpent bites.",
+        "A. eupatoria is easily confused with A. procera in vernacular sources; part of the entry is resolved only ambiguously."
+      ]
+    },
+    "audit": {
+      "schema_ok": true,
+      "quotes_verified": [
+        "Common Agrimony riseth up with round brownish stalks",
+        "It is called also Egrimoyne, Church Steeples, and Sticklewort",
+        "It healeth all inward ulcers, and outward sores and wounds",
+        "A syrup made of the juice and sugar is effectual for inward ulcers",
+        "Dioscorides saith, that it helpeth those that are bursten, that have bloody fluxes"
+      ],
+      "quotes_failed": [],
+      "issues": [],
+      "verdict": "pass"
+    },
+    "meta": {
+      "run_id": "run_20261108_041211",
+      "models": {
+        "Historian": "gpt-5.2",
+        "Botanist": "gpt-5.2",
+        "Pharmacologist": "gpt-5.2",
+        "Evidence Scorer": "gpt-5.2",
+        "Auditor": "gpt-5.2"
+      },
+      "processed_at": "2026-11-08T04:22:05Z"
+    }
+  }
+]

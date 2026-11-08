@@ -1,0 +1,240 @@
+{
+ "id": "culpeper_065",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Sweet Chervil, Or Sweet Cicely",
+  "book": "",
+  "chapter": "",
+  "char_start": 183661,
+  "char_end": 185208,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "_Descript._] THIS grows very like the great hemlock, having large\nspread leaves cut into divers parts, but of a fresher green colour\nthan the Hemlock, tasting as sweet as the Anniseed. The stalks rise up\na yard high, or better, being creased or hollow, having leaves at the\njoints, but lesser; and at the tops of the branched stalks, umbels or\ntufts of white flowers; after which comes long crested black shining\nseed, pointed at both ends, tasting quick, yet sweet and pleasant. The\nroot is great and white, growing deep in the ground, and spreading\nsundry long branches therein, in taste and smell stronger than the\nleaves or seeds, and continuing many years.\n\n_Place._] This grows in gardens.\n\n_Government and virtues._] These are all three of them of the nature\nof Jupiter, and under his dominion. This whole plant, besides its\npleasantness in sallads, has its physical virtue. The root boiled, and\neaten with oil and vinegar, (or without oil) do much please and warm\nold and cold stomachs oppressed with wind or phlegm, or those that have\nthe phthisic or consumption of the lungs. The same drank with wine is a\npreservation from the plague. It provokes women’s courses, and expels\nthe after-birth, procures an appetite to meat, and expels wind. The\njuice is good to heal the ulcers of the head and face; the candied root\nhereof are held as effectual as Angelica, to preserve from infection in\nthe time of a plague, and to warm and comfort a cold weak stomach. It\nis so harmless, you cannot use it amiss.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Sweet Chervil",
+    "context_quote": "HEADING: Sweet Chervil, Or Sweet Cicely",
+    "part_used": "whole plant"
+   },
+   {
+    "name_text": "Sweet Cicely",
+    "context_quote": "HEADING: Sweet Chervil, Or Sweet Cicely",
+    "part_used": "whole plant"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "wind or phlegm in stomach",
+    "context_quote": "warm old and cold stomachs oppressed with wind or phlegm",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "phthisic or consumption of the lungs",
+    "context_quote": "or those that have the phthisic or consumption of the lungs",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "plague",
+    "context_quote": "a preservation from the plague",
+    "polarity": "prevents",
+    "strength": "claimed"
+   },
+   {
+    "name": "women's courses (amenorrhea)",
+    "context_quote": "It provokes women's courses",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "after-birth retention",
+    "context_quote": "and expels the after-birth",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "loss of appetite",
+    "context_quote": "procures an appetite to meat",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "ulcers of the head and face",
+    "context_quote": "good to heal the ulcers of the head and face",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "infection in the time of a plague",
+    "context_quote": "to preserve from infection in the time of a plague",
+    "polarity": "prevents",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "root boiled with oil and vinegar",
+    "context_quote": "The root boiled, and eaten with oil and vinegar"
+   },
+   {
+    "kind": "root boiled without oil",
+    "context_quote": "(or without oil)"
+   },
+   {
+    "kind": "plant juice",
+    "context_quote": "The juice is good to heal the ulcers of the head and face"
+   },
+   {
+    "kind": "candied root",
+    "context_quote": "the candied root hereof are held as effectual as Angelica"
+   }
+  ],
+  "dosage_notes": [
+   "eaten with oil and vinegar, (or without oil)",
+   "The same drank with wine",
+   "continuing many years"
+  ],
+  "cautions": [],
+  "authority_citations": []
+ },
+ "resolutions": [
+  {
+   "historical_name": "Sweet Chervil",
+   "candidates": [
+    {
+     "scientific_name": "Anthriscus cerefolium",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Valerianella locusta",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.15,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Anthriscus cerefolium",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Sweet Cicely",
+   "candidates": [
+    {
+     "scientific_name": "Anthriscus cerefolium",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Myrrhis odorata",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.85,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Anthriscus cerefolium",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Anthriscus cerefolium",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "A novel bicyclic lactone and other polyphenols from the commercially important vegetable Anthriscus cerefolium.",
+     "identifier": "35551255",
+     "year": "2022",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/35551255/",
+     "relevance_note": "Identifies novel bicyclic lactones and polyphenols, offering chemical basis for potential anti-inflammatory or antioxidant effects relevant to respiratory or digestive complaints."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Chemical profiling of Anthriscus cerefolium (L.) Hoffm., biological potential of the herbal extract, molecular modeling and KEGG pathway analysis.",
+     "identifier": "38977255",
+     "year": "2024",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/38977255/",
+     "relevance_note": "Profiles chemical constituents and analyzes biological potential via molecular modeling, potentially elucidating mechanisms for appetite regulation or metabolic support."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Malonyl-Caffeoylquinic Acids and Malonyl-Flavonoid-Glucosides from Three Edible Apiaceae Plants Anthriscus Cerefolium, Anthriscus Sylvestris, and Chaerophyllum Bulbosum.",
+     "identifier": "41048795",
+     "year": "2025",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/41048795/",
+     "relevance_note": "Characterizes specific malonyl-derivatives and flavonoid-glucosides, providing data on constituents that may modulate inflammation or oxidative stress."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "bicyclic lactones",
+    "polyphenols",
+    "malonyl-caffeoylquinic acids",
+    "flavonoid-glucosides"
+   ],
+   "summary": "Modern research identifies specific polyphenols, bicyclic lactones, and malonyl-flavonoids in Anthriscus cerefolium. While no direct clinical trials confirm efficacy for historical uses like plague or amenorrhea, these constituents suggest potential anti-inflammatory, antioxidant, or metabolic-modulating properties that could theoretically address respiratory distress ('phthisic'), digestive issues ('wind/phlegm'), or appetite loss."
+  }
+ ],
+ "concordance": {
+  "grade": "C",
+  "direction": "partial",
+  "rationale": "Modern evidence (PMID: 35551255, 38977255) identifies chemical constituents but lacks clinical trials for historical claims like plague prevention or lung consumption. Pharmacological plausibility exists for some anti-inflammatory effects, but efficacy is unproven.",
+  "uncertainty": "High uncertainty due to absence of clinical data supporting specific historical indications such as plague prevention or postpartum retention.",
+  "caveats": [
+   "No EMA approval",
+   "No clinical trials found",
+   "Historical claims lack modern validation"
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "a preservation from the plague",
+   "and expels the after-birth",
+   "good to heal the ulcers of the head and face",
+   "or those that have the phthisic or consumption of the lungs",
+   "procures an appetite to meat",
+   "to preserve from infection in the time of a plague",
+   "warm old and cold stomachs oppressed with wind or phlegm"
+  ],
+  "quotes_failed": [
+   "HEADING: Sweet Chervil, Or Sweet Cicely",
+   "It provokes women's courses"
+  ],
+  "issues": [
+   "Unearned Grade C: The concordance grade 'C' is partially justified by the lack of clinical trials for specific historical claims (plague prevention), but the entry conflates two distinct historical names ('Sweet Chervil' and 'Sweet Cicely') into a single taxon resolution without distinguishing their separate historical contexts or evidence bases. The failure of quotes regarding the heading suggests the entity definition itself is ambiguous or unsupported by primary text, yet the resolver selected one candidate with high confidence based on LLM/GBIF without verifying the textual source for these specific names.",
+   "Incomplete Evidence: The evidence section lists only 3 PubMed IDs but fails to address the specific historical claims mentioned in the rationale (plague prevention) which are explicitly flagged as lacking validation. The absence of EMA approval is noted, but no alternative clinical or ethnobotanical literature was found to support the 'partial' grade beyond chemical constituent identification.",
+   "Data Integrity: Multiple identical failed quotes for the heading suggest a systematic extraction error or a failure to validate the entity's primary definition against source text before processing."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T05:07:27Z"
+ }
+}

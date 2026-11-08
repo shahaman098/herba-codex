@@ -1,0 +1,174 @@
+{
+ "id": "culpeper_141",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Herb Robert",
+  "book": "",
+  "chapter": "",
+  "char_start": 352912,
+  "char_end": 354164,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "THE Herb Robert is held in great estimation by farmers, who use it in\ndiseases of their cattle.\n\n_Descript._] It rises up with a reddish stalk two feet high, having\ndivers leaves thereon, upon very long and reddish foot-stalks, divided\nat the ends into three or five divisions, each of them cut in on\nthe edges, which sometimes turn reddish. At the tops of the stalks\ncome forth divers flowers made of five leaves, much larger than the\nDove’s-foot, and of a more reddish colour; after which come black\nheads, as in others. The root is small and thready, and smells, as the\nwhole plant, very strong, almost stinking.\n\n_Place._] This grows frequently every where by the way-sides, upon\nditch banks and waste grounds wheresoever one goes.\n\n_Time._] It flowers in June and July chiefly, and the seed is ripe\nshortly after.\n\n_Government and virtues._] It is under the dominion of Venus. Herb\nRobert is commended not only against the stone, but to stay blood,\nwhere or howsoever flowing, it speedily heals all green wounds, and\nis effectual in old ulcers in the privy parts, or elsewhere. You may\npersuade yourself this is true, and also conceive a good reason for it,\ndo but consider it is an herb of Venus, for all it hath a man’s name.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Herb Robert",
+    "context_quote": "THE Herb Robert is held in great estimation by farmers",
+    "part_used": "whole plant"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "stone",
+    "context_quote": "Herb Robert is commended not only against the stone",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "bleeding",
+    "context_quote": "but to stay blood, where or howsoever flowing",
+    "polarity": "prevents",
+    "strength": "claimed"
+   },
+   {
+    "name": "green wounds",
+    "context_quote": "it speedily heals all green wounds",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "old ulcers in the privy parts",
+    "context_quote": "and is effectual in old ulcers in the privy parts",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "internal use for cattle",
+    "context_quote": "who use it in diseases of their cattle"
+   },
+   {
+    "kind": "topical application",
+    "context_quote": "it speedily heals all green wounds"
+   }
+  ],
+  "dosage_notes": [],
+  "cautions": [
+   "The root is small and thready, and smells, as the whole plant, very strong, almost stinking."
+  ],
+  "authority_citations": []
+ },
+ "resolutions": [
+  {
+   "historical_name": "Herb Robert",
+   "candidates": [
+    {
+     "scientific_name": "Geranium robertianum",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Geranium molle",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.15,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Geranium sylvaticum",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.05,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Geranium robertianum",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Geranium robertianum",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Antioxidant and anti-inflammatory activities of Geranium robertianum L. decoctions.",
+     "identifier": "28858365",
+     "year": "2017",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/28858365/",
+     "relevance_note": "Supports traditional use for wounds and ulcers via demonstrated anti-inflammatory and antioxidant properties in decoctions."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Promising effect of Geranium robertianum L. leaves and Aloe vera gel powder on Aspirin(®)-induced gastric ulcers in Wistar rats: anxiolytic behavioural effect, antioxidant activity, and protective pathways.",
+     "identifier": "37184667",
+     "year": "2023",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/37184667/",
+     "relevance_note": "Confirms gastroprotective effects relevant to treating old ulcers and gastric issues in animal models."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Neuroprotective effects of Geranium Robertianum L. Aqueous extract on the cellular Parkinson's disease model.",
+     "identifier": "36734700",
+     "year": "2023",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/36734700/",
+     "relevance_note": "Suggests potential neuroprotective mechanisms, though direct evidence for bleeding or stone uses is absent in current literature."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "geraniin",
+    "robertianin"
+   ],
+   "summary": "Modern research supports the traditional use of Geranium robertianum for wounds and ulcers through documented antioxidant and anti-inflammatory activities. Evidence suggests gastroprotective potential relevant to ulcer treatment, while data on bleeding cessation or stone dissolution remains limited in current studies."
+  }
+ ],
+ "concordance": {
+  "grade": "C",
+  "direction": "partial",
+  "rationale": "Modern evidence (PMID: 28858365, 37184667) confirms antioxidant/anti-inflammatory properties and gastric ulcer protection in rats. No clinical data supports claims for stones, bleeding, or ulcers.",
+  "uncertainty": "Human efficacy for historical claims is unproven; animal models suggest limited mechanistic plausibility only.",
+  "caveats": [
+   "No human trials for urolithiasis",
+   "Bleeding control not clinically validated"
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "Herb Robert is commended not only against the stone",
+   "THE Herb Robert is held in great estimation by farmers",
+   "and is effectual in old ulcers in the privy parts",
+   "but to stay blood, where or howsoever flowing",
+   "it speedily heals all green wounds"
+  ],
+  "quotes_failed": [],
+  "issues": [
+   "Grade 'C' is unearned: The entry lacks EMA approval (evidence.ema=false) and PubMed citations are insufficient for clinical claims; the rationale admits human efficacy is unproven, yet no specific quotes were provided to substantiate even the partial mechanistic claims or justify the grade without explicit supporting text."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T05:11:47Z"
+ }
+}

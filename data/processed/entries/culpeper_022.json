@@ -1,0 +1,282 @@
+{
+ "id": "culpeper_022",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Barberry",
+  "book": "",
+  "chapter": "",
+  "char_start": 73335,
+  "char_end": 74503,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "THE shrub is so well known by every boy or girl that has but attained\nto the age of seven years, that it needs no description.\n\n_Government and virtues._] Mars owns the shrub, and presents it to\nthe use of my countrymen to purge their bodies of choler. The inner\nrind of the Barberry-tree boiled in white wine, and a quarter of a\npint drank each morning, is an excellent remedy to cleanse the body of\ncholeric humours, and free it from such diseases as choler causes, such\nas scabs, itch, tetters, ringworms, yellow jaundice, boils, &c. It is\nexcellent for hot agues, burnings, scaldings, heat of the blood, heat\nof the liver, bloody-flux; for the berries are as good as the bark,\nand more pleasing: they get a man a good stomach to his victuals, by\nstrengthening the attractive faculty which is under Mars. The hair\nwashed with the lye made of the tree and water, will make it turn\nyellow, _viz._ of Mars’ own colour. The fruit and rind of the shrub,\nthe flowers of broom and of heath, or furz, cleanse the body of choler\nby sympathy, as the flowers, leaves, and bark of the peach-tree do by\nantipathy, because these are under Mars, that under Venus.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Barberry",
+    "context_quote": "THE shrub is so well known by every boy or girl that has but attained to the age of seven years, that it needs no description.",
+    "part_used": "shrub"
+   },
+   {
+    "name_text": "Barberry-tree",
+    "context_quote": "The inner rind of the Barberry-tree boiled in white wine, and a quarter of a pint drank each morning, is an excellent remedy to cleanse the body of choleric humours.",
+    "part_used": "inner rind"
+   },
+   {
+    "name_text": "berries",
+    "context_quote": "It is excellent for hot agues, burnings, scaldings, heat of the blood, heat of the liver, bloody-flux; for the berries are as good as the bark, and more pleasing.",
+    "part_used": "berries"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "choleric humours",
+    "context_quote": "purge their bodies of choler",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "scabs",
+    "context_quote": "free it from such diseases as choler causes, such as scabs",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "itch",
+    "context_quote": "such as scabs, itch, tetters, ringworms",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "tetters",
+    "context_quote": "such as scabs, itch, tetters, ringworms",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "ringworms",
+    "context_quote": "such as scabs, itch, tetters, ringworms",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "yellow jaundice",
+    "context_quote": "ringworms, yellow jaundice, boils, &c.",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "boils",
+    "context_quote": "yellow jaundice, boils, &c.",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "hot agues",
+    "context_quote": "It is excellent for hot agues, burnings, scaldings",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "boiled in white wine",
+    "context_quote": "The inner rind of the Barberry-tree boiled in white wine, and a quarter of a pint drank each morning"
+   },
+   {
+    "kind": "lye made of the tree and water",
+    "context_quote": "The hair washed with the lye made of the tree and water, will make it turn yellow"
+   }
+  ],
+  "dosage_notes": [
+   "a quarter of a pint drank each morning"
+  ],
+  "cautions": [],
+  "authority_citations": []
+ },
+ "resolutions": [
+  {
+   "historical_name": "Barberry",
+   "candidates": [
+    {
+     "scientific_name": "Berberis vulgaris",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Berberis thunbergii",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.45,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Berberis aquifolium",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.4,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Berberis vulgaris",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Barberry-tree",
+   "candidates": [
+    {
+     "scientific_name": "Berberis vulgaris",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.92,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Berberis aristata",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.35,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Berberis darwinii",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.2,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Berberis vulgaris",
+   "confidence": 0.92,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "berries",
+   "candidates": [
+    {
+     "scientific_name": "Berberis vulgaris",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.85,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Solanum dulcamara",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.3,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Ribes nigrum",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.25,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Berberis vulgaris",
+   "confidence": 0.85,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Berberis vulgaris",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Berberine and Its Role in Chronic Disease.",
+     "identifier": "27671811",
+     "year": "2016",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/27671811/",
+     "relevance_note": "Reviews berberine's antimicrobial and anti-inflammatory properties relevant to skin conditions like ringworms and itch."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Berberine and barberry (Berberis vulgaris): A clinical review.",
+     "identifier": "30637820",
+     "year": "2019",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/30637820/",
+     "relevance_note": "Discusses clinical applications of barberry extracts, supporting traditional uses for jaundice and metabolic issues."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Berberine.",
+     "identifier": "10767672",
+     "year": "2000",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/10767672/",
+     "relevance_note": "Provides foundational data on berberine's pharmacological effects, including potential relevance to humoral imbalances."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "Berberine",
+    "Jatrorrhizine"
+   ],
+   "summary": "Modern evidence supports antimicrobial and anti-inflammatory activities of Berberis vulgaris constituents like berberine. These properties align with traditional uses for skin ailments (ringworm, itch) and jaundice, though specific data on 'scabs' or 'tetters' remains limited in current literature."
+  }
+ ],
+ "concordance": {
+  "grade": "B",
+  "direction": "partial",
+  "rationale": "Modern evidence supports berberine's antimicrobial and anti-inflammatory properties (PMID: 27671811, 30637820), plausibly supporting historical claims for skin conditions like scabs, itch, and ringworms. Claims regarding jaundice or 'choleric humours' lack direct clinical validation.",
+  "uncertainty": "Historical mechanisms (humours) differ from modern pharmacology; specific efficacy for all listed conditions remains unproven in randomized trials.",
+  "caveats": [
+   "No EMA approval",
+   "Safety concerns with high doses"
+  ]
+ },
+ "audit": {
+  "schema_ok": false,
+  "quotes_verified": [
+   "It is excellent for hot agues, burnings, scaldings",
+   "THE shrub is so well known by every boy or girl that has but attained to the age of seven years, that it needs no description.",
+   "free it from such diseases as choler causes, such as scabs",
+   "purge their bodies of choler",
+   "ringworms, yellow jaundice, boils, &c.",
+   "such as scabs, itch, tetters, ringworms",
+   "yellow jaundice, boils, &c."
+  ],
+  "quotes_failed": [
+   "It is excellent for hot agues, burnings, scaldings, heat of the blood, heat of the liver, bloody-flux; for the berries are as good as the bark, and more pleasing.",
+   "The inner rind of the Barberry-tree boiled in white wine, and a quarter of a pint drank each morning, is an excellent remedy to cleanse the body of choleric humours."
+  ],
+  "issues": [
+   "Incomplete rationale text in concordance object ('fo' cut off)",
+   "Missing EMA/clinical evidence for 'B' grade given strong modern support",
+   "Taxon family field empty for all candidates despite high confidence LLM proposals",
+   "Source 'LLM_knowledge' lacks primary citation verification"
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T04:59:48Z"
+ }
+}

@@ -1,0 +1,209 @@
+{
+ "id": "culpeper_121",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Garlick",
+  "book": "",
+  "chapter": "",
+  "char_start": 308793,
+  "char_end": 310582,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "THE offensiveness of the breath of him that hath eaten Garlick, will\nlead you by the nose to the knowledge hereof, and (instead of a\ndescription) direct you to the place where it grows in gardens, which\nkinds are the best, and most physical.\n\n_Government and virtues._] Mars owns this herb. This was anciently\naccounted the poor man’s treacle, it being a remedy for all diseases\nand hurts (except those which itself breed.) It provokes urine, and\nwomen’s courses, helps the biting of mad dogs and other venomous\ncreatures, kills worms in children, cuts and voids tough phlegm,\npurges the head, helps the lethargy, is a good preservative against,\nand a remedy for any plague, sore, or foul ulcers; takes away spots\nand blemishes in the skin, eases pains in the ears, ripens and breaks\nimposthumes, or other swellings. And for all those diseases the onions\nare as effectual. But the Garlick hath some more peculier virtues\nbesides the former, _viz._ it hath a special quality to discuss\ninconveniences coming by corrupt agues or mineral vapours; or by\ndrinking corrupt and stinking waters; as also by taking wolf-bane,\nhenbane, hemlock, or other poisonous and dangerous herbs. It is also\nheld good in hydropick diseases, the jaundice, falling sickness,\ncramps, convulsions, the piles or hæmorrhoids, or other cold diseases.\nMany authors quote many diseases this is good for; but conceal its\nvices. Its heat is very vehement, and all vehement hot things send\nup but ill-favoured vapours to the brain. In coleric men it will add\nfuel to the fire; in men oppressed by melancholy, it will attenuate\nthe humour, and send up strong fancies, and as many strange visions to\nthe head; therefore let it be taken inwardly with great moderation;\noutwardly you may make more bold with it.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Garlick",
+    "context_quote": "THE offensiveness of the breath of him that hath eaten Garlick, will lead you by the nose to the knowledge hereof",
+    "part_used": "herb"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "all diseases and hurts (except those which itself breed)",
+    "context_quote": "it being a remedy for all diseases and hurts (except those which itself breed.)",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "urine provocation",
+    "context_quote": "It provokes urine, and women's courses",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "biting of mad dogs and other venomous creatures",
+    "context_quote": "helps the biting of mad dogs and other venomous creatures",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "worms in children",
+    "context_quote": "kills worms in children",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "tough phlegm",
+    "context_quote": "cuts and voids tough phlegm",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "lethargy",
+    "context_quote": "purges the head, helps the lethargy",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "plague, sore, or foul ulcers",
+    "context_quote": "is a good preservative against, and a remedy for any plague, sore, or foul ulcers",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "spots and blemishes in the skin",
+    "context_quote": "takes away spots and blemishes in the skin",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "inward use",
+    "context_quote": "therefore let it be taken inwardly with great moderation"
+   },
+   {
+    "kind": "outward use",
+    "context_quote": "outwardly you may make more bold with it"
+   }
+  ],
+  "dosage_notes": [
+   "taken inwardly with great moderation",
+   "outwardly you may make more bold with it"
+  ],
+  "cautions": [
+   "Its heat is very vehement, and all vehement hot things send up but ill-favoured vapours to the brain.",
+   "In coleric men it will add fuel to the fire",
+   "in men oppressed by melancholy, it will attenuate the humour, and send up strong fancies"
+  ],
+  "authority_citations": []
+ },
+ "resolutions": [
+  {
+   "historical_name": "Garlick",
+   "candidates": [
+    {
+     "scientific_name": "Allium sativum",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Allium ampeloprasum",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.4,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Allium cepa",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.35,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Allium sativum",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Allium sativum",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Chemical Constituents and Pharmacological Activities of Garlic (Allium sativum L.): A Review.",
+     "identifier": "32213941",
+     "year": "2020",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/32213941/",
+     "relevance_note": "Reviews antimicrobial, anti-inflammatory, and cardiovascular effects of garlic constituents."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Garlic bioactive substances and their therapeutic applications for improving human health: a comprehensive review.",
+     "identifier": "38915405",
+     "year": "2024",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/38915405/",
+     "relevance_note": "Discusses modern therapeutic applications including antimicrobial and metabolic benefits."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Black Garlic and Its Bioactive Compounds on Human Health Diseases: A Review.",
+     "identifier": "34443625",
+     "year": "2021",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/34443625/",
+     "relevance_note": "Focuses on processed garlic forms and specific disease prevention mechanisms."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "Allicin",
+    "Sulfides"
+   ],
+   "summary": "Modern evidence supports antimicrobial, anti-inflammatory, and cardiovascular benefits of Allium sativum. While traditional uses for 'worms' (antiparasitic) align with observed antimicrobial activity against bacteria and fungi, data on treating 'mad dog bites' or specific phlegm conditions is limited to general immunomodulation."
+  }
+ ],
+ "concordance": {
+  "grade": "C",
+  "direction": "partial",
+  "rationale": "Modern reviews (PMID: 32213941, 38915405) confirm antimicrobial and cardiovascular benefits but lack clinical evidence for historical claims like 'all diseases,' rabies, or specific phlegm cures.",
+  "uncertainty": "High uncertainty due to broad historical claims versus narrow modern pharmacological data.",
+  "caveats": [
+   "No EMA approval",
+   "Safety concerns exist for high doses"
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "THE offensiveness of the breath of him that hath eaten Garlick, will lead you by the nose to the knowledge hereof",
+   "cuts and voids tough phlegm",
+   "helps the biting of mad dogs and other venomous creatures",
+   "is a good preservative against, and a remedy for any plague, sore, or foul ulcers",
+   "it being a remedy for all diseases and hurts (except those which itself breed.)",
+   "kills worms in children",
+   "purges the head, helps the lethargy",
+   "takes away spots and blemishes in the skin"
+  ],
+  "quotes_failed": [
+   "It provokes urine, and women's courses"
+  ],
+  "issues": [
+   "Grade 'C' is partially unearned: The rationale cites modern reviews confirming benefits but lacks explicit citation of clinical evidence for the specific historical claims (rabies, phlegm) mentioned in the uncertainty section, making the 'partial' grade rely on an assumption rather than provided evidence. Additionally, the entry lists 3 PubMed hits but provides only 2 specific PMIDs in the rationale; the third source is unaccounted for.",
+   "Completeness gap: The 'selected' taxon (Allium sativum) has EMA=false and low clinical evidence count (n=3), yet the historical name resolution relies on an LLM proposal without external validation text, which is acceptable per schema but noted as a confidence driver."
+  ],
+  "verdict": "pass_with_issues"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T05:16:16Z"
+ }
+}

@@ -1,0 +1,174 @@
+{
+ "id": "culpeper_010",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Amaranthus",
+  "book": "",
+  "chapter": "",
+  "char_start": 47422,
+  "char_end": 49279,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "BESIDES its common name, by which it is best known by the florists of\nour days, it is called Flower Gentle, Flower Velure Floramor, and\nVelvet Flower.\n\n_Descript._] It being a garden flower, and well known to every one\nthat keeps it, I might forbear the description; yet, notwithstanding,\nbecause some desire it, I shall give it. It runs up with a stalk a\ncubit high, streaked, and somewhat reddish towards the root, but very\nsmooth, divided towards the top with small branches, among which stand\nlong broad leaves of a reddish green colour, slippery; the flowers are\nnot properly flowers, but tuffs, very beautiful to behold, but of no\nsmell, of reddish colour; if you bruise them, they yield juice of the\nsame colour, being gathered, they keep their beauty a long time; the\nseed is of a shining black colour.\n\n_Time._] They continue in flower from August till the time the frost\nnips them.\n\n_Government and virtues._] It is under the dominion of Saturn, and is\nan excellent qualifier of the unruly actions and passions of Venus,\nthough Mars also should join with her. The flowers dried and beaten\ninto powder, stop the terms in women, and so do almost all other red\nthings. And by the icon, or image of every herb, the ancients at\nfirst found out their virtues. Modern writers laugh at them for it;\nbut I wonder in my heart, how the virtues of herbs came at first to\nbe known, if not by their signatures; the moderns have them from the\nwritings of the ancients; the ancients had no writings to have them\nfrom: but to proceed. The flowers stop all fluxes of blood; whether in\nman or woman, bleeding either at the nose or wound. There is also a\nsort of Amaranthus that bears a white flower, which stops the whites\nin women, and the running of the reins in men, and is a most gallant\nantivenereal, and a singular remedy for the French pox.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Flower Gentle",
+    "context_quote": "it is called Flower Gentle, Flower Velure Floramor, and Velvet Flower.",
+    "part_used": "flowers"
+   },
+   {
+    "name_text": "Flower Velure Floramor",
+    "context_quote": "it is called Flower Gentle, Flower Velure Floramor, and Velvet Flower.",
+    "part_used": "flowers"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "menstrual flux (terms)",
+    "context_quote": "The flowers dried and beaten into powder, stop the terms in women",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "hemorrhage (fluxes of blood)",
+    "context_quote": "The flowers stop all fluxes of blood; whether in man or woman, bleeding either at the nose or wound.",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "leukorrhea (whites)",
+    "context_quote": "There is also a sort of Amaranthus that bears a white flower, which stops the whites in women",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "urethral discharge (running of the reins)",
+    "context_quote": "and the running of the reins in men",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "syphilis (French pox)",
+    "context_quote": "and is a most gallant antivenereal, and a singular remedy for the French pox.",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "dried powder",
+    "context_quote": "The flowers dried and beaten into powder, stop the terms in women"
+   },
+   {
+    "kind": "bruised juice",
+    "context_quote": "if you bruise them, they yield juice of the same colour"
+   }
+  ],
+  "dosage_notes": [],
+  "cautions": [],
+  "authority_citations": []
+ },
+ "resolutions": [
+  {
+   "historical_name": "Flower Gentle",
+   "candidates": [
+    {
+     "scientific_name": "Amaranthus blitum",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.6,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Amaranthus retroflexus",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.4,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Amaranthus hybridus",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.3,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "",
+   "confidence": 0.36,
+   "status": "ambiguous",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Flower Velure Floramor",
+   "candidates": [
+    {
+     "scientific_name": "Amaranthus caudatus",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.7,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Amaranthus cruentus",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.5,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Amaranthus tricolor",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.4,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "",
+   "confidence": 0.42,
+   "status": "ambiguous",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [],
+ "concordance": null,
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "The flowers dried and beaten into powder, stop the terms in women",
+   "The flowers stop all fluxes of blood; whether in man or woman, bleeding either at the nose or wound.",
+   "There is also a sort of Amaranthus that bears a white flower, which stops the whites in women",
+   "and is a most gallant antivenereal, and a singular remedy for the French pox.",
+   "and the running of the reins in men",
+   "it is called Flower Gentle, Flower Velure Floramor, and Velvet Flower."
+  ],
+  "quotes_failed": [],
+  "issues": [
+   "Missing evidence: The 'evidence' field is empty, providing no source text to verify the LLM-generated scientific name matches against historical names like 'Flower Gentle' or 'Flower Velure Floramor'.",
+   "Unearned confidence: Scientific names are assigned with low-to-moderate confidence (0.3-0.7) based solely on 'LLM proposal' without external verification data.",
+   "Ambiguous resolution: Both historical name resolutions remain 'ambiguous' with no selected candidate, preventing a definitive entry in the knowledge graph.",
+   "Missing family/authorship: Critical taxonomic fields ('family', 'authorship') are empty for all candidates."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_044207_e1e225",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T04:49:03Z"
+ }
+}

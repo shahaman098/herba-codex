@@ -1,0 +1,267 @@
+{
+ "id": "culpeper_222",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Sweet, Or Mead Sweet",
+  "book": "",
+  "chapter": "",
+  "char_start": 545622,
+  "char_end": 547912,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "_Descript._] THE stalks of these are reddish, rising to be three feet\nhigh, sometimes four or five feet, having at the joints thereof large\nwinged leaves, standing one above another at distances, consisting of\nmany and somewhat broad leaves, set on each side of a middle rib, being\nhard, rough, or rugged, crumpled much like unto elm leaves, having\nalso some smaller leaves with them (as Agrimony hath) somewhat deeply\ndented about the edges, of a sad green colour on the upper side, and\ngreyish underneath, of a pretty sharp scent and taste, somewhat like\nunto the Burnet, and a leaf hereof put into a cup of claret wine, gives\nalso a fine relish to it. At the tops of the stalks and branches stand\nmany tufts of small white flowers thrust thick together, which smell\nmuch sweeter than the leaves; and in their places, being fallen, come\ncrooked and cornered seed. The root is somewhat woody, and blackish on\nthe outside, and brownish within, with divers great strings, and lesser\nfibres set thereat, of a strong scent, but nothing so pleasant as the\nflowers and leaves, and perishes not, but abides many years, shooting\nforth a-new every Spring.\n\n_Place._] It grows in moist meadows that lie mostly wet, or near the\ncourses of water.\n\n_Time._] It flowers in some places or other all the three Summer\nmonths, that is, June, July, and August, and the seed is ripe soon\nafter.\n\n_Government and virtues._] Venus claims dominion over the herb. It is\nused to stay all manner of bleedings, fluxes, vomitings, and women’s\ncourses, also their whites: It is said to alter and take away the fits\nof the quartan agues, and to make a merry heart, for which purpose some\nuse the flowers, and some the leaves. It helps speedily those that\nare troubled with the cholic; being boiled in wine, and with a little\nhoney, taken warm, it opens the belly; but boiled in red wine, and\ndrank, it stays the flux of the belly. Outwardly applied, it helps old\nulcers that are cankerous, or hollow fistulous, for which it is by many\nmuch commended, as also for the sores in the mouth or secret parts. The\nleaves when they are full grown, being laid on the skin, will, in a\nshort time, raise blisters thereon, as Tragus saith. The water thereof\nhelps the heat and inflammation in the eyes.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Sweet",
+    "context_quote": "HEADING: Sweet, Or Mead Sweet",
+    "part_used": "whole plant"
+   },
+   {
+    "name_text": "Mead Sweet",
+    "context_quote": "HEADING: Sweet, Or Mead Sweet",
+    "part_used": "whole plant"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "bleedings",
+    "context_quote": "It is used to stay all manner of bleedings",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "fluxes",
+    "context_quote": "It is used to stay all manner of bleedings, fluxes",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "vomiting",
+    "context_quote": "fluxes, vomitings, and women's courses",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "women's courses",
+    "context_quote": "vomitings, and women's courses, also their whites",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "whites",
+    "context_quote": "women's courses, also their whites",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "quartan agues",
+    "context_quote": "It is said to alter and take away the fits of the quartan agues",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "sad heart",
+    "context_quote": "and to make a merry heart",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "cholic",
+    "context_quote": "It helps speedily those that are troubled with the cholic",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "leaf in claret wine",
+    "context_quote": "a leaf hereof put into a cup of claret wine, gives also a fine relish to it"
+   },
+   {
+    "kind": "flowers or leaves taken warm",
+    "context_quote": "some use the flowers, and some the leaves... being boiled in wine, and with a little honey, taken warm"
+   },
+   {
+    "kind": "boiled in red wine",
+    "context_quote": "but boiled in red wine, and drank, it stays the flux of the belly"
+   },
+   {
+    "kind": "outward application",
+    "context_quote": "Outwardly applied, it helps old ulcers that are cankerous, or hollow fistulous"
+   }
+  ],
+  "dosage_notes": [
+   "taken warm",
+   "with a little honey",
+   "boiled in wine"
+  ],
+  "cautions": [
+   "The leaves when they are full grown, being laid on the skin, will, in a short time, raise blisters thereon",
+   "Tragus saith",
+   ""
+  ],
+  "authority_citations": [
+   "Tragus"
+  ]
+ },
+ "resolutions": [
+  {
+   "historical_name": "Sweet",
+   "candidates": [
+    {
+     "scientific_name": "Melissa officinalis",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Mentha piperita",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.4,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Melissa officinalis var. citriodora",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.35,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Melissa officinalis",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Mead Sweet",
+   "candidates": [
+    {
+     "scientific_name": "Melissa officinalis",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.97,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Melissa officinalis",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.97,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Melissa officinalis f. citriodora",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.3,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Melissa officinalis",
+   "confidence": 0.97,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Melissa officinalis",
+   "ema_monograph": {
+    "kind": "EMA_monograph",
+    "title": "Melissae folium (melissa/lemon balm)",
+    "identifier": "https://www.ema.europa.eu/en/medicines/herbal/melissae-folium",
+    "year": "",
+    "url": "https://www.ema.europa.eu/en/medicines/herbal/melissae-folium",
+    "relevance_note": "Confirms traditional use for nervous tension and digestive complaints, noting lack of evidence for gynecological fluxes or bleeding."
+   },
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "The effects of lemon balm (Melissa officinalis L.) on depression and anxiety in clinical trials: A systematic review and meta-analysis.",
+     "identifier": "34449930",
+     "year": "2021",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/34449930/",
+     "relevance_note": "Reviews efficacy for anxiety/depression, not historical uses like quartan agues or fluxes."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Melissa officinalis L. - A review of its traditional uses, phytochemistry and pharmacology.",
+     "identifier": "27167460",
+     "year": "2016",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/27167460/",
+     "relevance_note": "Discusses historical applications for nervous disorders and digestion, contrasting with older gynecological uses."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Clinical Efficacy and Tolerability of Lemon Balm (Melissa officinalis L.) in Psychological Well-Being: A Review.",
+     "identifier": "39458539",
+     "year": "2024",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/39458539/",
+     "relevance_note": "Focuses on modern psychological well-being, offering no data on traditional uses like vomiting or quartan agues."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "rosmarinic acid",
+    "citral",
+    "linalool"
+   ],
+   "summary": "Modern evidence supports Melissa officinalis for anxiety and digestive issues. Historical uses for 'fluxes,' 'bleedings,' or 'quartan agues' lack contemporary clinical validation, though the plant's calming effects on vomiting may align with modern anti-nausea findings."
+  }
+ ],
+ "concordance": {
+  "grade": "C",
+  "direction": "partial",
+  "rationale": "Modern evidence (PMID: 34449930, 27167460) supports anxiolytic effects for 'sad heart' but lacks clinical data for hemostasis, anti-emesis, or antipyretic uses.",
+  "uncertainty": "High uncertainty regarding historical claims due to absence of modern clinical trials for bleeding, vomiting, and fever management.",
+  "caveats": [
+   "No evidence supports hemostatic claims",
+   "No evidence supports anti-emetic claims",
+   "No evidence supports antipyretic claims"
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "It helps speedily those that are troubled with the cholic",
+   "It is said to alter and take away the fits of the quartan agues",
+   "It is used to stay all manner of bleedings",
+   "It is used to stay all manner of bleedings, fluxes",
+   "and to make a merry heart"
+  ],
+  "quotes_failed": [
+   "HEADING: Sweet, Or Mead Sweet",
+   "fluxes, vomitings, and women's courses",
+   "vomitings, and women's courses, also their whites",
+   "women's courses, also their whites"
+  ],
+  "issues": [
+   "Unearned Grade C: The concordance grade 'C' with rationale citing lack of clinical data for hemostasis/anti-emesis/antipyretic uses is contradicted by the presence of specific historical claims in the failed quotes (e.g., 'fluxes', 'vomitings'). While modern evidence is lacking, the entry fails to distinguish between historical claims and modern validation; however, the primary failure here is that the quotes themselves were flagged as failed during mechanical verification, meaning the graph cannot admit them. The grade 'C' might be defensible if the quotes are excluded, but since they are marked as failed, the entry effectively lacks the evidence required to support the historical claims listed in the rationale.",
+   "Completeness Gap: The 'reasoning' field cites GBIF EXACT for taxon resolution but provides no external bibliographic source for the historical name associations ('Sweet', 'Mead Sweet'), relying solely on 'LLM_knowledge' which is insufficient for a rigorous knowledge graph without primary source citation."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T04:59:58Z"
+ }
+}

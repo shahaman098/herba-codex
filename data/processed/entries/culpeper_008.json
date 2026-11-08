@@ -1,0 +1,163 @@
+{
+ "id": "culpeper_008",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "The Common Alder-Tree",
+  "book": "",
+  "chapter": "",
+  "char_start": 41681,
+  "char_end": 42991,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "_Descript._] THIS grows to a reasonable height, and spreads much if\nit like the place. It is so generally known to country people, that I\nconceive it needless to tell that which is no news.\n\n_Place and Time._] It delights to grow in moist woods, and watery\nplaces; flowering in April or May, and yielding ripe seed in September.\n\n_Government and virtues._] It is a tree under the dominion of Venus,\nand of some watery sign or others, I suppose Pisces; and therefore\nthe decoction, or distilled water of the leaves, is excellent against\nburnings and inflammations, either with wounds or without, to bathe the\nplace grieved with, and especially for that inflammation in the breast,\nwhich the vulgar call an ague.\n\nIf you cannot get the leaves (as in Winter it is impossible) make use\nof the bark in the same manner.\n\nThe leaves and bark of the Alder-tree are cooling, drying, and\nbinding. The fresh leaves, laid upon swellings, dissolve them, and\nstay the inflammation. The leaves put under the bare feet galled with\ntravelling, are a great refreshing to them. The said leaves, gathered\nwhile the morning dew is on them, and brought into a chamber troubled\nwith fleas, will gather them thereunto, which being suddenly cast out,\nwill rid the chamber of those troublesome bed-fellows.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "The Common Alder-Tree",
+    "context_quote": "HEADING: The Common Alder-Tree",
+    "part_used": "leaves, bark"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "burnings and inflammations",
+    "context_quote": "excellent against burnings and inflammations",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "inflammation in the breast (ague)",
+    "context_quote": "especially for that inflammation in the breast, which the vulgar call an ague",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "swellings",
+    "context_quote": "laid upon swellings, dissolve them",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "galled feet",
+    "context_quote": "The leaves put under the bare feet galled with travelling, are a great refreshing to them",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "fleas",
+    "context_quote": "will gather them thereunto, which being suddenly cast out, will rid the chamber of those troublesome bed-fellows",
+    "polarity": "prevents",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "decoction",
+    "context_quote": "the decoction, or distilled water of the leaves"
+   },
+   {
+    "kind": "distilled water",
+    "context_quote": "the decoction, or distilled water of the leaves"
+   },
+   {
+    "kind": "fresh leaves applied",
+    "context_quote": "The fresh leaves, laid upon swellings"
+   }
+  ],
+  "dosage_notes": [
+   "gathered while the morning dew is on them",
+   "If you cannot get the leaves (as in Winter it is impossible) make use of the bark in the same manner."
+  ],
+  "cautions": [],
+  "authority_citations": []
+ },
+ "resolutions": [
+  {
+   "historical_name": "The Common Alder-Tree",
+   "candidates": [
+    {
+     "scientific_name": "Alnus glutinosa",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Alnus incana",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.6,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Alnus serrulata",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.3,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Alnus glutinosa",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Alnus glutinosa",
+   "ema_monograph": null,
+   "pubmed": [],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "tannins",
+    "flavonoids"
+   ],
+   "summary": "No modern clinical evidence or EMA monographs were found for Alnus glutinosa regarding the traditional uses of evil humours, lice, jaundice, dropsy, hardness of liver/spleen, or itch. While phytochemical constituents like tannins are known, specific therapeutic validation for these indications is absent in current literature."
+  }
+ ],
+ "concordance": {
+  "grade": "C",
+  "direction": "none",
+  "rationale": "No modern clinical evidence or EMA approval found for Alnus glutinosa regarding burns, inflammation, swellings, foot care, or flea control. Preclinical data is absent.",
+  "uncertainty": "Evidence base is currently empty; historical claims lack pharmacological validation in modern literature.",
+  "caveats": [
+   "Historical uses are anecdotal.",
+   "No safety data available."
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "The leaves put under the bare feet galled with travelling, are a great refreshing to them",
+   "especially for that inflammation in the breast, which the vulgar call an ague",
+   "excellent against burnings and inflammations",
+   "laid upon swellings, dissolve them",
+   "will gather them thereunto, which being suddenly cast out, will rid the chamber of those troublesome bed-fellows"
+  ],
+  "quotes_failed": [
+   "HEADING: The Common Alder-Tree"
+  ],
+  "issues": [
+   "Unearned grade 'C': The concordance rationale cites an 'empty evidence base' and lack of modern clinical/EMA data. However, assigning a specific negative grade (C) implies a quantified assessment of the evidence quality rather than simply stating absence. Without any positive or negative study data to evaluate, a grade is methodologically unearned; it should be 'N/A' or 'Unknown'.",
+   "Missing family resolution: The selected candidate 'Alnus glutinosa' has an empty 'family' field in the resolutions, violating completeness requirements for taxonomic entries."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_044207_e1e225",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T04:47:59Z"
+ }
+}

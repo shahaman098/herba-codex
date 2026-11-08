@@ -1,0 +1,221 @@
+{
+  "nodes": [
+    {
+      "id": "entry::culpeper_003",
+      "type": "Entry",
+      "label": "Agrimony",
+      "corpus": "culpeper",
+      "work": "The English Physician Enlarged",
+      "grade": "B",
+      "direction": "supports",
+      "audit_verdict": "pass",
+      "locator": { "heading": "Agrimony", "char_start": 4820, "char_end": 5511 }
+    },
+    {
+      "id": "taxon::Agrimonia eupatoria",
+      "type": "Taxon",
+      "label": "Agrimonia eupatoria",
+      "family": "Rosaceae",
+      "authority_name": "L."
+    },
+    {
+      "id": "name::agrimony",
+      "type": "HistoricalName",
+      "label": "Agrimony",
+      "part_used": "herb"
+    },
+    {
+      "id": "ailment::wounds",
+      "type": "Ailment",
+      "label": "Wounds"
+    },
+    {
+      "id": "ailment::sore_throat",
+      "type": "Ailment",
+      "label": "Sore throat"
+    },
+    {
+      "id": "evidence::pmid:12345",
+      "type": "Evidence",
+      "label": "Agrimonia eupatoria: phytochemistry and ethnomedicinal uses",
+      "kind": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12345/",
+      "year": 2019
+    },
+    {
+      "id": "evidence::pmid:67890",
+      "type": "Evidence",
+      "label": "Anti-inflammatory activity of Agrimonia eupatoria extract",
+      "kind": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/67890/",
+      "year": 2016
+    },
+    {
+      "id": "evidence::ema:agrimoniae_herba",
+      "type": "Evidence",
+      "label": "EMA HMPC monograph — Agrimoniae herba",
+      "kind": "EMA",
+      "url": "https://www.ema.europa.eu/en/medicines/herbal/agrimoniae-herba",
+      "year": 2015
+    },
+    {
+      "id": "authority::dioscorides",
+      "type": "Authority",
+      "label": "Dioscorides",
+      "era": "1st century CE"
+    },
+    {
+      "id": "prep::syrup",
+      "type": "Preparation",
+      "label": "syrup"
+    },
+    {
+      "id": "prep::infusion",
+      "type": "Preparation",
+      "label": "infusion"
+    },
+    {
+      "id": "culpeper",
+      "type": "Source",
+      "label": "Culpeper",
+      "work": "The English Physician Enlarged",
+      "year": 1653
+    }
+  ],
+  "edges": [
+    {
+      "source": "entry::culpeper_003",
+      "target": "culpeper",
+      "key": "recorded_in",
+      "type": "recorded_in",
+      "provenance": {
+        "agent": "Historian",
+        "confidence": 1.0,
+        "note": "Entry located by heading segmentation of the 1653 edition."
+      }
+    },
+    {
+      "source": "entry::culpeper_003",
+      "target": "name::agrimony",
+      "key": "mentions",
+      "type": "mentions",
+      "provenance": {
+        "quote": "Agrimony, which is called also Egrimoyne — it is under Jupiter and the sign of Cancer.",
+        "agent": "Historian",
+        "confidence": 0.98,
+        "char_start": 4831,
+        "char_end": 4902
+      }
+    },
+    {
+      "source": "name::agrimony",
+      "target": "taxon::Agrimonia eupatoria",
+      "key": "resolves_to",
+      "type": "resolves_to",
+      "provenance": {
+        "agent": "Botanist",
+        "confidence": 0.94,
+        "matched_via": "POWO exact-name match; Culpeper's description (serrated leaves, yellow flowers on a spike) consistent with Agrimonia eupatoria."
+      }
+    },
+    {
+      "source": "entry::culpeper_003",
+      "target": "ailment::wounds",
+      "key": "claims_treats",
+      "type": "claims_treats",
+      "provenance": {
+        "quote": "it healeth all inward ulcers, and outward sores and wounds",
+        "agent": "Historian",
+        "confidence": 0.96
+      }
+    },
+    {
+      "source": "entry::culpeper_003",
+      "target": "ailment::sore_throat",
+      "key": "claims_treats",
+      "type": "claims_treats",
+      "provenance": {
+        "quote": "the decoction gargled in the mouth, easeth the pains of the tooth-ache, and fasteneth loose teeth, and helpeth inflammations of the throat",
+        "agent": "Historian",
+        "confidence": 0.92
+      }
+    },
+    {
+      "source": "taxon::Agrimonia eupatoria",
+      "target": "evidence::ema:agrimoniae_herba",
+      "key": "regulated_use",
+      "type": "regulated_use",
+      "provenance": {
+        "agent": "Pharmacologist",
+        "confidence": 0.9,
+        "note": "EMA/HMPC traditional herbal medicinal product for mild gastrointestinal complaints; topical use for minor skin inflammation."
+      }
+    },
+    {
+      "source": "taxon::Agrimonia eupatoria",
+      "target": "evidence::pmid:12345",
+      "key": "supported_by",
+      "type": "supported_by",
+      "provenance": {
+        "agent": "Pharmacologist",
+        "confidence": 0.87,
+        "note": "Review of phytochemistry; supports anti-inflammatory and wound-healing directions."
+      }
+    },
+    {
+      "source": "taxon::Agrimonia eupatoria",
+      "target": "evidence::pmid:67890",
+      "key": "supported_by",
+      "type": "supported_by",
+      "provenance": {
+        "agent": "Pharmacologist",
+        "confidence": 0.81,
+        "note": "In-vitro anti-inflammatory activity; relevance to topical wound claims only."
+      }
+    },
+    {
+      "source": "entry::culpeper_003",
+      "target": "authority::dioscorides",
+      "key": "cites",
+      "type": "cites",
+      "provenance": {
+        "quote": "Dioscorides saith, that it helpeth those that are bursten, that have bloody fluxes",
+        "agent": "Historian",
+        "confidence": 0.95
+      }
+    },
+    {
+      "source": "entry::culpeper_003",
+      "target": "prep::syrup",
+      "key": "prepared_as",
+      "type": "prepared_as",
+      "provenance": {
+        "quote": "and a syrup made of the juice and sugar, is a safe remedy for inward ulcers",
+        "agent": "Historian",
+        "confidence": 0.93
+      }
+    },
+    {
+      "source": "entry::culpeper_003",
+      "target": "prep::infusion",
+      "key": "prepared_as",
+      "type": "prepared_as",
+      "provenance": {
+        "agent": "Historian",
+        "confidence": 0.88,
+        "note": "Inferred from 'the decoction gargled' — hot-water preparation."
+      }
+    },
+    {
+      "source": "entry::culpeper_003",
+      "target": "evidence::ema:agrimoniae_herba",
+      "key": "supported_by",
+      "type": "supported_by",
+      "provenance": {
+        "agent": "Evidence Scorer",
+        "confidence": 0.9,
+        "note": "Entry-level link: EMA traditional-use indication partially overlaps the historical claims."
+      }
+    }
+  ]
+}

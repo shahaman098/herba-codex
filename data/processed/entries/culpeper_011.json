@@ -1,0 +1,187 @@
+{
+ "id": "culpeper_011",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Anemone",
+  "book": "",
+  "chapter": "",
+  "char_start": 49280,
+  "char_end": 50595,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "CALLED also Wind flower, because they say the flowers never open but\nwhen the wind blows. Pliny is my author; if it be not so, blame him.\nThe seed also (if it bears any at all) flies away with the wind.\n\n_Place and Time._] They are sown usually in the gardens of the curious,\nand flower in the Spring-time. As for discription I shall pass it,\nbeing well known to all those that sow them.\n\n_Government and virtues._] It is under the dominion of Mars, being\nsupposed to be a kind of Crow-foot. The leaves provoke the terms\nmightily, being boiled, and the decoction drank. The body being bathed\nwith the decoction of them, cures the leprosy. The leaves being stamped\nand the juice snuffed up in the nose, purges the head mightily; so does\nthe root, being chewed in the mouth, for it procures much spitting,\nand brings away many watery and phlegmatic humours, and is therefore\nexcellent for the lethargy. And when all is done, let physicians prate\nwhat they please, all the pills in the dispensatory purge not the head\nlike to hot things held in the mouth. Being made into an ointment,\nand the eyelids anointed with it, it helps inflammations of the eyes,\nwhereby it is palpable, that every stronger draws its weaker like. The\nsame ointment is excellently good to cleanse malignant and corroding\nulcers.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Anemone",
+    "context_quote": "HEADING: Anemone",
+    "part_used": "whole plant"
+   },
+   {
+    "name_text": "Wind flower",
+    "context_quote": "CALLED also Wind flower, because they say the flowers never open but when the wind blows.",
+    "part_used": "flower"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "leprosy",
+    "context_quote": "The body being bathed with the decoction of them, cures the leprosy.",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "head purging",
+    "context_quote": "The leaves being stamped and the juice snuffed up in the nose, purges the head mightily;",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "lethargy",
+    "context_quote": "and is therefore excellent for the lethargy.",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "inflammations of the eyes",
+    "context_quote": "Being made into an ointment, and the eyelids anointed with it, it helps inflammations of the eyes,",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "malignant and corroding ulcers",
+    "context_quote": "The same ointment is excellently good to cleanse malignant and corroding ulcers.",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "decoction",
+    "context_quote": "The leaves provoke the terms mightily, being boiled, and the decoction drank."
+   },
+   {
+    "kind": "snuff",
+    "context_quote": "The leaves being stamped and the juice snuffed up in the nose,"
+   },
+   {
+    "kind": "ointment",
+    "context_quote": "Being made into an ointment, and the eyelids anointed with it,"
+   }
+  ],
+  "dosage_notes": [
+   "The leaves provoke the terms mightily, being boiled, and the decoction drank.",
+   "The root, being chewed in the mouth, for it procures much spitting,",
+   "Being made into an ointment, and the eyelids anointed with it,"
+  ],
+  "cautions": [
+   "if it be not so, blame him",
+   "if it bears any at all",
+   "let physicians prate what they please"
+  ],
+  "authority_citations": [
+   "Pliny is my author"
+  ]
+ },
+ "resolutions": [
+  {
+   "historical_name": "Anemone",
+   "candidates": [
+    {
+     "scientific_name": "Anemone nemorosa",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.6,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Anemone coronaria",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.5,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Anemone ranunculoides",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.4,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "",
+   "confidence": 0.36,
+   "status": "ambiguous",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Wind flower",
+   "candidates": [
+    {
+     "scientific_name": "Anemone nemorosa",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.7,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Anemone coronaria",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.5,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Ranunculus acris",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.3,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "",
+   "confidence": 0.42,
+   "status": "ambiguous",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [],
+ "concordance": null,
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "Being made into an ointment, and the eyelids anointed with it, it helps inflammations of the eyes,",
+   "CALLED also Wind flower, because they say the flowers never open but when the wind blows.",
+   "The body being bathed with the decoction of them, cures the leprosy.",
+   "The leaves being stamped and the juice snuffed up in the nose, purges the head mightily;",
+   "The same ointment is excellently good to cleanse malignant and corroding ulcers.",
+   "and is therefore excellent for the lethargy."
+  ],
+  "quotes_failed": [
+   "HEADING: Anemone"
+  ],
+  "issues": [
+   "Missing evidence for 'Anemone' heading; ambiguous taxon resolution without clinical or EMA support; unearned confidence scores derived solely from LLM proposals."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_044959_c92e06",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T04:51:47Z"
+ }
+}

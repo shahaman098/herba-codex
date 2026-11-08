@@ -1,0 +1,15 @@
+{
+  "entries": 10,
+  "with_extraction": 10,
+  "taxa_resolved": 22,
+  "taxa_ambiguous": 1,
+  "taxa_unresolved": 0,
+  "name_resolutions": 23,
+  "evidence_docs": 27,
+  "grades": {
+    "D": 4,
+    "C": 6
+  },
+  "nodes": 176,
+  "edges": 193
+}

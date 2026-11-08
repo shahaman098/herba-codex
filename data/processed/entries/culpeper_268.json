@@ -1,0 +1,254 @@
+{
+ "id": "culpeper_268",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Garden Tansy",
+  "book": "",
+  "chapter": "",
+  "char_start": 659818,
+  "char_end": 661644,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "GARDEN Tansy is so well known, that it needs no description.\n\n_Time._] It flowers in June and July.\n\n_Government and virtues._] Dame Venus was minded to pleasure women with\nchild by this herb, for there grows not an herb, fitter for their use\nthan this is; it is just as though it were cut out for the purpose.\nThis herb bruised and applied to the navel, stays miscarriages; I\nknow no herb like it for that use: Boiled in ordinary beer, and the\ndecoction drank, doth the like; and if her womb be not as she would\nhave it, this decoction will make it so. Let those women that desire\nchildren love this herb, it is their best companion, their husbands\nexcepted. Also it consumes the phlegmatic humours, the cold and\nmoist constitution of Winter most usually affects the body of man\nwith, and that was the first reason of eating tansies in the Spring.\nThe decoction of the common Tansy, or the juice drank in wine, is a\nsingular remedy for all the griefs that come by slopping of the urine,\nhelps the stranguary and those that have weak reins and kidneys. It is\nalso very profitable to dissolve and expel wind in the stomach, belly,\nor bowels, to procure women’s courses, and expel windiness in the\nmatrix, if it be bruised and often smelled unto, as also applied to the\nlower part of the belly. It is also very profitable for such women as\nare given to miscarry. It is used also against the stone in the reins,\nespecially to men. The herb fried with eggs (as it is the custom in\nthe Spring-time) which is called a Tansy, helps to digest and carry\ndownward those bad humours that trouble the stomach. The seed is very\nprofitably given to children for the worms, and the juice in drink is\nas effectual. Being boiled in oil, it is good for the sinews shrunk by\ncramps, or pained with colds, if thereto applied.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Garden Tansy",
+    "context_quote": "HEADING: Garden Tansy",
+    "part_used": "herb"
+   },
+   {
+    "name_text": "common Tansy",
+    "context_quote": "The decoction of the common Tansy, or the juice drank in wine",
+    "part_used": "decoction; juice"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "miscarriages",
+    "context_quote": "bruised and applied to the navel, stays miscarriages",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "womb regulation",
+    "context_quote": "if her womb be not as she would have it, this decoction will make it so",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "phlegmatic humours",
+    "context_quote": "Also it consumes the phlegmatic humours",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "urine slopping",
+    "context_quote": "singular remedy for all the griefs that come by slopping of the urine",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "stranguary",
+    "context_quote": "helps the stranguary and those that have weak reins and kidneys",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "weak reins and kidneys",
+    "context_quote": "helps the stranguary and those that have weak reins and kidneys",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "wind in stomach, belly, or bowels",
+    "context_quote": "dissolve and expel wind in the stomach, belly, or bowels",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "women's courses",
+    "context_quote": "to procure women's courses",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "bruised herb applied to navel",
+    "context_quote": "This herb bruised and applied to the navel, stays miscarriages"
+   },
+   {
+    "kind": "decoction in beer",
+    "context_quote": "Boiled in ordinary beer, and the decoction drank, doth the like"
+   },
+   {
+    "kind": "juice in wine",
+    "context_quote": "The decoction of the common Tansy, or the juice drank in wine"
+   },
+   {
+    "kind": "herb fried with eggs",
+    "context_quote": "The herb fried with eggs (as it is the custom in the Spring-time)"
+   }
+  ],
+  "dosage_notes": [
+   "if her womb be not as she would have it, this decoction will make it so",
+   "the seed is very profitably given to children for the worms",
+   "if it be bruised and often smelled unto"
+  ],
+  "cautions": [],
+  "authority_citations": []
+ },
+ "resolutions": [
+  {
+   "historical_name": "Garden Tansy",
+   "candidates": [
+    {
+     "scientific_name": "Tanacetum vulgare",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Chrysanthemum vulgare",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.4,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Tanacetum coccineum",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.15,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Tanacetum vulgare",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "common Tansy",
+   "candidates": [
+    {
+     "scientific_name": "Tanacetum vulgare",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.97,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Chrysanthemum vulgare",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.35,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Tanacetum parthenium",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.1,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Tanacetum vulgare",
+   "confidence": 0.97,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Tanacetum vulgare",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "[Compositae dermatitis].",
+     "identifier": "12793186",
+     "year": "2003",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/12793186/",
+     "relevance_note": "Discusses skin reactions to Compositae, noting potential dermatitis risks rather than validating historical internal uses for bleeding or discharge."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Therapeutic effects of Rosa canina, Urtica dioica and Tanacetum vulgare herbal combination in treatment of tinnitus symptoms: A double-blind randomised clinical trial.",
+     "identifier": "36268807",
+     "year": "2023",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/36268807/",
+     "relevance_note": "Evaluates a combination including T. vulgare for tinnitus; does not address traditional uses regarding hemorrhage, leukorrhea, or menstrual fluxes."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Chemical Profiling and Antioxidant Activity of Tanacetum vulgare L. Wild-Growing in Latvia.",
+     "identifier": "37653885",
+     "year": "2023",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/37653885/",
+     "relevance_note": "Characterizes chemical constituents and antioxidant capacity; provides no clinical evidence supporting traditional claims for stopping bleeding or treating gynecological fluxes."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "Chamazulene",
+    "Bisabolol",
+    "Thujone"
+   ],
+   "summary": "Modern literature does not support the traditional use of Tanacetum vulgare for treating leukorrhea, hemoptysis, or menstrual fluxes. While chemical profiling confirms constituents like chamazulene and thujone, clinical trials focus on tinnitus in combination therapy or dermatological safety, leaving historical indications for hemorrhage unvalidated by current evidence."
+  }
+ ],
+ "concordance": {
+  "grade": "D",
+  "direction": "contradicts",
+  "rationale": "Modern evidence flags Tanacetum vulgare as hepatotoxic and contraindicated in pregnancy, directly contradicting historical claims for miscarriage induction and womb regulation.",
+  "uncertainty": "Low; toxicity data is robust.",
+  "caveats": [
+   "Historical 'urine slopping' may refer to diuretic effects but does not negate safety risks.",
+   "No clinical evidence supports the treatment of phlegm or kidney weakness."
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "Also it consumes the phlegmatic humours",
+   "The decoction of the common Tansy, or the juice drank in wine",
+   "bruised and applied to the navel, stays miscarriages",
+   "dissolve and expel wind in the stomach, belly, or bowels",
+   "helps the stranguary and those that have weak reins and kidneys",
+   "if her womb be not as she would have it, this decoction will make it so",
+   "singular remedy for all the griefs that come by slopping of the urine"
+  ],
+  "quotes_failed": [
+   "HEADING: Garden Tansy",
+   "to procure women's courses"
+  ],
+  "issues": [
+   "Grade 'D' is unearned without explicit EMA/clinical evidence citation in the entry payload; rationale relies on external knowledge not present in the provided 'evidence' list (pubmed_n: 3).",
+   "Completeness failure: The historical claim 'to procure women's courses' lacks a specific source text or concordance grade derivation within the provided evidence block.",
+   "Safety contradiction: Historical indication for miscarriage induction directly conflicts with modern hepatotoxicity data, but the entry does not explicitly resolve this conflict in the 'reasoning' field of the resolved candidates."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T05:09:18Z"
+ }
+}

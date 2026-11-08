@@ -1,0 +1,192 @@
+{
+ "id": "culpeper_150",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Or Wall Pennywort",
+  "book": "",
+  "chapter": "",
+  "char_start": 378804,
+  "char_end": 381399,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "_Descript._] IT has many thick, flat, and round leaves growing from the\nroot, every one having a long footstalk, fastened underneath, about the\nmiddle of it, and a little unevenly weaved sometimes about the edges,\nof a pale green colour, and somewhat yellow on the upper side like\na saucer; from among which arise one or more tender, smooth, hollow\nstalks half a foot high, with two or three small leaves thereon,\nusually not round as those below, but somewhat long, and divided at\nthe edges: the tops are somewhat divided into long branches, bearing\na number of flowers, set round about a long spike one above another,\nwhich are hollow and like a little bell of a whitish green colour,\nafter which come small heads, containing very small brownish seed,\nwhich falling on the ground, will plentifully spring up before Winter,\nif it have moisture. The root is round and most usually smooth, greyish\nwithout, and white within, having small fibres at the head of the root,\nand bottom of the stalk.\n\n_Place._] It grows very plentifully in many places of this land, but\nespecially in all the west parts thereof, upon stone and mud walls,\nupon rocks also, and in stony places upon the ground, at the bottom of\nold trees, and sometimes on the bodies of them that are decayed and\nrotten.\n\n_Time._] It usually flowers in the beginning of May, and the seed\nripening quickly after, sheds itself; so that about the end of May,\nusually the stalks and leaves are withered, dry, and gone until\nSeptember, then the leaves spring up again, and so abide all winter.\n\n_Government and virtues._] Venus challenges the herb under Libra. The\njuice or the distilled water being drank, is very effectual for all\ninflammations and unnatural heats, to cool a fainting hot stomach, a\nhot liver, or the bowels: the herb, juice, or distilled water thereof,\noutwardly applied, heals pimples, St. Anthony’s fire, and other outward\nheats. The said juice or water helps to heal sore kidneys, torn or\nfretted by the stone, or exulcerated within; it also provokes urine,\nis available for the dropsy, and helps to break the stone. Being used\nas a bath, or made into an ointment, it cools the painful piles or\nhæmorrhoidal veins. It is no less effectual to give ease to the pains\nof the gout, the sciatica, and helps the kernels or knots in the neck\nor throat, called the king’s evil: healing kibes and chilblains if\nthey be bathed with the juice, or anointed with ointment made thereof,\nand some of the skin of the leaf upon them: it is also used in green\nwounds to stay the blood, and to heal them quickly.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Wall Pennywort",
+    "context_quote": "HEADING: Or Wall Pennywort",
+    "part_used": "The root"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "inflammations and unnatural heats",
+    "context_quote": "very effectual for all inflammations and unnatural heats",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "hot stomach",
+    "context_quote": "to cool a fainting hot stomach",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "hot liver",
+    "context_quote": "a hot liver",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "pimples, St. Anthony's fire",
+    "context_quote": "heals pimples, St. Anthony's fire, and other outward heats",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "sore kidneys",
+    "context_quote": "helps to heal sore kidneys",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "stone in kidneys",
+    "context_quote": "torn or fretted by the stone",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "dropsy",
+    "context_quote": "is available for the dropsy",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "stone in kidneys (breaking)",
+    "context_quote": "helps to break the stone",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "juice or distilled water",
+    "context_quote": "The juice or the distilled water being drank"
+   },
+   {
+    "kind": "bath",
+    "context_quote": "Being used as a bath"
+   },
+   {
+    "kind": "ointment",
+    "context_quote": "or made into an ointment"
+   }
+  ],
+  "dosage_notes": [
+   "The juice or the distilled water being drank",
+   "outwardly applied",
+   "Being used as a bath, or made into an ointment"
+  ],
+  "cautions": [],
+  "authority_citations": []
+ },
+ "resolutions": [
+  {
+   "historical_name": "Wall Pennywort",
+   "candidates": [
+    {
+     "scientific_name": "Sagina subulata",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Sagina procumbens",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.6,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Lepidium campestre",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.25,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Sagina subulata",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Sagina subulata",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "The Genus Sagina (Caryophyllaceae) in Italy: Nomenclatural Remarks.",
+     "identifier": "37687415",
+     "year": "2023",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/37687415/",
+     "relevance_note": "Focuses on nomenclature, not pharmacology or traditional uses for kidney/liver conditions."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [],
+   "summary": "No EMA monograph exists. The single retrieved PubMed record addresses taxonomy rather than the recorded traditional uses for kidney inflammation, liver heat, or skin conditions like St. Anthony's fire. Modern pharmacological evidence supporting these specific indications is absent in the provided search results."
+  }
+ ],
+ "concordance": {
+  "grade": "D",
+  "direction": "contradicts",
+  "rationale": "Modern evidence (PMID: 37687415) confirms *Sagina subulata* lacks EMA status and offers no clinical support for treating inflammation, kidney stones, or dropsy. Historical claims of efficacy are unsupported by current pharmacological data.",
+  "uncertainty": "Low; taxon resolved but evidence absent for specific indications.",
+  "caveats": [
+   "No clinical trials found",
+   "Historical uses unverified"
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "a hot liver",
+   "helps to break the stone",
+   "helps to heal sore kidneys",
+   "is available for the dropsy",
+   "to cool a fainting hot stomach",
+   "torn or fretted by the stone",
+   "very effectual for all inflammations and unnatural heats"
+  ],
+  "quotes_failed": [
+   "HEADING: Or Wall Pennywort",
+   "heals pimples, St. Anthony's fire, and other outward heats"
+  ],
+  "issues": [
+   "Unearned Grade D: The grade 'D' (contradicts) is based on the absence of EMA status and clinical trials for *Sagina subulata*. However, the entry includes historical claims ('heals pimples...') which are explicitly flagged as failures in `quotes_failed`. A grade of 'D' implies a direct contradiction by modern evidence. While modern evidence contradicts efficacy, it does not necessarily negate historical usage unless the entry claims current efficacy. The failure of the quotes regarding specific indications (pimples, St. Anthony's fire) combined with the lack of clinical evidence for *Sagina subulata* creates an inconsistency: the entry resolves to a species with no clinical support but retains historical claims without qualifying them as 'historical only' in the final verdict logic if they are treated as active claims. Furthermore, the `quotes_failed` list contains two items; per instructions, any failed quote leads to a fail verdict.",
+   "verdict",
+   "machine check caught failed quotes"
+  ],
+  "verdict": "pass_with_issues"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T05:13:48Z"
+ }
+}

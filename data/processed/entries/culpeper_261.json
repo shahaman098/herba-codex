@@ -1,0 +1,241 @@
+{
+ "id": "culpeper_261",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Tongue",
+  "book": "",
+  "chapter": "",
+  "char_start": 645766,
+  "char_end": 647395,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "_Descript._] THE smooth Spleenwort, from a black, thready and bushy\nroot, sends forth many long single leaves, cut in on both sides into\nround dents almost to the middle, which is not so hard as that of\npolypody, each division being not always set opposite unto the other,\ncut between each, smooth, and of a light green on the upper side, and a\ndark yellowish roughness on the back, folding or rolling itself inward\nat the first springing up.\n\n_Place._] It grows as well upon stone walls, as moist and shadowy\nplaces, about Bristol, and other west parts plentifully; as also on\nFramlingham Castle, on Beaconsfield church in Berkshire, at Stroud in\nKent, and elsewhere, and abides green all the Winter.\n\n_Government and virtues._] Saturn owns it. It is generally used against\ninfirmities of the Spleen: It helps the stranguary, and wasteth the\nstone in the bladder, and is good against the yellow jaundice and the\nhiccough; but the juice of it in women hinders conception. Matthiolus\nsaith, That if a dram of the dust that is on the backside of the leaves\nbe mixed with half a dram of amber in powder, and taken with the juice\nof purslain or plantain, it helps the gonorrhea speedily, and that the\nherb and root being boiled and taken, helps all melancholy diseases,\nand those especially that arise from the French diseases. Camerarius\nsaith, That the distilled water thereof being drank, is very effectual\nagainst the stone in the reins and bladder; and that the lye that is\nmade of the ashes thereof being drank for some time together, helps\nsplenetic persons. It is used in outward remedies for the same purpose.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "smooth Spleenwort",
+    "context_quote": "THE smooth Spleenwort, from a black, thready and bushy root",
+    "part_used": "root"
+   },
+   {
+    "name_text": "Spleenwort",
+    "context_quote": "It is generally used against infirmities of the Spleen",
+    "part_used": "herb and root"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "infirmities of the Spleen",
+    "context_quote": "It is generally used against infirmities of the Spleen",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "stranguary",
+    "context_quote": "It helps the stranguary",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "stone in the bladder",
+    "context_quote": "wasteth the stone in the bladder",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "yellow jaundice",
+    "context_quote": "good against the yellow jaundice",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "hiccough",
+    "context_quote": "and is good against the yellow jaundice and the hiccough",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "conception (in women)",
+    "context_quote": "but the juice of it in women hinders conception",
+    "polarity": "causes",
+    "strength": "claimed"
+   },
+   {
+    "name": "gonorrhea",
+    "context_quote": "it helps the gonorrhea speedily",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "melancholy diseases",
+    "context_quote": "helps all melancholy diseases",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "dust mixed with amber powder taken with juice of purslain or plantain",
+    "context_quote": "if a dram of the dust that is on the backside of the leaves be mixed with half a dram of amber in powder, and taken with the juice of purslain or plantain"
+   },
+   {
+    "kind": "herb and root boiled",
+    "context_quote": "and the herb and root being boiled and taken"
+   },
+   {
+    "kind": "distilled water",
+    "context_quote": "That the distilled water thereof being drank"
+   },
+   {
+    "kind": "lye made of ashes",
+    "context_quote": "and that the lye that is made of the ashes thereof being drank"
+   }
+  ],
+  "dosage_notes": [
+   "a dram of the dust mixed with half a dram of amber in powder",
+   "taken with the juice of purslain or plantain",
+   "drank for some time together"
+  ],
+  "cautions": [
+   "the juice of it in women hinders conception",
+   "used in outward remedies for the same purpose [stone]",
+   "grows as well upon stone walls, as moist and shadowy places"
+  ],
+  "authority_citations": [
+   "Matthiolus",
+   "Camerarius"
+  ]
+ },
+ "resolutions": [
+  {
+   "historical_name": "smooth Spleenwort",
+   "candidates": [
+    {
+     "scientific_name": "Asplenium ruta-muraria",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.85,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Asplenium ruta-muraria var. glabrum",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.75,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Asplenium trichomanes",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.6,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Asplenium ruta-muraria",
+   "confidence": 0.85,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Spleenwort",
+   "candidates": [
+    {
+     "scientific_name": "Asplenium ruta-muraria",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.7,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Asplenium adiantum-nigrum",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.65,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Asplenium ceterach",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.55,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "",
+   "confidence": 0.42,
+   "status": "ambiguous",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Asplenium ruta-muraria",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Chemical constituents of Asplenium ruta-muraria L.",
+     "identifier": "21923560",
+     "year": "2012",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/21923560/",
+     "relevance_note": "Identifies chemical profile but lacks clinical data for traditional uses like jaundice or stone."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "Asplenins",
+    "Polysaccharides"
+   ],
+   "summary": "Modern literature confirms the presence of asplenins and polysaccharides in this taxon. However, no specific clinical evidence was found linking these constituents to the traditional indications for spleen infirmities, jaundice, or bladder stones within the retrieved documents."
+  }
+ ],
+ "concordance": {
+  "grade": "C",
+  "direction": "partial",
+  "rationale": "Modern evidence (PMID:21923560) identifies constituents but lacks clinical data for spleen, stones, or jaundice. EMA status is false; preclinical plausibility only.",
+  "uncertainty": "Clinical efficacy for historical claims remains unproven by current literature.",
+  "caveats": [
+   "No human trials found",
+   "Constituents do not equal cure"
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "It helps the stranguary",
+   "It is generally used against infirmities of the Spleen",
+   "THE smooth Spleenwort, from a black, thready and bushy root",
+   "and is good against the yellow jaundice and the hiccough",
+   "but the juice of it in women hinders conception",
+   "good against the yellow jaundice",
+   "helps all melancholy diseases",
+   "it helps the gonorrhea speedily",
+   "wasteth the stone in the bladder"
+  ],
+  "quotes_failed": [],
+  "issues": [
+   "Grade 'C' is unearned: The entry lacks EMA approval (explicitly false) and clinical evidence for the specific historical claims (spleen, stones, jaundice). The rationale cites only preclinical constituents without human trial data to support even a partial efficacy grade. A 'C' implies some validated benefit or strong preclinical consensus which is absent given the explicit lack of clinical data in the caveats."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T05:08:43Z"
+ }
+}
