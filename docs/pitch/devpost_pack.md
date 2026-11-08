@@ -87,7 +87,10 @@ with their warnings — not despite them.
 
 ## Links to attach
 - **GitHub repo:** https://github.com/shahaman098/herba-codex (public ✓)
-- **Video:** upload `docs/pitch/herba_codex_pitch.mp4` (4:11) to YouTube — set **Public** + **"Not made for kids"**; paste URL. (Drive link acceptable as fallback but YouTube preferred by judges.)
+- **Video (you are producing this):** the narration script with per-second structure is at
+  `docs/pitch/video_script.md`; a TTS-narrated reference cut (4:11, shows the flow + all views)
+  sits at `docs/pitch/herba_codex_pitch.mp4` if you want a base to re-narrate. Upload your final
+  video to YouTube — **Public** + **"Not made for kids"** — and paste the URL.
 - **Slide deck:** export `docs/pitch/herba_codex_deck.pptx` to PDF if the form asks; also keep the .pptx linkable in the repo (`docs/pitch/`).
 - **Try it / demo:** the web app runs locally in 1 command — put this in the "Try it" field:
 ```

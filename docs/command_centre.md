@@ -58,11 +58,11 @@ EthnoHack 2026 · Track 🌿 Traditional Knowledge · last verified 2026-11-08 0
 |---|---|---|---|
 | 08:05 | Video draft v1 (4:11) ✓ | agent | ✅ |
 | 08:10 | Command Centre + red-team ✓ | agent | ✅ |
-| →11:30 | Pipeline runs (shuffled, unbiased) | machine | 🟢 71+ entries |
-| 11:30 | STOP pipeline → `pipelines/finalize.sh` (KG → eval → ablation → deck numbers → rebuild deck+web) | agent | ⏳ |
-| 12:00 | Final deck render + visual check; commit + push | agent | ⏳ |
-| 12:15 | Devpost copy pack handed to user (title/desc/all fields + links) | agent → user | ⏳ |
-| 12:30–14:00 | User: upload video (YouTube public, "not for kids") + paste Devpost + submit | **user** | ⏳ |
+| →11:30 | Pipeline run (shuffled, unbiased) | machine | ✅ FROZEN at 182 entries |
+| 11:30 | finalize: re-audit → KG (2458n/3214e) → eval → ablation → deck+web rebuild | agent | ✅ |
+| 12:00 | Final deck (real numbers) + web rebuild; commit + push | agent | ✅ |
+| 12:15 | Devpost copy pack handed to user (real numbers) | agent → user | ✅ pack ready |
+| 12:30–14:30 | User: record/upload video + paste Devpost fields + submit | **user** | ⏳ user actions |
 | 14:30 | Submission verified from a clean browser session | user+agent | ⏳ |
 
 ## 5 · Source Registry (key references)
