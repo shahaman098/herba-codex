@@ -399,7 +399,7 @@ def stage_auditor(raw: dict, entry_for_audit: dict, trace: TraceLogger,
             entry_id=raw["id"], stage="audit"), AuditReport)[0]
         return _backstop_quotes(entry_for_audit, audit, trace)
     # guided: deterministic quote verification + one coherence call
-    src = entry_for_audit["source_text"]
+    src = entry_for_audit["heading"] + ". " + entry_for_audit["source_text"]
     ext = entry_for_audit.get("extraction") or {}
     quotes = [p.get("context_quote", "") for p in ext.get("historical_names", [])] + \
              [a.get("context_quote", "") for a in ext.get("ailments", [])]
@@ -435,7 +435,7 @@ def stage_auditor(raw: dict, entry_for_audit: dict, trace: TraceLogger,
 def _backstop_quotes(entry_for_audit: dict, audit: AuditReport | None,
                      trace: TraceLogger) -> AuditReport:
     """Deterministic quote verification, merged into the agent's audit."""
-    src = entry_for_audit.get("source_text", "")
+    src = (entry_for_audit.get("heading", "") + ". " + entry_for_audit.get("source_text", ""))
     ext = entry_for_audit.get("extraction") or {}
     verified, failed = [], []
     for p in ext.get("historical_names", []):

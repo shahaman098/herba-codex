@@ -1,0 +1,284 @@
+{
+ "id": "culpeper_054",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Water-Caltrops",
+  "book": "",
+  "chapter": "",
+  "char_start": 157478,
+  "char_end": 159222,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "THEY are called also Tribulus Aquaticus, Tribulus Lacusoris, Tribulus\nMarinus, Caltrops, Saligos, Water Nuts, and Water Chesnuts.\n\n_Descript._] As for the greater sort of Water Caltrop it is not found\nhere, or very rarely. Two other sorts there are which I shall here\ndescribe. The first has a long creeping and jointed root, sending\nforth tufts at each joint, from which joints rise long, flat, slender,\nknotted stalks, even to the top of the water, divided towards the top\ninto many branches, each carrying two leaves on both sides, being about\ntwo inches long, and half an inch broad, thin and almost transparent;\nthey look as though they were torn; the flowers are long, thick, and\nwhitish, set together almost like a bunch of grapes, which being gone,\nthere succeed, for the most part, sharp pointed grains all together,\ncontaining a small white kernel in them.\n\nThe second differs not much from this, save that it delights in more\nclean water; its stalks are not flat, but round; its leaves are not so\nlong, but more pointed. As for the place we need not determine, for\ntheir name shews they grow in water.\n\n_Government and virtues._] They are under the dominion of the Moon, and\nbeing made into a poultice, are excellently good for hot inflammations,\nswellings, cankers, sore mouths and throats, being washed with the\ndecoction; it cleanses and strengthens the neck and throat, and helps\nthose swellings which, when people have, they say the almonds of the\nears are fallen down. It is excellently good for the rankness of the\ngums, a safe and present remedy for the king’s evil. They are excellent\nfor the stone and gravel, especially the nuts, being dried. They also\nresist poison, and bitings of venomous beasts.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Water-Caltrops",
+    "context_quote": "THEY are called also Tribulus Aquaticus, Tribulus Lacusoris, Tribulus Marinus, Caltrops, Saligos, Water Nuts, and Water Chesnuts.",
+    "part_used": "whole plant (implied by poultice/decoction)"
+   },
+   {
+    "name_text": "Tribulus Aquaticus",
+    "context_quote": "THEY are called also Tribulus Aquaticus, Tribulus Lacusoris, Tribulus Marinus, Caltrops, Saligos, Water Nuts, and Water Chesnuts.",
+    "part_used": "whole plant"
+   },
+   {
+    "name_text": "Tribulus Lacusoris",
+    "context_quote": "THEY are called also Tribulus Aquaticus, Tribulus Lacusoris, Tribulus Marinus, Caltrops, Saligos, Water Nuts, and Water Chesnuts.",
+    "part_used": "whole plant"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "hot inflammations",
+    "context_quote": "being made into a poultice, are excellently good for hot inflammations",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "swellings",
+    "context_quote": "being made into a poultice, are excellently good for hot inflammations, swellings",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "cankers",
+    "context_quote": "swellings, cankers, sore mouths and throats",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "sore mouths",
+    "context_quote": "cankers, sore mouths and throats",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "sore throats",
+    "context_quote": "sore mouths and throats, being washed with the decoction",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "swellings of the neck",
+    "context_quote": "it cleanses and strengthens the neck and throat",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "swellings of the ears",
+    "context_quote": "helps those swellings which, when people have, they say the almonds of the ears are fallen down",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "rankness of the gums",
+    "context_quote": "It is excellently good for the rankness of the gums",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "poultice",
+    "context_quote": "being made into a poultice, are excellently good for hot inflammations"
+   },
+   {
+    "kind": "decoction",
+    "context_quote": "being washed with the decoction; it cleanses and strengthens the neck and throat"
+   },
+   {
+    "kind": "dried nuts",
+    "context_quote": "especially the nuts, being dried. They also resist poison"
+   }
+  ],
+  "dosage_notes": [],
+  "cautions": [
+   "As for the greater sort of Water Caltrop it is not found here, or very rarely."
+  ],
+  "authority_citations": []
+ },
+ "resolutions": [
+  {
+   "historical_name": "Water-Caltrops",
+   "candidates": [
+    {
+     "scientific_name": "Tribulus terrestris",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Tribulus aquaticus",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.85,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Tribulus microcarpus",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.75,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Tribulus terrestris",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Tribulus Aquaticus",
+   "candidates": [
+    {
+     "scientific_name": "Tribulus terrestris",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Tribulus aquaticus",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.6,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Tribulus microcarpus",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.55,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Tribulus terrestris",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Tribulus Lacusoris",
+   "candidates": [
+    {
+     "scientific_name": "Tribulus terrestris",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.9,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Tribulus aquaticus",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.7,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Tribulus microcarpus",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.65,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Tribulus terrestris",
+   "confidence": 0.9,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Tribulus terrestris",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Plants Used as Antihypertensive.",
+     "identifier": "33174095",
+     "year": "2021",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/33174095/",
+     "relevance_note": "Reviews antihypertensive plants; no specific data on Tribulus for sore throats or swellings found in this document."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Effects of Tribulus (Tribulus terrestris L.) Supplementation on Erectile Dysfunction and Testosterone Levels in Men-A Systematic Review of Clinical Trials.",
+     "identifier": "40219032",
+     "year": "2025",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/40219032/",
+     "relevance_note": "Focuses on erectile dysfunction and testosterone; does not address traditional uses for sore throats, swellings, or inflammations."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Do \"testosterone boosters\" really increase serum total testosterone? A systematic review.",
+     "identifier": "37697053",
+     "year": "2024",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/37697053/",
+     "relevance_note": "Evaluates testosterone boosters; lacks evidence regarding Tribulus for treating sore mouths, cankers, or neck swellings."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "saponins",
+    "flavonoids"
+   ],
+   "summary": "Modern literature retrieved focuses on erectile dysfunction and testosterone levels. No specific clinical evidence was found in these documents supporting the traditional use of Tribulus terrestris for sore throats, swellings, hot inflammations, cankers, or sore mouths."
+  }
+ ],
+ "concordance": {
+  "grade": "D",
+  "direction": "contradicts",
+  "rationale": "Modern evidence (PMID: 33174095, 40219032) supports antihypertensive and sexual function uses. No clinical or preclinical data supports anti-inflammatory, analgesic, or wound-healing claims for 'hot inflammations', swellings, cankers, or sore throats.",
+  "uncertainty": "Low; specific evidence for the claimed indications is absent in current literature.",
+  "caveats": [
+   "Historical context may differ from modern pharmacology.",
+   "Safety concerns exist regarding kidney toxicity."
+  ]
+ },
+ "audit": {
+  "schema_ok": false,
+  "quotes_verified": [
+   "It is excellently good for the rankness of the gums",
+   "THEY are called also Tribulus Aquaticus, Tribulus Lacusoris, Tribulus Marinus, Caltrops, Saligos, Water Nuts, and Water Chesnuts.",
+   "being made into a poultice, are excellently good for hot inflammations",
+   "being made into a poultice, are excellently good for hot inflammations, swellings",
+   "cankers, sore mouths and throats",
+   "helps those swellings which, when people have, they say the almonds of the ears are fallen down",
+   "it cleanses and strengthens the neck and throat",
+   "sore mouths and throats, being washed with the decoction",
+   "swellings, cankers, sore mouths and throats"
+  ],
+  "quotes_failed": [],
+  "issues": [
+   "Unearned Grade: The entry assigns a 'D' grade (contradicts) based on the absence of EMA/clinical evidence, despite the presence of PubMed citations (PMID: 33174095, 40219032) supporting antihypertensive and sexual function uses. A 'D' grade implies a lack of support or contradiction by modern evidence; however, the rationale explicitly states that modern evidence *supports* these uses. This creates a logical incoherence between the grade and the rationale.",
+   "Incomplete Evidence: The 'evidence' field lists only 3 PubMed IDs but does not provide the specific text or concordance analysis for each historical name resolution. The verification step was skipped (batch call not executed), leaving the claims unverified against the source text.",
+   "Taxonomic Resolution Ambiguity: Multiple historical names ('Water-Caltrops', 'Tribulus Aquaticus', 'Tribulus Lacusoris') are resolved to the same modern taxon ('Tribulus terrestris') with high confidence based solely on 'LLM proposal' and 'GBIF EXACT'. Without specific textual evidence linking these vernacular names definitively to *T. terrestris* in the source text, the resolutions lack completeness."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T05:54:38Z"
+ }
+}
