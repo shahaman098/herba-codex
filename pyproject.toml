@@ -7,6 +7,7 @@ requires-python = ">=3.12"
 license = { text = "MIT" }
 authors = [{ name = "Team Herba Codex" }]
 dependencies = [
+    "pytest>=8",
     "openai>=1.40",
     "httpx>=0.27",
     "pydantic>=2.7",
@@ -25,3 +26,7 @@ build-backend = "hatchling.build"
 
 [tool.hatch.build.targets.wheel]
 packages = ["src/herbacodex"]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]

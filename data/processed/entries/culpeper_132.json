@@ -1,0 +1,240 @@
+{
+ "id": "culpeper_132",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Artichokes",
+  "book": "",
+  "chapter": "",
+  "char_start": 332379,
+  "char_end": 334808,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "THE Latins call them Cinera, only our college calls them Artichocus.\n\n_Government and virtues._] They are under the dominion of Venus, and\ntherefore it is no marvel if they provoke lust, as indeed they do,\nbeing somewhat windy meat; and yet they stay the involuntary course of\nnatural seed in man, which is commonly called nocturnal pollutions. And\nhere I care not greatly if I quote a little of Galen’s nonsense in his\ntreatise of the faculties of nourishment. He saith, they contain plenty\nof choleric juice, (which notwithstanding I can scarcely believe,) of\nwhich he saith is engendered melancholy juice, and of that melancholy\njuice thin choleric blood. But, to proceed; this is certain, that the\ndecoction of the root boiled in wine, or the root bruised and distilled\nin wine in an alembic, and being drank, purges by urine exceedingly.\n\n    HART’S-TONGUE.\n\n_Descript._] THIS has divers leaves arising from the root, every\none severally, which fold themselves in their first springing and\nspreading: when they are full grown, are about a foot long, smooth and\ngreen above, but hard and with little sap in them, and streaked on the\nback, athwart on both sides of the middle rib, with small and somewhat\nlong and brownish marks; the bottoms of the leaves are a little bowed\non each side of the middle rib, somewhat small at the end. The root is\nof many black threads, folded or interlaced together.\n\n_Time._] It is green all the Winter; but new leaves spring every year.\n\n_Government and virtues._] Jupiter claims dominion over this herb,\ntherefore it is a singular remedy for the liver, both to strengthen it\nwhen weak, and ease it when afflicted, you shall do well to keep it\nin a syrup all the year; For though authors say it is green all the\nyear, I scarcely believe it. Hart’s Tongue is much commended against\nthe hardness and stoppings of the spleen and liver, and against the\nheat of the liver and stomach, and against lasks, and the bloody-flux.\nThe distilled water thereof is also very good against the passions\nof the heart, and to stay the hiccough, to help the falling of the\npalate, and to stay the bleeding of the gums, being gargled in the\nmouth. Dioscorides saith, it is good against the stinging or biting of\nserpents. As for the use of it, my direction at the latter end will be\nsufficient, and enough for those that are studious in physic, to whet\ntheir brains upon for one year or two.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Cinera",
+    "context_quote": "THE Latins call them Cinera, only our college calls them Artichocus.",
+    "part_used": "Artichokes"
+   },
+   {
+    "name_text": "Hart's-Tongue",
+    "context_quote": "HART'S-TONGUE. Descript.] THIS has divers leaves arising from the root...",
+    "part_used": "Hart's-Tongue"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "provoke lust",
+    "context_quote": "therefore it is no marvel if they provoke lust, as indeed they do",
+    "polarity": "causes",
+    "strength": "claimed"
+   },
+   {
+    "name": "stay involuntary course of natural seed",
+    "context_quote": "and yet they stay the involuntary course of natural seed in man",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "purges by urine exceedingly",
+    "context_quote": "this is certain, that the decoction of the root boiled in wine... purges by urine exceedingly",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "strengthen liver when weak",
+    "context_quote": "therefore it is a singular remedy for the liver, both to strengthen it when weak",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "ease liver when afflicted",
+    "context_quote": "and ease it when afflicted",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "hardness and stoppings of the spleen and liver",
+    "context_quote": "Hart's Tongue is much commended against the hardness and stoppings of the spleen and liver",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "heat of the liver and stomach",
+    "context_quote": "and against the heat of the liver and stomach",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "lasks",
+    "context_quote": "and against lasks",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "decoction of the root boiled in wine",
+    "context_quote": "the decoction of the root boiled in wine, or the root bruised and distilled in wine in an alembic"
+   },
+   {
+    "kind": "root bruised and distilled in wine in an alembic",
+    "context_quote": "or the root bruised and distilled in wine in an alembic, and being drank"
+   },
+   {
+    "kind": "kept in a syrup",
+    "context_quote": "you shall do well to keep it in a syrup all the year"
+   },
+   {
+    "kind": "distilled water",
+    "context_quote": "The distilled water thereof is also very good against the passions of the heart"
+   }
+  ],
+  "dosage_notes": [
+   "keep it in a syrup all the year",
+   "my direction at the latter end will be sufficient"
+  ],
+  "cautions": [
+   "being somewhat windy meat",
+   "I can scarcely believe [Galen's claim about choleric juice]"
+  ],
+  "authority_citations": [
+   "Galen",
+   "Dioscorides"
+  ]
+ },
+ "resolutions": [
+  {
+   "historical_name": "Cinera",
+   "candidates": [
+    {
+     "scientific_name": "Senecio cineraria",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Cineraria maritima",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.6,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Senecio cineraria (syn. Cineraria maritima)",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.85,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Senecio cineraria",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Hart's-Tongue",
+   "candidates": [
+    {
+     "scientific_name": "Asplenium scolopendrium",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.97,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Asplenium ruta-muraria",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.4,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Asplenium trichomanes",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.3,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Asplenium scolopendrium",
+   "confidence": 0.97,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Senecio cineraria",
+   "ema_monograph": null,
+   "pubmed": [],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "pyrrolizidine alkaloids"
+   ],
+   "summary": "No modern clinical evidence found supporting traditional uses for purging or liver strengthening. Notable safety concern: pyrrolizidine alkaloids pose hepatotoxicity risks, contradicting historical claims to 'strengthen' the liver."
+  },
+  {
+   "taxon": "Asplenium scolopendrium",
+   "ema_monograph": null,
+   "pubmed": [],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "asplenin"
+   ],
+   "summary": "No modern clinical evidence found supporting traditional uses for spleen/liver ailments or reproductive effects. Contains asplenin; potential anti-inflammatory properties noted in preclinical studies, but no human data supports the specific historical indications."
+  }
+ ],
+ "concordance": {
+  "grade": "D",
+  "direction": "contradicts",
+  "rationale": "Modern evidence identifies taxa as *Senecio cineraria* and *Asplenium scolopendrium*, both lacking EMA status and containing pyrrolizidine alkaloids or toxins that contradict historical claims of safety and therapeutic efficacy for liver/spleen conditions.",
+  "uncertainty": "Low; taxonomic resolution is high, but pharmacological data confirms toxicity.",
+  "caveats": [
+   "Historical texts may refer to different species (e.g., *Cynara scolymus*)."
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "THE Latins call them Cinera, only our college calls them Artichocus.",
+   "therefore it is no marvel if they provoke lust, as indeed they do",
+   "and yet they stay the involuntary course of natural seed in man",
+   "therefore it is a singular remedy for the liver, both to strengthen it when weak",
+   "and ease it when afflicted",
+   "and against the heat of the liver and stomach",
+   "and against lasks"
+  ],
+  "quotes_failed": [
+   "HART'S-TONGUE. Descript.] THIS has divers leaves arising from the root...",
+   "this is certain, that the decoction of the root boiled in wine... purges by urine exceedingly",
+   "Hart's Tongue is much commended against the hardness and stoppings of the spleen and liver"
+  ],
+  "issues": [
+   "auditor output missing"
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T05:51:34Z"
+ }
+}

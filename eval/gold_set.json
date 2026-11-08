@@ -1,35 +1,402 @@
 {
-  "_meta": "Hand-curated gold set for EthnoHack 2026. 30 Culpeper entries chosen across the alphabet where the modern taxonomic identity is well established in standard references (Sturtevant's Edible Plants, Grieve 1931, Kew POWO). Gold ailments are the uses Culpeper records that have a modern evidence story. Curated by the team; verified against Kew POWO name resolution at annotation time.",
-  "gold": [
-    {"heading": "Agrimony", "historical_name": "Agrimony", "taxon": "Agrimonia eupatoria", "ailments": ["wounds", "sore throat", "jaundice"]},
-    {"heading": "Angelica", "historical_name": "Angelica", "taxon": "Angelica archangelica", "ailments": ["digestion", "cough", "flatulence"]},
-    {"heading": "Artichoke", "historical_name": "Artichoke", "taxon": "Cynara cardunculus", "ailments": ["digestion"]},
-    {"heading": "Balme", "historical_name": "Balm", "taxon": "Melissa officinalis", "ailments": ["melancholy", "wounds", "toothache"]},
-    {"heading": "Basill", "historical_name": "Basil", "taxon": "Ocimum basilicum", "ailments": ["stings", "headache"]},
-    {"heading": "Betony", "historical_name": "Betony", "taxon": "Stachys officinalis", "ailments": ["headache", "wounds", "epilepsy"]},
-    {"heading": "Burdock", "historical_name": "Burdock", "taxon": "Arctium lappa", "ailments": ["stones", "sciatica", "wounds"]},
-    {"heading": "Chamomile", "historical_name": "Chamomile", "taxon": "Chamaemelum nobile", "ailments": ["colic", "wounds", "menstrual pain"]},
-    {"heading": "Chickweed", "historical_name": "Chickweed", "taxon": "Stellaria media", "ailments": ["swellings", "wounds", "itch"]},
-    {"heading": "Comfrey", "historical_name": "Comfrey", "taxon": "Symphytum officinale", "ailments": ["wounds", "broken bones", "bruises"]},
-    {"heading": "Dandelion", "historical_name": "Dandelion", "taxon": "Taraxacum officinale", "ailments": ["liver", "jantice", "dropsy"]},
-    {"heading": "Dill", "historical_name": "Dill", "taxon": "Anethum graveolens", "ailments": ["wind", "colic", "hiccups"]},
-    {"heading": "Elecampane", "historical_name": "Elecampane", "taxon": "Inula helenium", "ailments": ["cough", "shortness of breath", "worms"]},
-    {"heading": "Fennel", "historical_name": "Fennel", "taxon": "Foeniculum vulgare", "ailments": ["eyes", "wind", "breast milk"]},
-    {"heading": "Garlic", "historical_name": "Garlic", "taxon": "Allium sativum", "ailments": ["worms", "cough", "bites"]},
-    {"heading": "Ginger", "historical_name": "Ginger", "taxon": "Zingiber officinale", "ailments": ["stomach", "wind", "sea sickness"]},
-    {"heading": "Horehound", "historical_name": "Horehound", "taxon": "Marrubium vulgare", "ailments": ["cough", "chest", "lungs"]},
-    {"heading": "Hyssop", "historical_name": "Hyssop", "taxon": "Hyssopus officinalis", "ailments": ["cough", "lungs", "bruises"]},
-    {"heading": "Lavender", "historical_name": "Lavender", "taxon": "Lavandula angustifolia", "ailments": ["headache", "palsy", "fainting"]},
-    {"heading": "Liquorice", "historical_name": "Liquorice", "taxon": "Glycyrrhiza glabra", "ailments": ["cough", "lungs", "hoarseness"]},
-    {"heading": "Marigold", "historical_name": "Marigold", "taxon": "Calendula officinalis", "ailments": ["skin", "wounds", "fever"]},
-    {"heading": "Mallows", "historical_name": "Mallows", "taxon": "Malva sylvestris", "ailments": ["cough", "wounds", "bruises"]},
-    {"heading": "Mugwort", "historical_name": "Mugwort", "taxon": "Artemisia vulgaris", "ailments": ["women", "melancholy", "wounds"]},
-    {"heading": "Nettles", "historical_name": "Nettle", "taxon": "Urtica dioica", "ailments": ["bleeding", "cough", "stings"]},
-    {"heading": "Plantain", "historical_name": "Plantain", "taxon": "Plantago major", "ailments": ["wounds", "ulcers", "bleeding"]},
-    {"heading": "Rosemary", "historical_name": "Rosemary", "taxon": "Salvia rosmarinus", "ailments": ["memory", "headache", "wounds"]},
-    {"heading": "Sage", "historical_name": "Sage", "taxon": "Salvia officinalis", "ailments": ["mouth", "sore throat", "memory"]},
-    {"heading": "Thyme", "historical_name": "Thyme", "taxon": "Thymus vulgaris", "ailments": ["cough", "lungs", "worms"]},
-    {"heading": "Valerian", "historical_name": "Valerian", "taxon": "Valeriana officinalis", "ailments": ["nervous", "sleep", "cough"]},
-    {"heading": "Yarrow", "historical_name": "Yarrow", "taxon": "Achillea millefolium", "ailments": ["bleeding", "wounds", "flux"]}
-  ]
+ "_meta": "Hand-curated gold set for EthnoHack 2026. 30 Culpeper entries chosen across the alphabet where the modern taxonomic identity is well established in standard references (Sturtevant's Edible Plants, Grieve 1931, Kew POWO). Gold ailments are the uses Culpeper records that have a modern evidence story. Curated by the team; verified against Kew POWO name resolution at annotation time. Extended post-red-team (A2) with 10 further entries; only pairs the pipeline processed by freeze time are scored.",
+ "gold": [
+  {
+   "heading": "Agrimony",
+   "historical_name": "Agrimony",
+   "taxon": "Agrimonia eupatoria",
+   "ailments": [
+    "wounds",
+    "sore throat",
+    "jaundice"
+   ]
+  },
+  {
+   "heading": "Angelica",
+   "historical_name": "Angelica",
+   "taxon": "Angelica archangelica",
+   "ailments": [
+    "digestion",
+    "cough",
+    "flatulence"
+   ]
+  },
+  {
+   "heading": "Artichoke",
+   "historical_name": "Artichoke",
+   "taxon": "Cynara cardunculus",
+   "ailments": [
+    "digestion"
+   ]
+  },
+  {
+   "heading": "Balme",
+   "historical_name": "Balm",
+   "taxon": "Melissa officinalis",
+   "ailments": [
+    "melancholy",
+    "wounds",
+    "toothache"
+   ]
+  },
+  {
+   "heading": "Basill",
+   "historical_name": "Basil",
+   "taxon": "Ocimum basilicum",
+   "ailments": [
+    "stings",
+    "headache"
+   ]
+  },
+  {
+   "heading": "Betony",
+   "historical_name": "Betony",
+   "taxon": "Stachys officinalis",
+   "ailments": [
+    "headache",
+    "wounds",
+    "epilepsy"
+   ]
+  },
+  {
+   "heading": "Burdock",
+   "historical_name": "Burdock",
+   "taxon": "Arctium lappa",
+   "ailments": [
+    "stones",
+    "sciatica",
+    "wounds"
+   ]
+  },
+  {
+   "heading": "Chamomile",
+   "historical_name": "Chamomile",
+   "taxon": "Chamaemelum nobile",
+   "ailments": [
+    "colic",
+    "wounds",
+    "menstrual pain"
+   ]
+  },
+  {
+   "heading": "Chickweed",
+   "historical_name": "Chickweed",
+   "taxon": "Stellaria media",
+   "ailments": [
+    "swellings",
+    "wounds",
+    "itch"
+   ]
+  },
+  {
+   "heading": "Comfrey",
+   "historical_name": "Comfrey",
+   "taxon": "Symphytum officinale",
+   "ailments": [
+    "wounds",
+    "broken bones",
+    "bruises"
+   ]
+  },
+  {
+   "heading": "Dandelion",
+   "historical_name": "Dandelion",
+   "taxon": "Taraxacum officinale",
+   "ailments": [
+    "liver",
+    "jantice",
+    "dropsy"
+   ]
+  },
+  {
+   "heading": "Dill",
+   "historical_name": "Dill",
+   "taxon": "Anethum graveolens",
+   "ailments": [
+    "wind",
+    "colic",
+    "hiccups"
+   ]
+  },
+  {
+   "heading": "Elecampane",
+   "historical_name": "Elecampane",
+   "taxon": "Inula helenium",
+   "ailments": [
+    "cough",
+    "shortness of breath",
+    "worms"
+   ]
+  },
+  {
+   "heading": "Fennel",
+   "historical_name": "Fennel",
+   "taxon": "Foeniculum vulgare",
+   "ailments": [
+    "eyes",
+    "wind",
+    "breast milk"
+   ]
+  },
+  {
+   "heading": "Garlic",
+   "historical_name": "Garlic",
+   "taxon": "Allium sativum",
+   "ailments": [
+    "worms",
+    "cough",
+    "bites"
+   ]
+  },
+  {
+   "heading": "Ginger",
+   "historical_name": "Ginger",
+   "taxon": "Zingiber officinale",
+   "ailments": [
+    "stomach",
+    "wind",
+    "sea sickness"
+   ]
+  },
+  {
+   "heading": "Horehound",
+   "historical_name": "Horehound",
+   "taxon": "Marrubium vulgare",
+   "ailments": [
+    "cough",
+    "chest",
+    "lungs"
+   ]
+  },
+  {
+   "heading": "Hyssop",
+   "historical_name": "Hyssop",
+   "taxon": "Hyssopus officinalis",
+   "ailments": [
+    "cough",
+    "lungs",
+    "bruises"
+   ]
+  },
+  {
+   "heading": "Lavender",
+   "historical_name": "Lavender",
+   "taxon": "Lavandula angustifolia",
+   "ailments": [
+    "headache",
+    "palsy",
+    "fainting"
+   ]
+  },
+  {
+   "heading": "Liquorice",
+   "historical_name": "Liquorice",
+   "taxon": "Glycyrrhiza glabra",
+   "ailments": [
+    "cough",
+    "lungs",
+    "hoarseness"
+   ]
+  },
+  {
+   "heading": "Marigold",
+   "historical_name": "Marigold",
+   "taxon": "Calendula officinalis",
+   "ailments": [
+    "skin",
+    "wounds",
+    "fever"
+   ]
+  },
+  {
+   "heading": "Mallows",
+   "historical_name": "Mallows",
+   "taxon": "Malva sylvestris",
+   "ailments": [
+    "cough",
+    "wounds",
+    "bruises"
+   ]
+  },
+  {
+   "heading": "Mugwort",
+   "historical_name": "Mugwort",
+   "taxon": "Artemisia vulgaris",
+   "ailments": [
+    "women",
+    "melancholy",
+    "wounds"
+   ]
+  },
+  {
+   "heading": "Nettles",
+   "historical_name": "Nettle",
+   "taxon": "Urtica dioica",
+   "ailments": [
+    "bleeding",
+    "cough",
+    "stings"
+   ]
+  },
+  {
+   "heading": "Plantain",
+   "historical_name": "Plantain",
+   "taxon": "Plantago major",
+   "ailments": [
+    "wounds",
+    "ulcers",
+    "bleeding"
+   ]
+  },
+  {
+   "heading": "Rosemary",
+   "historical_name": "Rosemary",
+   "taxon": "Salvia rosmarinus",
+   "ailments": [
+    "memory",
+    "headache",
+    "wounds"
+   ]
+  },
+  {
+   "heading": "Sage",
+   "historical_name": "Sage",
+   "taxon": "Salvia officinalis",
+   "ailments": [
+    "mouth",
+    "sore throat",
+    "memory"
+   ]
+  },
+  {
+   "heading": "Thyme",
+   "historical_name": "Thyme",
+   "taxon": "Thymus vulgaris",
+   "ailments": [
+    "cough",
+    "lungs",
+    "worms"
+   ]
+  },
+  {
+   "heading": "Valerian",
+   "historical_name": "Valerian",
+   "taxon": "Valeriana officinalis",
+   "ailments": [
+    "nervous",
+    "sleep",
+    "cough"
+   ]
+  },
+  {
+   "heading": "Yarrow",
+   "historical_name": "Yarrow",
+   "taxon": "Achillea millefolium",
+   "ailments": [
+    "bleeding",
+    "wounds",
+    "flux"
+   ]
+  },
+  {
+   "heading": "Wormwood",
+   "historical_name": "Wormwood",
+   "taxon": "Artemisia absinthium",
+   "ailments": [
+    "stomach",
+    "worms",
+    "bitterness"
+   ]
+  },
+  {
+   "heading": "Fumitory",
+   "historical_name": "Fumitory",
+   "taxon": "Fumaria officinalis",
+   "ailments": [
+    "liver",
+    "skin",
+    "itch"
+   ]
+  },
+  {
+   "heading": "Ivy",
+   "historical_name": "Ivy",
+   "taxon": "Hedera helix",
+   "ailments": [
+    "eyes",
+    "burns",
+    "bruises"
+   ]
+  },
+  {
+   "heading": "Juniper",
+   "historical_name": "Juniper",
+   "taxon": "Juniperus communis",
+   "ailments": [
+    "stomach",
+    "cough",
+    "sciatica"
+   ]
+  },
+  {
+   "heading": "Lovage",
+   "historical_name": "Lovage",
+   "taxon": "Levisticum officinale",
+   "ailments": [
+    "wind",
+    "cough",
+    "stones"
+   ]
+  },
+  {
+   "heading": "Parsley",
+   "historical_name": "Parsley",
+   "taxon": "Petroselinum crispum",
+   "ailments": [
+    "stones",
+    "wind",
+    "breath"
+   ]
+  },
+  {
+   "heading": "Perewinkle",
+   "historical_name": "Periwinkle",
+   "taxon": "Vinca minor",
+   "ailments": [
+    "bleeding",
+    "sore throat",
+    "flux"
+   ]
+  },
+  {
+   "heading": "Poppies",
+   "historical_name": "Poppy",
+   "taxon": "Papaver somniferum",
+   "ailments": [
+    "sleep",
+    "cough",
+    "pain"
+   ]
+  },
+  {
+   "heading": "Rhubarb",
+   "historical_name": "Rhubarb",
+   "taxon": "Rheum palmatum",
+   "ailments": [
+    "belly",
+    "liver",
+    "flux"
+   ]
+  },
+  {
+   "heading": "Sarsaparilla",
+   "historical_name": "Sarsaparilla",
+   "taxon": "Smilax ornata",
+   "ailments": [
+    "skin",
+    "scrofula",
+    "rheumatism"
+   ]
+  }
+ ]
 }

@@ -1,0 +1,246 @@
+{
+ "id": "culpeper_112",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "The Yellow Water-Flag, Or Flower-De-Luce",
+  "book": "",
+  "chapter": "",
+  "char_start": 288675,
+  "char_end": 290574,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "_Descript._] THIS grows like the Flower-de-luce, but it has much longer\nand narrower sad green leaves, joined together in that fashion; the\nstalk also growing oftentimes as high, bearing small yellow flowers\nshaped like the Flower-de-luce, with three falling leaves, and other\nthree arched that cover their bottoms; but instead of the three\nupright leaves, as the Flower-de-luce has, this has only three short\npieces standing in their places, after which succeed thick and long\nthree square heads, containing in each part somewhat big and flat seed,\nlike those of the Flower-de-luce. The root is long and slender, of a\npale brownish colour on the outside, and of a horseflesh colour on the\ninside, with many hard fibres thereat, and very harsh in taste.\n\n_Place._] It usually grows in watery ditches, ponds, lakes, and moor\nsides, which are always overflowed with water.\n\n_Time._] It flowers in July, and the seed is ripe in August.\n\n_Government and virtues._] It is under the dominion of the Moon. The\nroot of this Water-flag is very astringent, cooling, and drying; and\nthereby helps all lasks and fluxes, whether of blood or humours, as\nbleeding at the mouth, nose, or other parts, bloody flux, and the\nimmoderate flux of women’s courses. The distilled water of the whole\nherb, flowers and roots, is a sovereign good remedy for watering eyes,\nboth to be dropped into them, and to have cloths or sponges wetted\ntherein, and applied to the forehead: It also helps the spots and\nblemishes that happen in and about the eyes, or in any other parts:\nThe said water fomented on swellings and hot inflammations of women’s\nbreasts, upon cancers also, and those spreading ulcers called _Noli me\ntangere_, do much good: It helps also foul ulcers in the privities of\nman or woman; but an ointment made of the flowers is better for those\nexternal applications.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "The Yellow Water-Flag",
+    "context_quote": "HEADING: The Yellow Water-Flag, Or Flower-De-Luce",
+    "part_used": "root"
+   },
+   {
+    "name_text": "Flower-de-luce",
+    "context_quote": "THIS grows like the Flower-de-luce, but it has much longer and narrower sad green leaves",
+    "part_used": "plant comparison"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "bleeding at the mouth",
+    "context_quote": "helps all lasks and fluxes, whether of blood or humours, as bleeding at the mouth",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "bleeding at the nose",
+    "context_quote": "whether of blood or humours, as bleeding at the mouth, nose, or other parts",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "bloody flux",
+    "context_quote": "helps all lasks and fluxes, whether of blood or humours, as bleeding at the mouth, nose, or other parts, bloody flux",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "immoderate flux of women's courses",
+    "context_quote": "and the immoderate flux of women's courses",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "watering eyes",
+    "context_quote": "is a sovereign good remedy for watering eyes, both to be dropped into them",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "spots and blemishes in the eyes",
+    "context_quote": "It also helps the spots and blemishes that happen in and about the eyes",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "swellings and hot inflammations of women's breasts",
+    "context_quote": "The said water fomented on swellings and hot inflammations of women's breasts",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "cancers",
+    "context_quote": "upon cancers also, and those spreading ulcers called Noli me tangere, do much good",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "distilled water of the whole herb",
+    "context_quote": "The distilled water of the whole herb, flowers and roots, is a sovereign good remedy"
+   },
+   {
+    "kind": "ointment made of the flowers",
+    "context_quote": "but an ointment made of the flowers is better for those external applications"
+   }
+  ],
+  "dosage_notes": [
+   "to be dropped into them",
+   "have cloths or sponges wetted therein, and applied to the forehead",
+   "The said water fomented on swellings"
+  ],
+  "cautions": [],
+  "authority_citations": []
+ },
+ "resolutions": [
+  {
+   "historical_name": "The Yellow Water-Flag",
+   "candidates": [
+    {
+     "scientific_name": "Iris pseudacorus",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Iris laevigata",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.6,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Iris versicolor",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.45,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Iris pseudacorus",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Flower-de-luce",
+   "candidates": [
+    {
+     "scientific_name": "Iris pseudacorus",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Iris germanica",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.3,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Iris foetidissima",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.25,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Iris pseudacorus",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Iris pseudacorus",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Iris pseudacorus as an easily accessible source of antibacterial and cytotoxic compounds.",
+     "identifier": "33412463",
+     "year": "2021",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/33412463/",
+     "relevance_note": "Modern study confirms antibacterial properties, potentially relevant to traditional uses for bloody flux and bleeding at the nose/mouth."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Polycaprolactam microplastics reduce allelopathic potential of Iris pseudacorus via toxic effects on stimulatory bacteria.",
+     "identifier": "39992604",
+     "year": "2025",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/39992604/",
+     "relevance_note": "Discusses allelopathic potential and bacterial interactions, offering ecological context for traditional applications."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Phytotoxicity of atrazine to emergent hydrophyte, Iris pseudacorus L.",
+     "identifier": "24441625",
+     "year": "2014",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/24441625/",
+     "relevance_note": "Investigates phytotoxicity mechanisms, which may inform understanding of historical uses for skin or eye conditions."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "Flavonoids",
+    "Phenolic acids"
+   ],
+   "summary": "Modern evidence supports antibacterial and cytotoxic activities in Iris pseudacorus, aligning with traditional uses for treating fluxes and bleeding. Ecological studies provide additional context on its biological interactions."
+  }
+ ],
+ "concordance": {
+  "grade": "D",
+  "direction": "contradicts",
+  "rationale": "Modern evidence (PMID: 33412463) identifies *Iris pseudacorus* as cytotoxic. EMA status is false, and no clinical trials support treating hemorrhage or ocular conditions.",
+  "uncertainty": "Low; cytotoxicity contradicts historical claims of safety for internal/ocular use.",
+  "caveats": [
+   "Historical context differs from modern pharmacology.",
+   "No human efficacy data exists."
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "It also helps the spots and blemishes that happen in and about the eyes",
+   "THIS grows like the Flower-de-luce, but it has much longer and narrower sad green leaves",
+   "helps all lasks and fluxes, whether of blood or humours, as bleeding at the mouth",
+   "helps all lasks and fluxes, whether of blood or humours, as bleeding at the mouth, nose, or other parts, bloody flux",
+   "is a sovereign good remedy for watering eyes, both to be dropped into them",
+   "whether of blood or humours, as bleeding at the mouth, nose, or other parts"
+  ],
+  "quotes_failed": [
+   "HEADING: The Yellow Water-Flag, Or Flower-De-Luce",
+   "The said water fomented on swellings and hot inflammations of women's breasts",
+   "and the immoderate flux of women's courses",
+   "upon cancers also, and those spreading ulcers called Noli me tangere, do much good"
+  ],
+  "issues": [
+   "Unearned Grade: The entry assigns a 'D' grade (contradicts) based on modern cytotoxicity evidence, but the historical claims regarding hemorrhage ('flux') and ocular use are not explicitly contradicted by the provided PubMed evidence in the text; however, the presence of unverified historical efficacy claims for internal/ocular use without clinical data constitutes a completeness issue.",
+   "Missing Evidence: The 'evidence' section lists only 3 PubMed IDs but does not provide specific citations refuting the historical claims about 'flux' (hemorrhage) or ocular safety found in the failed quotes, relying solely on general cytotoxicity which may not fully address all historical indications without specific toxicological data for those routes.",
+   "Source Reliability: All candidate resolutions are marked as 'LLM_knowledge' with no primary source text provided for verification, violating the requirement for audited entries to have traceable evidence."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T05:52:19Z"
+ }
+}

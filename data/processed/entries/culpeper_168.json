@@ -1,0 +1,255 @@
+{
+ "id": "culpeper_168",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Wall Rue, Or, White Maiden-Hair",
+  "book": "",
+  "chapter": "",
+  "char_start": 410411,
+  "char_end": 413441,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "_Descript._] THIS has very fine, pale green stalks, almost as fine as\nhairs, set confusedly with divers pale green leaves on every short\nfoot stalk, somewhat near unto the colour of garden Rue, and not much\ndiffering in form but more diversly cut in on the edges, and thicker,\nsmooth on the upper part, and spotted finely underneath.\n\n_Place._] It grows in many places of this land, at Dartford, and the\nbridge at Ashford in Kent, at Beaconsfield in Buckinghamshire, at Wolly\nin Huntingtonshire, on Framlingham Castle in Suffolk, on the church\nwalls at Mayfield in Sussex, in Somersetshire, and divers other places\nof this land; and is green in Winter as well as Summer.\n\n_Government and virtues._] Both this and the former are under the\ndominion of Mercury, and so is that also which follows after, and the\nvirtue of both are so near alike, that though I have described them and\ntheir places of growing severally, yet I shall in writing the virtues\nof them, join them both together as follows.\n\nThe decoction of the herb Maiden-Hair being drank, helps those that are\ntroubled with the cough, shortness of breath, the yellow jaundice,\ndiseases of the spleen, stopping of urine, and helps exceedingly to\nbreak the stone in the kidneys, (in all which diseases the Wall Rue\nis also very effectual.) It provokes women’s courses, and stays both\nbleedings and fluxes of the stomach and belly, especially when the\nherb is dry; for being green, it loosens the belly, and voids choler\nand phlegm from the stomach and liver; it cleanses the lungs, and by\nrectifying the blood, causes a good colour to the whole body. The herb\nboiled in oil of Camomile, dissolves knots, allays swellings, and dries\nup moist ulcers. The lye made thereof is singularly good to cleanse\nthe head from scurf, and from dry and running sores, stays the falling\nor shedding of the hair, and causes it to grow thick, fair, and well\ncoloured; for which purpose some boil it in wine, putting some Smallage\nseed thereto, and afterwards some oil. The Wall Rue is as effectual as\nMaiden-Hair, in all diseases of the head, or falling and recovering of\nthe hair again, and generally for all the aforementioned diseases: And\nbesides, the powder of it taken in drink for forty days together, helps\nthe burstings in children.\n\n    GOLDEN MAIDEN HAIR\n\nTo the former give me leave to add this, and I shall say no more but\nonly describe it to you, and for the virtues refer you to the former,\nsince whatever is said of them, may be also said of this.\n\n_Descript._] It has many small, brownish, red hairs, to make up the\nform of leaves growing about the ground from the root; and in the\nmiddle of them, in Summer, rise small stalks of the same colour, set\nwith very fine yellowish green hairs on them, and bearing a small gold,\nyellow head, less than a wheat corn, standing in a great husk. The root\nis very small and thready.\n\n_Place._] It grows in bogs and moorish places, and also on dry shady\nplaces, as Hampstead Heath, and elsewhere.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Wall Rue",
+    "context_quote": "The decoction of the herb Maiden-Hair being drank, helps those that are troubled with the cough...",
+    "part_used": "herb"
+   },
+   {
+    "name_text": "White Maiden-Hair",
+    "context_quote": "THIS has very fine, pale green stalks, almost as fine as hairs...",
+    "part_used": "stalks and leaves"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "cough",
+    "context_quote": "helps those that are troubled with the cough",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "shortness of breath",
+    "context_quote": "shortness of breath",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "yellow jaundice",
+    "context_quote": "the yellow jaundice",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "diseases of the spleen",
+    "context_quote": "diseases of the spleen",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "stopping of urine",
+    "context_quote": "stopping of urine",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "stone in the kidneys",
+    "context_quote": "break the stone in the kidneys",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "bleedings and fluxes of the stomach and belly",
+    "context_quote": "stays both bleedings and fluxes of the stomach and belly",
+    "polarity": "prevents",
+    "strength": "claimed"
+   },
+   {
+    "name": "scurf",
+    "context_quote": "good to cleanse the head from scurf",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "decoction",
+    "context_quote": "The decoction of the herb Maiden-Hair being drank"
+   },
+   {
+    "kind": "boiled in oil",
+    "context_quote": "The herb boiled in oil of Camomile, dissolves knots, allays swellings, and dries up moist ulcers."
+   },
+   {
+    "kind": "lye",
+    "context_quote": "The lye made thereof is singularly good to cleanse the head from scurf"
+   },
+   {
+    "kind": "powder taken in drink",
+    "context_quote": "the powder of it taken in drink for forty days together, helps the burstings in children."
+   }
+  ],
+  "dosage_notes": [
+   "taken in drink for forty days together",
+   "especially when the herb is dry"
+  ],
+  "cautions": [
+   "for being green, it loosens the belly"
+  ],
+  "authority_citations": []
+ },
+ "resolutions": [
+  {
+   "historical_name": "Wall Rue",
+   "candidates": [
+    {
+     "scientific_name": "Ruta graveolens",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Galium aparine",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.45,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Ruta graveolens var. minor",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.3,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Ruta graveolens",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "White Maiden-Hair",
+   "candidates": [
+    {
+     "scientific_name": "Galium aparine",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.6,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Ruta graveolens",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.55,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Galium verum",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.4,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "",
+   "confidence": 0.36,
+   "status": "ambiguous",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Ruta graveolens",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Is it safe to consume traditional medicinal plants during pregnancy?",
+     "identifier": "33164294",
+     "year": "2021",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/33164294/",
+     "relevance_note": "Addresses safety of R. graveolens in pregnancy, relevant to 'poisons' and historical caution."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Traditional Uses, Phytochemistry, Pharmacology and Toxicology of Ruta graveolens L.: A Critical Review and Future Perspectives.",
+     "identifier": "39758226",
+     "year": "2024",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/39758226/",
+     "relevance_note": "Comprehensive review covering traditional uses, phytochemistry, and toxicology of R. graveolens."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Ruta graveolens phytophotodermatitis.",
+     "identifier": "34391344",
+     "year": "2021",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/34391344/",
+     "relevance_note": "Discusses skin reactions from contact, relevant to historical warnings about 'venomous' effects."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "furocoumarins",
+    "rutin",
+    "quercetin"
+   ],
+   "summary": "Modern evidence confirms R. graveolens contains furocoumarins causing phytophotodermatitis, validating historical cautions against 'poisons' or 'venomous' contact. A 2024 review synthesizes traditional uses like treating pains and coughs, while noting toxicity risks during pregnancy. No specific EMA monograph exists for this species."
+  }
+ ],
+ "concordance": {
+  "grade": "D",
+  "direction": "contradicts",
+  "rationale": "Evidence (PMID: 33164294) flags serious safety concerns for Ruta graveolens during pregnancy, contradicting historical uses for internal ailments like jaundice or spleen diseases. No clinical evidence supports the claimed therapeutic effects.",
+  "uncertainty": "Taxon 'White Maiden-Hair' is ambiguous; however, resolved taxon shows significant safety risks.",
+  "caveats": [
+   "Historical claims lack modern clinical validation.",
+   "Safety profile precludes internal use in many contexts."
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "break the stone in the kidneys",
+   "diseases of the spleen",
+   "good to cleanse the head from scurf",
+   "helps those that are troubled with the cough",
+   "shortness of breath",
+   "stays both bleedings and fluxes of the stomach and belly",
+   "stopping of urine",
+   "the yellow jaundice"
+  ],
+  "quotes_failed": [
+   "THIS has very fine, pale green stalks, almost as fine as hairs...",
+   "The decoction of the herb Maiden-Hair being drank, helps those that are troubled with the cough..."
+  ],
+  "issues": [
+   "Unearned Grade D: The grade 'D' (contradicts) is driven by safety concerns for Ruta graveolens during pregnancy. However, the entry contains an ambiguous taxon ('White Maiden-Hair') which may refer to Galium aparine or Galium verum, neither of which share the specific pregnancy contraindications of Ruta graveolens. Applying a blanket 'contradicts' grade without resolving the ambiguous historical name to a specific modern taxon with matching safety profiles is incomplete.",
+   "Missing Evidence for Ambiguity: The entry lists 'White Maiden-Hair' as ambiguous but fails to provide evidence distinguishing between Galium aparine and Galium verum, making the safety assessment potentially invalid if the herb in question is not Ruta graveolens."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T05:52:27Z"
+ }
+}
