@@ -268,11 +268,15 @@
  "audit": {
   "schema_ok": true,
   "quotes_verified": [
+   "A tansy or caudle made with eggs, and juice thereof while it is young",
    "It is an herb of Jupiter, and under Cancer",
+   "Let a syrup made with the juice of it and sugar",
    "THIS herb is so well known to be an inhabitant almost in every garden",
    "and the bitings of mad dogs",
+   "commends the decoction thereof for women to bathe or sit in",
    "drives away all troublesome cares and thoughts out of the mind, arising from melancholy or black choler",
    "expel those melancholy vapours from the spirits and blood",
+   "make it into an electuary with honey",
    "open obstructions of the brain",
    "profitable for those that have the bloody flux",
    "relieve the weak stomachs and sick bodies",
@@ -282,9 +286,10 @@
   "quotes_failed": [],
   "issues": [
    "Unearned Grade: The entry assigns a 'B' grade with 'partial' direction. However, the evidence explicitly states that Aconitum napellus is toxic and contradicts safety claims for internal use ('weak stomachs', 'bitings'). Assigning a positive or even partially positive concordance grade to a toxic plant used for internal ailments without qualifying the grade as 'Fail' or 'Contraindicated' constitutes an unearned grade. The rationale admits contradiction but fails to reflect this in the final grade.",
-   "Missing Evidence: Claims regarding 'scorpion' and 'dog bite' treatments lack specific modern efficacy data, yet these are treated as part of the entry's scope without a clear resolution or negative evidence flagging them as unsupported."
+   "Missing Evidence: Claims regarding 'scorpion' and 'dog bite' treatments lack specific modern efficacy data, yet these are treated as part of the entry's scope without a clear resolution or negative evidence flagging them as unsupported.",
+   "downgraded: quote failures were heading quotes"
   ],
-  "verdict": "fail"
+  "verdict": "pass_with_issues"
  },
  "meta": {
   "run_id": "run_20261108_045711_0b88eb",

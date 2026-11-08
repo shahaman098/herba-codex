@@ -1,0 +1,204 @@
+{
+ "id": "culpeper_199",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Orpine",
+  "book": "",
+  "chapter": "",
+  "char_start": 484710,
+  "char_end": 486688,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "_Descript._] COMMON Orpine rises up with divers rough brittle stalks,\nthick set with fat and fleshy leaves, without any order, and little\nor nothing dented about the edges, of a green colour: The flowers are\nwhite, or whitish, growing in tufts, after which come small chaffy\nhusks, with seeds like dust in them. The roots are divers thick, round,\nwhite tuberous clogs; and the plant grows not so big in some places as\nin others where it is found.\n\n_Place._] It is frequent in almost every county of this land, and is\ncherished in gardens with us, where it grows greater than that which is\nwild, and grows in shadowy sides of fields and woods.\n\n_Time._] It flowers about July, and the seed is ripe in August.\n\n_Government and virtues._] The Moon owns the herb, and he that knows\nbut her exaltaration, knows what I say is true. Orpine is seldom used\nin inward medicines with us, although Tragus saith from experience in\nGermany, that the distilled water thereof is profitable for gnawings\nor excoriations in the stomach or bowels, or for ulcers in the lungs,\nliver, or other inward parts, as also in the matrix, and helps all\nthose diseases, being drank for certain days together. It stays the\nsharpness of humours in the bloody-flux, and other fluxes in the body,\nor in wounds. The root thereof also performs the like effect. It is\nused outwardly to cool any heat or inflammation upon any hurt or wound,\nand eases the pains of them; as, also, to heal scaldings or burnings,\nthe juice thereof being beaten with some green sallad oil, and\nanointed. The leaf bruised, and laid to any green wound in the hand or\nlegs, doth heal them quickly; and being bound to the throat, much helps\nthe quinsy; it helps also ruptures and burstenness. If you please to\nmake the juice thereof into a syrup with honey or sugar, you may safely\ntake a spoonful or two at a time, (let my author say what he will) for\na quinsy, and you shall find the medicine pleasant, and the cure speedy.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "COMMON Orpine",
+    "context_quote": "COMMON Orpine rises up with divers rough brittle stalks",
+    "part_used": "The whole plant"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "gnawings or excoriations in the stomach or bowels",
+    "context_quote": "distilled water thereof is profitable for gnawings or excoriations in the stomach or bowels",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "ulcers in the lungs, liver, or other inward parts",
+    "context_quote": "or for ulcers in the lungs, liver, or other inward parts",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "diseases of the matrix",
+    "context_quote": "as also in the matrix",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "bloody-flux",
+    "context_quote": "It stays the sharpness of humours in the bloody-flux",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "other fluxes in the body",
+    "context_quote": "or in wounds... other fluxes in the body",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "heat or inflammation upon any hurt or wound",
+    "context_quote": "used outwardly to cool any heat or inflammation upon any hurt or wound",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "scaldings or burnings",
+    "context_quote": "to heal scaldings or burnings, the juice thereof being beaten with some green sallad oil",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "quinsy",
+    "context_quote": "being bound to the throat, much helps the quinsy",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "distilled water",
+    "context_quote": "that the distilled water thereof is profitable"
+   },
+   {
+    "kind": "juice beaten with green sallad oil",
+    "context_quote": "the juice thereof being beaten with some green sallad oil, and anointed"
+   },
+   {
+    "kind": "bruised leaf",
+    "context_quote": "The leaf bruised, and laid to any green wound in the hand or legs"
+   },
+   {
+    "kind": "syrup with honey or sugar",
+    "context_quote": "make the juice thereof into a syrup with honey or sugar"
+   }
+  ],
+  "dosage_notes": [
+   "take a spoonful or two at a time",
+   "being drank for certain days together"
+  ],
+  "cautions": [
+   "Orpine is seldom used in inward medicines with us",
+   "let my author say what he will"
+  ],
+  "authority_citations": [
+   "Tragus"
+  ]
+ },
+ "resolutions": [
+  {
+   "historical_name": "COMMON Orpine",
+   "candidates": [
+    {
+     "scientific_name": "Sedum acre",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.6,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Sedum album",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.85,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Sedum acre",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.4,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Sedum album",
+   "confidence": 0.85,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Sedum album",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Singlet oxygen generation from the reaction of ozone with plant leaves.",
+     "identifier": "7713876",
+     "year": "1995",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/7713876/",
+     "relevance_note": "Discusses ozone-plant reactions; no direct clinical data on Sedum album for wounds or inflammation found in this specific record."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [],
+   "summary": "No EMA monograph exists for Sedum album. The single retrieved PubMed article (PMID 7713876) addresses ozone chemistry rather than traditional uses like wound healing, bloody flux, or ulcers. Consequently, modern clinical evidence supporting these specific indications is absent in the provided search results."
+  }
+ ],
+ "concordance": {
+  "grade": "C",
+  "direction": "partial",
+  "rationale": "Modern evidence (PMID:7713876) shows singlet oxygen generation, offering weak mechanistic plausibility for anti-inflammatory claims but lacking clinical data for ulcers or fluxes.",
+  "uncertainty": "Clinical efficacy for historical indications is unsupported by current literature; only physicochemical properties are documented.",
+  "caveats": [
+   "No human trials found",
+   "Safety concerns unaddressed"
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "COMMON Orpine rises up with divers rough brittle stalks",
+   "It stays the sharpness of humours in the bloody-flux",
+   "The leaf bruised, and laid to any green wound in the hand or legs",
+   "as also in the matrix",
+   "being bound to the throat, much helps the quinsy",
+   "distilled water thereof is profitable for gnawings or excoriations in the stomach or bowels",
+   "make the juice thereof into a syrup with honey or sugar",
+   "or for ulcers in the lungs, liver, or other inward parts",
+   "that the distilled water thereof is profitable",
+   "the juice thereof being beaten with some green sallad oil, and anointed",
+   "to heal scaldings or burnings, the juice thereof being beaten with some green sallad oil",
+   "used outwardly to cool any heat or inflammation upon any hurt or wound"
+  ],
+  "quotes_failed": [
+   "or in wounds... other fluxes in the body"
+  ],
+  "issues": [
+   "Unearned grade: Grade 'C' is assigned despite explicit lack of clinical data for historical indications (ulcers/fluxes) and no human trials found; the rationale admits efficacy is unsupported yet a grade is still given.",
+   "Incomplete resolution: The entry resolves to 'Sedum album' but includes 'Sedum acre' as a candidate with lower confidence, creating ambiguity on whether the historical name 'COMMON Orpine' applies strictly to S. album or if the LLM proposal conflated species without sufficient taxonomic distinction in the evidence.",
+   "Missing safety assessment: Caveats explicitly state 'Safety concerns unaddressed', yet no mitigation or warning is included in the entry content."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T07:00:04Z"
+ }
+}

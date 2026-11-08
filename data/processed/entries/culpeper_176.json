@@ -1,0 +1,246 @@
+{
+ "id": "culpeper_176",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "The Medlar",
+  "book": "",
+  "chapter": "",
+  "char_start": 428428,
+  "char_end": 432884,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "_Descript._] THE Tree grows near the bigness of the Quince Tree,\nspreading branches reasonably large, with longer and narrower leaves\nthan either the apple or quince, and not dented about the edges. At\nthe end of the sprigs stand the flowers, made of five white, great,\nbroad-pointed leaves, nicked in the middle with some white threads\nalso; after which comes the fruit, of a brownish green colour, being\nripe, bearing a crown as it were on the top, which were the five green\nleaves; and being rubbed off, or fallen away, the head of the fruit\nis seen to be somewhat hollow. The fruit is very harsh before it is\nmellowed, and has usually five hard kernels within it. There is another\nkind hereof nothing differing from the former, but that it hath some\nthorns on it in several places, which the other hath not; and usually\nthe fruit is small, and not so pleasant.\n\n_Time and Place._] They grow in this land, and flower in May for the\nmost part, and bear fruit in September and October.\n\n_Government and virtues._] The fruit is old Saturn’s, and sure a better\nmedicine he hardly hath to strengthen the retentive faculty; therefore\nit stays women’s longings: The good old man cannot endure women’s\nminds should run a gadding. Also a plaister made of the fruit dried\nbefore they are rotten, and other convenient things, and applied to\nthe reins of the back, stops miscarriage in women with child. They are\npowerful to stay any fluxes of blood or humours in men or women; the\nleaves also have this quality. The decoction of them is good to gargle\nand wash the mouth, throat and teeth, when there is any defluxions of\nblood to stay it, or of humours, which causes the pains and swellings.\nIt is a good bath for women, that have their courses flow too abundant:\nor for the piles when they bleed too much. If a poultice or plaister be\nmade with dried medlars, beaten and mixed with the juice of red roses,\nwhereunto a few cloves and nutmegs may be added, and a little red coral\nalso, and applied to the stomach that is given to casting or loathing\nof meat, it effectually helps. The dried leaves in powder strewed on\nfresh bleeding wounds restrains the blood, and heals up the wound\nquickly. The medlar-stones made into powder, and drank in wine, wherein\nsome Parsley-roots have lain infused all night, or a little boiled, do\nbreak the stone in the kidneys, helping to expel it.\n\n    MELLILOT, OR KING’S CLAVER.\n\n_Descript._] THIS hath many green stalks, two or three feet high,\nrising from a tough, long, white root, which dies not every year, set\nround about at the joints with small and somewhat long, well-smelling\nleaves, set three together, unevently dented about the edges. The\nflowers are yellow, and well-smelling also, made like other trefoil,\nbut small, standing in long spikes one above another, for an hand\nbreadth long or better, which afterwards turn into long crooked pods,\nwherein is contained flat seed, somewhat brown.\n\n_Place._] It grows plentifully in many places of this land, as in the\nedge of Suffolk and in Essex, as also in Huntingdonshire, and in other\nplaces, but most usually in corn fields, in corners of meadows.\n\n_Time._] It flowers in June and July, and is ripe quickly after.\n\n_Government and virtues._] Melilot, boiled in wine, and applied,\nmollifies all hard tumours and inflammations that happen in the eyes,\nor other parts of the body, and sometimes the yolk of a roasted egg, or\nfine flour, or poppy seed, or endive, is added unto it. It helps the\nspreading ulcers in the head, it being washed with a lye made thereof.\nIt helps the pains of the stomach, being applied fresh, or boiled\nwith any of the aforenamed things; also, the pains of the ears, being\ndropped into them; and steeped in vinegar, or rose water, it mitigates\nthe head-ache. The flowers of Mellilot or Camomile are much used to\nbe put together in clysters to expel wind, and ease pains; and also\nin poultices for the same purpose, and to assuage swelling tumours in\nthe spleen or other parts, and helps inflammations in any part of the\nbody. The juice dropped into the eyes, is a singularly good medicine to\ntake away the film or skin that clouds or dimns the eye-sight. The head\noften washed with the distilled water of the herb and flower, or a lye\nmade therewith, is effectual for those that suddenly lose their senses;\nas also to strengthen the memory, to comfort the head and brain, and to\npreserve them from pain, and the apoplexy.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "The Medlar",
+    "context_quote": "THE Tree grows near the bigness of the Quince Tree, spreading branches reasonably large",
+    "part_used": "fruit"
+   },
+   {
+    "name_text": "Mellilot, or King's Claver",
+    "context_quote": "THIS hath many green stalks, two or three feet high, rising from a tough, long, white root",
+    "part_used": "root"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "miscarriage",
+    "context_quote": "stops miscarriage in women with child",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "fluxes of blood or humours",
+    "context_quote": "powerful to stay any fluxes of blood or humours in men or women",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "defluxions of blood",
+    "context_quote": "when there is any defluxions of blood to stay it",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "abundant courses",
+    "context_quote": "for women, that have their courses flow too abundant",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "bleeding piles",
+    "context_quote": "or for the piles when they bleed too much",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "loathing of meat",
+    "context_quote": "stomach that is given to casting or loathing of meat, it effectually helps",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "fresh bleeding wounds",
+    "context_quote": "restrains the blood, and heals up the wound quickly",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "stones in the kidneys",
+    "context_quote": "do break the stone in the kidneys, helping to expel it",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "plaister of dried fruit",
+    "context_quote": "a plaister made of the fruit dried before they are rotten, and other convenient things"
+   },
+   {
+    "kind": "decoction of leaves",
+    "context_quote": "The decoction of them is good to gargle and wash the mouth, throat and teeth"
+   },
+   {
+    "kind": "bath",
+    "context_quote": "It is a good bath for women, that have their courses flow too abundant"
+   },
+   {
+    "kind": "poultice or plaister with dried medlars and red rose juice",
+    "context_quote": "If a poultice or plaister be made with dried medlars, beaten and mixed with the juice of red roses"
+   }
+  ],
+  "dosage_notes": [
+   "dried leaves in powder strewed on fresh bleeding wounds",
+   "medlar-stones made into powder, and drank in wine",
+   "Mellilot, boiled in wine, and applied"
+  ],
+  "cautions": [],
+  "authority_citations": []
+ },
+ "resolutions": [
+  {
+   "historical_name": "The Medlar",
+   "candidates": [
+    {
+     "scientific_name": "Mespilus germanica",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Crataegus monogyna",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.1,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Mespilus germanica",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Mellilot, or King's Claver",
+   "candidates": [
+    {
+     "scientific_name": "Melilotus officinalis",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.9,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Melilotus albus",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.6,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Melilotus officinalis",
+   "confidence": 0.9,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Mespilus germanica",
+   "ema_monograph": null,
+   "pubmed": [],
+   "pubchem_cids": [],
+   "notable_constituents": [],
+   "summary": ""
+  },
+  {
+   "taxon": "Melilotus officinalis",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Coumarin-Induced Hepatotoxicity: A Narrative Review.",
+     "identifier": "36558195",
+     "year": "2022",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/36558195/",
+     "relevance_note": ""
+    },
+    {
+     "kind": "PubMed",
+     "title": "Combination of Saffron (Crocus sativus), Elderberry (Sambucus nigra L.) and Melilotus officinalis Protects ARPE-19 Cells from Oxidative Stress.",
+     "identifier": "40003961",
+     "year": "2025",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/40003961/",
+     "relevance_note": ""
+    },
+    {
+     "kind": "PubMed",
+     "title": "Balneotherapy for chronic venous insufficiency.",
+     "identifier": "36622745",
+     "year": "2023",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/36622745/",
+     "relevance_note": ""
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [],
+   "summary": ""
+  }
+ ],
+ "concordance": {
+  "grade": "D",
+  "direction": "contradicts",
+  "rationale": "Mespilus germanica lacks modern clinical evidence (EMA false, PubMed empty). Melilotus officinalis shows hepatotoxicity risks (PMID:36558195), contradicting safety for internal flux/blood treatments.",
+  "uncertainty": "Low uncertainty regarding lack of efficacy and specific toxicity risks identified in recent literature.",
+  "caveats": [
+   "Historical claims rely on humoral theory, not modern pharmacology.",
+   "No evidence supports hemostatic or abortifacient effects."
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "If a poultice or plaister be made with dried medlars, beaten and mixed with the juice of red roses",
+   "It is a good bath for women, that have their courses flow too abundant",
+   "THE Tree grows near the bigness of the Quince Tree, spreading branches reasonably large",
+   "THIS hath many green stalks, two or three feet high, rising from a tough, long, white root",
+   "The decoction of them is good to gargle and wash the mouth, throat and teeth",
+   "a plaister made of the fruit dried before they are rotten, and other convenient things",
+   "do break the stone in the kidneys, helping to expel it",
+   "for women, that have their courses flow too abundant",
+   "or for the piles when they bleed too much",
+   "powerful to stay any fluxes of blood or humours in men or women",
+   "restrains the blood, and heals up the wound quickly",
+   "stomach that is given to casting or loathing of meat, it effectually helps",
+   "stops miscarriage in women with child",
+   "when there is any defluxions of blood to stay it"
+  ],
+  "quotes_failed": [],
+  "issues": [
+   "Unearned Grade: The entry received a 'D' grade based on the lack of EMA approval and PubMed evidence for Mespilus germanica. However, the source text provided no specific historical quotes or claims to verify against this absence of modern data; grading an entire entry solely on the absence of modern clinical evidence without explicit contradictory historical quotes in the payload is procedurally incomplete.",
+   "Unearned Grade: The 'D' grade rationale cites hepatotoxicity for Melilotus officinalis (PMID:36558195). While this is valid scientific evidence, the entry lacks a specific historical quote claiming internal flux/blood treatment safety that was directly contradicted by this toxicity data. Without the specific claim to refute, the 'contradicts' direction and the resulting grade are not fully supported by the provided text context.",
+   "Completeness: The resolution for 'The Medlar' selected Mespilus germanica with 0.95 confidence based on 'LLM proposal; GBIF EXACT'. No external verification quote was called to confirm this taxonomic match against the source text, relying entirely on internal LLM knowledge which may not align with the specific historical context of the source document."
+  ],
+  "verdict": "pass_with_issues"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T06:49:29Z"
+ }
+}

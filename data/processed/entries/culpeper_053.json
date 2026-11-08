@@ -1,0 +1,237 @@
+{
+ "id": "culpeper_053",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Camomile",
+  "book": "",
+  "chapter": "",
+  "char_start": 154668,
+  "char_end": 157477,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "IT is so well known every where, that it is but lost time and labour to\ndescribe it. The virtues thereof are as follow.\n\nA decoction made of Camomile, and drank, takes away all pains and\nstitches in the side. The flowers of Camomile beaten, and made up into\nballs with Gill, drive away all sorts of agues, if the part grieved be\nanointed with that oil, taken from the flowers, from the crown of the\nhead to the sole of the foot, and afterwards laid to sweat in his bed,\nand that he sweats well. This is Nechessor, an Egyptian’s, medicine. It\nis profitable for all sorts of agues that come either from phlegm, or\nmelancholy, or from an inflammation of the bowels, being applied when\nthe humours causing them shall be concocted; and there is nothing more\nprofitable to the sides and region of the liver and spleen than it. The\nbathing with a decoction of Camomile takes away weariness, eases pains,\nto what part of the body soever they be applied. It comforts the sinews\nthat are over-strained, mollifies all swellings: It moderately comforts\nall parts that have need of warmth, digests and dissolves whatsoever\nhas need thereof, by a wonderful speedy property. It eases all pains\nof the cholic and stone, and all pains and torments of the belly, and\ngently provokes urine. The flowers boiled in posset-drink provokes\nsweat, and helps to expel all colds, aches, and pains whatsoever, and\nis an excellent help to bring down women’s courses. Syrup made of\nthe juice of Camomile, with the flowers, in white wine, is a remedy\nagainst the jaundice and dropsy. The flowers boiled in lye, are good\nto wash the head, and comfort both it and the brain. The oil made\nof the flowers of Camomile, is much used against all hard swellings,\npains or aches, shrinking of the sinews, or cramps, or pains in the\njoints, or any other part of the body. Being used in clysters, it helps\nto dissolve the wind and pains in the belly; anointed also, it helps\nstitches and pains in the sides.\n\nNechessor saith, the Egyptians dedicated it to the Sun, because it\ncured agues, and they were like enough to do it, for they were the\narrantest apes in their religion that I ever read of. Bachinus, Bena,\nand Lobel, commend the syrup made of the juice of it and sugar, taken\ninwardly, to be excellent for the spleen. Also this is certain, that it\nmost wonderfully breaks the stone: Some take it in syrup or decoction,\nothers inject the juice of it into the bladder with a syringe. My\nopinion is, that the salt of it, taken half a dram in the morning in\na little white or Rhenish wine, is better than either; that it is\nexcellent for the stone, appears in this which I have seen tried,\n_viz._, That a stone that has been taken out of the body of a man being\nwrapped in Camomile, will in time dissolve, and in a little time too.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Camomile",
+    "context_quote": "The virtues thereof are as follow.",
+    "part_used": "flowers"
+   },
+   {
+    "name_text": "Nechessor, an Egyptian's medicine",
+    "context_quote": "This is Nechessor, an Egyptian's, medicine.",
+    "part_used": "flowers"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "pains and stitches in the side",
+    "context_quote": "takes away all pains and stitches in the side",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "agues",
+    "context_quote": "drive away all sorts of agues",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "weariness",
+    "context_quote": "takes away weariness",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "over-strained sinews",
+    "context_quote": "comforts the sinews that are over-strained",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "swellings",
+    "context_quote": "mollifies all swellings",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "cholic and stone",
+    "context_quote": "eases all pains of the cholic and stone",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "colds, aches, and pains",
+    "context_quote": "helps to expel all colds, aches, and pains whatsoever",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "women's courses (retention)",
+    "context_quote": "excellent help to bring down women's courses",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "decoction",
+    "context_quote": "A decoction made of Camomile, and drank"
+   },
+   {
+    "kind": "oil",
+    "context_quote": "The oil made of the flowers of Camomile"
+   },
+   {
+    "kind": "syrup",
+    "context_quote": "Syrup made of the juice of Camomile, with the flowers, in white wine"
+   },
+   {
+    "kind": "clysters",
+    "context_quote": "Being used in clysters"
+   }
+  ],
+  "dosage_notes": [
+   "taken half a dram in the morning in a little white or Rhenish wine",
+   "if the part grieved be anointed with that oil, taken from the flowers, from the crown of the head to the sole of the foot"
+  ],
+  "cautions": [],
+  "authority_citations": [
+   "Nechessor",
+   "Bachinus",
+   "Bena",
+   "Lobel"
+  ]
+ },
+ "resolutions": [
+  {
+   "historical_name": "Camomile",
+   "candidates": [
+    {
+     "scientific_name": "Matricaria chamomilla",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Chamaemelum nobile",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.85,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Anthemis cotula",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.45,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Matricaria chamomilla",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Nechessor, an Egyptian's medicine",
+   "candidates": [
+    {
+     "scientific_name": "Aloe vera",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.75,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Cyperus rotundus",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.65,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Nymphaea caerulea",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.55,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "",
+   "confidence": 0.45,
+   "status": "ambiguous",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Matricaria chamomilla",
+   "ema_monograph": null,
+   "pubmed": [],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "apigenin",
+    "bisabolol"
+   ],
+   "summary": "No specific PubMed documents were retrieved for Matricaria chamomilla in this search. While widely studied elsewhere for headache relief and digestive issues, the current evidence set contains no records to support or refute its traditional uses for rheums, head pains, or urine retention within the scope of these results."
+  }
+ ],
+ "concordance": {
+  "grade": "C",
+  "direction": "partial",
+  "rationale": "Modern evidence (PubMed empty) lacks clinical support for specific historical claims like 'agues' or 'stones'. Only general anti-inflammatory properties offer weak plausibility.",
+  "uncertainty": "High due to absence of modern clinical trials in provided evidence set.",
+  "caveats": [
+   "No EMA approval",
+   "Claims are anecdotal"
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "A decoction made of Camomile, and drank",
+   "Being used in clysters",
+   "Syrup made of the juice of Camomile, with the flowers, in white wine",
+   "The oil made of the flowers of Camomile",
+   "The virtues thereof are as follow.",
+   "comforts the sinews that are over-strained",
+   "drive away all sorts of agues",
+   "eases all pains of the cholic and stone",
+   "helps to expel all colds, aches, and pains whatsoever",
+   "mollifies all swellings",
+   "takes away all pains and stitches in the side",
+   "takes away weariness"
+  ],
+  "quotes_failed": [
+   "This is Nechessor, an Egyptian's, medicine.",
+   "excellent help to bring down women's courses"
+  ],
+  "issues": [
+   "Unearned Grade C: The concordance grade 'C' with rationale citing lack of modern clinical evidence (PubMed empty) contradicts the presence of historical claims ('agues', 'stones') which are not supported by the provided evidence set. Additionally, the entry lacks EMA approval or specific clinical trial data to substantiate any therapeutic claim, making the grade unearned based on strict audit criteria.",
+   "Incomplete Resolution: The candidate 'Nechessor' remains ambiguous with no selected scientific name, yet historical claims are attached to the entry without resolving which taxon (if any) supports them.",
+   "Missing Evidence for Claims: No evidence links the specific historical claims ('agues', 'stones') or the failed quotes to any of the resolved taxa (Matricaria chamomilla)."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T07:26:29Z"
+ }
+}

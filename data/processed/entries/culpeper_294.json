@@ -1,0 +1,237 @@
+{
+ "id": "culpeper_294",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Woodbine, Or Honey-Suckles",
+  "book": "",
+  "chapter": "",
+  "char_start": 714102,
+  "char_end": 716558,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "IT is a plant so common, that every one that hath eyes knows it, and he\nthat hath none, cannot read a description, if I should write it.\n\n_Time._] They flower in June, and the fruit is ripe in August.\n\n_Government and virtues._] Doctor Tradition, that grand introducer of\nerrors, that hater of truth, lover of folly, and the mortal foe to Dr.\nReason, hath taught the common people to use the leaves or flowers of\nthis plant in mouth-water, and by long continuance of time, hath so\ngrounded it in the brains of the vulgar, that you cannot beat it out\nwith a beetle: All mouth-waters ought to be cooling and drying, but\nHoney Suckles are cleansing, consuming and digesting, and therefore\nfit for inflammations; thus Dr. Reason. Again if you please, we will\nleave Dr. Reason a while, and come to Dr. Experience, a learned\ngentleman, and his brother. Take a leaf and chew it in your mouth, and\nyou will quickly find it likelier to cause a sore mouth and throat\nthan to cure it. Well then, if it be not good for this, What is it\ngood for? It is good for something, for God and nature made nothing in\nvain. It is an herb of Mercury, and appropriated to the lungs; Crab\nclaims dominion over it; neither is it a foe to the Lion; if the lungs\nbe afflicted by Jupiter, this is your cure: It is fitting a conserve\nmade of the flowers of it were kept in every gentlewoman’s house; I\nknow no better cure for an asthma than this: besides, it takes away\nthe evil of the spleen, provokes urine, procures speedy delivery\nof women in travail, helps cramps, convulsions, and palsies, and\nwhatsoever griefs come of cold or stopping; if you please to make use\nof it as an ointment, it will clear your skin of morphew, freckles,\nand sun-burnings, or whatsoever else discolours it, and then the maids\nwill love it. Authors say, The flowers are of more effect than the\nleaves, and that is true; but they say the seeds are least effectual\nof all. But Dr. Reason told me, That there was a vital spirit in every\nseed to beget its like; and Dr. Experience told me, That there was a\ngreater heat in the seed than there was in any other part of the plant;\nand withal, That heat was the mother of action, and then judge if old\nDr. Tradition (who may well be honoured for his age, but not for his\ngoodness) hath not so poisoned the world with errors before I was born,\nthat it was never well in its wits since, and there is a great fear it\nwill die mad.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Woodbine",
+    "context_quote": "HEADING: Woodbine, Or Honey-Suckles",
+    "part_used": "leaves or flowers"
+   },
+   {
+    "name_text": "Honey-Suckles",
+    "context_quote": "IT is a plant so common... and the fruit is ripe in August.",
+    "part_used": "leaves or flowers"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "inflammations",
+    "context_quote": "All mouth-waters ought to be cooling and drying, but Honey Suckles are cleansing, consuming and digesting, and therefore fit for inflammations",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "mouth-water",
+    "context_quote": "Doctor Tradition... hath taught the common people to use the leaves or flowers of this plant in mouth-water",
+    "polarity": "prevents",
+    "strength": "claimed"
+   },
+   {
+    "name": "sore mouth and throat",
+    "context_quote": "Take a leaf and chew it in your mouth, and you will quickly find it likelier to cause a sore mouth and throat than to cure it.",
+    "polarity": "causes",
+    "strength": "claimed"
+   },
+   {
+    "name": "asthma",
+    "context_quote": "I know no better cure for an asthma than this",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "evil of the spleen",
+    "context_quote": "It is good for something... It takes away the evil of the spleen",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "urine retention",
+    "context_quote": "besides, it takes away the evil of the spleen, provokes urine",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "women in travail",
+    "context_quote": "procures speedy delivery of women in travail",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "cramps, convulsions, and palsies",
+    "context_quote": "helps cramps, convulsions, and palsies",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "mouth-water",
+    "context_quote": "use the leaves or flowers of this plant in mouth-water"
+   },
+   {
+    "kind": "conserve",
+    "context_quote": "It is fitting a conserve made of the flowers of it were kept in every gentlewoman's house"
+   },
+   {
+    "kind": "ointment",
+    "context_quote": "if you please to make use of it as an ointment, it will clear your skin"
+   }
+  ],
+  "dosage_notes": [
+   "Take a leaf and chew it in your mouth",
+   "The flowers are of more effect than the leaves",
+   "the seeds are least effectual of all"
+  ],
+  "cautions": [
+   "likelier to cause a sore mouth and throat than to cure it",
+   "Dr. Tradition... hath so grounded it in the brains of the vulgar, that you cannot beat it out with a beetle",
+   "old Dr. Tradition... hath not so poisoned the world with errors before I was born"
+  ],
+  "authority_citations": [
+   "Doctor Tradition",
+   "Dr. Reason",
+   "Dr. Experience",
+   "Authors say"
+  ]
+ },
+ "resolutions": [
+  {
+   "historical_name": "Woodbine",
+   "candidates": [
+    {
+     "scientific_name": "Lonicera periclymenum",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Lonicera japonica",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.45,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Clematis vitalba",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.25,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Lonicera periclymenum",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Honey-Suckles",
+   "candidates": [
+    {
+     "scientific_name": "Lonicera periclymenum",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Lonicera xylosteum",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.35,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Lonicera tatarica",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.3,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Lonicera periclymenum",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Lonicera periclymenum",
+   "ema_monograph": null,
+   "pubmed": [],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "Chlorogenic acid",
+    "Hyperoside"
+   ],
+   "summary": "No specific modern evidence or EMA monographs were retrieved for treating eye injuries, venomous bites, gout, or adder bites. Current literature emphasizes antimicrobial and anti-inflammatory potential in chronic contexts, not acute envenomation."
+  }
+ ],
+ "concordance": {
+  "grade": "C",
+  "direction": "none",
+  "rationale": "No modern clinical evidence or EMA approval exists for Lonicera periclymenum treating inflammation, asthma, or spleen issues. Historical claims lack pharmacological validation.",
+  "uncertainty": "Evidence is absent; historical anecdotes cannot be verified by current scientific literature.",
+  "caveats": [
+   "Claims are based on historical tradition only.",
+   "No safety data available for specific uses."
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "All mouth-waters ought to be cooling and drying, but Honey Suckles are cleansing, consuming and digesting, and therefore fit for inflammations",
+   "I know no better cure for an asthma than this",
+   "Take a leaf and chew it in your mouth, and you will quickly find it likelier to cause a sore mouth and throat than to cure it.",
+   "besides, it takes away the evil of the spleen, provokes urine",
+   "helps cramps, convulsions, and palsies",
+   "if you please to make use of it as an ointment, it will clear your skin",
+   "procures speedy delivery of women in travail",
+   "use the leaves or flowers of this plant in mouth-water"
+  ],
+  "quotes_failed": [
+   "Doctor Tradition... hath taught the common people to use the leaves or flowers of this plant in mouth-water",
+   "HEADING: Woodbine, Or Honey-Suckles",
+   "IT is a plant so common... and the fruit is ripe in August.",
+   "It is fitting a conserve made of the flowers of it were kept in every gentlewoman's house",
+   "It is good for something... It takes away the evil of the spleen"
+  ],
+  "issues": [
+   "Unearned Grade: The entry received a 'C' grade based on 'No modern clinical evidence', yet the extraction contains zero EMA approvals (ema: false) and zero PubMed citations (pubmed_n: 0). A grade of 'C' implies some level of validated efficacy or at least partial scientific support, which is absent. The rationale correctly states 'Evidence is absent', making any positive concordance grade unjustified.",
+   "Missing Evidence: All historical claims (mouth-water, spleen) lack supporting literature citations in the evidence list.",
+   "Completeness Failure: No resolutions provided for specific uses mentioned in the failed quotes (e.g., 'mouth-water', 'spleen')."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T06:47:50Z"
+ }
+}

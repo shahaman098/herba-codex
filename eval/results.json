@@ -1,16 +1,16 @@
 {
   "extraction": {
-    "precision": 0.571,
-    "recall": 1.0,
-    "tp": 4,
-    "fp": 3,
-    "fn": 0
+    "precision": 0.583,
+    "recall": 0.955,
+    "tp": 21,
+    "fp": 15,
+    "fn": 1
   },
   "resolution": {
-    "accuracy_at_1": 1.0,
-    "n": 4,
+    "accuracy_at_1": 0.81,
+    "n": 21,
     "statuses": {
-      "resolved": 4,
+      "resolved": 23,
       "ambiguous": 0,
       "unresolved": 0
     }
@@ -29,28 +29,28 @@
       "accuracy": null
     },
     "85-100": {
-      "n": 4,
-      "accuracy": 1.0
+      "n": 21,
+      "accuracy": 0.81
     }
   },
   "quote_integrity": {
-    "verified": 34,
-    "failed": 4,
-    "rate": 0.895
+    "verified": 220,
+    "failed": 46,
+    "rate": 0.827
   },
   "concordance_coverage": {
-    "graded": 4,
-    "of": 4
+    "graded": 22,
+    "of": 22
   },
-  "n_gold_pairs": 4,
+  "n_gold_pairs": 22,
   "bootstrap_95": {
     "resolution_accuracy_at_1": {
-      "lo": 1.0,
-      "hi": 1.0
+      "lo": 0.636,
+      "hi": 0.952
     },
     "quote_integrity_rate": {
-      "lo": 0.821,
-      "hi": 0.974
+      "lo": 0.698,
+      "hi": 0.926
     }
   }
 }

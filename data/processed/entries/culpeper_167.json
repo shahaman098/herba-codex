@@ -1,0 +1,134 @@
+{
+ "id": "culpeper_167",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Maiden Hair",
+  "book": "",
+  "chapter": "",
+  "char_start": 409890,
+  "char_end": 410410,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "_Descript._] OUR common Maiden-Hair doth, from a number of hard black\nfibres, send forth a great many blackish shining brittle stalks, hardly\na span long, in many not half so long, on each side set very thick with\nsmall, round, dark green leaves, and spitted on the back of them like a\nfern.\n\n_Place._] It grows upon old stone walls in the West parts in Kent,\nand divers other places of this land; it delights likewise to grow by\nsprings, wells, and rocky moist and shady places, and is always green.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Maiden-Hair",
+    "context_quote": "OUR common Maiden-Hair doth, from a number of hard black fibres",
+    "part_used": "stalks"
+   }
+  ],
+  "ailments": [],
+  "preparations": [],
+  "dosage_notes": [],
+  "cautions": [],
+  "authority_citations": []
+ },
+ "resolutions": [
+  {
+   "historical_name": "Maiden-Hair",
+   "candidates": [
+    {
+     "scientific_name": "Adiantum capillus-veneris",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Adiantum pedatum",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.65,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Adiantum hispidulum",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.55,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Adiantum capillus-veneris",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Adiantum capillus-veneris",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "A Review of Pharmacological Properties and Toxicological Effects of Adiantum capillus-veneris L.",
+     "identifier": "32178614",
+     "year": "2021",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/32178614/",
+     "relevance_note": "Reviews pharmacological properties and toxicology."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Medicinal Properties of Adiantum capillus-veneris Linn. in Traditional Medicine and Modern Phytotherapy: A Review Article.",
+     "identifier": "29445628",
+     "year": "2018",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/29445628/",
+     "relevance_note": "Links traditional uses to modern phytotherapy."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Adiantum capillus-veneris: A Comprehensive Review of Its Medicinal Properties, Bioactive Compounds, and Advanced Extraction Techniques.",
+     "identifier": "41132578",
+     "year": "2025",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/41132578/",
+     "relevance_note": "Covers bioactive compounds and extraction methods."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "flavonoids",
+    "tannins"
+   ],
+   "summary": "Evidence suggests potential anti-inflammatory and antioxidant activities, though clinical data remains limited. Traditional uses often cite diuretic or antirheumatic effects, requiring further validation against modern standards."
+  }
+ ],
+ "concordance": {
+  "grade": "C",
+  "direction": "none",
+  "rationale": "Modern reviews (PMID: 32178614, 29445628) document pharmacological properties but lack clinical evidence for specific therapeutic claims. Historical claims array is empty.",
+  "uncertainty": "Low uncertainty due to absence of historical claims to evaluate against modern data.",
+  "caveats": [
+   "No historical claims provided for comparison.",
+   "Evidence limited to phytochemical reviews."
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "OUR common Maiden-Hair doth, from a number of hard black fibres"
+  ],
+  "quotes_failed": [],
+  "issues": [
+   "Unearned Grade: The entry assigns a concordance grade of 'C' based on the rationale that modern reviews lack clinical evidence. However, the evidence list shows only 3 PubMed citations (pubmed_n: 3) and explicitly states 'Historical claims array is empty'. A grade of 'C' typically implies some level of validation or specific therapeutic support; assigning this grade when historical claims are absent and clinical evidence is lacking constitutes an unearned grade. The rationale contradicts the strict evidentiary requirements for a non-failing grade in the absence of positive clinical data."
+  ],
+  "verdict": "pass_with_issues"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T06:43:46Z"
+ }
+}

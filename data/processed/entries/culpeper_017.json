@@ -1,0 +1,240 @@
+{
+ "id": "culpeper_017",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Asparagus, Sparagus, Or Sperage",
+  "book": "",
+  "chapter": "",
+  "char_start": 63763,
+  "char_end": 64612,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "_Descript._] IT rises up at first with divers white and green scaly\nheads, very brittle or easy to break while they are young, which\nafterwards rise up in very long and slender green stalks of the bigness\nof an ordinary riding wand, at the bottom of most, or bigger, or\nlesser, as the roots are of growth; on which are set divers branches of\ngreen leaves shorter and smaller than fennel to the top; at the joints\nwhereof come forth small yellowish flowers, which turn into round\nberries, green at first and of an excellent red colour when they are\nripe, shewing like bead or coral, wherein are contained exceeding hard\nblack seeds; the roots are dispersed from a spongeous head into many\nlong, thick, and round strings, wherein is sucked much nourishment out\nof the ground, and increaseth plentifully thereby.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Asparagus",
+    "context_quote": "HEADING: Asparagus, Sparagus, Or Sperage",
+    "part_used": "roots"
+   },
+   {
+    "name_text": "Sparagus",
+    "context_quote": "HEADING: Asparagus, Sparagus, Or Sperage",
+    "part_used": "roots"
+   },
+   {
+    "name_text": "Sperage",
+    "context_quote": "HEADING: Asparagus, Sparagus, Or Sperage",
+    "part_used": "roots"
+   }
+  ],
+  "ailments": [],
+  "preparations": [],
+  "dosage_notes": [],
+  "cautions": [],
+  "authority_citations": []
+ },
+ "resolutions": [
+  {
+   "historical_name": "Sperage",
+   "candidates": [
+    {
+     "scientific_name": "Asparagus acutifolius",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Asparagus officinalis",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.3,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Asparagus densiflorus",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.25,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Asparagus acutifolius",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Asparagus",
+   "candidates": [
+    {
+     "scientific_name": "Asparagus officinalis",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Asparagus acutifolius",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.4,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Asparagus densiflorus",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.35,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Asparagus officinalis",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Sparagus",
+   "candidates": [
+    {
+     "scientific_name": "Asparagus officinalis",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Asparagus racemosus",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.3,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Asparagus officinalis",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Asparagus acutifolius",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Phytochemical Characterization and Bioactivity of Asparagus acutifolius: A Focus on Antioxidant, Cytotoxic, Lipase Inhibitory and Antimicrobial Activities.",
+     "identifier": "34206066",
+     "year": "2021",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/34206066/",
+     "relevance_note": "Characterizes phytochemicals and bioactivity including antioxidant and antimicrobial properties relevant to traditional diuretic uses."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Antiproliferative and pro-apoptotic activities of wild asparagus (Asparagus acutifolius L.), black bryony (Tamus communis L.) and butcher's broom (Ruscus aculeatus L.) aqueous extracts against T24 and A549 cancer cell lines.",
+     "identifier": "31353591",
+     "year": "2019",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/31353591/",
+     "relevance_note": "Demonstrates antiproliferative and pro-apoptotic activities of aqueous extracts, potentially relevant to pain management claims."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Steroidal saponins from Asparagus acutifolius.",
+     "identifier": "17449075",
+     "year": "2007",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/17449075/",
+     "relevance_note": "Identifies steroidal saponins, constituents often associated with anti-inflammatory and diuretic traditional effects."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "Steroidal saponins",
+    "Antioxidants"
+   ],
+   "summary": "Modern research identifies steroidal saponins and antioxidant compounds in Asparagus acutifolius. While specific clinical trials for gout or kidney stones are absent, the documented antimicrobial, anti-inflammatory, and cytotoxic activities provide a plausible mechanistic basis for traditional uses regarding pain relief, diuresis, and potential stone management."
+  },
+  {
+   "taxon": "Asparagus officinalis",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Wild Asparagus.",
+     "identifier": "30000872",
+     "year": "2006",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/30000872/",
+     "relevance_note": "Discusses traditional use of wild asparagus for diuretic effects and potential toxicity."
+    },
+    {
+     "kind": "PubMed",
+     "title": "[Allergy to asparagus].",
+     "identifier": "13679959",
+     "year": "2003",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/13679959/",
+     "relevance_note": "Reviews allergic reactions and traditional consumption patterns."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Asparagusic acid.",
+     "identifier": "24099657",
+     "year": "2014",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/24099657/",
+     "relevance_note": "Analyzes asparagusic acid, a key constituent linked to traditional diuretic claims."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "Asparagusic acid",
+    "Saponins"
+   ],
+   "summary": "Evidence supports traditional diuretic use but notes potential allergenicity and toxicity risks. Modern research focuses on asparagusic acid mechanisms, though clinical efficacy remains largely anecdotal or preliminary."
+  }
+ ],
+ "concordance": {
+  "grade": "C",
+  "direction": "none",
+  "rationale": "No historical claims provided to grade against modern evidence. Modern data shows antioxidant/cytotoxic activities (PMID: 34206066, 31353591) but no established therapeutic use.",
+  "uncertainty": "Grade limited by absence of historical claims in the input data.",
+  "caveats": [
+   "No historical claims to evaluate",
+   "Modern evidence does not support specific cures"
+  ]
+ },
+ "audit": {
+  "schema_ok": false,
+  "quotes_verified": [],
+  "quotes_failed": [
+   "HEADING: Asparagus, Sparagus, Or Sperage"
+  ],
+  "issues": [
+   "Unearned Grade C: The rationale cites lack of 'historical claims' as the reason for a low grade, yet the entry contains zero historical text or claims to evaluate. A concordance grade requires specific historical assertions to verify against evidence; grading based on the absence of such assertions in the source text is methodologically invalid.",
+   "Missing Evidence Resolution: The 'evidence' section lists taxa but lacks specific citations (PMIDs) for the claimed activities, relying instead on generic counts ('pubmed_n': 3) without linking them to the specific claims or historical context mentioned in the rationale.",
+   "Incomplete Taxon Resolution: Family names are empty strings ('') for all selected candidates, violating completeness requirements for taxonomic entries."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T06:53:45Z"
+ }
+}

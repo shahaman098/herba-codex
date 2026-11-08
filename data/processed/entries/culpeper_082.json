@@ -229,7 +229,9 @@
   "schema_ok": true,
   "quotes_verified": [
    "Because they strengthen the brain and nerves, and remedy palsies, Greeks gave them the name Paralysis.",
+   "a dram of the powder of the herb taken every morning",
    "as vertigo, ephialtes, false apparitions",
+   "our city dames know well enough the ointment or distilled water of it adds beauty",
    "phrensies, falling-sickness, palsies",
    "takes away spots and wrinkles of the skin",
    "takes away spots and wrinkles of the skin, sun-burning, and freckles",
@@ -237,7 +239,8 @@
    "they remedy all infirmities of the head coming of heat and wind"
   ],
   "quotes_failed": [
-   "HEADING: Cowslips, Or Peagles"
+   "HEADING: Cowslips, Or Peagles",
+   "an ointment is made of the leaves, and hog's grease."
   ],
   "issues": [
    "Unearned Grade D: The grade 'D' is assigned based on a rationale citing lack of EMA/PubMed evidence for Primula veris and retracted claims for Aconitum napellus. However, the entry contains no specific clinical or dermatological claims in the source text to validate against; the absence of modern evidence does not automatically warrant a 'D' grade if the historical context is being recorded without modern validation assertions. The rationale conflates lack of modern data with negative grading rather than flagging it as 'historical only'.",

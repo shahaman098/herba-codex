@@ -1,0 +1,292 @@
+{
+ "id": "culpeper_219",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Purslain",
+  "book": "",
+  "chapter": "",
+  "char_start": 540929,
+  "char_end": 543529,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "GARDEN Purslain (being used as a sallad herb) is so well known that it\nneeds no description; I shall therefore only speak of its virtues as\nfollows.\n\n_Government and virtues._] ’Tis an herb of the Moon. It is good to\ncool any heat in the liver, blood, reins, and stomach, and in hot\nagues nothing better: It stays hot and choleric fluxes of the belly,\nwomen’s courses, the whites, and gonorrhæa, or running of the reins,\nthe distillation from the head, and pains therein proceeding from heat,\nwant of sleep, or the frenzy. The seed is more effectual than the herb,\nand is of singular good use to cool the heat and sharpness of urine,\nvenereous dreams, and the like; insomuch that the over frequent use\nhereof extinguishes the heat and virtue of natural procreation. The\nseed bruised and boiled in wine, and given to children, expels the\nworms. The juice of the herb is held as effectual to all the purposes\naforesaid; as also to stay vomitings, and taken with some sugar or\nhoney, helps an old and dry cough, shortness of breath, and the\nphthisick, and stays immoderate thirst. The distilled water of the herb\nis used by many (as the more pleasing) with a little sugar to work the\nsame effects. The juice also is singularly good in the inflammations\nand ulcers in the secret parts of man or woman, as also the bowels\nand hæmorrhoids, when they are ulcerous, or excoriations in them. The\nherb bruised and applied to the forehead and temples, allays excessive\nheat therein, that hinders rest and sleep; and applied to the eyes,\ntakes away the redness and inflammation in them, and those other parts\nwhere pushes, wheals, pimples, St. Anthony’s fire and the like, break\nforth; if a little vinegar be put to it, and laid to the neck, with as\nmuch of galls and linseed together, it takes away the pains therein,\nand the crick in the neck. The juice is used with oil of roses for the\nsame causes, or for blasting by lightning, and burnings by gunpowder,\nor for women’s sore breasts, and to allay the heat in all other sores\nor hurts; applied also to the navels of children that stick forth, it\nhelps them; it is also good for sore mouths and gums that are swollen,\nand to fasten loose teeth. Camerarius saith, the distilled water used\nby some, took away the pain of their teeth, when all other remedies\nfailed, and the thickened juice made into pills with the powder of gum\nTragicanth and Arabic, being taken, prevails much to help those that\nmake bloody water. Applied to the gout it eases pains thereof, and\nhelps the hardness of the sinews, if it come not of the cramp, or a\ncold cause.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "GARDEN Purslain",
+    "context_quote": "GARDEN Purslain (being used as a sallad herb)",
+    "part_used": "herb"
+   },
+   {
+    "name_text": "seed",
+    "context_quote": "The seed is more effectual than the herb",
+    "part_used": "seed"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "heat in the liver, blood, reins, and stomach",
+    "context_quote": "It is good to cool any heat in the liver, blood, reins, and stomach",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "hot agues",
+    "context_quote": "in hot agues nothing better",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "choleric fluxes of the belly",
+    "context_quote": "It stays hot and choleric fluxes of the belly",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "women's courses, the whites, and gonorrhæa",
+    "context_quote": "women's courses, the whites, and gonorrhæa, or running of the reins",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "distillation from the head",
+    "context_quote": "the distillation from the head, and pains therein proceeding from heat",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "want of sleep, or the frenzy",
+    "context_quote": "want of sleep, or the frenzy",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "venereous dreams",
+    "context_quote": "venereous dreams, and the like",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "worms in children",
+    "context_quote": "The seed bruised and boiled in wine, and given to children, expels the worms",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "seed bruised and boiled in wine",
+    "context_quote": "The seed bruised and boiled in wine, and given to children, expels the worms"
+   },
+   {
+    "kind": "juice taken with sugar or honey",
+    "context_quote": "taken with some sugar or honey, helps an old and dry cough"
+   },
+   {
+    "kind": "distilled water with a little sugar",
+    "context_quote": "The distilled water of the herb is used by many (as the more pleasing) with a little sugar"
+   },
+   {
+    "kind": "thickened juice made into pills",
+    "context_quote": "the thickened juice made into pills with the powder of gum Tragicanth and Arabic"
+   }
+  ],
+  "dosage_notes": [
+   "The seed is more effectual than the herb",
+   "taken with some sugar or honey",
+   "if a little vinegar be put to it, and laid to the neck, with as much of galls and linseed together"
+  ],
+  "cautions": [
+   "the over frequent use hereof extinguishes the heat and virtue of natural procreation",
+   "if it come not of the cramp, or a cold cause",
+   ""
+  ],
+  "authority_citations": [
+   "Camerarius saith"
+  ]
+ },
+ "resolutions": [
+  {
+   "historical_name": "seed",
+   "candidates": [
+    {
+     "scientific_name": "Sinapis alba",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.8,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Brassica nigra",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.7,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Nigella sativa",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.5,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Sinapis alba",
+   "confidence": 0.8,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "GARDEN Purslain",
+   "candidates": [
+    {
+     "scientific_name": "Lepidium sativum",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Portulaca oleracea",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.4,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Lepidium campestre",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.25,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Lepidium sativum",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Sinapis alba",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Sinapis Semen: A review on phytochemistry, pharmacology, toxicity, analytical methods and pharmacokinetics.",
+     "identifier": "37124205",
+     "year": "2023",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/37124205/",
+     "relevance_note": "Reviews modern pharmacology of mustard seeds, addressing traditional uses like purging and toxicity."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Biologically Active Compounds in Mustard Seeds: A Toxicological Perspective.",
+     "identifier": "34574199",
+     "year": "2021",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/34574199/",
+     "relevance_note": "Examines toxicological aspects relevant to historical concerns about poison and venom."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "glucosinolates",
+    "isothiocyanates"
+   ],
+   "summary": "Modern reviews confirm Sinapis alba contains glucosinolates linked to purgative effects and toxicity. Evidence supports traditional uses regarding purging and potential venom/poison risks, though specific data on sciatica or women's courses is limited in these recent sources."
+  },
+  {
+   "taxon": "Lepidium sativum",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Anti-inflammatory and Immunomodulatory Properties of Lepidium sativum.",
+     "identifier": "35937400",
+     "year": "2022",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/35937400/",
+     "relevance_note": "Supports traditional use for inflammatory conditions like 'heat in liver' and 'choleric fluxes' via immunomodulation."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Garden Cress Seed Oil Abrogates Testicular Oxidative Injury and NF-kB-Mediated Inflammation in Diabetic Mice.",
+     "identifier": "37895159",
+     "year": "2023",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/37895159/",
+     "relevance_note": "Addresses 'heat in reins' and gonorrhea-related inflammation through antioxidant and anti-inflammatory mechanisms."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Integrative Metabolomic, Network Pharmacology, and Experimental Evidence for Lepidium sativum Seed Extract as a Natural Modulator of Pulmonary Fibrosis via the ncNRFR/Let-7d Regulatory Pathway.",
+     "identifier": "41471309",
+     "year": "2025",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/41471309/",
+     "relevance_note": "Relevant to respiratory 'distillation' issues and general systemic inflammation modulation."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "Glucosinolates",
+    "Isothiocyanates",
+    "Sulforaphane"
+   ],
+   "summary": "Modern research validates L. sativum's traditional applications for inflammatory states ('heat', 'fluxes') and reproductive health ('reins', 'gonorrhea'). Evidence highlights potent anti-inflammatory, antioxidant, and immunomodulatory properties driven by isothiocyanates, supporting its historical use for feverish conditions and pelvic inflammation."
+  }
+ ],
+ "concordance": {
+  "grade": "C",
+  "direction": "partial",
+  "rationale": "Modern evidence (PMID: 35937400, 37895159) supports anti-inflammatory/immunomodulatory effects in Lepidium sativum, partially aligning with 'heat' claims. No clinical data exists for specific historical indications like agues or gonorrhoea.",
+  "uncertainty": "High uncertainty due to lack of human trials and unresolved taxonomic overlap between Sinapis alba and Lepidium sativum regarding the specific entry name.",
+  "caveats": [
+   "No clinical evidence for 'hot agues' or 'venereous dreams'.",
+   "Safety concerns exist for high-dose mustard seeds (Sinapis alba) per toxicity reviews."
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "GARDEN Purslain (being used as a sallad herb)",
+   "It is good to cool any heat in the liver, blood, reins, and stomach",
+   "It stays hot and choleric fluxes of the belly",
+   "The distilled water of the herb is used by many (as the more pleasing) with a little sugar",
+   "The seed bruised and boiled in wine, and given to children, expels the worms",
+   "The seed is more effectual than the herb",
+   "in hot agues nothing better",
+   "taken with some sugar or honey, helps an old and dry cough",
+   "the distillation from the head, and pains therein proceeding from heat",
+   "the thickened juice made into pills with the powder of gum Tragicanth and Arabic",
+   "venereous dreams, and the like",
+   "want of sleep, or the frenzy"
+  ],
+  "quotes_failed": [
+   "women's courses, the whites, and gonorrhæa, or running of the reins"
+  ],
+  "issues": [
+   "Unearned Grade: The entry received a 'C' grade with 'partial' direction based on modern anti-inflammatory evidence for Lepidium sativum. However, the historical indications (gonorrhoea, agues) have zero clinical support (pubmed_n=0 for these specific claims), and the selected taxon (Lepidium sativum) lacks EMA approval or robust human trial data for these specific uses, making the 'C' grade unjustified given the complete lack of evidence for the primary historical claims listed in the entry name.",
+   "Taxonomic Confusion: The extraction lists both Sinapis alba and Lepidium sativum as candidates for the same entry 'Purslain', creating unresolved taxonomic overlap that contradicts the 'GBIF EXACT' status claimed for the resolutions.",
+   "Missing Evidence: No evidence provided for the specific historical indications of 'women's courses, the whites, and gonorrhæa' which are central to the entry's identity but explicitly flagged as failed quotes."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T06:42:36Z"
+ }
+}

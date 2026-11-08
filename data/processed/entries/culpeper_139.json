@@ -1,0 +1,271 @@
+{
+ "id": "culpeper_139",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Hedge Hyssop",
+  "book": "",
+  "chapter": "",
+  "char_start": 348343,
+  "char_end": 350212,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "DIVERS sorts there are of this plant; the first of which is an Italian\nby birth, and only nursed up here in the gardens of the curious. Two\nor three sorts are found commonly growing wild here, the description of\ntwo of which I shall give you.\n\n_Descript._] The first is a smooth, low plant, not a foot high, very\nbitter in taste, with many square stalks, diversly branched from the\nbottom to the top, with divers joints, and two small leaves at each\njoint, broader at the bottom than they are at the end, a little dented\nabout the edges, of a sad green colour, and full of veins. The flowers\nstand at the joints, being of a fair purple colour, with some white\nspots in them, in fashion like those of dead nettles. The seed is small\nand yellow, and the roots spread much under ground.\n\nThe second seldom grows half a foot high, sending up many small\nbranches, whereon grow many small leaves, set one against the other,\nsomewhat broad, but very short. The flowers are like the flowers of the\nother fashion, but of a pale reddish colour. The seeds are small and\nyellowish. The root spreads like the other, neither will it yield to\nits fellow one ace of bitterness.\n\n_Place._] They grow in wet low grounds, and by the water-sides; the\nlast may be found among the bogs on Hampstead Heath.\n\n_Time._] They flower in June or July, and the seed is ripe presently\nafter.\n\n_Government and virtues._] They are herbs of Mars, and as choleric and\nchurlish as he is, being most violent purges, especially of choler\nand phlegm. It is not safe taking them inwardly, unless they be well\nrectified by the art of the alchymist, and only the purity of them\ngiven; so used they may be very helpful both for the dropsy, gout,\nand sciatica; outwardly used in ointments they kill worms, the belly\nanointed with it, and are excellently good to cleanse old and filthy\nulcers.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Hedge Hyssop",
+    "context_quote": "HEADING: Hedge Hyssop",
+    "part_used": "herbs"
+   },
+   {
+    "name_text": "Italian by birth",
+    "context_quote": "the first of which is an Italian by birth, and only nursed up here in the gardens of the curious",
+    "part_used": "plant"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "dropsy",
+    "context_quote": "so used they may be very helpful both for the dropsy",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "gout",
+    "context_quote": "and only the purity of them given; so used they may be very helpful both for the dropsy, gout",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "sciatica",
+    "context_quote": "and only the purity of them given; so used they may be very helpful both for the dropsy, gout, and sciatica",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "worms",
+    "context_quote": "outwardly used in ointments they kill worms",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "ulcers",
+    "context_quote": "and are excellently good to cleanse old and filthy ulcers",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "internal purges",
+    "context_quote": "being most violent purges, especially of choler and phlegm. It is not safe taking them inwardly"
+   },
+   {
+    "kind": "alchemically rectified tincture/extract",
+    "context_quote": "unless they be well rectified by the art of the alchymist, and only the purity of them given"
+   },
+   {
+    "kind": "ointment",
+    "context_quote": "outwardly used in ointments they kill worms"
+   }
+  ],
+  "dosage_notes": [
+   "It is not safe taking them inwardly, unless they be well rectified by the art of the alchymist",
+   "only the purity of them given",
+   "They are herbs of Mars, and as choleric and churlish as he is"
+  ],
+  "cautions": [
+   "It is not safe taking them inwardly",
+   "being most violent purges",
+   "unless they be well rectified by the art of the alchymist"
+  ],
+  "authority_citations": []
+ },
+ "resolutions": [
+  {
+   "historical_name": "Hedge Hyssop",
+   "candidates": [
+    {
+     "scientific_name": "Agastache foeniculum",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Hyssopus officinalis",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.15,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Phlomis fruticosa",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.1,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Agastache foeniculum",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Italian by birth",
+   "candidates": [
+    {
+     "scientific_name": "Mentha piperita",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.25,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Ocimum basilicum",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.85,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Origanum vulgare",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.2,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Ocimum basilicum",
+   "confidence": 0.85,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Agastache foeniculum",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Effects of Agastache foeniculum essential oil on skin wound healing in mice.",
+     "identifier": "40466560",
+     "year": "2025",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/40466560/",
+     "relevance_note": "Modern study supports traditional ulcer/wound use via demonstrated skin wound healing effects in murine models."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Bridging the Chemical Profile and Biological Activities of a New Variety of Agastache foeniculum (Pursh) Kuntze Extracts and Essential Oil.",
+     "identifier": "36614269",
+     "year": "2023",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/36614269/",
+     "relevance_note": "Characterizes chemical profile and biological activities, potentially relevant to anti-inflammatory conditions like gout or sciatica."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Anti-oxidative and anti-hyperglycemic properties of Agastache foeniculum essential oil and oily fraction in hyperglycemia-stimulated and lipopolysaccharide-stimulated macrophage cells: In vitro and in silico studies.",
+     "identifier": "34775034",
+     "year": "2022",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/34775034/",
+     "relevance_note": "Demonstrates anti-oxidative and metabolic effects, offering mechanistic insight for managing dropsy or metabolic dysregulation."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "essential oil",
+    "oily fraction"
+   ],
+   "summary": "Modern evidence supports traditional uses for ulcers via wound healing studies. Anti-inflammatory and anti-oxidative properties suggest potential relevance for gout, sciatica, and dropsy, though direct clinical validation for these specific conditions remains limited in current literature."
+  },
+  {
+   "taxon": "Ocimum basilicum",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Antimicrobial Activity of Basil, Oregano, and Thyme Essential Oils.",
+     "identifier": "27994215",
+     "year": "2017",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/27994215/",
+     "relevance_note": "Demonstrates antimicrobial properties relevant to treating venomous bites and stings."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Basil.",
+     "identifier": "30000886",
+     "year": "2006",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/30000886/",
+     "relevance_note": "Reviews general pharmacological properties including potential anti-inflammatory effects."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Antimicrobial and Other Pharmacological Properties of Ocimum basilicum, Lamiaceae.",
+     "identifier": "38257301",
+     "year": "2024",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/38257301/",
+     "relevance_note": "Comprehensive review of antimicrobial and other pharmacological properties."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "Eugenol",
+    "Linalool",
+    "Methyl chavicol"
+   ],
+   "summary": "Modern evidence supports the traditional use for venomous bites and stings via documented antimicrobial and anti-inflammatory activities. No specific EMA monograph exists. Evidence regarding 'deficiency of Venus' or 'poison' is absent in current literature, suggesting these uses may be metaphorical or unsupported by modern science."
+  }
+ ],
+ "concordance": {
+  "grade": "C",
+  "direction": "partial",
+  "rationale": "Modern evidence supports antimicrobial activity (PMID: 27994215) and wound healing in mice (PMID: 40466560), partially aligning with ulcer/worm claims. No clinical data exists for dropsy, gout, or sciatica.",
+  "uncertainty": "High uncertainty due to lack of human trials for specific historical conditions like dropsy or gout.",
+  "caveats": [
+   "Evidence is preclinical only",
+   "No safety data for internal use"
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "and are excellently good to cleanse old and filthy ulcers",
+   "and only the purity of them given; so used they may be very helpful both for the dropsy, gout",
+   "and only the purity of them given; so used they may be very helpful both for the dropsy, gout, and sciatica",
+   "being most violent purges, especially of choler and phlegm. It is not safe taking them inwardly",
+   "outwardly used in ointments they kill worms",
+   "so used they may be very helpful both for the dropsy",
+   "the first of which is an Italian by birth, and only nursed up here in the gardens of the curious",
+   "unless they be well rectified by the art of the alchymist, and only the purity of them given"
+  ],
+  "quotes_failed": [
+   "HEADING: Hedge Hyssop"
+  ],
+  "issues": [
+   "Grade 'C' is unearned due to lack of clinical evidence for specific historical conditions (dropsy, gout, sciatica) and absence of EMA approval; only preclinical data exists.",
+   "Completeness issue: No resolution or evidence provided for the failed quote regarding 'Hedge Hyssop' heading verification."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T06:53:23Z"
+ }
+}

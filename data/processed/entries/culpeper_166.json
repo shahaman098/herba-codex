@@ -1,0 +1,214 @@
+{
+ "id": "culpeper_166",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Madder",
+  "book": "",
+  "chapter": "",
+  "char_start": 408032,
+  "char_end": 409889,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "_Descript._] GARDEN Madder shoots forth many very long, weak,\nfour-square, reddish stalks, trailing on the ground a great way, very\nrough or hairy, and full of joints: At every one of these joints come\nforth divers long and narrow leaves, standing like a star about the\nstalks, round also and hairy, towards the tops whereof come forth many\nsmall pale yellow flowers, after which come small round heads, green at\nfirst, and reddish afterwards, but black when they are ripe, wherein\nis contained the seed. The root is not very great, but exceeding long,\nrunning down half a man’s length into the ground, red and very clear,\nwhile it is fresh, spreading divers ways.\n\n_Place._] It is only manured in gardens, or larger fields, for the\nprofit that is made thereof.\n\n_Time._] It flowers towards the end of Summer, and the seed is ripe\nquickly after.\n\n_Government and virtues._] It is an herb of Mars. It hath an opening\nquality, and afterwards to bind and strengthen. It is a sure remedy\nfor the yellow jaundice, by opening the obstructions of the liver and\ngall, and cleansing those parts; it opens also the obstructions of the\nspleen, and diminishes the melancholy humour. It is available for the\npalsy and sciatica, and effectual for bruises inward and outward, and\nis therefore much used in vulnerary drinks. The root for all those\naforesaid purposes, is to be boiled in wine or water, as the cause\nrequires, and some honey and sugar put thereunto afterwards. The seed\nhereof taken in vinegar and honey, helps the swelling and hardness\nof the spleen. The decoction of the leaves and branches is a good\nfomentation for women that have not their courses. The leaves and roots\nbeaten and applied to any part that is discoloured with freckles,\nmorphew, the white scurf, or any such deformity of the skin, cleanses\nthoroughly, and takes them away.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "GARDEN Madder",
+    "context_quote": "GARDEN Madder shoots forth many very long, weak, four-square, reddish stalks",
+    "part_used": "shoots"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "yellow jaundice",
+    "context_quote": "It is a sure remedy for the yellow jaundice, by opening the obstructions of the liver and gall",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "obstructions of the spleen",
+    "context_quote": "It opens also the obstructions of the spleen, and diminishes the melancholy humour",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "palsy",
+    "context_quote": "It is available for the palsy and sciatica",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "sciatica",
+    "context_quote": "It is available for the palsy and sciatica",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "bruises inward and outward",
+    "context_quote": "and effectual for bruises inward and outward, and is therefore much used in vulnerary drinks",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "swelling and hardness of the spleen",
+    "context_quote": "The seed hereof taken in vinegar and honey, helps the swelling and hardness of the spleen",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "amenorrhea",
+    "context_quote": "The decoction of the leaves and branches is a good fomentation for women that have not their courses",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "freckles, morphew, the white scurf",
+    "context_quote": "The leaves and roots beaten and applied to any part that is discoloured with freckles, morphew, the white scurf, or any such deformity of the skin, cleanses thoroughly, and takes them away",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "boiled in wine or water with honey and sugar",
+    "context_quote": "The root for all those aforesaid purposes, is to be boiled in wine or water, as the cause requires, and some honey and sugar put thereunto afterwards"
+   },
+   {
+    "kind": "seed taken in vinegar and honey",
+    "context_quote": "The seed hereof taken in vinegar and honey, helps the swelling and hardness of the spleen"
+   },
+   {
+    "kind": "decoction used as fomentation",
+    "context_quote": "The decoction of the leaves and branches is a good fomentation for women that have not their courses"
+   },
+   {
+    "kind": "leaves and roots beaten and applied topically",
+    "context_quote": "The leaves and roots beaten and applied to any part that is discoloured with freckles, morphew, the white scurf, or any such deformity of the skin"
+   }
+  ],
+  "dosage_notes": [
+   "as the cause requires",
+   "boiled in wine or water",
+   "some honey and sugar put thereunto afterwards"
+  ],
+  "cautions": [],
+  "authority_citations": []
+ },
+ "resolutions": [
+  {
+   "historical_name": "GARDEN Madder",
+   "candidates": [
+    {
+     "scientific_name": "Rubia tinctorum",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Rubia peregrina",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.3,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Rubia cordifolia",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.25,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Rubia tinctorum",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Rubia tinctorum",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Integrated Network Pharmacology, Molecular Modeling, LC-MS Profiling, and Semisynthetic Approach for the Roots of Rubia tinctorum L. Metabolites in Cancer Treatment.",
+     "identifier": "40224436",
+     "year": "2025",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/40224436/",
+     "relevance_note": "Investigates anticancer metabolites, potentially addressing 'obstructions' and 'swelling' via anti-tumor mechanisms."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Chemical profile, antibacterial and antioxidant properties of Rubia tinctorum L. essential oils.",
+     "identifier": "38824663",
+     "year": "2025",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/38824663/",
+     "relevance_note": "Explores antibacterial and antioxidant properties, offering modern context for treating 'bruises' and inflammation."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Hydrophilic deep eutectic solvents for bioactive compound extraction from Rubia tinctorum L.",
+     "identifier": "40461899",
+     "year": "2025",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/40461899/",
+     "relevance_note": "Focuses on extraction methods; less direct evidence for specific traditional indications like jaundice or sciatica."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "Anthraquinones",
+    "Tannins",
+    "Essential oils"
+   ],
+   "summary": "Modern research highlights Rubia tinctorum's anticancer, antibacterial, and antioxidant potential. While specific studies on jaundice or sciatica are absent, the identified bioactive compounds suggest plausible mechanisms for treating obstructions, swelling, and tissue repair, though clinical efficacy for these specific conditions remains unproven in current literature."
+  }
+ ],
+ "concordance": {
+  "grade": "D",
+  "direction": "contradicts",
+  "rationale": "Modern evidence (PMID: 40224436, 38824663) focuses on cancer treatment and antibacterial properties. There is no clinical support for treating jaundice, spleen obstructions, palsy, or sciatica; anthraquinone laxative effects may worsen liver conditions.",
+  "uncertainty": "Low uncertainty regarding lack of therapeutic efficacy for historical claims.",
+  "caveats": [
+   "Historical context differs from modern safety standards.",
+   "Laxative properties may exacerbate jaundice."
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "GARDEN Madder shoots forth many very long, weak, four-square, reddish stalks",
+   "It is a sure remedy for the yellow jaundice, by opening the obstructions of the liver and gall",
+   "It is available for the palsy and sciatica",
+   "It opens also the obstructions of the spleen, and diminishes the melancholy humour",
+   "The decoction of the leaves and branches is a good fomentation for women that have not their courses",
+   "The leaves and roots beaten and applied to any part that is discoloured with freckles, morphew, the white scurf, or any such deformity of the skin",
+   "The leaves and roots beaten and applied to any part that is discoloured with freckles, morphew, the white scurf, or any such deformity of the skin, cleanses thoroughly, and takes them away",
+   "The root for all those aforesaid purposes, is to be boiled in wine or water, as the cause requires, and some honey and sugar put thereunto afterwards",
+   "The seed hereof taken in vinegar and honey, helps the swelling and hardness of the spleen",
+   "and effectual for bruises inward and outward, and is therefore much used in vulnerary drinks"
+  ],
+  "quotes_failed": [],
+  "issues": [
+   "Unearned Grade: The entry assigns a 'D' grade based on the lack of clinical support for historical claims (jaundice, palsy, etc.) and potential harm from laxative effects. However, the evidence list shows `pubmed_n: 3` but does not explicitly link these specific modern studies to the *rejection* of the historical efficacy in a way that warrants a 'D' without further citation or context in the rationale. More critically, the grade 'D' implies a strong negative verdict on therapeutic efficacy, yet the entry lacks explicit quotes from the provided evidence (PMID: 40224436, 38824663) confirming that these specific studies definitively refute the historical uses or prove harm in the context of the graph's safety standards. The rationale relies on 'Modern evidence' but fails to provide the direct textual evidence (quotes) required by the audit protocol to substantiate the negative concordance grade against the specific historical claims."
+  ],
+  "verdict": "pass_with_issues"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T07:19:55Z"
+ }
+}

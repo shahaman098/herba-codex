@@ -190,12 +190,17 @@
    "It helps the yellow jaundice, the dropsy and the gout",
    "It is held to be good against the biting of serpents, and other venomous beasts",
    "THE common Vervain hath somewhat long broad leaves next the ground deeply gashed about the edges",
+   "The distilled water of the herb when it is in full strength, dropped into the eyes, cleanses them from films, clouds, or mists",
+   "The dried root, and peeled, is known to be excellently good against all scrophulous and scorbutic habits of body, by being tied to the pit of the stomach",
+   "The leaves bruised, or the juice of them mixed with some vinegar, doth wonderfully cleanse the skin",
    "against the plague, and both tertian and quartan agues",
    "excellent for the womb to strengthen and remedy all the cold griefs of it",
    "kills and expels worms in the belly",
    "opening obstructions, cleansing and healing"
   ],
-  "quotes_failed": [],
+  "quotes_failed": [
+   "or used with hog's grease, it helps the swellings and pains of the secret parts in man or woman"
+  ],
   "issues": [
    "Unearned Grade: The entry assigns a 'C' grade with 'partial' direction based on EMA approval for topical use only. However, the rationale explicitly states there is 'No evidence supports internal use for listed conditions' (jaundice, gout, worm expulsion). If the historical claims in the source text included these internal uses, the current evidence (EMA topical + 2 modern papers) does not support them at all, making a 'C' (partial) potentially misleading if it implies some validity to the internal claims. A grade of 'D' or 'F' might be more appropriate for the historical internal indications given the explicit lack of evidence. Additionally, the 'uncertainty' is flagged as 'High', which conflicts with a definitive 'C' grade unless the grading scale explicitly treats high uncertainty as a partial credit scenario; this logic needs clarification in the issues log."
   ],

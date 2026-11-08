@@ -1,0 +1,271 @@
+{
+ "id": "culpeper_052",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Calamint, Or Mountain-Mint",
+  "book": "",
+  "chapter": "",
+  "char_start": 151971,
+  "char_end": 154667,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "_Descript._] THIS is a small herb, seldom rising above a foot high,\nwith square hairy, and woody stalks, and two small hoary leaves set at\na joint, about the height of Marjoram, or not much bigger, a little\ndented about the edges, and of a very fierce or quick scent, as the\nwhole herb is: The flowers stand at several spaces of the stalk, from\nthe middle almost upwards, which are small and gaping like to those of\nthe Mints, of a pale bluish colour: After which follow small, round\nblackish seed. The root is small and woody, with divers small strings\nspreading within the ground, and dies not, but abides many years.\n\n_Place._] It grows on heaths, and uplands, and dry grounds, in many\nplaces of this land.\n\n_Time._] They flower in July and their seed is ripe quickly after.\n\n_Government and virtues._] It is an herb of Mercury, and a strong\none too, therefore excellent good in all afflictions of the brain.\nThe decoction of the herb being drank, brings down women’s courses,\nand provokes urine. It is profitable for those that are bursten, or\ntroubled with convulsions or cramps, with shortness of breath, or\ncholeric torments and pains in their bellies or stomach; it also helps\nthe yellow-jaundice, and stays vomiting, being taken in wine. Taken\nwith salt and honey, it kills all manner of worms in the body. It\nhelps such as have the leprosy, either taken inwardly, drinking whey\nafter it, or the green herb outwardly applied. It hinders conception\nin women, but either burned or strewed in the chamber, it drives away\nvenomous serpents. It takes away black and blue marks in the face, and\nmakes black scars become well coloured, if the green herb (not the\ndry) be boiled in wine, and laid to the place, or the place washed\ntherewith. Being applied to the hucklebone, by continuance of time, it\nspends the humours, which cause the pain of the sciatica. The juice\nbeing dropped into the ears, kills the worms in them. The leaves boiled\nin wine, and drank, provoke sweat, and open obstructions of the liver\nand spleen. It helps them that have a tertian ague (the body being\nfirst purged) by taking away the cold fits. The decoction hereof, with\nsome sugar put thereto afterwards, is very profitable for those that\nbe troubled with the over-flowing of the gall, and that have an old\ncough, and that are scarce able to breathe by shortness of their wind;\nthat have any cold distemper in their bowels, and are troubled with\nthe hardness or the spleen, for all which purposes, both the powder,\ncalled Diacaluminthes, and the compound Syrup of Calamint are the most\neffectual. Let no women be too busy with it, for it works very violent\nupon the feminine part.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Calamint",
+    "context_quote": "HEADING: Calamint, Or Mountain-Mint",
+    "part_used": "whole herb"
+   },
+   {
+    "name_text": "Mountain-Mint",
+    "context_quote": "HEADING: Calamint, Or Mountain-Mint",
+    "part_used": "whole herb"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "afflictions of the brain",
+    "context_quote": "excellent good in all afflictions of the brain",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "women's courses (too low)",
+    "context_quote": "brings down women's courses",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "urine retention",
+    "context_quote": "provokes urine",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "bursten (burst womb)",
+    "context_quote": "profitable for those that are bursten",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "convulsions or cramps",
+    "context_quote": "troubled with convulsions or cramps",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "shortness of breath",
+    "context_quote": "or shortness of breath",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "choleric torments and pains in their bellies or stomach",
+    "context_quote": "choleric torments and pains in their bellies or stomach",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "yellow-jaundice",
+    "context_quote": "helps the yellow-jaundice",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "decoction of the herb",
+    "context_quote": "The decoction of the herb being drank"
+   },
+   {
+    "kind": "taken in wine",
+    "context_quote": "being taken in wine"
+   },
+   {
+    "kind": "mixed with salt and honey",
+    "context_quote": "Taken with salt and honey"
+   },
+   {
+    "kind": "compound Syrup of Calamint",
+    "context_quote": "the compound Syrup of Calamint are the most effectual"
+   }
+  ],
+  "dosage_notes": [
+   "taken in wine",
+   "drinking whey after it",
+   "with some sugar put thereto afterwards"
+  ],
+  "cautions": [
+   "Let no women be too busy with it, for it works very violent upon the feminine part.",
+   "The green herb (not the dry) be boiled in wine",
+   "the body being first purged"
+  ],
+  "authority_citations": []
+ },
+ "resolutions": [
+  {
+   "historical_name": "Calamint",
+   "candidates": [
+    {
+     "scientific_name": "Clinopodium vulgare",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.85,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Pulegium officinale",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.65,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Mentha arvensis",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.45,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Clinopodium vulgare",
+   "confidence": 0.85,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Mountain-Mint",
+   "candidates": [
+    {
+     "scientific_name": "Pycnanthemum montanum",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.9,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Mentha arvensis subsp. montana",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.55,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Clinopodium montanum",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.4,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Pycnanthemum montanum",
+   "confidence": 0.9,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Clinopodium vulgare",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Extracts of Sideritis scardica and Clinopodium vulgare Alleviate Cognitive Impairments in Scopolamine-Induced Rat Dementia.",
+     "identifier": "38339117",
+     "year": "2024",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/38339117/",
+     "relevance_note": "Supports traditional use for brain afflictions via cognitive impairment models."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Exploring nature's hidden treasure: Unraveling the untapped phytochemical and pharmacological potentials of Clinopodium vulgare L. - A hidden gem in the Lamiaceae family.",
+     "identifier": "38312627",
+     "year": "2024",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/38312627/",
+     "relevance_note": "Reviews broad pharmacological potential including antispasmodic and antioxidant effects."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Polyphenol Composition, Anticholinesterase and Antioxidant Potential of the Extracts of Clinopodium vulgare L.",
+     "identifier": "35357745",
+     "year": "2022",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/35357745/",
+     "relevance_note": "Demonstrates anticholinesterase activity relevant to cognitive and neuromuscular functions."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "Rosmarinic acid",
+    "Carnosic acid",
+    "Thymol"
+   ],
+   "summary": "Modern evidence supports Clinopodium vulgare for 'afflictions of the brain' via demonstrated anticholinesterase and cognitive-protective effects in dementia models. Antispasmodic properties may address cramps or convulsions, though specific data for respiratory distress or uterine issues remains limited in current literature."
+  },
+  {
+   "taxon": "Pycnanthemum montanum",
+   "ema_monograph": null,
+   "pubmed": [],
+   "pubchem_cids": [],
+   "notable_constituents": [],
+   "summary": "No relevant modern scientific evidence was found for Pycnanthemum montanum regarding the recorded traditional uses of shortness of breath, uterine issues, or convulsions. While related species in the genus possess antispasmodic properties, specific data for this taxon is currently absent from the retrieved sources."
+  }
+ ],
+ "concordance": {
+  "grade": "C",
+  "direction": "partial",
+  "rationale": "Preclinical evidence (PMID:38339117) supports cognitive impairment claims for Clinopodium vulgare. No clinical data exists for other historical uses like uterine issues or jaundice.",
+  "uncertainty": "Taxonomic confusion between Calamint species limits generalization of modern findings to all historical claims.",
+  "caveats": [
+   "No human trials for most claims",
+   "Safety not established"
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "Taken with salt and honey",
+   "The decoction of the herb being drank",
+   "being taken in wine",
+   "choleric torments and pains in their bellies or stomach",
+   "excellent good in all afflictions of the brain",
+   "helps the yellow-jaundice",
+   "profitable for those that are bursten",
+   "provokes urine",
+   "the compound Syrup of Calamint are the most effectual",
+   "troubled with convulsions or cramps"
+  ],
+  "quotes_failed": [
+   "HEADING: Calamint, Or Mountain-Mint",
+   "brings down women's courses",
+   "or shortness of breath"
+  ],
+  "issues": [
+   "Unearned Grade C: The concordance grade 'C' is partially unearned because the rationale cites only preclinical evidence (PMID:38339117) for cognitive impairment, while ignoring that the other historical claims (uterine issues, jaundice) have zero clinical data. A grade of 'C' implies some level of clinical validation or strong consensus which is absent for the majority of the entry's claims.",
+   "Missing Evidence for Resolved Taxa: The evidence block lists 0 PubMed entries for Pycnanthemum montanum (Mountain-Mint), yet the entry resolves this taxon with high confidence. There is no supporting literature cited in the evidence block to justify the resolution or any potential claims associated with it.",
+   "Incomplete Resolution of Historical Claims: The entry resolves 'Calamint' and 'Mountain-Mint' but fails to provide evidence for the specific historical uses mentioned in the failed quotes (e.g., 'brings down women's courses'). Without evidence, these claims cannot be validated or properly contextualized within the knowledge graph.",
+   "Taxonomic Uncertainty Not Mitigated: The reasoning notes taxonomic confusion between Calamint species. However, the entry treats Clinopodium vulgare and Pycnanthemum montanum as distinct resolved entities without clarifying if the historical 'Calamint' name applies to both or just one, leading to potential over-generalization of the preclinical findings from C. vulgare to P. montanum."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T07:24:55Z"
+ }
+}

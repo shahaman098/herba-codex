@@ -1,0 +1,253 @@
+{
+ "id": "culpeper_152",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Knotgrass",
+  "book": "",
+  "chapter": "",
+  "char_start": 383374,
+  "char_end": 387629,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "IT is generally known so well that it needs no description.\n\n_Place._] It grows in every county of this land by the highway sides,\nand by foot-paths in fields; as also by the sides of old walls.\n\n_Time._] It springs up late in the Spring, and abides until the Winter,\nwhen all the branches perish.\n\n_Government and virtues._] Saturn seems to me to own the herb, and yet\nsome hold the Sun; out of doubt ’tis Saturn. The juice of the common\nkind of Knotgrass is most effectual to stay bleeding of the mouth,\nbeing drank in steeled or red wine; and the bleeding at the nose, to\nbe applied to the forehead or temples, or to be squirted up into the\nnostrils. It is no less effectual to cool and temper the heat of the\nblood and stomach, and to stay any flux of the blood and humours, as\nlasks, bloody-flux, women’s courses, and running of the reins. It is\nsingularly good to provoke urine, help the stranguary, and allays the\nheat that comes thereby; and is powerful by urine to expel the gravel\nor stone in the kidneys and bladder, a dram of the powder of the herb\nbeing taken in wine for many days together. Being boiled in wine and\ndrank, it is profitable to those that are stung or bitten by venemous\ncreatures, and very effectual to stay all defluxions of rheumatic\nhumours upon the stomach, and kills worms in the belly or stomach,\nquiets inward pains that arise from the heat, sharpness and corruption\nof blood and choler. The distilled water hereof taken by itself or with\nthe powder of the herb or seed, is very effectual to all the purposes\naforesaid, and is accounted one of the most sovereign remedies to cool\nall manner of inflammations, breaking out through heat, hot swellings\nand imposthumes, gangrene and fistulous cankers, or foul filthy ulcers,\nbeing applied or put into them; but especially for all sorts of ulcers\nand sores happening in the privy parts of men and women. It helps all\nfresh and green wounds, and speedily heals them. The juice dropped into\nthe ears, cleanses them being foul, and having running matter in them.\n\nIt is very prevalent for the premises; as also for broken joints and\nruptures.\n\n    LADIES’ MANTLE.\n\n_Descript._] IT has many leaves rising from the root standing upon\nlong hairy foot-stalks, being almost round, and a little cut on the\nedges, into eight or ten parts, making it seem like a star, with so\nmany corners and points, and dented round about, of a light green\ncolour, somewhat hard in handling, and as it were folded or plaited at\nfirst, and then crumpled in divers places, and a little hairy, as the\nstalk is also, which rises up among them to the height of two or three\nfeet; and being weak, is not able to stand upright, but bended to the\nground, divided at the top into two or three small branches, with small\nyellowish green heads, and flowers of a whitish colour breaking out of\nthem; which being past, there comes a small yellowish seed like a poppy\nseed: The root is somewhat long and black, with many strings and fibres\nthereat.\n\n_Place._] It grows naturally in many pastures and wood sides in\nHertfordshire, Wiltshire, and Kent, and other places of this land.\n\n_Time._] It flowers in May and June, abides after seedtime green all\nthe Winter.\n\n_Government and virtues._] Venus claims the herb as her own. Ladies’\nMantle is very proper for those wounds that have inflammations, and\nis very effectual to stay bleeding, vomitings, fluxes of all sorts,\nbruises by falls or otherwise, and helps ruptures; and such women as\nhave large breasts, causing them to grow less and hard, being both\ndrank and outwardly applied; the distilled water drank for 20 days\ntogether helps conception, and to retain the birth; if the women do\nsometimes also sit in a bath made of the decoction of the herb. It is\none of the most singular wound herbs that is, and therefore highly\nprized and praised by the Germans, who use it in all wounds inward and\noutward, to drink a decoction thereof, and wash the wounds therewith,\nor dip tents therein, and put them into the wounds, which wonderfully\ndries up all humidity of the sores, and abates inflammations therein.\nIt quickly heals all green wounds, not suffering any corruption to\nremain behind, and cures all old sores, though fistulous and hollow.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Knotgrass",
+    "context_quote": "The juice of the common kind of Knotgrass is most effectual to stay bleeding of the mouth",
+    "part_used": "juice"
+   },
+   {
+    "name_text": "Ladies' Mantle",
+    "context_quote": "LADIES' MANTLE. Descript.] IT has many leaves rising from the root standing upon long hairy foot-stalks",
+    "part_used": "leaves, root"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "bleeding of the mouth",
+    "context_quote": "most effectual to stay bleeding of the mouth",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "bleeding at the nose",
+    "context_quote": "to be applied to the forehead or temples, or to be squirted up into the nostrils",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "heat of the blood and stomach",
+    "context_quote": "to cool and temper the heat of the blood and stomach",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "fluxes of all sorts",
+    "context_quote": "very effectual to stay bleeding, vomitings, fluxes of all sorts",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "bruises by falls",
+    "context_quote": "and is very effectual to stay bleeding, vomitings, fluxes of all sorts, bruises by falls or otherwise",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "ruptures",
+    "context_quote": "and helps ruptures; and such women as have large breasts",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "juice in steeled or red wine",
+    "context_quote": "being drank in steeled or red wine"
+   },
+   {
+    "kind": "powder taken in wine",
+    "context_quote": "a dram of the powder of the herb being taken in wine for many days together"
+   },
+   {
+    "kind": "boiled in wine and drank",
+    "context_quote": "Being boiled in wine and drank, it is profitable to those that are stung or bitten by venemous creatures"
+   },
+   {
+    "kind": "distilled water",
+    "context_quote": "The distilled water hereof taken by itself or with the powder of the herb or seed"
+   }
+  ],
+  "dosage_notes": [
+   "a dram of the powder of the herb being taken in wine for many days together",
+   "taken by itself or with the powder of the herb or seed",
+   "being drank in steeled or red wine"
+  ],
+  "cautions": [],
+  "authority_citations": []
+ },
+ "resolutions": [
+  {
+   "historical_name": "Knotgrass",
+   "candidates": [
+    {
+     "scientific_name": "Polygonum aviculare",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Polygonum convolvulus",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.75,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Persicaria maculosa",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.4,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Polygonum aviculare",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Ladies' Mantle",
+   "candidates": [
+    {
+     "scientific_name": "Alchemilla vulgaris",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.97,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Alchemilla mollis",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.6,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Alchemilla x polymorpha",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.35,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Alchemilla vulgaris",
+   "confidence": 0.97,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Polygonum aviculare",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Polygonum aviculare L. extract and quercetin attenuate contraction in airway smooth muscle.",
+     "identifier": "29449621",
+     "year": "2018",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/29449621/",
+     "relevance_note": "Suggests bronchodilatory effects, potentially relevant to respiratory fluxes or congestion."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Multi-omics analyses reveal a rhamnogalacturonan I (RG-I) from Polygonum aviculare ameliorates nephrolithiasis through regulation of the gut-kidney axis.",
+     "identifier": "41679836",
+     "year": "2026",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/41679836/",
+     "relevance_note": "Indicates potential utility for kidney stones, aligning with traditional use for fluxes."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Hyperoside: A Review of Its Structure, Synthesis, Pharmacology, Pharmacokinetics and Toxicity.",
+     "identifier": "35566359",
+     "year": "2022",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/35566359/",
+     "relevance_note": "Reviews hyperoside, a flavonoid with anti-inflammatory and antioxidant properties."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "quercetin",
+    "hyperoside",
+    "rhamnogalacturonan I"
+   ],
+   "summary": "Modern data supports anti-inflammatory and potential diuretic/nephrolithiasis benefits. Evidence for hemostasis (bleeding) is indirect via flavonoid activity, while airway effects address respiratory fluxes."
+  },
+  {
+   "taxon": "Alchemilla vulgaris",
+   "ema_monograph": null,
+   "pubmed": [],
+   "pubchem_cids": [],
+   "notable_constituents": [],
+   "summary": "No specific modern clinical or mechanistic evidence was retrieved for Alchemilla vulgaris regarding the traditional uses of heat regulation, bleeding control, or trauma healing in the provided search results."
+  }
+ ],
+ "concordance": {
+  "grade": "D",
+  "direction": "contradicts",
+  "rationale": "Modern evidence for Polygonum aviculare focuses on airway smooth muscle and nephrolithiasis (PMID: 29449621, 41679836), lacking support for hemostasis or cooling blood. No clinical data supports treating bleeding, fluxes, or ruptures.",
+  "uncertainty": "Low; evidence exists for specific non-hemostatic mechanisms but is absent for the claimed indications.",
+  "caveats": [
+   "Historical claims lack modern clinical validation.",
+   "Safety concerns regarding unregulated use of hemostatic agents exist."
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "Being boiled in wine and drank, it is profitable to those that are stung or bitten by venemous creatures",
+   "The distilled water hereof taken by itself or with the powder of the herb or seed",
+   "The juice of the common kind of Knotgrass is most effectual to stay bleeding of the mouth",
+   "a dram of the powder of the herb being taken in wine for many days together",
+   "and helps ruptures; and such women as have large breasts",
+   "and is very effectual to stay bleeding, vomitings, fluxes of all sorts, bruises by falls or otherwise",
+   "being drank in steeled or red wine",
+   "most effectual to stay bleeding of the mouth",
+   "to be applied to the forehead or temples, or to be squirted up into the nostrils",
+   "to cool and temper the heat of the blood and stomach",
+   "very effectual to stay bleeding, vomitings, fluxes of all sorts"
+  ],
+  "quotes_failed": [
+   "LADIES' MANTLE. Descript.] IT has many leaves rising from the root standing upon long hairy foot-stalks"
+  ],
+  "issues": [
+   "Unearned Grade: The entry assigns a 'D' grade based on a lack of modern clinical evidence for hemostasis/cooling blood, but the provided evidence (PMIDs) only supports airway smooth muscle and nephrolithiasis. There is no evidence presented to support the historical claims of treating bleeding or fluxes, making the negative concordance valid but the specific 'D' grade potentially too harsh if the entry implies these are the *only* properties; however, the rationale explicitly states 'lacking support', so the grade is justified by the absence of evidence. The primary issue is the failure to verify the descriptive quote which was flagged as failed in the input.",
+   "Completeness Check: The selected taxon Polygonum aviculare has 3 PubMed hits but none for EMA or hemostasis. Alchemilla vulgaris has 0 PubMed hits. The grade 'D' (contradicts) is appropriate given the lack of evidence for the claimed indications, but the entry must clearly distinguish between historical claims and modern validation.",
+   "Quote Verification: The descriptive quote for Ladies' Mantle was flagged as failed in the input context and remains unverified against a botanical source text."
+  ],
+  "verdict": "pass_with_issues"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T07:02:58Z"
+ }
+}

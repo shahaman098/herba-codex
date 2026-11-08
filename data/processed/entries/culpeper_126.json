@@ -1,0 +1,213 @@
+{
+ "id": "culpeper_126",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Golden Rod",
+  "book": "",
+  "chapter": "",
+  "char_start": 319950,
+  "char_end": 321766,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "_Descript._] THIS rises up with brownish small round stalks, two feet\nhigh, and sometimes more, having thereon many narrow and long dark\ngreen leaves, very seldom with any dents about the edges, or any stalks\nor white spots therein, yet they are sometimes so found divided at the\ntops into many small branches, with divers small yellow flowers on\nevery one of them, all which are turned one way, and being ripe, do\nturn into down, and are carried away by the wind. The root consists of\nmany small fibres, which grows not deep in the ground, but abides all\nthe winter therein, shooting forth new branches every year, the old one\nlying down to the ground.\n\n_Place._] It grows in the open places of woods and copses, on both\nmoist and dry grounds, in many places of this land.\n\n_Time._] It flowers about the month of July.\n\n_Government and virtues._] Venus claims the herb, and therefore to\nbe sure it respects beauty lost. Arnoldus de Villa Nova commends it\nmuch against the stone in the reins and kidneys, and to provoke urine\nin abundance, whereby also the gravel and stone may be voided. The\ndecoction of the herb, green or dry, or the distilled water thereof,\nis very effectual for inward bruises, as also to be outwardly applied,\nit stays bleeding in any part of the body, and of wounds; also the\nfluxes of humours, the bloody-flux, and women’s courses; and is no\nless prevalent in all ruptures or burstings, being drank inwardly, and\noutwardly applied. It is a sovereign wound herb, inferior to none,\nboth for the inward and outward hurts; green wounds, old sores and\nulcers, are quickly cured therewith. It also is of especial use in all\nlotions for sores or ulcers in the mouth, throat, or privy parts of man\nor woman. The decoction also helps to fasten the teeth that are loose\nin the gums.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Golden Rod",
+    "context_quote": "HEADING: Golden Rod",
+    "part_used": "The root consists of many small fibres... The decoction of the herb, green or dry, or the distilled water thereof"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "stone in the reins and kidneys",
+    "context_quote": "Arnoldus de Villa Nova commends it much against the stone in the reins and kidneys",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "provoking urine",
+    "context_quote": "and to provoke urine in abundance",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "gravel and stone voiding",
+    "context_quote": "whereby also the gravel and stone may be voided",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "inward bruises",
+    "context_quote": "is very effectual for inward bruises",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "bleeding in any part of the body",
+    "context_quote": "and of wounds; also the fluxes of humours, the bloody-flux, and women's courses",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "ruptures or burstings",
+    "context_quote": "and is no less prevalent in all ruptures or burstings",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "green wounds, old sores and ulcers",
+    "context_quote": "green wounds, old sores and ulcers, are quickly cured therewith",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "loose teeth in the gums",
+    "context_quote": "The decoction also helps to fasten the teeth that are loose in the gums",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "decoction of the herb, green or dry",
+    "context_quote": "The decoction of the herb, green or dry, or the distilled water thereof"
+   },
+   {
+    "kind": "distilled water",
+    "context_quote": "or the distilled water thereof"
+   },
+   {
+    "kind": "outward application",
+    "context_quote": "as also to be outwardly applied"
+   }
+  ],
+  "dosage_notes": [],
+  "cautions": [],
+  "authority_citations": [
+   "Venus",
+   "Arnoldus de Villa Nova"
+  ]
+ },
+ "resolutions": [
+  {
+   "historical_name": "Golden Rod",
+   "candidates": [
+    {
+     "scientific_name": "Solidago canadensis",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.85,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Solidago virgaurea",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.75,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Solidago gigantea",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.6,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Solidago canadensis",
+   "confidence": 0.85,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Solidago canadensis",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Selected Aspects of Invasive Solidago canadensis with an Emphasis on Its Allelopathic Abilities: A Review.",
+     "identifier": "36056470",
+     "year": "2022",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/36056470/",
+     "relevance_note": "Reviews invasive ecology and allelopathy, not traditional diuretic or hemostatic uses."
+    },
+    {
+     "kind": "PubMed",
+     "title": "The nitrogen-sulfur ratio of acid rain modulates the leaf- and root-mediated co-allelopathy of Solidago canadensis.",
+     "identifier": "39031252",
+     "year": "2024",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/39031252/",
+     "relevance_note": "Focuses on environmental modulation of allelopathy, lacking data on urinary or hemorrhagic effects."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Response of invasive Solidago canadensis to foliar application of natural herbicide and glyphosate.",
+     "identifier": "41061534",
+     "year": "2025",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/41061534/",
+     "relevance_note": "Examines herbicide efficacy on invasive populations, with no mention of therapeutic applications."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "flavonoids",
+    "sesquiterpene lactones"
+   ],
+   "summary": "Modern literature focuses on Solidago canadensis as an invasive species and its allelopathic properties. No recent studies directly validate traditional claims regarding diuresis, hemostasis, or treatment of kidney stones/bruises. Evidence for these specific therapeutic indications is currently absent in the provided search results."
+  }
+ ],
+ "concordance": {
+  "grade": "D",
+  "direction": "contradicts",
+  "rationale": "Modern evidence (PMID: 36056470, 39031252) focuses on allelopathy and invasiveness. No clinical trials support urolithiasis or hemostasis; lack of safety data for internal use contradicts historical claims.",
+  "uncertainty": "Low uncertainty regarding absence of therapeutic efficacy in modern literature.",
+  "caveats": [
+   "No clinical trials found",
+   "Safety concerns unaddressed"
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "Arnoldus de Villa Nova commends it much against the stone in the reins and kidneys",
+   "The decoction also helps to fasten the teeth that are loose in the gums",
+   "The decoction of the herb, green or dry, or the distilled water thereof",
+   "and is no less prevalent in all ruptures or burstings",
+   "and to provoke urine in abundance",
+   "as also to be outwardly applied",
+   "green wounds, old sores and ulcers, are quickly cured therewith",
+   "is very effectual for inward bruises",
+   "or the distilled water thereof",
+   "whereby also the gravel and stone may be voided"
+  ],
+  "quotes_failed": [
+   "HEADING: Golden Rod",
+   "and of wounds; also the fluxes of humours, the bloody-flux, and women's courses"
+  ],
+  "issues": [
+   "Unearned Grade D: The grade 'D' (contradicts) is based on a lack of modern clinical trials for urolithiasis/hemostasis. However, the entry lacks EMA approval or robust clinical evidence entirely; assigning a specific negative grade without explicit safety data for internal use in the selected taxon (Solidago canadensis) vs historical usage creates an incomplete risk profile.",
+   "Missing Safety Data: The rationale cites 'lack of safety data' but does not provide specific toxicological evidence for Solidago canadensis, making the 'contradicts' direction regarding safety unverified by direct evidence.",
+   "Incomplete Resolution: While taxon resolution is provided, the clinical claims (wounds, fluxes) are explicitly contradicted by the absence of evidence, yet no positive evidence exists to support the historical indications either, leading to a 'fail' state for these specific claims."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T07:18:52Z"
+ }
+}

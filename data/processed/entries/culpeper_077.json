@@ -1,0 +1,268 @@
+{
+ "id": "culpeper_077",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Coltsfoot",
+  "book": "",
+  "chapter": "",
+  "char_start": 206427,
+  "char_end": 208115,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "CALLED also Coughwort, Foal’s-foot, Horse-hoof, and Bull’s-foot.\n\n_Descript._] This shoots up a slender stalk, with small yellowish\nflowers somewhat earlier, which fall away quickly, and after they are\npast, come up somewhat round leaves, sometimes dented about the edges,\nmuch lesser, thicker, and greener than those of butter-bur, with a\nlittle down or frieze over the green leaf on the upper side, which may\nbe rubbed away, and whitish or meally underneath. The root is small\nand white, spreading much under ground, so that where it takes it will\nhardly be driven away again, if any little piece be abiding therein;\nand from thence spring fresh leaves.\n\n_Place._] It grows as well in wet grounds as in drier places.\n\n_Time._] And flowers in the end of February, the leaves begin to appear\nin March.\n\n_Government and virtues._] The plant is under Venus, the fresh leaves\nor juice, or a syrup thereof is good for a hot dry cough, or wheezing,\nand shortness of breath. The dry leaves are best for those that have\nthin rheums and distillations upon their lungs, causing a cough, for\nwhich also the dried leaves taken as tobacco, or the root is very\ngood. The distilled water hereof simply, or with Elder flowers and\nNightshade, is a singularly good remedy against all hot agues, to drink\ntwo ounces at a time, and apply cloths wet therein to the head and\nstomach, which also does much good, being applied to any hot swellings\nand inflammations: It helps St. Anthony’s fire, and burnings, and is\nsingularly good to take away wheals and small pushes that arise through\nheat; as also the burning heat of the piles, or privy parts, cloths wet\ntherein being thereunto applied.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Coltsfoot",
+    "context_quote": "HEADING: Coltsfoot",
+    "part_used": "plant"
+   },
+   {
+    "name_text": "Coughwort",
+    "context_quote": "CALLED also Coughwort, Foal's-foot, Horse-hoof, and Bull's-foot.",
+    "part_used": "plant"
+   },
+   {
+    "name_text": "Foal's-foot",
+    "context_quote": "CALLED also Coughwort, Foal's-foot, Horse-hoof, and Bull's-foot.",
+    "part_used": "plant"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "hot dry cough",
+    "context_quote": "fresh leaves or juice, or a syrup thereof is good for a hot dry cough",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "wheezing",
+    "context_quote": "fresh leaves or juice, or a syrup thereof is good for a hot dry cough, or wheezing",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "shortness of breath",
+    "context_quote": "fresh leaves or juice, or a syrup thereof is good for a hot dry cough, or wheezing, and shortness of breath",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "thin rheums and distillations upon their lungs",
+    "context_quote": "The dry leaves are best for those that have thin rheums and distillations upon their lungs, causing a cough",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "cough",
+    "context_quote": "The dry leaves are best for those that have thin rheums and distillations upon their lungs, causing a cough",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "hot agues",
+    "context_quote": "The distilled water hereof simply, or with Elder flowers and Nightshade, is a singularly good remedy against all hot agues",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "hot swellings and inflammations",
+    "context_quote": "being applied to any hot swellings and inflammations",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "St. Anthony's fire",
+    "context_quote": "It helps St. Anthony's fire, and burnings",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "fresh leaves or juice",
+    "context_quote": "The plant is under Venus, the fresh leaves or juice, or a syrup thereof is good for a hot dry cough"
+   },
+   {
+    "kind": "syrup",
+    "context_quote": "The plant is under Venus, the fresh leaves or juice, or a syrup thereof is good for a hot dry cough"
+   },
+   {
+    "kind": "dried leaves taken as tobacco",
+    "context_quote": "for which also the dried leaves taken as tobacco, or the root is very good"
+   },
+   {
+    "kind": "distilled water",
+    "context_quote": "The distilled water hereof simply, or with Elder flowers and Nightshade, is a singularly good remedy against all hot agues"
+   }
+  ],
+  "dosage_notes": [
+   "drink two ounces at a time",
+   "apply cloths wet therein to the head and stomach",
+   "cloths wet thereunto applied"
+  ],
+  "cautions": [],
+  "authority_citations": []
+ },
+ "resolutions": [
+  {
+   "historical_name": "Coltsfoot",
+   "candidates": [
+    {
+     "scientific_name": "Tussilago farfara",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Hieracium pilosella",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.15,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Tussilago farfara",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Coughwort",
+   "candidates": [
+    {
+     "scientific_name": "Tussilago farfara",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.9,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Thalictrum aquilegiifolium",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.1,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Tussilago farfara",
+   "confidence": 0.9,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Foal's-foot",
+   "candidates": [
+    {
+     "scientific_name": "Tussilago farfara",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Equisetum arvense",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.1,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Tussilago farfara",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Tussilago farfara",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "A review of the ethnobotanical value, phytochemistry, pharmacology, toxicity and quality control of Tussilago farfara L. (coltsfoot).",
+     "identifier": "33069788",
+     "year": "2021",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/33069788/",
+     "relevance_note": "Reviews traditional use for respiratory ailments like cough and wheezing, alongside modern pharmacological validation."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Coltsfoot (Tussilago farfara L.; Asteraceae): modern methods of extraction, phytochemistry, nanoparticles synthesis, ethnopharmacology, and biological activities.",
+     "identifier": "40892112",
+     "year": "2025",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/40892112/",
+     "relevance_note": "Discusses extraction methods and biological activities relevant to treating respiratory conditions like cough."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Sesquiterpenoids from Tussilago farfara: full structure elucidation, anti-diabetic and anti-inflammatory signaling pathways.",
+     "identifier": "41781124",
+     "year": "2026",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/41781124/",
+     "relevance_note": "Identifies sesquiterpenoids with anti-inflammatory properties potentially relevant to respiratory inflammation."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "Sesquiterpenoids",
+    "Tannins"
+   ],
+   "summary": "Modern literature confirms Tussilago farfara's traditional use for cough and wheezing, linking its efficacy to anti-inflammatory sesquiterpenoids. While EMA monographs are absent, recent reviews validate ethnobotanical claims regarding respiratory relief."
+  }
+ ],
+ "concordance": {
+  "grade": "D",
+  "direction": "contradicts",
+  "rationale": "Modern evidence (PMID: 33069788, 40892112) flags serious safety concerns due to pyrrolizidine alkaloids causing hepatotoxicity and lung damage, contradicting historical claims of treating respiratory conditions.",
+  "uncertainty": "Low; toxicity data is consistent across recent reviews.",
+  "caveats": [
+   "Historical preparations may have differed in alkaloid content.",
+   "Modern use requires strict processing to remove toxins."
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "The distilled water hereof simply, or with Elder flowers and Nightshade, is a singularly good remedy against all hot agues",
+   "The dry leaves are best for those that have thin rheums and distillations upon their lungs, causing a cough",
+   "The plant is under Venus, the fresh leaves or juice, or a syrup thereof is good for a hot dry cough",
+   "being applied to any hot swellings and inflammations",
+   "for which also the dried leaves taken as tobacco, or the root is very good",
+   "fresh leaves or juice, or a syrup thereof is good for a hot dry cough",
+   "fresh leaves or juice, or a syrup thereof is good for a hot dry cough, or wheezing",
+   "fresh leaves or juice, or a syrup thereof is good for a hot dry cough, or wheezing, and shortness of breath"
+  ],
+  "quotes_failed": [
+   "CALLED also Coughwort, Foal's-foot, Horse-hoof, and Bull's-foot.",
+   "HEADING: Coltsfoot",
+   "It helps St. Anthony's fire, and burnings"
+  ],
+  "issues": [
+   "Unearned Grade D: The entry assigns a 'D' grade based on modern toxicity concerns (pyrrolizidine alkaloids) while citing only 3 PubMed articles. However, the historical context of 'Coltsfoot' as a respiratory remedy is well-documented in pharmacopeias and herbal literature predating these specific safety warnings. A 'D' grade implies the entry is largely unsupported or dangerous without acknowledging that the *historical* claim (treating coughs) was valid for centuries before modern toxicity data emerged; the contradiction arises from applying modern safety standards to historical efficacy claims without distinguishing them. The evidence count (n=3) is insufficient to fully substantiate a blanket 'D' grade that contradicts the entire historical utility of the plant in the knowledge graph context.",
+   "Incomplete Evidence: The 'evidence' field lists only 3 PubMed articles but fails to cite primary historical texts or pharmacopeial records that support the traditional uses (treating respiratory conditions), which are necessary to contextualize the safety warnings properly."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T06:13:53Z"
+ }
+}

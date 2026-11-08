@@ -1,0 +1,145 @@
+{
+ "id": "culpeper_201",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Stone",
+  "book": "",
+  "chapter": "",
+  "char_start": 488991,
+  "char_end": 490428,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "_Descript._] THE root, although it be very small and thready, yet it\ncontinues many years, from which arise many leaves lying along on the\nground, each standing upon a long small foot-stalk, the leaves as broad\nas a man’s nail, very deeply dented on the edges, somewhat like a\nparsley-leaf, but of a very dusky green colour. The stalks are very\nweak and slender, about three or four fingers in length, set so full\nof leaves that they can hardly be seen, either having no foot-stalk at\nall, or but very short; the flowers are so small they can hardly be\nseen, and the seed as small as may be.\n\n_Place._] It is a common herb throughout the nation, and rejoices\nin barren, sandy, moist places. It may be found plentifully about\nHampstead Heath, Hyde Park, and in Tothill-fields.\n\n_Time._] It may be found all the Summer-time, even from the beginning\nof April to the end of October.\n\n_Government and virtues._] Its operation is very prevalent to provoke\nurine, and to break the stone. It is a very good sallad herb. It were\ngood the gentry would pickle it up as they pickle up Samphire for\ntheir use all the Winter. I cannot teach them how to do it; yet this\nI can tell them, it is a very wholesome herb. They may also keep the\nherb dry, or in a syrup, if they please. You may take a dram of the\npowder of it in white wine; it would bring away gravel from the kidneys\ninsensibly, and without pain. It also helps the stranguary.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Stone",
+    "context_quote": "HEADING: Stone",
+    "part_used": "root"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "stone",
+    "context_quote": "Its operation is very prevalent to provoke urine, and to break the stone.",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "gravel in kidneys",
+    "context_quote": "You may take a dram of the powder of it in white wine; it would bring away gravel from the kidneys insensibly, and without pain.",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "stranguary",
+    "context_quote": "It also helps the stranguary.",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "pickle",
+    "context_quote": "It were good the gentry would pickle it up as they pickle up Samphire for their use all the Winter."
+   },
+   {
+    "kind": "dried",
+    "context_quote": "They may also keep the herb dry, or in a syrup, if they please."
+   },
+   {
+    "kind": "syrup",
+    "context_quote": "They may also keep the herb dry, or in a syrup, if they please."
+   },
+   {
+    "kind": "powder",
+    "context_quote": "You may take a dram of the powder of it in white wine"
+   }
+  ],
+  "dosage_notes": [
+   "take a dram of the powder of it in white wine"
+  ],
+  "cautions": [],
+  "authority_citations": []
+ },
+ "resolutions": [
+  {
+   "historical_name": "Stone",
+   "candidates": [
+    {
+     "scientific_name": "Saxifraga granulata",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.6,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Aconitum napellus",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.4,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Urtica dioica",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.3,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "",
+   "confidence": 0.36,
+   "status": "ambiguous",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [],
+ "concordance": {
+  "grade": "X",
+  "direction": "none",
+  "rationale": "Cannot grade honestly: taxon unresolved or no modern evidence retrieved for the recorded uses.",
+  "uncertainty": "Deterministic X backfill per rubric (absence of retrieved evidence is not evidence of absence).",
+  "caveats": [
+   "no concordance claim is made for this entry"
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "It also helps the stranguary.",
+   "It were good the gentry would pickle it up as they pickle up Samphire for their use all the Winter.",
+   "Its operation is very prevalent to provoke urine, and to break the stone.",
+   "They may also keep the herb dry, or in a syrup, if they please.",
+   "You may take a dram of the powder of it in white wine",
+   "You may take a dram of the powder of it in white wine; it would bring away gravel from the kidneys insensibly, and without pain."
+  ],
+  "quotes_failed": [
+   "HEADING: Stone"
+  ],
+  "issues": [
+   "Missing source_text for quote verification",
+   "Evidence list is empty (no botanical descriptions or citations provided)",
+   "Selected candidate is empty despite multiple LLM proposals with low confidence scores",
+   "Concordance grade is null without supporting evidence",
+   "Ambiguous status not resolved to a single scientific name"
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T06:13:44Z"
+ }
+}

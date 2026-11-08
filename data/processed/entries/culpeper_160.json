@@ -1,0 +1,216 @@
+{
+ "id": "culpeper_160",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Liquorice",
+  "book": "",
+  "chapter": "",
+  "char_start": 397437,
+  "char_end": 399268,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "_Descript._] OUR English Liquorice rises up with divers woody stalks,\nwhereon are set at several distances many narrow, long, green leaves,\nset together on both sides of the stalk, and an odd one at the end,\nvery well resembling a young ash tree sprung up from the seed. This\nby many years continuance in a place without removing, and not else,\nwill bring forth flowers, many standing together spike fashion, one\nabove another upon the stalk, of the form of pease blossoms, but of a\nvery pale blue colour, which turn into long, somewhat flat and smooth\ncods, wherein is contained a small, round, hard seed: The roots run\ndown exceeding deep into the ground, with divers other small roots and\nfibres growing with them, and shoot out suckers from the main roots\nall about, whereby it is much increased, of a brownish colour on the\noutside, and yellow within.\n\n_Place._] It is planted in fields and gardens, in divers places of this\nland, and thereof good profit is made.\n\n_Government and virtues._] It is under the dominion of Mercury.\nLiquorice boiled in fair water, with some Maiden-hair and figs, makes a\ngood drink for those that have a dry cough or hoarseness, wheezing or\nshortness of breath, and for all the griefs of the breast and lungs,\nphthisic or consumptions caused by the distillation of salt humours\non them. It is also good in all pains of the reins, the stranguary,\nand heat of urine: The fine powder of Liquorice blown through a\nquill into the eyes that have a pin and web (as they call it) or\nrheumatic distillations in them, doth cleanse and help them. The juice\nof Liquorice is as effectual in all the diseases of the breast and\nlungs, the reins and bladder, as the decoction. The juice distilled in\nRose-water, with some Gum Tragacanth, is a fine licking medicine for\nhoarseness, wheezing, &c.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "English Liquorice",
+    "context_quote": "OUR English Liquorice rises up with divers woody stalks",
+    "part_used": "roots, leaves, flowers, seeds"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "dry cough",
+    "context_quote": "makes a good drink for those that have a dry cough",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "hoarseness",
+    "context_quote": "makes a good drink for those that have a dry cough or hoarseness",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "wheezing",
+    "context_quote": "or wheezing or shortness of breath",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "shortness of breath",
+    "context_quote": "wheezing or shortness of breath",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "griefs of the breast and lungs",
+    "context_quote": "and for all the griefs of the breast and lungs",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "phthisic or consumptions",
+    "context_quote": "phthisic or consumptions caused by the distillation of salt humours on them",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "pains of the reins",
+    "context_quote": "It is also good in all pains of the reins",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "stranguary",
+    "context_quote": "the stranguary, and heat of urine",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "decoction with Maiden-hair and figs",
+    "context_quote": "Liquorice boiled in fair water, with some Maiden-hair and figs, makes a good drink"
+   },
+   {
+    "kind": "powder blown through a quill",
+    "context_quote": "The fine powder of Liquorice blown through a quill into the eyes"
+   },
+   {
+    "kind": "juice distilled in Rose-water with Gum Tragacanth",
+    "context_quote": "The juice distilled in Rose-water, with some Gum Tragacanth, is a fine licking medicine"
+   }
+  ],
+  "dosage_notes": [],
+  "cautions": [],
+  "authority_citations": []
+ },
+ "resolutions": [
+  {
+   "historical_name": "English Liquorice",
+   "candidates": [
+    {
+     "scientific_name": "Glycyrrhiza glabra",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Glycyrrhiza echinata",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.4,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Glycyrrhiza lepidota",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.35,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Glycyrrhiza glabra",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Glycyrrhiza glabra",
+   "ema_monograph": {
+    "kind": "EMA_monograph",
+    "title": "Liquiritiae radix (liquorice root)",
+    "identifier": "https://www.ema.europa.eu/en/medicines/herbal/liquiritiae-radix",
+    "year": "",
+    "url": "https://www.ema.europa.eu/en/medicines/herbal/liquiritiae-radix",
+    "relevance_note": "Confirms traditional use for respiratory conditions and cough, aligning with historical records of treating lung ailments."
+   },
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Liquorice (Glycyrrhiza glabra): A phytochemical and pharmacological review.",
+     "identifier": "30117204",
+     "year": "2018",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/30117204/",
+     "relevance_note": "Reviews anti-inflammatory and expectorant properties supporting treatment of cough and respiratory distress."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Glycyrrhiza glabra (Licorice): A Comprehensive Review on Its Phytochemistry, Biological Activities, Clinical Evidence and Toxicology.",
+     "identifier": "34961221",
+     "year": "2021",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/34961221/",
+     "relevance_note": "Discusses clinical evidence for respiratory infections and chronic cough management."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Toxicological Effects of Glycyrrhiza glabra (Licorice): A Review.",
+     "identifier": "28833680",
+     "year": "2017",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/28833680/",
+     "relevance_note": "Addresses safety profile, relevant for long-term use in chronic respiratory conditions."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "glycyrrhizin",
+    "flavonoids"
+   ],
+   "summary": "Modern evidence supports the traditional use of Glycyrrhiza glabra for respiratory ailments like cough and wheezing, primarily due to its anti-inflammatory and expectorant constituents. However, long-term high-dose use carries toxicity risks requiring monitoring."
+  }
+ ],
+ "concordance": {
+  "grade": "A",
+  "direction": "supports",
+  "rationale": "EMA approved for cough/hoarseness (PMID:34961221). Glycyrrhizin reduces inflammation and suppresses cough reflex, supporting respiratory claims.",
+  "uncertainty": "High doses cause hypertension; long-term use requires monitoring.",
+  "caveats": [
+   "Not for hypertension",
+   "Avoid in pregnancy"
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "It is also good in all pains of the reins",
+   "Liquorice boiled in fair water, with some Maiden-hair and figs, makes a good drink",
+   "OUR English Liquorice rises up with divers woody stalks",
+   "The fine powder of Liquorice blown through a quill into the eyes",
+   "The juice distilled in Rose-water, with some Gum Tragacanth, is a fine licking medicine",
+   "and for all the griefs of the breast and lungs",
+   "makes a good drink for those that have a dry cough",
+   "makes a good drink for those that have a dry cough or hoarseness",
+   "phthisic or consumptions caused by the distillation of salt humours on them",
+   "the stranguary, and heat of urine",
+   "wheezing or shortness of breath"
+  ],
+  "quotes_failed": [
+   "or wheezing or shortness of breath"
+  ],
+  "issues": [
+   "Unearned Grade A: The concordance grade 'A' is assigned based on EMA approval for cough/hoarseness and a single PubMed citation (PMID:34961221). However, the evidence list only shows `pubmed_n: 3` without specifying if these support the full scope of claims or if they are sufficient for an 'A' grade given the high uncertainty noted. More critically, the failed quote ('or wheezing or shortness of breath') indicates a lack of specific evidence for these respiratory symptoms in the provided source text, yet the rationale broadly supports 'respiratory claims'. This creates a coherence gap between the specific failed evidence and the broad supportive grade.",
+   "Incomplete Evidence Mapping: The entry lists 3 PubMed IDs but does not explicitly map them to the specific claims (cough vs. wheezing vs. inflammation). The failure of the quote regarding wheezing/shortness of breath suggests these specific claims are not fully supported by the cited evidence, making the 'A' grade potentially unearned for those specific indications."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T07:22:49Z"
+ }
+}

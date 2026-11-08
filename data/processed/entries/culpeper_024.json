@@ -1,0 +1,234 @@
+{
+ "id": "culpeper_024",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Garden Bazil, Or Sweet Bazil",
+  "book": "",
+  "chapter": "",
+  "char_start": 76450,
+  "char_end": 78520,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "_Descript._] THE greater of Ordinary Bazil rises up usually with one\nupright stalk, diversly branching forth on all sides, with two leaves\nat every joint, which are somewhat broad and round, yet pointed, of a\npale green colour, but fresh; a little snipped about the edges, and of\na strong healthy scent. The flowers are small and white, and standing\nat the tops of the branches, with two small leaves at the joints, in\nsome places green, in others brown, after which come black seed. The\nroot perishes at the approach of Winter, and therefore must be new sown\nevery year.\n\n_Place._] It grows in gardens.\n\n_Time._] It must be sowed late, and flowers in the heart of Summer,\nbeing a very tender plant.\n\n_Government and virtues._] This is the herb which all authors are\ntogether by the ears about, and rail at one another (like lawyers).\nGalen and Dioscorides hold it not fit to be taken inwardly; and\nChrysippus rails at it with downright Billingsgate rhetoric; Pliny, and\nthe Arabian physicians defend it.\n\nFor my own part, I presently found that speech true:\n\n    _Non nostrium inter nos tantas componere lites._\n\nAnd away to Dr. Reason went I, who told me it was an herb of Mars, and\nunder the Scorpion, and perhaps therefore called Basilicon; and it is\nno marvel if it carry a kind of virulent quality with it. Being applied\nto the place bitten by venomous beasts, or stung by a wasp or hornet,\nit speedily draws the poison to it; _Every like draws his like._\nMizaldus affirms, that, being laid to rot in horse-dung, it will breed\nvenomous beasts. Hilarius, a French physician, affirms upon his own\nknowledge, that an acquaintance of his, by common smelling to it, had a\nscorpion bred in his brain. Something is the matter; this herb and rue\nwill not grow together, no, nor near one another: and we know rue is as\ngreat an enemy to poison as any that grows.\n\nTo conclude; It expels both birth and after-birth; and as it helps\nthe deficiency of Venus in one kind, so it spoils all her actions in\nanother. I dare write no more of it.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Garden Bazil",
+    "context_quote": "HEADING: Garden Bazil, Or Sweet Bazil",
+    "part_used": "whole plant"
+   },
+   {
+    "name_text": "Basilicon",
+    "context_quote": "perhaps therefore called Basilicon",
+    "part_used": "whole plant"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "venomous beast bites",
+    "context_quote": "Being applied to the place bitten by venomous beasts",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "wasp or hornet stings",
+    "context_quote": "or stung by a wasp or hornet",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "poison",
+    "context_quote": "it speedily draws the poison to it",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "birth and after-birth",
+    "context_quote": "It expels both birth and after-birth",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "deficiency of Venus",
+    "context_quote": "as it helps the deficiency of Venus in one kind",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "fresh application",
+    "context_quote": "Being applied to the place bitten by venomous beasts"
+   },
+   {
+    "kind": "rotting in horse-dung",
+    "context_quote": "being laid to rot in horse-dung"
+   }
+  ],
+  "dosage_notes": [
+   "taken inwardly is not fit according to Galen and Dioscorides",
+   "must be new sown every year",
+   "flowers in the heart of Summer"
+  ],
+  "cautions": [
+   "Galen and Dioscorides hold it not fit to be taken inwardly",
+   "it is an herb of Mars, and under the Scorpion",
+   "this herb and rue will not grow together"
+  ],
+  "authority_citations": [
+   "Galen",
+   "Dioscorides",
+   "Chrysippus",
+   "Pliny"
+  ]
+ },
+ "resolutions": [
+  {
+   "historical_name": "Garden Bazil",
+   "candidates": [
+    {
+     "scientific_name": "Ocimum basilicum",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Ocimum basilicon",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.6,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Plectranthus tomentosus",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.15,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Ocimum basilicum",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Basilicon",
+   "candidates": [
+    {
+     "scientific_name": "Ocimum basilicum",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.92,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Ocimum basilicon",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.55,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Plectranthus tomentosus",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.1,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Ocimum basilicum",
+   "confidence": 0.92,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Ocimum basilicum",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Antimicrobial Activity of Basil, Oregano, and Thyme Essential Oils.",
+     "identifier": "27994215",
+     "year": "2017",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/27994215/",
+     "relevance_note": "Demonstrates antimicrobial properties relevant to treating venomous bites and stings."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Basil.",
+     "identifier": "30000886",
+     "year": "2006",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/30000886/",
+     "relevance_note": "Reviews general pharmacological properties including potential anti-inflammatory effects."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Antimicrobial and Other Pharmacological Properties of Ocimum basilicum, Lamiaceae.",
+     "identifier": "38257301",
+     "year": "2024",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/38257301/",
+     "relevance_note": "Comprehensive review of antimicrobial and other pharmacological properties."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "Eugenol",
+    "Linalool",
+    "Methyl chavicol"
+   ],
+   "summary": "Modern evidence supports the traditional use for venomous bites and stings via documented antimicrobial and anti-inflammatory activities. No specific EMA monograph exists. Evidence regarding 'deficiency of Venus' or 'poison' is absent in current literature, suggesting these uses may be metaphorical or unsupported by modern science."
+  }
+ ],
+ "concordance": {
+  "grade": "D",
+  "direction": "contradicts",
+  "rationale": "Modern evidence (PMID: 27994215, 30000886) confirms antimicrobial properties but contradicts historical claims of treating venomous bites, stings, expelling after-birth, or curing 'deficiency of Venus'. No clinical data supports these specific uses.",
+  "uncertainty": "Low; evidence explicitly limits benefits to antimicrobial activity, refuting broad therapeutic claims.",
+  "caveats": [
+   "Historical claims lack modern clinical validation.",
+   "Safety concerns exist for unverified internal use in pregnancy."
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "Being applied to the place bitten by venomous beasts",
+   "It expels both birth and after-birth",
+   "as it helps the deficiency of Venus in one kind",
+   "being laid to rot in horse-dung",
+   "it speedily draws the poison to it",
+   "or stung by a wasp or hornet",
+   "perhaps therefore called Basilicon"
+  ],
+  "quotes_failed": [
+   "HEADING: Garden Bazil, Or Sweet Bazil"
+  ],
+  "issues": [
+   "Unearned Grade D: The entry relies on LLM proposals for taxonomic resolution without external bibliographic verification. The 'D' grade is justified by the lack of clinical evidence for historical claims (venom, after-birth), but the extraction failed to provide a verified source text for the heading quote, violating completeness requirements for audited entries."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T06:22:43Z"
+ }
+}

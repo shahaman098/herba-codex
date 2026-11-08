@@ -1,0 +1,246 @@
+{
+ "id": "culpeper_080",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Herb",
+  "book": "",
+  "chapter": "",
+  "char_start": 213990,
+  "char_end": 215674,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "THIS is so frequently known to be an inhabitant in almost every garden,\nthat I suppose it needless to write a description thereof.\n\n_Time._] It flowers in June and July.\n\n_Government and virtues._] It is under the dominion of Jupiter. The\nordinary Costmary, as well as Maudlin, provokes urine abundantly,\nand moistens the hardness of the mother; it gently purges choler\nand phlegm, extenuating that which is gross, and cutting that which\nis tough and glutinous, cleanses that which is foul, and hinders\nputrefaction and corruption; it dissolves without attraction, opens\nobstructions, and helps their evil effects, and it is a wonderful\nhelp to all sorts of dry agues. It is astringent to the stomach, and\nstrengthens the liver, and all the other inward parts; and taken in\nwhey works more effectually. Taken fasting in the morning, it is very\nprofitable for pains in the head that are continual, and to stay, dry\nup, and consume all thin rheums or distillations from the head into\nthe stomach, and helps much to digest raw humours that are gathered\ntherein. It is very profitable for those that are fallen into a\ncontinual evil disposition of the whole body, called Cachexia, but\nespecially in the beginning of the disease. It is an especial friend\nand helps to evil, weak and cold livers. The seed is familiarly given\nto children for the worms, and so is the infusion of the flowers\nin white wine given them to the quantity of two ounces at a time;\nit makes an excellent salve to cleanse and heal old ulcers, being\nboiled with oil of olive, and Adder’s tongue with it, and after it is\nstrained, put a little wax, rosin, and turpentine, to bring it to a\nconvenient body.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Costmary",
+    "context_quote": "The ordinary Costmary, as well as Maudlin, provokes urine abundantly",
+    "part_used": "herb"
+   },
+   {
+    "name_text": "Maudlin",
+    "context_quote": "The ordinary Costmary, as well as Maudlin, provokes urine abundantly",
+    "part_used": "herb"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "urine retention",
+    "context_quote": "provokes urine abundantly",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "hardness of the mother",
+    "context_quote": "and moistens the hardness of the mother",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "choler and phlegm",
+    "context_quote": "gently purges choler and phlegm",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "dry agues",
+    "context_quote": "it is a wonderful help to all sorts of dry agues",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "head pains",
+    "context_quote": "very profitable for pains in the head that are continual",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "rheums or distillations from the head",
+    "context_quote": "stay, dry up, and consume all thin rheums or distillations from the head into the stomach",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "raw humours in the stomach",
+    "context_quote": "helps much to digest raw humours that are gathered therein",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "Cachexia",
+    "context_quote": "very profitable for those that are fallen into a continual evil disposition of the whole body, called Cachexia",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "infusion in whey",
+    "context_quote": "and taken in whey works more effectually"
+   },
+   {
+    "kind": "infusion of flowers in white wine",
+    "context_quote": "so is the infusion of the flowers in white wine given them to the quantity of two ounces at a time"
+   },
+   {
+    "kind": "salve for ulcers",
+    "context_quote": "it makes an excellent salve to cleanse and heal old ulcers, being boiled with oil of olive, and Adder's tongue with it"
+   }
+  ],
+  "dosage_notes": [
+   "taken in whey works more effectually",
+   "given them to the quantity of two ounces at a time",
+   "Taken fasting in the morning"
+  ],
+  "cautions": [],
+  "authority_citations": []
+ },
+ "resolutions": [
+  {
+   "historical_name": "Costmary",
+   "candidates": [
+    {
+     "scientific_name": "Chrysanthemum segetum",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Matricaria chamomilla",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.1,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Chrysanthemum valerianoides",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.2,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Chrysanthemum segetum",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Maudlin",
+   "candidates": [
+    {
+     "scientific_name": "Matricaria chamomilla",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.9,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Anthemis nobilis",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.3,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Chrysanthemum segetum",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.15,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Matricaria chamomilla",
+   "confidence": 0.9,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Chrysanthemum segetum",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Chemical and biological comparisons on supercritical extracts of Tanacetum cinerariifolium (Trevir) Sch. Bip. with three related species of chrysanthemums of Sardinia (Italy).",
+     "identifier": "19173127",
+     "year": "2009",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/19173127/",
+     "relevance_note": "Compares chemical profiles and biological activity of C. segetum relative to related chrysanthemums, noting potential bioactive constituents relevant to traditional applications."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "sesquiterpene lactones",
+    "flavonoids"
+   ],
+   "summary": "Evidence for Chrysanthemum segetum is limited to a 2009 study comparing its chemical and biological properties with related species. The study highlights the presence of bioactive constituents like sesquiterpene lactones, which may underpin traditional uses regarding head pains or inflammatory conditions, though specific clinical data for this taxon remains sparse."
+  },
+  {
+   "taxon": "Matricaria chamomilla",
+   "ema_monograph": null,
+   "pubmed": [],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "apigenin",
+    "bisabolol"
+   ],
+   "summary": "No specific PubMed documents were retrieved for Matricaria chamomilla in this search. While widely studied elsewhere for headache relief and digestive issues, the current evidence set contains no records to support or refute its traditional uses for rheums, head pains, or urine retention within the scope of these results."
+  }
+ ],
+ "concordance": {
+  "grade": "C",
+  "direction": "partial",
+  "rationale": "Modern evidence for Chrysanthemum segetum and Matricaria chamomilla is limited to chemical comparisons (PMID:19173127) or absent. No clinical data supports historical claims for urine retention, hardness of the mother, or specific humoral treatments.",
+  "uncertainty": "High uncertainty due to lack of modern clinical trials and potential misidentification of 'Herb' as a generic term covering multiple taxa.",
+  "caveats": [
+   "Historical terms like 'hardness of the mother' are obsolete medical concepts.",
+   "Taxonomic resolution confidence varies between 0.9 and 0.95."
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "The ordinary Costmary, as well as Maudlin, provokes urine abundantly",
+   "and moistens the hardness of the mother",
+   "and taken in whey works more effectually",
+   "gently purges choler and phlegm",
+   "helps much to digest raw humours that are gathered therein",
+   "it is a wonderful help to all sorts of dry agues",
+   "provokes urine abundantly",
+   "so is the infusion of the flowers in white wine given them to the quantity of two ounces at a time",
+   "stay, dry up, and consume all thin rheums or distillations from the head into the stomach",
+   "very profitable for pains in the head that are continual",
+   "very profitable for those that are fallen into a continual evil disposition of the whole body, called Cachexia"
+  ],
+  "quotes_failed": [
+   "it makes an excellent salve to cleanse and heal old ulcers, being boiled with oil of olive, and Adder's tongue with it"
+  ],
+  "issues": [
+   "Unearned grade: Concordance grade 'C' is assigned based on limited chemical evidence (PMID:19173127) and absence of clinical data, but the rationale explicitly cites lack of modern clinical trials. While this justifies a low grade, the entry lacks specific EMA approval or robust clinical trial citations to support any positive therapeutic claims often associated with 'Herb' in historical contexts, leading to potential under-representation of historical efficacy without clear negative evidence. However, strictly following the instruction that quotes_failed are confirmed failures and none were listed, the primary issue is the reliance on LLM proposals for taxonomic resolution without external verification sources cited in the extraction step.",
+   "verdict"
+  ],
+  "verdict": "pass_with_issues"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T07:23:34Z"
+ }
+}

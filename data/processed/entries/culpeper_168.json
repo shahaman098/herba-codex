@@ -221,6 +221,9 @@
  "audit": {
   "schema_ok": true,
   "quotes_verified": [
+   "The decoction of the herb Maiden-Hair being drank",
+   "The herb boiled in oil of Camomile, dissolves knots, allays swellings, and dries up moist ulcers.",
+   "The lye made thereof is singularly good to cleanse the head from scurf",
    "break the stone in the kidneys",
    "diseases of the spleen",
    "good to cleanse the head from scurf",
@@ -228,6 +231,7 @@
    "shortness of breath",
    "stays both bleedings and fluxes of the stomach and belly",
    "stopping of urine",
+   "the powder of it taken in drink for forty days together, helps the burstings in children.",
    "the yellow jaundice"
   ],
   "quotes_failed": [

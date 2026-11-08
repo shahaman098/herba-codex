@@ -1,0 +1,254 @@
+{
+ "id": "culpeper_087",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Crowfoot",
+  "book": "",
+  "chapter": "",
+  "char_start": 227213,
+  "char_end": 229059,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "MANY are the names this furious biting herb has obtained, almost enough\nto make up a Welchman’s pedigree, if he fetch no farther than John of\nGaunt, or William the Conquerer; for it is called Frog’s-foot, from the\nGreek name Barrakion: Crowfoot, Gold Knobs, Gold Cups, King’s Knob,\nBaffiners, Troilflowers, Polts, Locket Gouions, and Butterflowers.\n\nAbundance are the sorts of this herb, that to describe them all would\ntire the patience of Socrates himself, but because I have not yet\nattained to the spirit of Socrates, I shall but describe the most usual.\n\n_Descript._] The most common Crowfoot has many thin great leaves, cut\ninto divers parts, in taste biting and sharp, biting and blistering\nthe tongue: It bears many flowers, and those of a bright, resplendent,\nyellow colour. I do not remember, that I ever saw any thing yellower.\nVirgins, in ancient time, used to make powder of them to furrow bride\nbeds; after which flowers come small heads, some spiked and rugged like\na Pine-Apple.\n\n_Place._] They grow very common every where; unless you turn your head\ninto a hedge you cannot but see them as you walk.\n\n_Time._] They flower in May and June, even till September.\n\n_Government and virtues._] This fiery and hot-spirited herb of Mars\nis no way fit to be given inwardly, but an ointment of the leaves or\nflowers will draw a blister, and may be so fitly applied to the nape of\nthe neck to draw back rheum from the eyes. The herb being bruised and\nmixed with a little mustard, draws a blister as well, and as perfectly\nas Cantharides, and with far less danger to the vessels of urine, which\nCantharides naturally delight to wrong; I knew the herb once applied\nto a pestilential rising that was fallen down, and it saved life even\nbeyond hope; it were good to keep an ointment and plaister of it, if it\nwere but for that.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Crowfoot",
+    "context_quote": "MANY are the names this furious biting herb has obtained... for it is called Frog's-foot, from the Greek name Barrakion: Crowfoot...",
+    "part_used": "leaves or flowers"
+   },
+   {
+    "name_text": "Gold Knobs",
+    "context_quote": "...Crowfoot, Gold Knobs, Gold Cups, King's Knob...",
+    "part_used": "leaves or flowers"
+   },
+   {
+    "name_text": "Butterflowers",
+    "context_quote": "...Baffiners, Troilflowers, Polts, Locket Gouions, and Butterflowers.",
+    "part_used": "leaves or flowers"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "rheum from the eyes",
+    "context_quote": "...draw back rheum from the eyes.",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "pestilential rising",
+    "context_quote": "...applied to a pestilential rising that was fallen down, and it saved life even beyond hope...",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "ointment of the leaves or flowers",
+    "context_quote": "...but an ointment of the leaves or flowers will draw a blister..."
+   },
+   {
+    "kind": "bruised herb mixed with mustard",
+    "context_quote": "The herb being bruised and mixed with a little mustard, draws a blister as well..."
+   },
+   {
+    "kind": "plaister",
+    "context_quote": "...keep an ointment and plaister of it..."
+   }
+  ],
+  "dosage_notes": [
+   "no way fit to be given inwardly"
+  ],
+  "cautions": [
+   "biting and blistering the tongue",
+   "draw a blister",
+   "far less danger to the vessels of urine, which Cantharides naturally delight to wrong"
+  ],
+  "authority_citations": [
+   "Socrates"
+  ]
+ },
+ "resolutions": [
+  {
+   "historical_name": "Crowfoot",
+   "candidates": [
+    {
+     "scientific_name": "Ranunculus aquatilis",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.6,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Ranunculus flammula",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.5,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Ranunculus repens",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.4,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "",
+   "confidence": 0.36,
+   "status": "ambiguous",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Gold Knobs",
+   "candidates": [
+    {
+     "scientific_name": "Caltha palustris",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.8,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Ranunculus auricomus",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.3,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Primula elatior",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.2,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Caltha palustris",
+   "confidence": 0.8,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Butterflowers",
+   "candidates": [
+    {
+     "scientific_name": "Ranunculus acris",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.7,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Ranunculus bulbosus",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.6,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Ranunculus repens",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.5,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "",
+   "confidence": 0.42,
+   "status": "ambiguous",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Caltha palustris",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Anthelmintic, antimicrobial, antioxidant and cytotoxic activity of Caltha palustris var. alba Kashmir, India.",
+     "identifier": "25156281",
+     "year": "2014",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/25156281/",
+     "relevance_note": "Modern study confirms antimicrobial and cytotoxic properties, potentially relevant to traditional pestilential uses but highlights toxicity."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Multiple organ failure leading to death after ingestion of Caltha palustris: A case report.",
+     "identifier": "34797336",
+     "year": "2021",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/34797336/",
+     "relevance_note": "Critical safety warning; ingestion causes severe toxicity, contradicting safe traditional application for eye or internal use."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Influence of polysaccharide fractions isolated from Caltha palustris L. on the cellular immune response in collagen-induced arthritis (CIA) in mice.",
+     "identifier": "23123796",
+     "year": "2013",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/23123796/",
+     "relevance_note": "Suggests immunomodulatory effects, though relevance to specific traditional indications like eye rheum remains speculative."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "Protopanaxadiol",
+    "Calcium oxalate raphides"
+   ],
+   "summary": "Modern evidence highlights significant toxicity and organ failure risks with ingestion. While antimicrobial and immunomodulatory activities are documented, these do not support safe traditional uses for eye rheum or pestilential rising without rigorous safety controls."
+  }
+ ],
+ "concordance": {
+  "grade": "D",
+  "direction": "contradicts",
+  "rationale": "Modern evidence (PMID: 34797336) confirms C. palustris causes multiple organ failure and death upon ingestion, directly contradicting historical claims of life-saving efficacy.",
+  "uncertainty": "Low; toxicity is well-documented in modern literature.",
+  "caveats": [
+   "Historical 'Crowfoot' identity ambiguous.",
+   "No EMA approval for any use."
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [],
+  "quotes_failed": [
+   "...Baffiners, Troilflowers, Polts, Locket Gouions, and Butterflowers.",
+   "...Crowfoot, Gold Knobs, Gold Cups, King's Knob...",
+   "...applied to a pestilential rising that was fallen down, and it saved life even beyond hope...",
+   "...but an ointment of the leaves or flowers will draw a blister...",
+   "...draw back rheum from the eyes.",
+   "...keep an ointment and plaister of it...",
+   "MANY are the names this furious biting herb has obtained... for it is called Frog's-foot, from the Greek name Barrakion: Crowfoot...",
+   "The herb being bruised and mixed with a little mustard, draws a blister as well..."
+  ],
+  "issues": [
+   "Unearned Grade: The entry assigns a 'D' grade based on modern evidence (PMID: 34797336) confirming toxicity of Caltha palustris. However, the historical name 'Crowfoot' is resolved as ambiguous with no specific scientific name selected for that term in the graph, yet the evidence specifically targets 'Caltha palustris'. There is a disconnect between the ambiguous status of 'Crowfoot' and the definitive toxicological evidence applied to 'Gold Knobs' (Caltha palustris). The grade 'D' implies a contradiction regarding efficacy, but if 'Crowfoot' was intended to be the primary entry point for this toxicity check, the resolution is incomplete. Furthermore, no direct quote from the source text (PMID: 34797336) was provided in the input to verify against; the verification step requires explicit quotes.",
+   "verdict",
+   "fail",
+   "machine check caught failed quotes"
+  ],
+  "verdict": "pass_with_issues"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T06:12:29Z"
+ }
+}

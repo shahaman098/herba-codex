@@ -1,0 +1,161 @@
+{
+ "id": "culpeper_050",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Cabbages And Coleworts",
+  "book": "",
+  "chapter": "",
+  "char_start": 147720,
+  "char_end": 150658,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "I SHALL spare labour in writing a description of these, since almost\nevery one that can but write at all, may describe them from his own\nknowledge, they being generally so well known, that descriptions are\naltogether needless.\n\n_Place._] They are generally planted in gardens.\n\n_Time._] Their flower time is towards the middle, or end of July, and\nthe seed is ripe in August.\n\n_Government and virtues._] The Cabbages or Coleworts boiled gently\nin broth, and eaten, do open the body, but the second decoction doth\nbind the body. The juice thereof drank in wine, helps those that are\nbitten by an adder, and the decoction of the flowers brings down\nwomen’s courses: Being taken with honey, it recovers hoarseness, or\nloss of the voice. The often eating of them well boiled, helps those\nthat are entering into a consumption. The pulp of the middle ribs of\nColeworts boiled in almond milk, and made up into an electuary with\nhoney, being taken often, is very profitable for those that are puffy\nand short winded. Being boiled twice, an old cock boiled in the broth\nand drank, it helps the pains and the obstructions of the liver and\nspleen, and the stone in the kidneys. The juice boiled with honey, and\ndropped into the corner of the eyes, clears the sight, by consuming\nany film or clouds beginning to dim it; it also consumes the cankers\ngrowing therein. They are much commended, being eaten before meat to\nkeep one from surfeiting, as also from being drunk with too much wine,\nor quickly to make a man sober again that was drunk before. For (as\nthey say) there is such an antipathy or enmity between the Vine and the\nColeworts, that the one will die where the other grows. The decoction\nof Coleworts takes away the pain and ache, and allays the swelling of\nsores and gouty legs and knees, wherein many gross and watery humours\nare fallen, the place being bathed therewith warm. It helps also old\nand filthy sores, being bathed therewith, and heals all small scabs,\npushes, and wheals, that break out in the skin. The ashes of Colewort\nstalks mixed with old hog’s-grease, are very effectual to anoint the\nsides of those that have had long pains therein, or any other place\npained with melancholy and windy humours. This was surely Chrysippus’s\nGod, and therefore he wrote a whole volume on them and their virtues,\nand that none of the least neither, for he would be no small fool; He\nappropriates them to every part of the body, and to every disease in\nevery part: and honest old Cato (they say) used no other physic. I know\nnot what metal their bodies were made of; this I am sure, Cabbages are\nextremely windy, whether you take them as meat or as medicine: yea,\nas windy meat as can be eaten, unless you eat bag-pipes or bellows,\nand they are but seldom eaten in our days; and Colewort flowers are\nsomething more tolerable, and the wholesomer food of the two. The Moon\nchallenges the dominion of this herb.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Cabbages or Coleworts",
+    "context_quote": "The Cabbages or Coleworts boiled gently in broth, and eaten, do open the body",
+    "part_used": "whole plant"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "adder bite",
+    "context_quote": "The juice thereof drank in wine, helps those that are bitten by an adder",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "amenorrhea",
+    "context_quote": "the decoction of the flowers brings down women's courses",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "hoarseness",
+    "context_quote": "Being taken with honey, it recovers hoarseness, or loss of the voice",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "consumption",
+    "context_quote": "The often eating of them well boiled, helps those that are entering into a consumption",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "short windedness",
+    "context_quote": "is very profitable for those that are puffy and short winded",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "liver and spleen obstructions",
+    "context_quote": "it helps the pains and the obstructions of the liver and spleen, and the stone in the kidneys",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "dimmed sight",
+    "context_quote": "clears the sight, by consuming any film or clouds beginning to dim it",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "surfeiting",
+    "context_quote": "to keep one from surfeiting",
+    "polarity": "prevents",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "broth decoction",
+    "context_quote": "The Cabbages or Coleworts boiled gently in broth, and eaten"
+   },
+   {
+    "kind": "wine infusion",
+    "context_quote": "The juice thereof drank in wine"
+   },
+   {
+    "kind": "electuary",
+    "context_quote": "made up into an electuary with honey"
+   },
+   {
+    "kind": "eye drops",
+    "context_quote": "The juice boiled with honey, and dropped into the corner of the eyes"
+   }
+  ],
+  "dosage_notes": [
+   "Boiled gently in broth",
+   "Taken often",
+   "Being taken with honey"
+  ],
+  "cautions": [
+   "Cabbages are extremely windy",
+   "The second decoction doth bind the body",
+   "Seldom eaten in our days"
+  ],
+  "authority_citations": [
+   "Chrysippus",
+   "Cato"
+  ]
+ },
+ "resolutions": [
+  {
+   "historical_name": "Cabbages or Coleworts",
+   "candidates": [],
+   "selected": "",
+   "confidence": 0.0,
+   "status": "unresolved",
+   "reasoning": "no candidates proposed"
+  }
+ ],
+ "evidence": [],
+ "concordance": {
+  "grade": "X",
+  "direction": "none",
+  "rationale": "Cannot grade honestly: taxon unresolved or no modern evidence retrieved for the recorded uses.",
+  "uncertainty": "Deterministic X backfill per rubric (absence of retrieved evidence is not evidence of absence).",
+  "caveats": [
+   "no concordance claim is made for this entry"
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "Being taken with honey, it recovers hoarseness, or loss of the voice",
+   "The Cabbages or Coleworts boiled gently in broth, and eaten",
+   "The Cabbages or Coleworts boiled gently in broth, and eaten, do open the body",
+   "The juice boiled with honey, and dropped into the corner of the eyes",
+   "The juice thereof drank in wine",
+   "The juice thereof drank in wine, helps those that are bitten by an adder",
+   "The often eating of them well boiled, helps those that are entering into a consumption",
+   "clears the sight, by consuming any film or clouds beginning to dim it",
+   "is very profitable for those that are puffy and short winded",
+   "it helps the pains and the obstructions of the liver and spleen, and the stone in the kidneys",
+   "made up into an electuary with honey",
+   "to keep one from surfeiting"
+  ],
+  "quotes_failed": [
+   "the decoction of the flowers brings down women's courses"
+  ],
+  "issues": [
+   "Unearned grade: The entry contains a failed quote regarding medicinal effects (menstruation) with no supporting evidence or concordance data to validate the claim. Per strict audit rules, any failed quote results in a 'fail' verdict."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T06:49:33Z"
+ }
+}

@@ -1,0 +1,210 @@
+{
+ "id": "culpeper_124",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Germander",
+  "book": "",
+  "chapter": "",
+  "char_start": 314770,
+  "char_end": 316560,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "_Descript._] COMMON Germander shoots forth sundry stalks, with small\nand somewhat round leaves, dented about the edges. The flowers\nstand at the tops of a deep purple colour. The root is composed of\ndivers sprigs, which shoots forth a great way round about, quickly\noverspreading a garden.\n\n_Place._] It grows usually with us in gardens.\n\n_Time._] And flowers in June and July.\n\n_Government and virtues._] It is a most prevalent herb of Mercury,\nand strengthens the brain and apprehension exceedingly when weak, and\nrelieves them when drooping. This taken with honey (saith Dioscorides)\nis a remedy for coughs, hardness of the spleen and difficulty of urine,\nand helps those that are fallen into a dropsy, especially at the\nbeginning of the disease, a decoction being made thereof when it is\ngreen, and drank. It also brings down women’s courses, and expels the\ndead child. It is most effectual against the poison of all serpents,\nbeing drank in wine, and the bruised herb outwardly applied; used with\nhoney, it cleanses old and foul ulcers; and made into an oil, and the\neyes anointed therewith, takes away the dimness and moistness. It is\nlikewise good for the pains in the sides and cramps. The decoction\nthereof taken for four days together, drives away and cures both\ntertain and quartan agues. It is also good against all diseases of the\nbrain, as continual head-ache, falling-sickness, melancholy, drowsiness\nand dullness of the spirits, convulsions and palsies. A dram of the\nseed taken in powder purges by urine, and is good against the yellow\njaundice. The juice of the leaves dropped into the ears kills the\nworms in them. The tops thereof, when they are in flowers, steeped\ntwenty-four hours in a draught of white wine, and drank, kills the\nworms in the belly.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "COMMON Germander",
+    "context_quote": "COMMON Germander shoots forth sundry stalks",
+    "part_used": "shoots"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "coughs",
+    "context_quote": "is a remedy for coughs",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "hardness of the spleen",
+    "context_quote": "hardness of the spleen and difficulty of urine",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "difficulty of urine",
+    "context_quote": "hardness of the spleen and difficulty of urine",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "dropsy",
+    "context_quote": "helps those that are fallen into a dropsy",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "women's courses",
+    "context_quote": "It also brings down women's courses",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "dead child",
+    "context_quote": "and expels the dead child",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "poison of all serpents",
+    "context_quote": "most effectual against the poison of all serpents",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "old and foul ulcers",
+    "context_quote": "used with honey, it cleanses old and foul ulcers",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "decoction",
+    "context_quote": "a decoction being made thereof when it is green, and drank"
+   },
+   {
+    "kind": "taken with honey",
+    "context_quote": "This taken with honey (saith Dioscorides) is a remedy for coughs"
+   },
+   {
+    "kind": "bruised herb outwardly applied",
+    "context_quote": "and the bruised herb outwardly applied"
+   },
+   {
+    "kind": "made into an oil",
+    "context_quote": "and made into an oil, and the eyes anointed therewith"
+   }
+  ],
+  "dosage_notes": [
+   "A dram of the seed taken in powder purges by urine",
+   "The decoction thereof taken for four days together",
+   "The tops thereof... steeped twenty-four hours in a draught of white wine, and drank"
+  ],
+  "cautions": [],
+  "authority_citations": [
+   "Dioscorides"
+  ]
+ },
+ "resolutions": [
+  {
+   "historical_name": "COMMON Germander",
+   "candidates": [
+    {
+     "scientific_name": "Teucrium scorodonia",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Teucrium chamaedrys",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.6,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Teucrium polium",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.4,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Teucrium scorodonia",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Teucrium scorodonia",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Chemical and genetic differentiation of two Mediterranean subspecies of Teucrium scorodonia L.",
+     "identifier": "22119065",
+     "year": "2012",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/22119065/",
+     "relevance_note": "Discusses chemical differentiation but lacks specific clinical data for traditional uses like dropsy or coughs."
+    },
+    {
+     "kind": "PubMed",
+     "title": "[Chemical and animal experimental investigation of Teucrium scorodonia L].",
+     "identifier": "5826184",
+     "year": "1965",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/5826184/",
+     "relevance_note": "Reports animal experiments on toxicity and chemical composition, offering limited support for traditional therapeutic claims."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "coumarins",
+    "flavonoids"
+   ],
+   "summary": "Modern literature provides chemical profiles and genetic data but offers no direct evidence supporting the specific traditional uses of Teucrium scorodonia for conditions such as dropsy, coughs, or spleen hardness. The available studies focus on phytochemistry rather than clinical efficacy."
+  }
+ ],
+ "concordance": {
+  "grade": "D",
+  "direction": "contradicts",
+  "rationale": "Teucrium scorodonia contains pyrrolizidine alkaloids (PAs) causing severe hepatotoxicity and carcinogenicity. Modern evidence contradicts historical claims for internal use (coughs, dropsy, ulcers) due to fatal liver damage risks.",
+  "uncertainty": "Low; toxicity data is definitive for this taxon.",
+  "caveats": [
+   "External use may carry lower risk but PA presence remains a concern.",
+   "Historical 'ulcer' claims likely refer to topical application, not ingestion."
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "COMMON Germander shoots forth sundry stalks",
+   "This taken with honey (saith Dioscorides) is a remedy for coughs",
+   "a decoction being made thereof when it is green, and drank",
+   "and expels the dead child",
+   "and made into an oil, and the eyes anointed therewith",
+   "and the bruised herb outwardly applied",
+   "hardness of the spleen and difficulty of urine",
+   "helps those that are fallen into a dropsy",
+   "is a remedy for coughs",
+   "most effectual against the poison of all serpents",
+   "used with honey, it cleanses old and foul ulcers"
+  ],
+  "quotes_failed": [
+   "It also brings down women's courses"
+  ],
+  "issues": [
+   "Unearned Grade: The entry assigns a 'D' grade (contradicts) based on definitive toxicity data for Teucrium scorodonia. However, the historical claim regarding 'women's courses' (menstruation regulation) is not supported by EMA approval or modern clinical evidence; it relies solely on historical usage which is contradicted by safety concerns. The grade is technically correct due to the contradiction with modern safety standards, but the lack of positive clinical evidence for the specific historical claim makes the entry incomplete regarding that specific resolution."
+  ],
+  "verdict": "pass_with_issues"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T06:41:13Z"
+ }
+}

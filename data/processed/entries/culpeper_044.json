@@ -1,0 +1,225 @@
+{
+ "id": "culpeper_044",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Brook Lime, Or Water-Pimpernel",
+  "book": "",
+  "chapter": "",
+  "char_start": 126491,
+  "char_end": 130154,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "_Descript._] THIS sends forth from a creeping root that shoots forth\nstrings at every joint, as it runs, divers and sundry green stalks,\nround and sappy with some branches on them, somewhat broad, round, deep\ngreen, and thick leaves set by couples thereon; from the bottom whereof\nshoot forth long foot stalks, with sundry small blue flowers on them,\nthat consist of five small round pointed leaves a piece.\n\nThere is another sort nothing different from the former, but that it is\ngreater, and the flowers of a paler green colour.\n\n_Place._] They grow in small standing waters, and usually near\nWater-Cresses.\n\n_Time._] And flower in June and July, giving seed the next month after.\n\n_Government and virtues._] It is a hot and biting martial plant.\nBrook-lime and Water-Cresses are generally used together in diet-drink,\nwith other things serving to purge the blood and body from all ill\nhumours that would destroy health, and are helpful to the scurvy. They\ndo all provoke urine, and help to break the stone, and pass it away;\nthey procure women’s courses, and expel the dead child. Being fried\nwith butter and vinegar, and applied warm, it helps all manner of\ntumours, swellings, and inflammations.\n\nSuch drinks ought to be made of sundry herbs, according to the malady.\nI shall give a plain and easy rule at the latter end of this book.\n\n    BUTCHER’S BROOM.\n\nIT is called Ruscus, and Bruscus, Kneeholm, Kneeholly, Kneehulver, and\nPettigree.\n\n_Descript._] The first shoots that sprout from the root of Butcher’s\nBroom, are thick, whitish, and short, somewhat like those of Asparagus,\nbut greater, they rise up to be a foot and half high, are spread into\ndivers branches, green, and somewhat creased with the roundness, tough\nand flexible, whereon are set somewhat broad and almost round hard\nleaves and prickly, pointed at the end, of a dark green colour, two at\nthe most part set at a place, very close and near together; about the\nmiddle of the leaf, on the back and lower side from the middle rib,\nbreaks forth a small whitish green flower, consisting of four small\nround pointed leaves, standing upon little or no footstalk, and in the\nplace whereof comes a small round berry, green at the first, and red\nwhen it is ripe, wherein are two or three white, hard, round seeds\ncontained. The root is thick, white and great at the head, and from\nthence sends forth divers thick, white, long, tough strings.\n\n_Place._] It grows in copses, and upon heaths and waste grounds, and\noftentimes under or near the holly bushes.\n\n_Time._] It shoots forth its young buds in the Spring, and the berries\nare ripe about September, the branches of leaves abiding green all the\nWinter.\n\n_Government and virtues._] It is a plant of Mars, being of a gallant\ncleansing and opening quality. The decoction of the root made with\nwine opens obstructions, provokes urine, helps to expel gravel and the\nstone, the stranguary and women’s courses, also the yellow jaundice and\nthe head-ache; and with same honey or sugar put thereunto, cleanses\nthe breast of phlegm, and the chest of such clammy humours gathered\ntherein. The decoction of the root drank, and a poultice made of the\nberries and leaves applied, are effectual in knitting and consolidating\nbroken bones or parts out of joint. The common way of using it, is to\nboil the root of it, and Parsley and Fennel and Smallage in white wine,\nand drink the decoction, adding the like quantity of Grass-root to\nthem: The more of the root you boil, the stronger will the decoction\nbe; it works no ill effects, yet I hope you have wit enough to give the\nstrongest decoction to the strongest bodies.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Brook Lime",
+    "context_quote": "THIS sends forth from a creeping root that shoots forth strings at every joint",
+    "part_used": "root, stalks, leaves, flowers"
+   },
+   {
+    "name_text": "Water-Pimpernel",
+    "context_quote": "Brook Lime, Or Water-Pimpernel",
+    "part_used": "whole plant"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "ill humours",
+    "context_quote": "purge the blood and body from all ill humours that would destroy health",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "scurvy",
+    "context_quote": "helpful to the scurvy",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "stone",
+    "context_quote": "help to break the stone, and pass it away",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "tumours, swellings, and inflammations",
+    "context_quote": "it helps all manner of tumours, swellings, and inflammations",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "obstructions",
+    "context_quote": "opens obstructions",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "jaundice",
+    "context_quote": "the yellow jaundice",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "broken bones or parts out of joint",
+    "context_quote": "effectual in knitting and consolidating broken bones or parts out of joint",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "diet-drink",
+    "context_quote": "generally used together in diet-drink, with other things serving to purge the blood and body"
+   },
+   {
+    "kind": "poultice",
+    "context_quote": "Being fried with butter and vinegar, and applied warm"
+   },
+   {
+    "kind": "decoction",
+    "context_quote": "The decoction of the root made with wine opens obstructions"
+   }
+  ],
+  "dosage_notes": [
+   "Such drinks ought to be made of sundry herbs, according to the malady.",
+   "I shall give a plain and easy rule at the latter end of this book."
+  ],
+  "cautions": [],
+  "authority_citations": []
+ },
+ "resolutions": [
+  {
+   "historical_name": "Brook Lime",
+   "candidates": [
+    {
+     "scientific_name": "Lysimachia quadrifolia",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.85,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Lysimachia terrestris",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.75,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Lysimachia nummularia",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.45,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Lysimachia quadrifolia",
+   "confidence": 0.85,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Water-Pimpernel",
+   "candidates": [
+    {
+     "scientific_name": "Lysimachia quadrifolia",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.9,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Lysimachia terrestris",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Anagallis arvensis",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.3,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Lysimachia terrestris",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Lysimachia quadrifolia",
+   "ema_monograph": null,
+   "pubmed": [],
+   "pubchem_cids": [],
+   "notable_constituents": [],
+   "summary": "No modern clinical or preclinical evidence was found for Lysimachia quadrifolia regarding the treatment of stone, tumours, swellings, jaundice, or scurvy. Traditional uses remain unverified by current scientific literature."
+  },
+  {
+   "taxon": "Lysimachia terrestris",
+   "ema_monograph": null,
+   "pubmed": [],
+   "pubchem_cids": [],
+   "notable_constituents": [],
+   "summary": "No modern clinical or preclinical evidence was found for Lysimachia terrestris regarding the treatment of stone, tumours, swellings, jaundice, or scurvy. Traditional uses remain unverified by current scientific literature."
+  }
+ ],
+ "concordance": {
+  "grade": "D",
+  "direction": "contradicts",
+  "rationale": "Modern evidence shows no EMA approval or PubMed clinical data for Lysimachia quadrifolia/terrestris. Claims of curing scurvy, stones, or knitting bones lack pharmacological support and contradict current safety standards.",
+  "uncertainty": "Low; absence of modern clinical trials precludes validation of historical efficacy claims.",
+  "caveats": [
+   "Historical context differs from modern medicine.",
+   "No toxicology data available for these taxa."
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "Being fried with butter and vinegar, and applied warm",
+   "Brook Lime, Or Water-Pimpernel",
+   "THIS sends forth from a creeping root that shoots forth strings at every joint",
+   "The decoction of the root made with wine opens obstructions",
+   "effectual in knitting and consolidating broken bones or parts out of joint",
+   "generally used together in diet-drink, with other things serving to purge the blood and body",
+   "help to break the stone, and pass it away",
+   "helpful to the scurvy",
+   "it helps all manner of tumours, swellings, and inflammations",
+   "opens obstructions",
+   "purge the blood and body from all ill humours that would destroy health",
+   "the yellow jaundice"
+  ],
+  "quotes_failed": [],
+  "issues": [
+   "Unearned grade 'D' lacks specific EMA/PubMed evidence citations in the entry payload; claims of contradiction require explicit source text mapping to the failed quote.",
+   "Taxon resolutions (Lysimachia quadrifolia/terrestris) lack family authorship data despite high confidence scores.",
+   "Evidence section shows zero PubMed hits but does not explicitly link this absence to the specific historical claims (scurvy, stones, bones) in the source text.",
+   "downgraded: quote failures were heading quotes"
+  ],
+  "verdict": "pass_with_issues"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T06:08:17Z"
+ }
+}

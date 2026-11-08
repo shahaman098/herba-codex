@@ -1,0 +1,314 @@
+{
+ "id": "culpeper_047",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Burnet",
+  "book": "",
+  "chapter": "",
+  "char_start": 140373,
+  "char_end": 143352,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "IT is called Sanguisorbia, Pimpinella, Bipulo, Solbegrella, &c.\nThe common garden Burnet is so well known, that it needs no\ndescription.—There is another sort which is wild, the description\nwhereof take as follows:—\n\n_Descript._] The great wild Burnet has winged leaves arising from\nthe roots like the garden Burnet, but not so many; yet each of these\nleaves are at the least twice as large as the other, and nicked in the\nsame manner about the edges, of a greyish colour on the under side;\nthe stalks are greater, and rise higher, with many such leaves set\nthereon, and greater heads at the top, of a brownish colour, and out of\nthem come small dark purple flowers, like the former, but greater. The\nroot is black and long like the other, but greater also: it has almost\nneither scent nor taste therein, like the garden kind.\n\n_Place._] It first grows frequently in gardens. The wild kind grows\nin divers counties of this land, especially in Huntingdon, in\nNorthamptonshire, in the meadows there: as also near London, by Pancras\nchurch, and by a causeway-side in the middle of a field by Paddington.\n\n_Time._] They flower about the end of June and beginning of July, and\ntheir seed is ripe in August.\n\n_Government and virtues_] This is an herb the Sun challenges dominion\nover, and is a most precious herb, little inferior to Betony; the\ncontinual use of it preserves the body in health, and the spirits in\nvigour; for if the Sun be the preserver of life under God, his herbs\nare the best in the world to do it by. They are accounted to be both of\none property, but the lesser is more effectual because quicker and more\naromatic: It is a friend to the heart, liver, and other principal parts\nof a man’s body. Two or three of the stalks, with leaves put into a cup\nof wine, especially claret, are known to quicken the spirits, refresh\nand cheer the heart, and drive away melancholy: It is a special help\nto defend the heart from noisome vapours, and from infection of the\npestilence, the juice thereof being taken in some drink, and the party\nlaid to sweat thereupon. They have also a drying and an astringent\nquality, whereby they are available in all manner of fluxes of blood\nor humours, to staunch bleedings inward or outward, lasks, scourings,\nthe bloody-flux, women’s too abundant flux of courses, the whites, and\nthe choleric belchings and castings of the stomach, and is a singular\nwound-herb for all sorts of wounds, both of the head and body, either\ninward or outward, for all old ulcers, running cankers, and most sores,\nto be used either by the juice or decoction of the herb, or by the\npowder of the herb or root, or the water of the distilled herb, or\nointment by itself, or with other things to be kept. The seed is also\nno less effectual both to stop fluxes, and dry up moist sores, being\ntaken in powder inwardly in wine, or steeled water, that is, wherein\nhot rods of steel have been quenched; or the powder, or the seed mixed\nwith the ointments.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Sanguisorbia",
+    "context_quote": "IT is called Sanguisorbia, Pimpinella, Bipulo, Solbegrella, &c.",
+    "part_used": "general"
+   },
+   {
+    "name_text": "Pimpinella",
+    "context_quote": "IT is called Sanguisorbia, Pimpinella, Bipulo, Solbegrella, &c.",
+    "part_used": "general"
+   },
+   {
+    "name_text": "Bipulo",
+    "context_quote": "IT is called Sanguisorbia, Pimpinella, Bipulo, Solbegrella, &c.",
+    "part_used": "general"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "melancholy",
+    "context_quote": "Two or three of the stalks, with leaves put into a cup of wine... are known to quicken the spirits, refresh and cheer the heart, and drive away melancholy",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "pestilence",
+    "context_quote": "It is a special help to defend the heart from noisome vapours, and from infection of the pestilence",
+    "polarity": "prevents",
+    "strength": "claimed"
+   },
+   {
+    "name": "fluxes of blood or humours",
+    "context_quote": "They have also a drying and an astringent quality, whereby they are available in all manner of fluxes of blood or humours",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "bleedings inward or outward",
+    "context_quote": "to staunch bleedings inward or outward",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "women's too abundant flux of courses",
+    "context_quote": "the bloody-flux, women's too abundant flux of courses",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "choleric belchings and castings of the stomach",
+    "context_quote": "and is a singular wound-herb for all sorts of wounds... and the choleric belchings and castings of the stomach",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "all sorts of wounds",
+    "context_quote": "and is a singular wound-herb for all sorts of wounds, both of the head and body",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "old ulcers, running cankers, and most sores",
+    "context_quote": "for all old ulcers, running cankers, and most sores",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "wine infusion (stalks and leaves)",
+    "context_quote": "Two or three of the stalks, with leaves put into a cup of wine, especially claret"
+   },
+   {
+    "kind": "juice taken in drink",
+    "context_quote": "the juice thereof being taken in some drink"
+   },
+   {
+    "kind": "powder of the herb or root",
+    "context_quote": "or by the powder of the herb or root"
+   },
+   {
+    "kind": "ointment (distilled water or with other things)",
+    "context_quote": "or the water of the distilled herb, or ointment by itself, or with other things to be kept"
+   }
+  ],
+  "dosage_notes": [
+   "Two or three of the stalks, with leaves put into a cup of wine",
+   "taken in powder inwardly in wine, or steeled water",
+   "mixed with the ointments"
+  ],
+  "cautions": [],
+  "authority_citations": []
+ },
+ "resolutions": [
+  {
+   "historical_name": "Sanguisorbia",
+   "candidates": [
+    {
+     "scientific_name": "Sanguisorba officinalis",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.9,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Sanguisorba minor",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.4,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Pimpinella sanguisorba",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.1,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Sanguisorba officinalis",
+   "confidence": 0.9,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Pimpinella",
+   "candidates": [
+    {
+     "scientific_name": "Pimpinella major",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.8,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Pimpinella saxifraga",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.7,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Sanguisorba officinalis",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.3,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Pimpinella major",
+   "confidence": 0.8,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Bipulo",
+   "candidates": [
+    {
+     "scientific_name": "Pimpinella bipuloides",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.2,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Sanguisorba bipuloides",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.1,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Pimpinella sp.",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.6,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "",
+   "confidence": 0.36,
+   "status": "ambiguous",
+   "reasoning": "LLM proposal; GBIF HIGHERRANK"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Sanguisorba officinalis",
+   "ema_monograph": null,
+   "pubmed": [],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "tannins",
+    "sanguisorbic acid"
+   ],
+   "summary": "No relevant EMA monograph or PubMed evidence was retrieved for Sanguisorba officinalis in the provided tools results. Traditional uses regarding hemostasis and internal bleedings lack supporting documents in this specific search set."
+  },
+  {
+   "taxon": "Pimpinella major",
+   "ema_monograph": {
+    "kind": "EMA_monograph",
+    "title": "Pimpinellae radix (burnet saxifrage)",
+    "identifier": "https://www.ema.europa.eu/en/medicines/herbal/pimpinellae-radix",
+    "year": "",
+    "url": "https://www.ema.europa.eu/en/medicines/herbal/pimpinellae-radix",
+    "relevance_note": "Confirms traditional use of the root for digestive issues and as a galactogogue, aligning with recorded uses for fluxes and stomach complaints."
+   },
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Breastfeeding: A Review of Its Physiology and Galactogogue Plants in View of Traditional Persian Medicine.",
+     "identifier": "28714737",
+     "year": "2017",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/28714737/",
+     "relevance_note": "Reviews galactogogue plants, supporting traditional use for women's abundant fluxes."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Chemical Constituents, Antioxidant Potential, and Antimicrobial Efficacy of Pimpinella anisum Extracts against Multidrug-Resistant Bacteria.",
+     "identifier": "37110449",
+     "year": "2023",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/37110449/",
+     "relevance_note": "Focuses on P. anisum; limited direct relevance to P. major specific traditional uses."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Chemical composition and biological activities of essential oils of seven Cultivated Apiaceae species.",
+     "identifier": "38698117",
+     "year": "2024",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/38698117/",
+     "relevance_note": "Discusses Apiaceae essential oils, providing context on chemical constituents relevant to antimicrobial efficacy."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "anethole",
+    "estragole"
+   ],
+   "summary": "Pimpinella major has an EMA monograph confirming its traditional use for digestive ailments. PubMed evidence supports galactogogue properties relevant to 'women's too abundant fluxes,' though specific studies on P. major are limited compared to related species."
+  }
+ ],
+ "concordance": {
+  "grade": "D",
+  "direction": "contradicts",
+  "rationale": "Modern evidence for Sanguisorba officinalis shows no EMA status and empty PubMed records. Pimpinella major lacks evidence for melancholy, pestilence, or fluxes; its cited studies address galactogogue effects and antimicrobial activity, contradicting the historical claims of astringency and anti-pestilence.",
+  "uncertainty": "Low uncertainty due to clear absence of clinical data supporting specific historical indications in modern literature.",
+  "caveats": [
+   "Historical 'Bipulo' entry is ambiguous.",
+   "Pimpinella major evidence does not support claimed uses."
+  ]
+ },
+ "audit": {
+  "schema_ok": false,
+  "quotes_verified": [
+   "IT is called Sanguisorbia, Pimpinella, Bipulo, Solbegrella, &c.",
+   "It is a special help to defend the heart from noisome vapours, and from infection of the pestilence",
+   "They have also a drying and an astringent quality, whereby they are available in all manner of fluxes of blood or humours",
+   "Two or three of the stalks, with leaves put into a cup of wine, especially claret",
+   "and is a singular wound-herb for all sorts of wounds, both of the head and body",
+   "for all old ulcers, running cankers, and most sores",
+   "or by the powder of the herb or root",
+   "or the water of the distilled herb, or ointment by itself, or with other things to be kept",
+   "the juice thereof being taken in some drink",
+   "to staunch bleedings inward or outward"
+  ],
+  "quotes_failed": [
+   "Two or three of the stalks, with leaves put into a cup of wine... are known to quicken the spirits, refresh and cheer the heart, and drive away melancholy",
+   "and is a singular wound-herb for all sorts of wounds... and the choleric belchings and castings of the stomach",
+   "the bloody-flux, women's too abundant flux of courses"
+  ],
+  "issues": [
+   "Unearned Grade D: The entry lists 'Pimpinella major' with EMA evidence (pubmed_n=3) but assigns a grade of 'D'. In Herba Codex, any taxon with EMA/clinical evidence must receive at least a 'B' or higher; a 'D' implies lack of efficacy/safety data which contradicts the presence of positive PubMed hits.",
+   "Incomplete Evidence: The selected candidate 'Sanguisorba officinalis' has no EMA status and 0 PubMed hits, yet it is part of the entry. If the grade reflects the whole entry, the inclusion of a taxon with zero evidence alongside one with positive evidence creates an incoherent aggregate grade without explicit weighting rules.",
+   "Ambiguous Resolution: The historical name 'Bipulo' has no selected candidate (status: ambiguous) and low confidence candidates. An entry cannot be fully audited if a major historical name remains unresolved.",
+   "Source Reliance: All candidates sourced from 'LLM_knowledge' without external verification (e.g., GBIF EXACT was mentioned in reasoning but not confirmed as a verified data point in the evidence list)."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T06:23:40Z"
+ }
+}

@@ -1,0 +1,294 @@
+{
+ "id": "culpeper_252",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Self-Heal",
+  "book": "",
+  "chapter": "",
+  "char_start": 629087,
+  "char_end": 631672,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "_Descript._] THE common Self-heal which is called also Prunel,\nCarpenter’s Herb, Hook-heal, and Sickle-wort, is a small, low, creeping\nherb, having many small, roundish pointed leaves, like leaves of wild\nmints, of a dark green colour, without dents on the edges; from among\nwhich rise square hairy stalks, scarce a foot high, which spread\nsometimes into branches with small leaves set thereon, up to the top,\nwhere stand brown spiked heads of small brownish leaves like scales and\nflowers set together, almost like the heads of Cassidony, which flowers\nare gaping, and of a blueish purple, or more pale blue, in some places\nsweet, but not so in others. The root consists of many fibres downward,\nand spreading strings also whereby it increases. The small stalks, with\nthe leaves creeping on the ground, shoot forth fibres taking hold on\nthe ground, whereby it is made a great tuft in a short time.\n\n_Place._] It is found in woods and fields every where.\n\n_Time._] It flowers in May, and sometimes in April.\n\n_Government and virtues._] Here is another herb of Venus, Self-heal,\nwhereby when you are hurt you may heal yourself: It is a special herb\nfor inward and outward wounds. Take it inwardly in syrups for inward\nwounds: outwardly in unguents, and plaisters for outward. As Self-heal\nis like Bugle in form, so also in the qualities and virtues, serving\nfor all the purposes whereto Bugle is applied to with good success,\neither inwardly or outwardly, for inward wounds or ulcers whatsoever\nwithin the body, for bruises or falls, and such like hurts. If it be\naccompanied with Bugle, Sanicle, and other the like wound herbs, it\nwill be more effectual to wash or inject into ulcers in the parts\noutwardly. Where there is cause to repress the heat and sharpness of\nhumours flowing to any sore, ulcers, inflammations, swellings, or the\nlike, or to stay the fluxes of blood in any wound or part, this is used\nwith some good success; as also to cleanse the foulness of sores, and\ncause them more speedily to be healed. It is an especial remedy for all\ngreen wounds, to solder the lips of them, and to keep the place from\nany further inconveniencies. The juice hereof used with oil of roses to\nanoint the temples and forehead, is very effectual to remove head ache,\nand the same mixed with honey of roses, cleanses and heals all ulcers,\nin the mouth, and throat, and those also in the secret parts. And the\nproverb of the Germans, French, and others, is verified in this, _That\nhe needs neither physician nor surgeon that hath _Self-heal_ and\n_Sanicle_ to help himself_.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Self-heal",
+    "context_quote": "THE common Self-heal which is called also Prunel, Carpenter's Herb, Hook-heal, and Sickle-wort",
+    "part_used": "The small stalks, with the leaves creeping on the ground"
+   },
+   {
+    "name_text": "Prunel",
+    "context_quote": "THE common Self-heal which is called also Prunel, Carpenter's Herb, Hook-heal, and Sickle-wort",
+    "part_used": "The small stalks, with the leaves creeping on the ground"
+   },
+   {
+    "name_text": "Carpenter's Herb",
+    "context_quote": "THE common Self-heal which is called also Prunel, Carpenter's Herb, Hook-heal, and Sickle-wort",
+    "part_used": "The small stalks, with the leaves creeping on the ground"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "inward wounds",
+    "context_quote": "It is a special herb for inward and outward wounds. Take it inwardly in syrups for inward wounds",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "outward wounds",
+    "context_quote": "It is a special herb for inward and outward wounds... outwardly in unguents, and plaisters for outward",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "ulcers within the body",
+    "context_quote": "for inward wounds or ulcers whatsoever within the body",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "bruises or falls",
+    "context_quote": "for bruises or falls, and such like hurts",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "ulcers in the parts outwardly",
+    "context_quote": "it will be more effectual to wash or inject into ulcers in the parts outwardly",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "heat and sharpness of humours flowing to any sore",
+    "context_quote": "Where there is cause to repress the heat and sharpness of humours flowing to any sore",
+    "polarity": "prevents",
+    "strength": "claimed"
+   },
+   {
+    "name": "inflammations, swellings",
+    "context_quote": "ulcers, inflammations, swellings, or the like",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "fluxes of blood in any wound",
+    "context_quote": "or to stay the fluxes of blood in any wound or part",
+    "polarity": "prevents",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "syrups",
+    "context_quote": "Take it inwardly in syrups for inward wounds"
+   },
+   {
+    "kind": "unguents",
+    "context_quote": "outwardly in unguents, and plaisters for outward"
+   },
+   {
+    "kind": "plaisters",
+    "context_quote": "outwardly in unguents, and plaisters for outward"
+   },
+   {
+    "kind": "mixed with honey of roses",
+    "context_quote": "the same mixed with honey of roses, cleanses and heals all ulcers, in the mouth, and throat"
+   }
+  ],
+  "dosage_notes": [
+   "Take it inwardly in syrups for inward wounds",
+   "outwardly in unguents, and plaisters for outward",
+   "If it be accompanied with Bugle, Sanicle, and other the like wound herbs, it will be more effectual"
+  ],
+  "cautions": [],
+  "authority_citations": []
+ },
+ "resolutions": [
+  {
+   "historical_name": "Self-heal",
+   "candidates": [
+    {
+     "scientific_name": "Prunella vulgaris",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Prunella grandiflora",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.3,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Lamium album",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.1,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Prunella vulgaris",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Prunel",
+   "candidates": [
+    {
+     "scientific_name": "Prunella vulgaris",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.97,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Prunella grandiflora",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.15,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Prunus spinosa",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.05,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Prunella vulgaris",
+   "confidence": 0.97,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Carpenter's Herb",
+   "candidates": [
+    {
+     "scientific_name": "Prunella vulgaris",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.9,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Stachys palustris",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.2,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Lamium amplexicaule",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.1,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Prunella vulgaris",
+   "confidence": 0.9,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Prunella vulgaris",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Activation of Nrf2/HO-1 signaling: An important molecular mechanism of herbal medicine in the treatment of atherosclerosis via the protection of vascular endothelial cells from oxidative stress.",
+     "identifier": "35024180",
+     "year": "2021",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/35024180/",
+     "relevance_note": "Links Prunella vulgaris to antioxidant mechanisms relevant to tissue repair and wound healing."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Effect of traditional Chinese medicine on Graves' disease: a network meta-analysis.",
+     "identifier": "39239642",
+     "year": "2024",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/39239642/",
+     "relevance_note": "Discusses TCM applications but lacks specific data on Prunella vulgaris for wound or ulcer treatment."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Prunella vulgaris L. - A Review of its Ethnopharmacology, Phytochemistry, Quality Control and Pharmacological Effects.",
+     "identifier": "35814234",
+     "year": "2022",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/35814234/",
+     "relevance_note": "Comprehensive review confirming traditional use for wounds, ulcers, and inflammation."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "rosmarinic acid",
+    "luteolin"
+   ],
+   "summary": "Modern evidence supports the traditional use of Prunella vulgaris for treating wounds and ulcers via antioxidant and anti-inflammatory mechanisms. While specific studies on 'heat' or humoral balance are absent, the 2022 review validates its efficacy for tissue repair and soothing irritation."
+  }
+ ],
+ "concordance": {
+  "grade": "C",
+  "direction": "partial",
+  "rationale": "Modern evidence (PMID: 35024180) shows antioxidant/anti-inflammatory activity via Nrf2/HO-1, plausibly supporting wound healing. However, no clinical trials confirm efficacy for specific historical claims like 'inward wounds' or ulcers.",
+  "uncertainty": "High due to lack of direct clinical data for the specific indications listed in the historical text.",
+  "caveats": [
+   "No human trials for wound healing",
+   "Evidence limited to molecular mechanisms"
+  ]
+ },
+ "audit": {
+  "schema_ok": false,
+  "quotes_verified": [
+   "It is a special herb for inward and outward wounds. Take it inwardly in syrups for inward wounds",
+   "Take it inwardly in syrups for inward wounds",
+   "Where there is cause to repress the heat and sharpness of humours flowing to any sore",
+   "for bruises or falls, and such like hurts",
+   "for inward wounds or ulcers whatsoever within the body",
+   "it will be more effectual to wash or inject into ulcers in the parts outwardly",
+   "or to stay the fluxes of blood in any wound or part",
+   "outwardly in unguents, and plaisters for outward",
+   "the same mixed with honey of roses, cleanses and heals all ulcers, in the mouth, and throat",
+   "ulcers, inflammations, swellings, or the like"
+  ],
+  "quotes_failed": [
+   "It is a special herb for inward and outward wounds... outwardly in unguents, and plaisters for outward",
+   "THE common Self-heal which is called also Prunel, Carpenter's Herb, Hook-heal, and Sickle-wort"
+  ],
+  "issues": [
+   "Incomplete quote text ('no clinical t' cuts off mid-sentence), preventing verification of the negative claim regarding clinical evidence.",
+   "Concordance grade 'C' is unearned: The entry lacks EMA approval and robust clinical trial data (only 1 PubMed hit mentioned with incomplete context), yet the graph admits it. A grade of 'C' typically requires some level of clinical validation or strong traditional consensus, which is not substantiated by the truncated evidence provided.",
+   "Taxon resolution for family is missing in candidate objects (e.g., Prunella vulgaris should be Lamiaceae)."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T07:22:03Z"
+ }
+}

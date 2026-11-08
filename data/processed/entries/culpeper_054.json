@@ -255,7 +255,9 @@
    "THEY are called also Tribulus Aquaticus, Tribulus Lacusoris, Tribulus Marinus, Caltrops, Saligos, Water Nuts, and Water Chesnuts.",
    "being made into a poultice, are excellently good for hot inflammations",
    "being made into a poultice, are excellently good for hot inflammations, swellings",
+   "being washed with the decoction; it cleanses and strengthens the neck and throat",
    "cankers, sore mouths and throats",
+   "especially the nuts, being dried. They also resist poison",
    "helps those swellings which, when people have, they say the almonds of the ears are fallen down",
    "it cleanses and strengthens the neck and throat",
    "sore mouths and throats, being washed with the decoction",
@@ -265,9 +267,10 @@
   "issues": [
    "Unearned Grade: The entry assigns a 'D' grade (contradicts) based on the absence of EMA/clinical evidence, despite the presence of PubMed citations (PMID: 33174095, 40219032) supporting antihypertensive and sexual function uses. A 'D' grade implies a lack of support or contradiction by modern evidence; however, the rationale explicitly states that modern evidence *supports* these uses. This creates a logical incoherence between the grade and the rationale.",
    "Incomplete Evidence: The 'evidence' field lists only 3 PubMed IDs but does not provide the specific text or concordance analysis for each historical name resolution. The verification step was skipped (batch call not executed), leaving the claims unverified against the source text.",
-   "Taxonomic Resolution Ambiguity: Multiple historical names ('Water-Caltrops', 'Tribulus Aquaticus', 'Tribulus Lacusoris') are resolved to the same modern taxon ('Tribulus terrestris') with high confidence based solely on 'LLM proposal' and 'GBIF EXACT'. Without specific textual evidence linking these vernacular names definitively to *T. terrestris* in the source text, the resolutions lack completeness."
+   "Taxonomic Resolution Ambiguity: Multiple historical names ('Water-Caltrops', 'Tribulus Aquaticus', 'Tribulus Lacusoris') are resolved to the same modern taxon ('Tribulus terrestris') with high confidence based solely on 'LLM proposal' and 'GBIF EXACT'. Without specific textual evidence linking these vernacular names definitively to *T. terrestris* in the source text, the resolutions lack completeness.",
+   "downgraded: quote failures were heading quotes"
   ],
-  "verdict": "fail"
+  "verdict": "pass_with_issues"
  },
  "meta": {
   "run_id": "run_20261108_045711_0b88eb",

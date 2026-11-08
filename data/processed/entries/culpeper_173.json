@@ -140,18 +140,22 @@
   "schema_ok": true,
   "quotes_verified": [
    "THESE being so plentiful in every garden, and so well known that they need no description.",
+   "The flowers, either green or dried, are much used in possets, broths, and drink",
+   "The juice of Marigold leaves mixed with vinegar, and any hot swelling bathed with it",
    "They strengthen the heart exceedingly",
    "a little less effectual in the small-pox and measles than saffron",
    "any hot swelling bathed with it, instantly gives ease, and assuages it",
    "applied to the breast, strengthens and succours the heart infinitely in fevers, whether pestilential or not",
    "to expel any malignant or pestilential quality which might annoy them"
   ],
-  "quotes_failed": [],
+  "quotes_failed": [
+   "A plaister made with the dry flowers in powder, hog's-grease, turpentine, and rosin"
+  ],
   "issues": [
    "Unearned Grade: The entry assigns a 'D' grade based on the absence of EMA approval and PubMed citations (evidence absent), but the rationale explicitly claims historical uses for treating heart weakness, swelling, smallpox, measles, fevers, etc. lack clinical support. However, the entry does not provide any positive evidence or specific historical citations to validate these traditional claims; it only notes their absence of modern support. A 'D' grade often implies a low-quality but potentially valid entry in some schemas, but here the rationale is purely negative (lack of evidence) without resolving the historical claims themselves, leading to incomplete resolution of the entity's purported properties. Furthermore, the 'evidence' list is empty for all taxa, making any claim about efficacy or toxicity unsupported by the provided data structure.",
    "verdict"
   ],
-  "verdict": "pass"
+  "verdict": "pass_with_issues"
  },
  "meta": {
   "run_id": "run_20261108_045711_0b88eb",

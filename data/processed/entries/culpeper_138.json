@@ -1,0 +1,300 @@
+{
+ "id": "culpeper_138",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Henbane",
+  "book": "",
+  "chapter": "",
+  "char_start": 344740,
+  "char_end": 348342,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "_Descript._] OUR common Henbane has very large, thick, soft, woolly\nleaves, lying on the ground, much cut in, or torn on the edges, of\na dark, ill greyish green colour; among which arise up divers thick\nand short stalks, two or three feet high, spread into divers small\nbranches, with lesser leaves on them, and many hollow flowers, scarce\nappearing above the husk, and usually torn on one side, ending in five\nround points, growing one above another, of a deadish yellowish colour,\nsomewhat paler towards the edges, with many purplish veins therein,\nand of a dark, yellowish purple in the bottom of the flower, with a\nsmall point of the same colour in the middle, each of them standing in\na hard close husk, which after the flowers are past, grow very like\nthe husk of Asarabacca, and somewhat sharp at the top points, wherein\nis contained much small seed, very like Poppy seed, but of a dusky,\ngreyish colour. The root is great, white, and thick, branching forth\ndivers ways under ground, so like a Parsnip root (but that it is not so\nwhite) that it has deceived others. The whole plant more than the root,\nhas a very heavy, ill, soporiferous smell, somewhat offensive.\n\n_Place._] It commonly grows by the way-sides, and under hedge-sides and\nwalls.\n\n_Time._] It flowers in July, and springs again yearly of its own seed.\nI doubt my authors mistook July for June, if not for May.\n\n_Government and virtues._] I wonder how astrologers could take on\nthem to make this an herb of Jupiter; and yet Mizaldus, a man of\na penetrating brain, was of that opinion as well as the rest; the\nherb is indeed under the dominion of Saturn, and I prove it by this\nargument: All the herbs which delight most to grow in saturnine places,\nare saturnine herbs. Both Henbane delights most to grow in saturnine\nplaces, and whole cart loads of it may be found near the places where\nthey empty the common Jakes, and scarce a ditch to be found without it\ngrowing by it. Ergo, it is an herb of Saturn. The leaves of Henbane do\ncool all hot inflammations in the eyes, or any other part of the body;\nand are good to assuage all manner of swellings of the privities, or\nwomen’s breast, or elsewhere, if they be boiled in wine, and either\napplied themselves, or the fomentation warm; it also assuages the pain\nof the gout, the sciatica, and other pains in the joints which arise\nfrom a hot cause. And applied with vinegar to the forehead and temples,\nhelps the head-ache and want of sleep in hot fevers. The juice of the\nherb or seed, or the oil drawn from the seed, does the like. The oil\nof the seed is helpful for deafness, noise, and worms in the ears,\nbeing dropped therein; the juice of the herb or root doth the same. The\ndecoction of the herb or seed, or both, kills lice in man or beast.\nThe fume of the dried herb, stalks and seed, burned, quickly heals\nswellings, chilblains or kibes in the hands or feet, by holding them in\nthe fume thereof. The remedy to help those that have taken Henbane is\nto drink goat’s milk, honeyed water, or pine kernels, with sweet wine;\nor, in the absence of these, Fennel seed, Nettle seed, the seed of\nCresses, Mustard, or Radish; as also Onions or Garlic taken in wine, do\nall help to free them from danger, and restore them to their due temper\nagain.\n\nTake notice, that this herb must never be taken inwardly; outwardly,\nan oil ointment, or plaister of it, is most admirable for the\ngout, to cool the veneral heat of the reins in the French pox; to\nstop the toothache, being applied to the aching side: to allay all\ninflammations, and to help the diseases before premised.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Henbane",
+    "context_quote": "HEADING: Henbane",
+    "part_used": "whole plant"
+   },
+   {
+    "name_text": "Asarabacca",
+    "context_quote": "grow very like the husk of Asarabacca",
+    "part_used": "husk"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "hot inflammations in the eyes",
+    "context_quote": "The leaves of Henbane do cool all hot inflammations in the eyes",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "swellings of the privities",
+    "context_quote": "and are good to assuage all manner of swellings of the privities",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "women's breast swellings",
+    "context_quote": "or women's breast, or elsewhere",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "gout pain",
+    "context_quote": "it also assuages the pain of the gout",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "sciatica",
+    "context_quote": "the sciatica, and other pains in the joints",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "head-ache",
+    "context_quote": "helps the head-ache and want of sleep in hot fevers",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "deafness, noise, and worms in the ears",
+    "context_quote": "The oil of the seed is helpful for deafness, noise, and worms in the ears",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "lice in man or beast",
+    "context_quote": "The decoction of the herb or seed, or both, kills lice in man or beast",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "boiled leaves in wine",
+    "context_quote": "if they be boiled in wine, and either applied themselves, or the fomentation warm"
+   },
+   {
+    "kind": "oil drawn from the seed",
+    "context_quote": "The juice of the herb or seed, or the oil drawn from the seed, does the like."
+   },
+   {
+    "kind": "fume of dried herb burned",
+    "context_quote": "The fume of the dried herb, stalks and seed, burned, quickly heals swellings"
+   },
+   {
+    "kind": "oil ointment or plaister",
+    "context_quote": "outwardly, an oil ointment, or plaister of it, is most admirable for the gout"
+   }
+  ],
+  "dosage_notes": [
+   "The remedy to help those that have taken Henbane is to drink goat's milk, honeyed water, or pine kernels, with sweet wine",
+   "or, in the absence of these, Fennel seed, Nettle seed, the seed of Cresses, Mustard, or Radish",
+   "as also Onions or Garlic taken in wine"
+  ],
+  "cautions": [
+   "this herb must never be taken inwardly",
+   "The whole plant more than the root, has a very heavy, ill, soporiferous smell, somewhat offensive",
+   "restore them to their due temper again"
+  ],
+  "authority_citations": [
+   "Mizaldus"
+  ]
+ },
+ "resolutions": [
+  {
+   "historical_name": "Henbane",
+   "candidates": [
+    {
+     "scientific_name": "Hyoscyamus niger",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Hyoscyamus albus",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.4,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Datura stramonium",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.15,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Hyoscyamus niger",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Asarabacca",
+   "candidates": [
+    {
+     "scientific_name": "Asarum europaeum",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.97,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Asarum caudatum",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.25,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Glechoma hederacea",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.1,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Asarum europaeum",
+   "confidence": 0.97,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Hyoscyamus niger",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Beauty of the beast: anticholinergic tropane alkaloids in therapeutics.",
+     "identifier": "36109439",
+     "year": "2022",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/36109439/",
+     "relevance_note": "Reviews anticholinergic properties of tropane alkaloids found in H. niger, relevant to pain and inflammation management."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Black henbane and its toxicity - a descriptive review.",
+     "identifier": "25386392",
+     "year": "2014",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/25386392/",
+     "relevance_note": "Describes traditional uses including gout, eye inflammation, and swellings, alongside significant toxicity risks."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Henbane chewing.",
+     "identifier": "979798",
+     "year": "1976",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/979798/",
+     "relevance_note": "Historical account of traditional applications for pain relief and swelling reduction."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "Hyoscyamine",
+    "Scopolamine",
+    "Atropine"
+   ],
+   "summary": "Evidence confirms H. niger contains anticholinergic tropane alkaloids linked to pain and inflammation relief, aligning with traditional uses for gout, sciatica, and swellings. However, modern reviews emphasize severe toxicity risks, suggesting these applications are largely historical or unsafe without strict medical supervision."
+  },
+  {
+   "taxon": "Asarum europaeum",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Ethno-pharmacology of Asaroon (Asarum europaeum L.) with special reference to Unani System of Medicine.",
+     "identifier": "34388332",
+     "year": "2022",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/34388332/",
+     "relevance_note": "Reviews traditional uses including dyspepsia, rheumatism, and urinary issues in Unani medicine."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Hepatic metabolism of carcinogenic β-asarone.",
+     "identifier": "26273788",
+     "year": "2015",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/26273788/",
+     "relevance_note": "Discusses safety concerns regarding beta-asarone, a key constituent of Asarum species."
+    },
+    {
+     "kind": "PubMed",
+     "title": "What risks do herbal products pose to the Australian community?",
+     "identifier": "28152355",
+     "year": "2017",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/28152355/",
+     "relevance_note": "General safety assessment of herbal products, noting potential toxicity of Asarum species."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "beta-asarone",
+    "asarone"
+   ],
+   "summary": "Traditional uses for stomach pain, rheumatism, and urinary stoppages are documented in Unani literature. Modern evidence highlights the presence of beta-asarone, a hepatotoxic constituent requiring caution, though specific clinical trials validating these traditional indications are absent."
+  }
+ ],
+ "concordance": {
+  "grade": "D",
+  "direction": "contradicts",
+  "rationale": "Hyoscyamus niger contains potent anticholinergic tropane alkaloids (hyoscyamine, scopolamine) causing severe toxicity, hallucinations, and death. Modern evidence flags serious safety concerns, contradicting historical claims for internal or topical use on sensitive areas.",
+  "uncertainty": "Low; toxicity data is robust and consistent across modern literature.",
+  "caveats": [
+   "Historical preparations may differ from modern extracts.",
+   "External use carries high risk of systemic absorption."
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "The decoction of the herb or seed, or both, kills lice in man or beast",
+   "The fume of the dried herb, stalks and seed, burned, quickly heals swellings",
+   "The juice of the herb or seed, or the oil drawn from the seed, does the like.",
+   "The leaves of Henbane do cool all hot inflammations in the eyes",
+   "The oil of the seed is helpful for deafness, noise, and worms in the ears",
+   "and are good to assuage all manner of swellings of the privities",
+   "grow very like the husk of Asarabacca",
+   "helps the head-ache and want of sleep in hot fevers",
+   "if they be boiled in wine, and either applied themselves, or the fomentation warm",
+   "it also assuages the pain of the gout",
+   "outwardly, an oil ointment, or plaister of it, is most admirable for the gout",
+   "the sciatica, and other pains in the joints"
+  ],
+  "quotes_failed": [
+   "HEADING: Henbane",
+   "or women's breast, or elsewhere"
+  ],
+  "issues": [
+   "Unearned Grade D: The entry assigns a 'D' grade (contradicts) based on modern toxicity data for Hyoscyamus niger. However, the historical name 'Asarabacca' was resolved to Asarum europaeum (a non-toxic herb), yet no specific evidence or concordance analysis is provided for this second taxon in the payload. The grade applies only to the toxic species, making the blanket contradiction incomplete without distinguishing between the two resolved taxa.",
+   "Missing Evidence for Asarum europaeum: The evidence block lists 'pubmed_n': 3 for Asarum europaeum but provides no rationale or concordance grade specific to this taxon, creating an ambiguity in whether the 'D' grade applies to both or only Hyoscyamus niger."
+  ],
+  "verdict": "pass_with_issues"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T06:46:40Z"
+ }
+}

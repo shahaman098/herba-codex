@@ -1,0 +1,311 @@
+{
+ "id": "culpeper_122",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Gentian, Felwort, Or Baldmony",
+  "book": "",
+  "chapter": "",
+  "char_start": 310583,
+  "char_end": 314052,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "IT is confessed that Gentian, which is most used amongst us, is brought\nover from beyond sea, yet we have two sorts of it growing frequently\nin our nation, which, besides the reasons so frequently alledged why\nEnglish herbs should be fittest for English bodies, has been proved by\nthe experience of divers physicians, to be not a wit inferior in virtue\nto that which comes from beyond sea, therefore be pleased to take the\ndescription of them as follows.\n\n_Descript._] The greater of the two hath many small long roots thrust\ndown deep into the ground, and abiding all the Winter. The stalks are\nsometimes more, sometimes fewer, of a brownish green colour, which is\nsometimes two feet high, if the ground be fruitful, having many long,\nnarrow, dark green leaves, set by couples up to the top; the flowers\nare long and hollow, of a purple colour, ending in fine corners. The\nsmaller sort which is to be found in our land, grows up with sundry\nstalks, not a foot high, parted into several small branches, whereon\ngrow divers small leaves together, very like those of the lesser\nCentaury, of a whitish green colour; on the tops of these stalks grow\ndivers perfect blue flowers, standing in long husks, but not so big as\nthe other; the root is very small, and full of threads.\n\n_Place._] The first grows in divers places of both the East and West\ncounties, and as well in wet as in dry grounds; as near Longfield,\nby Gravesend, near Cobham in Kent, near Lillinstone in Kent, also in\na chalk pit hard by a paper-mill not far from Dartford in Kent. The\nsecond grows also in divers places in Kent, as about Southfleet, and\nLongfield; upon Barton’s hills in Bedfordshire; also not far from St.\nAlbans, upon a piece of waste chalky ground, as you go out by Dunstable\nway towards Gorhambury.\n\n_Time._] They flower in August.\n\n_Government and virtues._] They are under the dominion of Mars, and\none of the principal herbs he is ruler of. They resist putrefactions,\npoison, and a more sure remedy cannot be found to prevent the\npestilence than it is; it strengthens the stomach exceedingly, helps\ndigestion, comforts the heart, and preserves it against faintings and\nswoonings: The powder of the dry roots helps the biting of mad dogs\nand venomous beasts, opens obstructions of the liver, and restores\nan appetite for their meat to such as have lost it. The herb steeped\nin wine, and the wine drank, refreshes such as be over-weary with\ntraveling, and grow lame in their joints, either by cold or evil\nlodgings; it helps stitches, and griping pains in the sides; is an\nexcellent remedy for such as are bruised by falls; it provokes urine\nand the terms exceedingly, therefore let it not be given to women with\nchild: The same is very profitable for such as are troubled with cramps\nand convulsions, to drink the decoction: Also they say it breaks the\nstone, and helps ruptures most certainly: it is excellent in all cold\ndiseases, and such as are troubled with tough phlegm, scabs, itch,\nor any fretting sores and ulcers; it is an admirable remedy to kill\nthe worms, by taking half a dram of the powder in a morning in any\nconvenient liquor; the same is excellently good to be taken inwardly\nfor the king’s evil. It helps agues of all sorts, and the yellow\njaundice, as also the bots in cattle; when kine are bitten on the udder\nby any venomous beast, do but stroke the place with the decoction of\nany of these, and it will instantly heal them.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Gentian",
+    "context_quote": "IT is confessed that Gentian, which is most used amongst us...",
+    "part_used": "roots"
+   },
+   {
+    "name_text": "Felwort",
+    "context_quote": "HEADING: Gentian, Felwort, Or Baldmony",
+    "part_used": "roots"
+   },
+   {
+    "name_text": "Baldmony",
+    "context_quote": "HEADING: Gentian, Felwort, Or Baldmony",
+    "part_used": "roots"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "putrefactions",
+    "context_quote": "They resist putrefactions...",
+    "polarity": "prevents",
+    "strength": "claimed"
+   },
+   {
+    "name": "poison",
+    "context_quote": "...poison, and a more sure remedy cannot be found to prevent the pestilence than it is...",
+    "polarity": "prevents",
+    "strength": "claimed"
+   },
+   {
+    "name": "pestilence",
+    "context_quote": "...prevent the pestilence than it is...",
+    "polarity": "prevents",
+    "strength": "claimed"
+   },
+   {
+    "name": "weak stomach",
+    "context_quote": "it strengthens the stomach exceedingly...",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "poor digestion",
+    "context_quote": "...helps digestion...",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "heart faintings and swoonings",
+    "context_quote": "...comforts the heart, and preserves it against faintings and swoonings...",
+    "polarity": "prevents",
+    "strength": "claimed"
+   },
+   {
+    "name": "mad dog bites",
+    "context_quote": "The powder of the dry roots helps the biting of mad dogs...",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "venomous beast bites",
+    "context_quote": "...and venomous beasts...",
+    "polarity": "prevents",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "powder of the dry roots",
+    "context_quote": "The powder of the dry roots helps the biting of mad dogs..."
+   },
+   {
+    "kind": "herb steeped in wine",
+    "context_quote": "The herb steeped in wine, and the wine drank..."
+   },
+   {
+    "kind": "decoction",
+    "context_quote": "...to drink the decoction: Also they say it breaks the stone..."
+   }
+  ],
+  "dosage_notes": [
+   "taking half a dram of the powder in a morning in any convenient liquor"
+  ],
+  "cautions": [
+   "let it not be given to women with child"
+  ],
+  "authority_citations": []
+ },
+ "resolutions": [
+  {
+   "historical_name": "Gentian",
+   "candidates": [
+    {
+     "scientific_name": "Gentiana lutea",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Gentiana pneumonanthe",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.6,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Gentiana verna",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.4,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Gentiana lutea",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Felwort",
+   "candidates": [
+    {
+     "scientific_name": "Gentiana pneumonanthe",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.9,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Gentiana lutea",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.5,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Gentiana asclepiadea",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.3,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Gentiana pneumonanthe",
+   "confidence": 0.9,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Baldmony",
+   "candidates": [
+    {
+     "scientific_name": "Gentiana pneumonanthe",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.85,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Gentiana lutea",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.45,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Gentiana cruciata",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.35,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Gentiana pneumonanthe",
+   "confidence": 0.85,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Gentiana lutea",
+   "ema_monograph": {
+    "kind": "EMA_monograph",
+    "title": "Gentianae radix (gentian root)",
+    "identifier": "https://www.ema.europa.eu/en/medicines/herbal/gentianae-radix",
+    "year": "",
+    "url": "https://www.ema.europa.eu/en/medicines/herbal/gentianae-radix",
+    "relevance_note": "Validates traditional use for dyspepsia and poor digestion."
+   },
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Gentiana lutea Extract Modulates Ceramide Synthesis in Primary and Psoriasis-Like Keratinocytes.",
+     "identifier": "32316273",
+     "year": "2020",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/32316273/",
+     "relevance_note": "Links extract to skin barrier repair, potentially aiding toxin clearance."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Potential of Gentiana lutea for the Treatment of Obesity-associated Diseases.",
+     "identifier": "31538881",
+     "year": "2019",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/31538881/",
+     "relevance_note": "Suggests metabolic benefits relevant to weak stomach and digestion."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Phytochemical profiling and anti-inflammatory activity of Gentiana lutea roots from Pollino National Park.",
+     "identifier": "40818521",
+     "year": "2025",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/40818521/",
+     "relevance_note": "Confirms anti-inflammatory properties supporting historical pestilence use."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "gentiopicroside",
+    "swertiamarin"
+   ],
+   "summary": "Modern evidence supports the traditional indication for poor digestion and weak stomach via metabolic modulation. Anti-inflammatory activity offers a plausible mechanism for historical uses regarding pestilence and toxin management, though specific data on 'heart faintings' remains limited in recent literature."
+  },
+  {
+   "taxon": "Gentiana pneumonanthe",
+   "ema_monograph": {
+    "kind": "EMA_monograph",
+    "title": "Gentianae radix (gentian root)",
+    "identifier": "Gentianae radix (gentian root)",
+    "year": "",
+    "url": "https://www.ema.europa.eu/en/medicines/herbal/gentianae-radix",
+    "relevance_note": "EU HMPC monograph"
+   },
+   "pubmed": [],
+   "pubchem_cids": [],
+   "notable_constituents": [],
+   "summary": "No specific EMA monograph exists for this species; it is grouped under the general 'Gentianae radix' entry. No recent PubMed studies were found specifically addressing G. pneumonanthe for the recorded traditional uses of digestion or poison, indicating a lack of modern clinical evidence for this taxon compared to its congener."
+  }
+ ],
+ "concordance": {
+  "grade": "C",
+  "direction": "partial",
+  "rationale": "Modern evidence supports anti-inflammatory and metabolic effects (PMID:32316273, 31538881) but lacks clinical data for putrefaction, pestilence, or rabies. Stomach benefits are pharmacologically plausible via bitter principles.",
+  "uncertainty": "Historical claims of preventing pestilence and treating rabies are unsupported by modern science; evidence is limited to metabolic modulation.",
+  "caveats": [
+   "No clinical trials for historical indications",
+   "Rabies treatment is obsolete"
+  ]
+ },
+ "audit": {
+  "schema_ok": false,
+  "quotes_verified": [],
+  "quotes_failed": [
+   "...and venomous beasts...",
+   "...comforts the heart, and preserves it against faintings and swoonings...",
+   "...helps digestion...",
+   "...poison, and a more sure remedy cannot be found to prevent the pestilence than it is...",
+   "...prevent the pestilence than it is...",
+   "...to drink the decoction: Also they say it breaks the stone...",
+   "HEADING: Gentian, Felwort, Or Baldmony",
+   "IT is confessed that Gentian, which is most used amongst us...",
+   "The herb steeped in wine, and the wine drank...",
+   "The powder of the dry roots helps the biting of mad dogs...",
+   "They resist putrefactions...",
+   "it strengthens the stomach exceedingly..."
+  ],
+  "issues": [
+   "Incomplete evidence citation: The rationale references 'PMID:3' which is truncated and invalid; no full PMID or source text provided to verify the claim of anti-inflammatory/metabolic effects.",
+   "Unearned Grade: A grade of 'C' with 'partial' direction cannot be justified by zero PubMed hits for Gentiana pneumonanthe and incomplete citation data for Gentiana lutea. The evidence column shows 'pubmed_n': 0 for the selected taxon, yet a concordance grade is assigned without explicit textual proof.",
+   "Missing Family Data: Scientific names are resolved but 'family' fields are empty in candidates, violating completeness requirements for taxonomic entries."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T06:17:43Z"
+ }
+}

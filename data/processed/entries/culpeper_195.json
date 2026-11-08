@@ -1,0 +1,218 @@
+{
+ "id": "culpeper_195",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "The Oak",
+  "book": "",
+  "chapter": "",
+  "char_start": 477525,
+  "char_end": 479870,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "IT is so well known (the timber thereof being the glory and safety of\nthis nation by sea) that it needs no description.\n\n_Government and virtues._] Jupiter owns the tree. The leaves and bark\nof the Oak, and the acorn cups, do bind and dry very much. The inner\nbark of the tree, and the thin skin that covers the acorn, are most\nused to stay the spitting of blood, and the bloody-flux. The decoction\nof that bark, and the powder of the cups, do stay vomitings, spitting\nof blood, bleeding at the mouth, or other fluxes of blood, in men or\nwomen; lasks also, and the nocturnal involuntary flux of men. The acorn\nin powder taken in wine, provokes urine, and resists the poison of\nvenomous creatures. The decoction of acorns and the bark made in milk\nand taken, resists the force of poisonous herbs and medicines, as also\nthe virulency of cantharides, when one by eating them hath his bladder\nexulcerated, and voids bloody urine. Hippocrates saith, he used the\nfumes of Oak leaves to women that were troubled with the strangling\nof the mother; and Galen applied them, being bruised, to cure green\nwounds. The distilled water of the Oaken bud, before they break out\ninto leaves is good to be used either inwardly or outwardly, to assuage\ninflammations, and to stop all manner of fluxes in man or woman. The\nsame is singularly good in pestilential and hot burning fevers; for\nit resists the force of the infection, and allays the heat: It cools\nthe heat of the liver, breaking the stone in the kidneys, and stays\nwomen’s courses. The decoction of the leaves works the same effects.\nThe water that is found in the hollow places of old Oaks, is very\neffectual against any foul or spreading scabs. The distilled water (or\nconcoction, which is better) of the leaves, is one of the best remedies\nthat I know of for the whites in women.\n\n    OATS,\n\nARE so well known that they need no description.\n\n_Government and virtues._] Oats fried with bay salt, and applied to\nthe sides, take away the pains of stitches and wind in the sides or\nthe belly. A poultice made of meal of Oats, and some oil of Bays put\nthereunto, helps the itch and the leprosy, as also the fistulas of the\nfundament, and dissolves hard imposthumes. The meal of Oats boiled with\nvinegar, and applied, takes away freckles and spots in the face, and\nother parts of the body.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Oak",
+    "context_quote": "IT is so well known (the timber thereof being the glory and safety of this nation by sea) that it needs no description.",
+    "part_used": "leaves, bark, acorn cups, inner bark, thin skin"
+   },
+   {
+    "name_text": "Oaken bud",
+    "context_quote": "The distilled water of the Oaken bud, before they break out into leaves is good to be used either inwardly or outwardly.",
+    "part_used": "bud"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "spitting of blood",
+    "context_quote": "The inner bark of the tree, and the thin skin that covers the acorn, are most used to stay the spitting of blood",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "bloody-flux",
+    "context_quote": "The inner bark of the tree, and the thin skin that covers the acorn, are most used to stay the spitting of blood, and the bloody-flux.",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "vomitings",
+    "context_quote": "The decoction of that bark, and the powder of the cups, do stay vomitings",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "bleeding at the mouth",
+    "context_quote": "The decoction of that bark, and the powder of the cups, do stay vomitings, spitting of blood, bleeding at the mouth",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "other fluxes of blood",
+    "context_quote": "The decoction of that bark, and the powder of the cups, do stay vomitings, spitting of blood, bleeding at the mouth, or other fluxes of blood",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "nocturnal involuntary flux",
+    "context_quote": "lasks also, and the nocturnal involuntary flux of men.",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "poison of venomous creatures",
+    "context_quote": "The acorn in powder taken in wine, provokes urine, and resists the poison of venomous creatures.",
+    "polarity": "prevents",
+    "strength": "claimed"
+   },
+   {
+    "name": "pestilential and hot burning fevers",
+    "context_quote": "The same is singularly good in pestilential and hot burning fevers; for it resists the force of the infection, and allays the heat",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "decoction of bark",
+    "context_quote": "The decoction of that bark, and the powder of the cups, do stay vomitings, spitting of blood, bleeding at the mouth, or other fluxes of blood"
+   },
+   {
+    "kind": "powder of acorn cups",
+    "context_quote": "The decoction of that bark, and the powder of the cups, do stay vomitings, spitting of blood, bleeding at the mouth, or other fluxes of blood"
+   },
+   {
+    "kind": "acorn in powder taken in wine",
+    "context_quote": "The acorn in powder taken in wine, provokes urine, and resists the poison of venomous creatures."
+   },
+   {
+    "kind": "distilled water of Oaken bud",
+    "context_quote": "The distilled water of the Oaken bud, before they break out into leaves is good to be used either inwardly or outwardly"
+   }
+  ],
+  "dosage_notes": [
+   "taken in wine",
+   "made in milk and taken",
+   "applied to the sides"
+  ],
+  "cautions": [],
+  "authority_citations": [
+   "Hippocrates",
+   "Galen"
+  ]
+ },
+ "resolutions": [
+  {
+   "historical_name": "Oak",
+   "candidates": [
+    {
+     "scientific_name": "Quercus robur",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.6,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Quercus petraea",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.6,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Quercus spp.",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.5,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "",
+   "confidence": 0.36,
+   "status": "ambiguous",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Oaken bud",
+   "candidates": [
+    {
+     "scientific_name": "Quercus robur",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.7,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Quercus petraea",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.7,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Quercus alba",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.3,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "",
+   "confidence": 0.42,
+   "status": "ambiguous",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [],
+ "concordance": {
+  "grade": "X",
+  "direction": "none",
+  "rationale": "Cannot grade honestly: taxon unresolved or no modern evidence retrieved for the recorded uses.",
+  "uncertainty": "Deterministic X backfill per rubric (absence of retrieved evidence is not evidence of absence).",
+  "caveats": [
+   "no concordance claim is made for this entry"
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "IT is so well known (the timber thereof being the glory and safety of this nation by sea) that it needs no description.",
+   "The acorn in powder taken in wine, provokes urine, and resists the poison of venomous creatures.",
+   "The decoction of that bark, and the powder of the cups, do stay vomitings",
+   "The decoction of that bark, and the powder of the cups, do stay vomitings, spitting of blood, bleeding at the mouth",
+   "The decoction of that bark, and the powder of the cups, do stay vomitings, spitting of blood, bleeding at the mouth, or other fluxes of blood",
+   "The distilled water of the Oaken bud, before they break out into leaves is good to be used either inwardly or outwardly",
+   "The inner bark of the tree, and the thin skin that covers the acorn, are most used to stay the spitting of blood",
+   "The inner bark of the tree, and the thin skin that covers the acorn, are most used to stay the spitting of blood, and the bloody-flux.",
+   "The same is singularly good in pestilential and hot burning fevers; for it resists the force of the infection, and allays the heat",
+   "lasks also, and the nocturnal involuntary flux of men."
+  ],
+  "quotes_failed": [
+   "The distilled water of the Oaken bud, before they break out into leaves is good to be used either inwardly or outwardly."
+  ],
+  "issues": [
+   "Unearned grade: The entry lacks specific EMA or clinical evidence for the therapeutic claim regarding 'Oaken bud' water; the high confidence in the historical name resolution is unsupported by primary source text provided (evidence array is empty)."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T06:16:02Z"
+ }
+}

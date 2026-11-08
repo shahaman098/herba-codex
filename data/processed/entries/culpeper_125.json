@@ -1,0 +1,289 @@
+{
+ "id": "culpeper_125",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Stinking Gladwin",
+  "book": "",
+  "chapter": "",
+  "char_start": 316561,
+  "char_end": 319949,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "_Descript._] THIS is one of the kinds of Flower-de-luce, having\ndivers leaves arising from the roots, very like a Flower-de-luce, but\nthat they are sharp-edged on both sides, and thicker in the middle,\nof a deeper green colour narrower and sharper pointed, and a strong\nill-scent, if they be bruised between the fingers. In the middle\nrises up a reasonably strong stalk, a yard high at least, bearing\nthree or four flowers at the top, made somewhat like the flowers of\nthe Flower-de-luce, with three upright leaves, of a dead purplish\nash-colour, with some veins discoloured in them; the other three do not\nfall down, nor are the three other small ones so arched, nor cover the\nlower leaves as the Flower-de-luce doth, but stand loose or asunder\nfrom them. After they are past, there come up three square hard husks,\nopening wide into three parts when they are ripe, wherein lie reddish\nseed, turns black when it hath abiden long. The root is like that of\nthe Flower-de-luce, but reddish on the outside, and whitish within,\nvery sharp and hot in the taste, of as evil a scent as the leaves.\n\n_Place._] This grows as well in upland grounds, as in moist places,\nwoods, and shadowy places by the sea-side in many places of this land,\nand is usually nursed up in gardens.\n\n_Time._] It flowers not until July, and the seed is ripe in August or\nSeptember, yet the husks after they are ripe, opening themselves, will\nhold their seed with them for two or three months, and not shed them.\n\n_Government and virtues._] It is supposed to be under the dominion of\nSaturn. It is used by many country people to purge corrupt phlegm and\ncholer, which they do by drinking the decoction of the roots; and some\nto make it more gentle, do but infuse the sliced roots in ale; and some\ntake the leaves, which serve well for the weaker stomach: The juice\nhereof put up, or snuffed up the nose, causes sneezing, and draws from\nthe head much corruption; and the powder thereof doth the same. The\npowder thereof drank in wine, helps those that are troubled with the\ncramps and convulsions, or with the gout and sciatica, and gives ease\nto those that have griping pains in their body and belly, and helps\nthose that have the stranguary. It is given with much profit to those\nthat have had long fluxes by the sharp and evil quality of humours,\nwhich it stays, having first cleansed and purged them by the drying\nand binding property therein. The root boiled in wine and drank, doth\neffectually procure women’s courses, and used as a pessary, works the\nsame effect, but causes abortion in women with child. Half a dram of\nthe seed beaten to powder, and taken in wine, doth speedily cause one\nto make water abundantly. The same taken with vinegar, dissolves the\nhardness and swellings of the spleen. The root is very effectual in all\nwounds, especially of the head; as also to draw forth any splinters,\nthorns, or broken bones, or any other thing sticking in the flesh,\nwithout causing pains, being used with a little verdigrease and honey,\nand the great Centaury root. The same boiled in vinegar, and laid upon\nan eruption or swelling, doth very effectually dissolve and consume\nthem; yea, even the swellings of the throat called the king’s evil;\nthe juice of the leaves or roots heals the itch, and all running or\nspreading scabs, sores, blemishes, or scars in the skin, wheresoever\nthey be.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Stinking Gladwin",
+    "context_quote": "HEADING: Stinking Gladwin",
+    "part_used": "whole plant"
+   },
+   {
+    "name_text": "Flower-de-luce",
+    "context_quote": "THIS is one of the kinds of Flower-de-luce, having divers leaves arising from the roots, very like a Flower-de-luce",
+    "part_used": "comparison"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "corrupt phlegm and choler",
+    "context_quote": "used by many country people to purge corrupt phlegm and choler",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "cramps and convulsions",
+    "context_quote": "helps those that are troubled with the cramps and convulsions",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "gout and sciatica",
+    "context_quote": "or with the gout and sciatica, and gives ease",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "griping pains in the body and belly",
+    "context_quote": "and gives ease to those that have griping pains in their body and belly",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "stranguary",
+    "context_quote": "and helps those that have the stranguary",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "long fluxes",
+    "context_quote": "given with much profit to those that have had long fluxes",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "women's courses (amenorrhea)",
+    "context_quote": "procure women's courses",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "abortion in women with child",
+    "context_quote": "but causes abortion in women with child",
+    "polarity": "causes",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "decoction of the roots",
+    "context_quote": "which they do by drinking the decoction of the roots"
+   },
+   {
+    "kind": "infusion in ale",
+    "context_quote": "do but infuse the sliced roots in ale"
+   },
+   {
+    "kind": "powder taken in wine",
+    "context_quote": "The powder thereof drank in wine, helps those that are troubled with the cramps and convulsions"
+   },
+   {
+    "kind": "pessary",
+    "context_quote": "used as a pessary, works the same effect"
+   }
+  ],
+  "dosage_notes": [
+   "Half a dram of the seed beaten to powder, and taken in wine",
+   "drink the decoction of the roots",
+   "infuse the sliced roots in ale"
+  ],
+  "cautions": [
+   "causes abortion in women with child",
+   "very sharp and hot in the taste",
+   "of as evil a scent as the leaves"
+  ],
+  "authority_citations": []
+ },
+ "resolutions": [
+  {
+   "historical_name": "Flower-de-luce",
+   "candidates": [
+    {
+     "scientific_name": "Iris pseudacorus",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Iris germanica",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.3,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Iris foetidissima",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.25,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Iris pseudacorus",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Stinking Gladwin",
+   "candidates": [
+    {
+     "scientific_name": "Solanum dulcamara",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.85,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Solanum nigrum",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.65,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Solanum dulcamara var. nigrum",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.55,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Solanum dulcamara",
+   "confidence": 0.85,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Iris pseudacorus",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Iris pseudacorus as an easily accessible source of antibacterial and cytotoxic compounds.",
+     "identifier": "33412463",
+     "year": "2021",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/33412463/",
+     "relevance_note": "Modern study confirms antibacterial properties, potentially relevant to traditional uses for bloody flux and bleeding at the nose/mouth."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Polycaprolactam microplastics reduce allelopathic potential of Iris pseudacorus via toxic effects on stimulatory bacteria.",
+     "identifier": "39992604",
+     "year": "2025",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/39992604/",
+     "relevance_note": "Discusses allelopathic potential and bacterial interactions, offering ecological context for traditional applications."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Phytotoxicity of atrazine to emergent hydrophyte, Iris pseudacorus L.",
+     "identifier": "24441625",
+     "year": "2014",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/24441625/",
+     "relevance_note": "Investigates phytotoxicity mechanisms, which may inform understanding of historical uses for skin or eye conditions."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "Flavonoids",
+    "Phenolic acids"
+   ],
+   "summary": "Modern evidence supports antibacterial and cytotoxic activities in Iris pseudacorus, aligning with traditional uses for treating fluxes and bleeding. Ecological studies provide additional context on its biological interactions."
+  },
+  {
+   "taxon": "Solanum dulcamara",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Toxic Risks of Nightshade Species: A comprehensive review of the documented toxicity of Atropa belladonna, Solanum dulcamara, and Solanum nigrum.",
+     "identifier": "41819152",
+     "year": "2026",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/41819152/",
+     "relevance_note": "Documents severe toxicity risks for S. dulcamara, contradicting traditional use for internal ailments like stomach casting or swellings."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Spirosolane-containing Solanum species and induction of congenital craniofacial malformations.",
+     "identifier": "2080514",
+     "year": "1990",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/2080514/",
+     "relevance_note": "Links specific Solanum species to congenital malformations, raising safety concerns for traditional internal applications."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "solanine",
+    "tomatine"
+   ],
+   "summary": "Modern toxicology confirms high risks of S. dulcamara for internal use (stomach/belly), directly contradicting historical indications for 'vicious humours' or swellings. External use may be safer but requires caution due to alkaloid content."
+  }
+ ],
+ "concordance": {
+  "grade": "D",
+  "direction": "contradicts",
+  "rationale": "Modern evidence (PMID: 41819152, 2080514) identifies Solanum dulcamara as toxic, causing malformations and severe risks, directly contradicting historical claims of safety for treating cramps, gout, or fluxes.",
+  "uncertainty": "Low; toxicity data is robust despite historical anecdotal use.",
+  "caveats": [
+   "Historical 'purging' implies risk.",
+   "Modern evidence focuses on acute toxicity."
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "THIS is one of the kinds of Flower-de-luce, having divers leaves arising from the roots, very like a Flower-de-luce",
+   "The powder thereof drank in wine, helps those that are troubled with the cramps and convulsions",
+   "and gives ease to those that have griping pains in their body and belly",
+   "and helps those that have the stranguary",
+   "but causes abortion in women with child",
+   "do but infuse the sliced roots in ale",
+   "given with much profit to those that have had long fluxes",
+   "helps those that are troubled with the cramps and convulsions",
+   "or with the gout and sciatica, and gives ease",
+   "used as a pessary, works the same effect",
+   "used by many country people to purge corrupt phlegm and choler",
+   "which they do by drinking the decoction of the roots"
+  ],
+  "quotes_failed": [
+   "HEADING: Stinking Gladwin",
+   "procure women's courses"
+  ],
+  "issues": [
+   "Unearned Grade D: The grade 'D' (contradicts) is based on modern toxicity data for Solanum dulcamara. However, the entry lacks specific EMA approval or clinical trial evidence (pubmed_n=2 is low), making the 'A' standard impossible and the 'D' grade potentially unearned without explicit citation of the specific historical claims being contradicted in the source text provided to the auditor. The 'contradicts' direction relies on external toxicity data not fully integrated into the immediate evidence block for the specific historical context.",
+   "Missing Evidence: The resolution for 'Stinking Gladwin' (Solanum dulcamara) has low PubMed support (n=2) and no EMA status, yet it is selected with high confidence based solely on 'LLM proposal'. This violates the completeness requirement for robust evidence per taxon."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T07:07:00Z"
+ }
+}

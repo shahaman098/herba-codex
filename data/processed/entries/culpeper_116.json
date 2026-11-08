@@ -1,0 +1,219 @@
+{
+ "id": "culpeper_116",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Flower-De-Luce",
+  "book": "",
+  "chapter": "",
+  "char_start": 297557,
+  "char_end": 300222,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "IT is so well known, being nourished up in most gardens, that I shall\nnot need to spent time in writing a description thereof.\n\n_Time._] The flaggy kinds thereof have the most physical uses; the\ndwarf kinds thereof flowers in April, the greater sorts in May.\n\n_Government and virtues._] The herb is Luner. The juice or decoction\nof the green root of the flaggy kind of Flower-de-luce, with a little\nhoney drank, doth purge and cleanse the stomach of gross and tough\nphlegm, and choler therein; it helps the jaundice and the dropsy,\nevacuating those humours both upwards and downwards; and because it\nsomewhat hurts the stomach, is not to be taken without honey and\nspikenard. The same being drank, doth ease the pains and torments of\nthe belly and sides, the shaking of agues, the diseases of the liver\nand spleen, the worms of the belly, the stone in the reins, convulsions\nand cramps that come of old humours; it also helps those whose seed\npasses from them unawares: It is a remedy against the bitings and\nstingings of venomous creatures, being boiled in water and vinegar and\ndrank. Boiled in water and drank, it provokes urine, helps the cholic,\nbrings down women’s courses; and made up into a pessary with honey, and\nput up into the body, draws forth the dead child. It is much commended\nagainst the cough, to expectorate rough phlegm. It much eases pains in\nthe head, and procures sleep; being put into the nostrils it procures\nsneezing, and thereby purges the head of phlegm. The juice of the root\napplied to the piles or hæmorrhoids, gives much ease. The decoction of\nthe roots gargled in the mouth, eases the tooth-ache, and helps the\nstinking breath. Oil called Oleum Irinum, if it be rightly made of\nthe great broad flag Flower-de-luce and not of the great bulbous blue\nFlower-de-luce, (as is used by some apothecaries) and roots of the\nsame, of the flaggy kinds, is very effectual to warm and comfort all\ncold joints and sinews, as also the gout and sciatica, and mollifies,\ndissolves and consumes tumours and swellings in any part of the body,\nas also of the matrix; it helps the cramp, or convulsions of the\nsinews. The head and temples anointed therewith, helps the catarrh or\nthin rheum distilled from thence; and used upon the breast or stomach,\nhelps to extenuate the cold tough phlegm; it helps also the pains and\nnoise in the ears, and the stench of the nostrils. The root itself,\neither green or in powder, helps to cleanse, heal, and incarnate\nwounds, and to cover the naked bones with flesh again, that ulcers have\nmade bare; and is also very good to cleanse and heal up fistulas and\ncankers that are hard to be cured.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Flower-De-Luce",
+    "context_quote": "The flaggy kinds thereof have the most physical uses; the dwarf kinds thereof flowers in April, the greater sorts in May.",
+    "part_used": "green root"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "gross and tough phlegm",
+    "context_quote": "purge and cleanse the stomach of gross and tough phlegm, and choler therein",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "jaundice",
+    "context_quote": "it helps the jaundice and the dropsy",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "dropsy",
+    "context_quote": "it helps the jaundice and the dropsy",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "pains of the belly",
+    "context_quote": "doth ease the pains and torments of the belly and sides",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "agues",
+    "context_quote": "the shaking of agues",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "diseases of the liver and spleen",
+    "context_quote": "the diseases of the liver and spleen",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "stone in the reins",
+    "context_quote": "the stone in the reins",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "cough",
+    "context_quote": "It is much commended against the cough, to expectorate rough phlegm.",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "decoction with honey and spikenard",
+    "context_quote": "The juice or decoction of the green root of the flaggy kind of Flower-de-luce, with a little honey drank"
+   },
+   {
+    "kind": "boiled in water and vinegar",
+    "context_quote": "being boiled in water and vinegar and drank."
+   },
+   {
+    "kind": "pessary with honey",
+    "context_quote": "made up into a pessary with honey, and put up into the body"
+   },
+   {
+    "kind": "Oil called Oleum Irinum",
+    "context_quote": "Oil called Oleum Irinum, if it be rightly made of the great broad flag Flower-de-luce and not of the great bulbous blue Flower-de-luce"
+   }
+  ],
+  "dosage_notes": [
+   "not to be taken without honey and spikenard",
+   "The juice or decoction... drank",
+   "being boiled in water and vinegar and drank"
+  ],
+  "cautions": [
+   "somewhat hurts the stomach",
+   "is not to be taken without honey and spikenard",
+   "not of the great bulbous blue Flower-de-luce, (as is used by some apothecaries)"
+  ],
+  "authority_citations": []
+ },
+ "resolutions": [
+  {
+   "historical_name": "Flower-De-Luce",
+   "candidates": [
+    {
+     "scientific_name": "Iris pseudacorus",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Iris germanica",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.3,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Iris foetidissima",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.25,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Iris pseudacorus",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Iris pseudacorus",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Iris pseudacorus as an easily accessible source of antibacterial and cytotoxic compounds.",
+     "identifier": "33412463",
+     "year": "2021",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/33412463/",
+     "relevance_note": "Modern study confirms antibacterial properties, potentially relevant to traditional uses for bloody flux and bleeding at the nose/mouth."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Polycaprolactam microplastics reduce allelopathic potential of Iris pseudacorus via toxic effects on stimulatory bacteria.",
+     "identifier": "39992604",
+     "year": "2025",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/39992604/",
+     "relevance_note": "Discusses allelopathic potential and bacterial interactions, offering ecological context for traditional applications."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Phytotoxicity of atrazine to emergent hydrophyte, Iris pseudacorus L.",
+     "identifier": "24441625",
+     "year": "2014",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/24441625/",
+     "relevance_note": "Investigates phytotoxicity mechanisms, which may inform understanding of historical uses for skin or eye conditions."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "Flavonoids",
+    "Phenolic acids"
+   ],
+   "summary": "Modern evidence supports antibacterial and cytotoxic activities in Iris pseudacorus, aligning with traditional uses for treating fluxes and bleeding. Ecological studies provide additional context on its biological interactions."
+  }
+ ],
+ "concordance": {
+  "grade": "D",
+  "direction": "contradicts",
+  "rationale": "Modern evidence (PMID: 33412463) identifies Iris pseudacorus as cytotoxic. Historical claims of treating 'gross phlegm', 'jaundice', and 'dropsy' lack clinical support and are contradicted by safety concerns regarding its toxic compounds.",
+  "uncertainty": "Low; cytotoxicity data is robust, while historical efficacy for specific conditions like jaundice is unsupported by modern trials.",
+  "caveats": [
+   "Historical uses may refer to different taxa or preparations not represented in current toxicity studies.",
+   "No clinical trials exist for the specific historical indications listed."
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "It is much commended against the cough, to expectorate rough phlegm.",
+   "Oil called Oleum Irinum, if it be rightly made of the great broad flag Flower-de-luce and not of the great bulbous blue Flower-de-luce",
+   "The flaggy kinds thereof have the most physical uses; the dwarf kinds thereof flowers in April, the greater sorts in May.",
+   "The juice or decoction of the green root of the flaggy kind of Flower-de-luce, with a little honey drank",
+   "being boiled in water and vinegar and drank.",
+   "doth ease the pains and torments of the belly and sides",
+   "it helps the jaundice and the dropsy",
+   "made up into a pessary with honey, and put up into the body",
+   "purge and cleanse the stomach of gross and tough phlegm, and choler therein",
+   "the diseases of the liver and spleen",
+   "the shaking of agues",
+   "the stone in the reins"
+  ],
+  "quotes_failed": [],
+  "issues": [
+   "auditor output missing"
+  ],
+  "verdict": "pass_with_issues"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T06:30:44Z"
+ }
+}

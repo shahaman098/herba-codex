@@ -1,0 +1,228 @@
+{
+ "id": "culpeper_238",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Rushes",
+  "book": "",
+  "chapter": "",
+  "char_start": 596194,
+  "char_end": 598230,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "ALTHOUGH there are many kinds of Rushes, yet I shall only here insist\nupon those which are best known, and most medicinal; as the bulrushes,\nand other of the soft and smooth kinds, which grow so commonly in\nalmost every part of this land, and are so generally noted, that I\nsuppose it needless to trouble you with any description of them:\nBriefly then take the virtues of them as follows:\n\n_Government and virtues._] The seed of the soft Rushes, (saith\nDioscorides and Galen, toasted, saith Pliny) being drank in wine and\nwater, stays the lask and women’s courses, when they come down too\nabundantly: but it causes head-ache; it provokes sleep likewise,\nbut must be given with caution. The root boiled in water, to the\nconsumption of one third, helps the cough.\n\nThus you see that conveniences have their inconveniences, and virtue is\nseldom unaccompanied with some vices. What I have written concerning\nRushes, is to satisfy my countrymen’s questions: _Are our Rushes good\nfor nothing?_ Yes, and as good let them alone as taken. There are\nremedies enough without them for any disease, and therefore as the\nproverb is, I care not a rush for them; or rather they will do you as\nmuch good as if one had given you a Rush.\n\n    RYE.\n\nTHIS is so well known in all the counties of this land, and especially\nto the country-people, who feed much thereon, that if I did describe\nit, they would presently say, I might as well have spared that labour.\nIts virtue follows.\n\n_Government and virtues._] Rye is more digesting than wheat; the bread\nand the leaven thereof ripens and breaks imposthumes, boils, and other\nswellings: The meal of Rye put between a double cloth, and moistened\nwith a little vinegar, and heated in a pewter dish, set over a chafing\ndish of coals, and bound fast to the head while it is hot, doth much\nease the continual pains of the head. Matthiolus saith, that the ashes\nof Rye straw put into water, and steeped therein a day and a night, and\nthe chops of the hands or feet washed therewith, doth heal them.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Rushes",
+    "context_quote": "ALTHOUGH there are many kinds of Rushes, yet I shall only here insist upon those which are best known, and most medicinal; as the bulrushes, and other of the soft and smooth kinds",
+    "part_used": "seed"
+   },
+   {
+    "name_text": "Rushes",
+    "context_quote": "The root boiled in water, to the consumption of one third, helps the cough.",
+    "part_used": "root"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "stays the lask and women's courses",
+    "context_quote": "being drank in wine and water, stays the lask and women's courses, when they come down too abundantly",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "causes head-ache",
+    "context_quote": "but it causes head-ache",
+    "polarity": "causes",
+    "strength": "claimed"
+   },
+   {
+    "name": "provokes sleep",
+    "context_quote": "it provokes sleep likewise",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "helps the cough",
+    "context_quote": "The root boiled in water, to the consumption of one third, helps the cough.",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "seed drank in wine and water",
+    "context_quote": "The seed of the soft Rushes, (saith Dioscorides and Galen, toasted, saith Pliny) being drank in wine and water"
+   },
+   {
+    "kind": "root boiled in water",
+    "context_quote": "The root boiled in water, to the consumption of one third"
+   },
+   {
+    "kind": "meal heated with vinegar on head",
+    "context_quote": "The meal of Rye put between a double cloth, and moistened with a little vinegar, and heated in a pewter dish, set over a chafing dish of coals, and bound fast to the head while it is hot"
+   },
+   {
+    "kind": "ashes of Rye straw steeped in water",
+    "context_quote": "the ashes of Rye straw put into water, and steeped therein a day and a night"
+   }
+  ],
+  "dosage_notes": [
+   "to the consumption of one third",
+   "must be given with caution"
+  ],
+  "cautions": [
+   "but must be given with caution",
+   "virtue is seldom unaccompanied with some vices"
+  ],
+  "authority_citations": [
+   "Dioscorides",
+   "Galen",
+   "Pliny",
+   "Matthiolus"
+  ]
+ },
+ "resolutions": [
+  {
+   "historical_name": "Rushes",
+   "candidates": [
+    {
+     "scientific_name": "Juncus",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.85,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Scirpus",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.75,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Eleocharis",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.65,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Juncus",
+   "confidence": 0.85,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Rushes",
+   "candidates": [
+    {
+     "scientific_name": "Juncus",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.85,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Scirpus",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.75,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Eleocharis",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.65,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Juncus",
+   "confidence": 0.85,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Juncus",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Phytochemical, ethnomedicinal uses and pharmacological profile of Juncus decipiens (Buchenau) Nakai (common rush).",
+     "identifier": "37312583",
+     "year": "2024",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/37312583/",
+     "relevance_note": "Reviews ethnomedicinal uses including respiratory and gynecological applications, aligning with cough and menstrual flow traditions."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Phenanthrenes from Juncus articulatus with Antibacterial and Biofilm Formation Inhibitory Activity.",
+     "identifier": "39121346",
+     "year": "2024",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/39121346/",
+     "relevance_note": "Reports antibacterial activity in Juncus articulatus, potentially supporting traditional cough remedies via biofilm inhibition."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "Phenanthrenes"
+   ],
+   "summary": "Modern literature confirms respiratory and gynecological uses for specific Juncus species. Antibacterial phenanthrenes may underpin cough efficacy. Evidence for headache or sleep induction is absent in current databases."
+  }
+ ],
+ "concordance": {
+  "grade": "C",
+  "direction": "partial",
+  "rationale": "Modern evidence (PMID: 37312583, 39121346) confirms antibacterial activity but lacks clinical data for dysmenorrhea, headaches, sleep induction, or cough relief.",
+  "uncertainty": "High due to absence of human trials for specific historical claims; only preclinical antibacterial properties are documented.",
+  "caveats": [
+   "No EMA approval",
+   "Claims remain anecdotal"
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "ALTHOUGH there are many kinds of Rushes, yet I shall only here insist upon those which are best known, and most medicinal; as the bulrushes, and other of the soft and smooth kinds",
+   "The meal of Rye put between a double cloth, and moistened with a little vinegar, and heated in a pewter dish, set over a chafing dish of coals, and bound fast to the head while it is hot",
+   "The root boiled in water, to the consumption of one third",
+   "The root boiled in water, to the consumption of one third, helps the cough.",
+   "The seed of the soft Rushes, (saith Dioscorides and Galen, toasted, saith Pliny) being drank in wine and water",
+   "but it causes head-ache",
+   "it provokes sleep likewise",
+   "the ashes of Rye straw put into water, and steeped therein a day and a night"
+  ],
+  "quotes_failed": [
+   "being drank in wine and water, stays the lask and women's courses, when they come down too abundantly"
+  ],
+  "issues": [
+   "Unearned Grade: The entry received a 'C' grade with 'partial' direction, yet the evidence list contains zero EMA approvals or clinical trial data (only 2 PubMed IDs for antibacterial activity). Historical claims regarding menstrual regulation ('women's courses') and sleep induction lack any supporting human clinical evidence in the provided text, making the 'C' grade unjustified given the total absence of efficacy proof for the specific historical indications.",
+   "Completeness Failure: The selected taxon 'Juncus' lacks authorship and family data in the resolution candidates.",
+   "Coherence Failure: The rationale cites modern antibacterial studies but fails to address or refute the specific historical claims (menstrual flow, sleep) which are explicitly unsupported by the evidence provided, yet the entry remains 'resolved'.",
+   "machine check caught failed quotes"
+  ],
+  "verdict": "pass_with_issues"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T06:25:26Z"
+ }
+}

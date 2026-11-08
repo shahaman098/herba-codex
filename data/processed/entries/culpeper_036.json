@@ -1,0 +1,259 @@
+{
+ "id": "culpeper_036",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Bistort, Or Snakeweed",
+  "book": "",
+  "chapter": "",
+  "char_start": 106260,
+  "char_end": 110335,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "IT is called Snakeweed, English Serpentary, Dragon-wort, Osterick, and\nPassions.\n\n_Descript._] This has a thick short knobbed root, blackish without, and\nsomewhat reddish within, a little crooked or turned together, of a hard\nastringent taste, with divers black threads hanging therefrom, whence\nsprings up every year divers leaves, standing upon long footstalks,\nbeing somewhat broad and long like a dock leaf, and a little pointed\nat the ends, but that it is of a blueish green colour on the upper\nside, and of an ash-colour grey, and a little purplish underneath, with\ndivers veins therein, from among which rise up divers small and slender\nstalks, two feet high, and almost naked and without leaves, or with a\nvery few, and narrow, bearing a spiky bush of pale-coloured flowers;\nwhich being past, there abides small seed, like unto Sorrel seed, but\ngreater.\n\nThere are other sorts of Bistort growing in this land, but smaller,\nboth in height, root, and stalks, and especially in the leaves. The\nroot blackish without, and somewhat whitish within; of an austere\nbinding taste, as the former.\n\n_Place._] They grow in shadowy moist woods, and at the foot of hills,\nbut are chiefly nourished up in gardens. The narrow leafed Bistort\ngrows in the north, in Lancashire, Yorkshire, and Cumberland.\n\n_Time._] They flower about the end of May, and the seed is ripe about\nthe beginning of July.\n\n_Government and virtues._] It belongs to Saturn, and is in operation\ncold and dry; both the leaves and roots have a powerful faculty to\nresist all poison. The root, in powder, taken in drink expels the venom\nof the plague, the small-pox, measels, purples, or any other infectious\ndisease, driving it out by sweating. The root in powder, the decoction\nthereof in wine being drank, stays all manner of inward bleeding, or\nspitting of blood, and any fluxes in the body of either man or woman,\nor vomiting. It is also very available against ruptures, or burstings,\nor all bruises from falls, dissolving the congealed blood, and easing\nthe pains that happen thereupon; it also helps the jaundice.\n\nThe water, distilled from both leaves and roots, is a singular remedy\nto wash any place bitten or stung by any venomous creature; as also\nfor any of the purposes before spoken of, and is very good to wash any\nrunning sores or ulcers. The decoction of the root in wine being drank,\nhinders abortion or miscarriage in child-bearing. The leaves also\nkill the worms in children, and is a great help to them that cannot\nkeep their water; if the juice of Plaintain be added thereto, and\noutwardly applied, much helps the ghonorrhea, or running of the reins.\nA dram of the powder of the root, taken in water thereof, wherein some\nred hot iron or steel hath been quenched, is also an admirable help\nthereto, so as the body be first prepared and purged from the offensive\nhumours. The leaves, seed, or roots, are all very good in decoction,\ndrinks, or lotions, for inward or outward wounds, or other sores.\nAnd the powder, strewed upon any cut or wound in a vein, stays the\nimmoderate bleeding thereof. The decoction of the root in water, where\nunto some pomegranate peels and flowers are added, injected into the\nmatrix, stays the immoderate flux of the courses. The root thereof,\nwith pelitory of Spain and burnt alum, of each a little quantity,\nbeaten small and into paste with some honey, and a little piece thereof\nput into a hollow tooth, or held between the teeth, if there be no\nhollowness in them, stays the defluction of rheum upon them which\ncauses pains, and helps to cleanse the head, and void much offensive\nwater. The distilled water is very effectual to wash sores or cankers\nin the nose, or any other part; if the powder of the root be applied\nthereunto afterwards. It is good also to fasten the gums, and to take\naway the heat and inflammations that happen in the jaws, almonds of\nthe throat, or mouth, if the decoction of the leaves, roots, or seeds\nbruised, or the juice of them, be applied; but the roots are most\neffectual to the purposes aforesaid.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Bistort",
+    "context_quote": "HEADING: Bistort, Or Snakeweed",
+    "part_used": "root"
+   },
+   {
+    "name_text": "Snakeweed",
+    "context_quote": "IT is called Snakeweed, English Serpentary, Dragon-wort, Osterick, and Passions.",
+    "part_used": "root"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "poison",
+    "context_quote": "both the leaves and roots have a powerful faculty to resist all poison",
+    "polarity": "prevents",
+    "strength": "claimed"
+   },
+   {
+    "name": "plague",
+    "context_quote": "The root, in powder, taken in drink expels the venom of the plague",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "small-pox",
+    "context_quote": "expels the venom of the plague, the small-pox, measels, purples",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "infectious disease",
+    "context_quote": "resist all poison... or any other infectious disease",
+    "polarity": "prevents",
+    "strength": "claimed"
+   },
+   {
+    "name": "bleeding",
+    "context_quote": "stays all manner of inward bleeding, or spitting of blood",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "fluxes",
+    "context_quote": "or any fluxes in the body of either man or woman",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "vomiting",
+    "context_quote": "or vomiting",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "jaundice",
+    "context_quote": "it also helps the jaundice",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "powder taken in drink",
+    "context_quote": "The root, in powder, taken in drink expels the venom of the plague"
+   },
+   {
+    "kind": "decoction in wine",
+    "context_quote": "the decoction thereof in wine being drank, stays all manner of inward bleeding"
+   },
+   {
+    "kind": "distilled water",
+    "context_quote": "The water, distilled from both leaves and roots, is a singular remedy to wash any place bitten or stung by any venomous creature"
+   },
+   {
+    "kind": "paste with honey",
+    "context_quote": "beaten small and into paste with some honey, and a little piece thereof put into a hollow tooth"
+   }
+  ],
+  "dosage_notes": [
+   "A dram of the powder of the root, taken in water thereof, wherein some red hot iron or steel hath been quenched",
+   "The decoction of the root in water, whereunto some pomegranate peels and flowers are added, injected into the matrix"
+  ],
+  "cautions": [
+   "so as the body be first prepared and purged from the offensive humours",
+   "if there be no hollowness in them [teeth]"
+  ],
+  "authority_citations": []
+ },
+ "resolutions": [
+  {
+   "historical_name": "Bistort",
+   "candidates": [
+    {
+     "scientific_name": "Bistorta officinalis",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Polygonum bistorta",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.85,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Bistorta major",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.4,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Bistorta officinalis",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Snakeweed",
+   "candidates": [
+    {
+     "scientific_name": "Euphorbia peplus",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.75,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Euphorbia cyparissias",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.65,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Agrimonia eupatoria",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.3,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "",
+   "confidence": 0.45,
+   "status": "ambiguous",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Bistorta officinalis",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Antibacterial and anti-inflammatory activity of bistort (Bistorta officinalis) aqueous extract and its major components. Justification of the usage of the medicinal plant material as a traditional topical agent.",
+     "identifier": "32531411",
+     "year": "2020",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/32531411/",
+     "relevance_note": "Supports traditional use for infectious disease and fluxes via antibacterial/anti-inflammatory properties."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Anti-Virulence Potential and In Vivo Toxicity of Persicaria maculosa and Bistorta officinalis Extracts.",
+     "identifier": "32326481",
+     "year": "2020",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/32326481/",
+     "relevance_note": "Evaluates safety and anti-virulence potential, relevant to historical uses for plague and infectious disease."
+    },
+    {
+     "kind": "PubMed",
+     "title": "In-vitro antidiabetic activity of a Bistorta officinalis Delarbre root extract can not be confirmed in the in-vivo models hen's egg test and Drosophila melanogaster.",
+     "identifier": "37245231",
+     "year": "2023",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/37245231/",
+     "relevance_note": "Investigates metabolic effects, though in-vivo antidiabetic claims were not confirmed."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "tannins",
+    "flavonoids"
+   ],
+   "summary": "Modern evidence supports traditional applications for infectious disease and fluxes through demonstrated antibacterial and anti-inflammatory activities. Safety profiles have been assessed, though specific historical uses for plague or smallpox lack direct modern validation in these studies."
+  }
+ ],
+ "concordance": {
+  "grade": "C",
+  "direction": "partial",
+  "rationale": "Modern evidence (PMID: 32531411, 32326481) shows antibacterial/anti-inflammatory activity and low toxicity in Bistorta officinalis. This partially supports historical claims for infections or inflammation but contradicts 'poison' prevention and lacks data for plague/pox.",
+  "uncertainty": "Historical claims of universal poison resistance and specific viral treatments (plague, smallpox) are not supported by modern pharmacology.",
+  "caveats": [
+   "No clinical trials for acute infections",
+   "Toxicity data limited to extracts"
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "IT is called Snakeweed, English Serpentary, Dragon-wort, Osterick, and Passions.",
+   "The root, in powder, taken in drink expels the venom of the plague",
+   "The water, distilled from both leaves and roots, is a singular remedy to wash any place bitten or stung by any venomous creature",
+   "beaten small and into paste with some honey, and a little piece thereof put into a hollow tooth",
+   "both the leaves and roots have a powerful faculty to resist all poison",
+   "expels the venom of the plague, the small-pox, measels, purples",
+   "it also helps the jaundice",
+   "or vomiting",
+   "stays all manner of inward bleeding, or spitting of blood",
+   "the decoction thereof in wine being drank, stays all manner of inward bleeding"
+  ],
+  "quotes_failed": [
+   "HEADING: Bistort, Or Snakeweed",
+   "or any fluxes in the body of either man or woman",
+   "resist all poison... or any other infectious disease"
+  ],
+  "issues": [
+   "Unearned Grade C: The entry assigns a 'C' grade citing partial support for antibacterial/anti-inflammatory activity but explicitly notes contradictions regarding 'poison' prevention and lack of data for plague/pox. However, the historical claims (resisting all poison, infectious diseases, fluxes) are directly contradicted by modern pharmacology as stated in the rationale ('contradicts', 'not supported'). A grade of 'C' implies significant partial validity, whereas the evidence suggests these specific historical claims are largely unsupported or false for the selected taxon. The grade should likely be lower (e.g., 'D' or 'F') or the entry should be rejected for making definitive efficacy claims without clinical support.",
+   "Incomplete Resolution: The historical name 'Snakeweed' has no selected scientific name (status: ambiguous), yet it is included in the heading and evidence context. This violates completeness requirements for every resolved taxon.",
+   "Missing Family Data: All candidate taxa lack 'family' information in the resolution candidates."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T06:36:30Z"
+ }
+}

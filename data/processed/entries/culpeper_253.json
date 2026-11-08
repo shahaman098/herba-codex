@@ -1,0 +1,308 @@
+{
+ "id": "culpeper_253",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "The Service-Tree",
+  "book": "",
+  "chapter": "",
+  "char_start": 631673,
+  "char_end": 633702,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "IT is so well known in the place where it grows, that it needs no\ndescription.\n\n_Time._] It flowers before the end of May, and the fruit is ripe in\nOctober.\n\n_Government and virtues._] Services, when they are mellow, are fit to\nbe taken to stay fluxes, scouring, and casting, yet less than medlers.\nIf they be dried before they be mellow, and kept all the year, they\nmay be used in decoctions for the said purpose, either to drink, or to\nbathe the parts requiring it; and are profitably used in that manner to\nstay the bleeding of wounds, and of the mouth or nose, to be applied to\nthe forehead and nape of the neck; and are under the dominion of Saturn.\n\n    SHEPHERD’S PURSE.\n\nIT is called Whoreman’s Permacety, Shepherd’s Scrip, Shepherd’s Pounce,\nToy-wort, Pickpurse, and Casewort.\n\n_Descript._] The root is small, white, and perishes every year. The\nleaves are small and long, of a pale green colour, and deeply cut in\non both sides, among which spring up a stalk which is small and round,\ncontaining small leaves upon it even to the top. The flowers are white\nand very small; after which come the little cases which hold the seed,\nwhich are flat, almost in the form of a heart.\n\n_Place._] They are frequent in this nation, almost by every path-side.\n\n_Time._] They flower all the Summer long; nay some of them are so\nfruitful, that they flower twice a year.\n\n_Government and virtues._] It is under the dominion of Saturn, and of\na cold, dry, and binding nature, like to him. It helps all fluxes of\nblood, either caused by inward or outward wounds; as also flux of the\nbelly, and bloody flux, spitting blood, and bloody urine, stops the\nterms in women; being bound to the wrists of the hands, and the soles\nof the feet, it helps the yellow jaundice. The herb being made into a\npoultice, helps inflammations and St. Anthony’s fire. The juice being\ndropped into the ears, heals the pains, noise, and mutterings thereof.\nA good ointment may be made of it for all wounds, especially wounds in\nthe head.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Shepherd's Purse",
+    "context_quote": "SHEPHERD'S PURSE.",
+    "part_used": "The root is small, white, and perishes every year. The leaves are small and long..."
+   },
+   {
+    "name_text": "Whoreman's Permacety",
+    "context_quote": "IT is called Whoreman's Permacety, Shepherd's Scrip, Shepherd's Pounce...",
+    "part_used": "The root is small, white, and perishes every year. The leaves are small and long..."
+   },
+   {
+    "name_text": "Shepherd's Scrip",
+    "context_quote": "IT is called Whoreman's Permacety, Shepherd's Scrip, Shepherd's Pounce...",
+    "part_used": "The root is small, white, and perishes every year. The leaves are small and long..."
+   }
+  ],
+  "ailments": [
+   {
+    "name": "fluxes of blood",
+    "context_quote": "It helps all fluxes of blood, either caused by inward or outward wounds...",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "flux of the belly",
+    "context_quote": "...as also flux of the belly, and bloody flux...",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "bloody flux",
+    "context_quote": "...flux of the belly, and bloody flux, spitting blood...",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "spitting blood",
+    "context_quote": "...bloody flux, spitting blood, and bloody urine...",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "bloody urine",
+    "context_quote": "...spitting blood, and bloody urine, stops the terms in women...",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "terms in women",
+    "context_quote": "...bloody urine, stops the terms in women; being bound to the wrists...",
+    "polarity": "prevents",
+    "strength": "claimed"
+   },
+   {
+    "name": "yellow jaundice",
+    "context_quote": "...it helps the yellow jaundice. The herb being made into a poultice...",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "inflammations and St. Anthony's fire",
+    "context_quote": "...helps inflammations and St. Anthony's fire. The juice being dropped...",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "decoctions",
+    "context_quote": "...may be used in decoctions for the said purpose, either to drink..."
+   },
+   {
+    "kind": "poultice",
+    "context_quote": "The herb being made into a poultice, helps inflammations and St. Anthony's fire."
+   },
+   {
+    "kind": "juice drops",
+    "context_quote": "The juice being dropped into the ears, heals the pains, noise, and mutterings thereof."
+   },
+   {
+    "kind": "ointment",
+    "context_quote": "A good ointment may be made of it for all wounds, especially wounds in the head."
+   }
+  ],
+  "dosage_notes": [
+   "Services, when they are mellow, are fit to be taken to stay fluxes...",
+   "If they be dried before they be mellow, and kept all the year...",
+   "being bound to the wrists of the hands, and the soles of the feet..."
+  ],
+  "cautions": [
+   "...yet less than medlers.",
+   "The root is small, white, and perishes every year.",
+   ""
+  ],
+  "authority_citations": []
+ },
+ "resolutions": [
+  {
+   "historical_name": "Shepherd's Purse",
+   "candidates": [
+    {
+     "scientific_name": "Capsella bursa-pastoris",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.97,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Capsella rubella",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.15,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Barbarea vulgaris",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.05,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Capsella bursa-pastoris",
+   "confidence": 0.97,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Whoreman's Permacety",
+   "candidates": [
+    {
+     "scientific_name": "Cynoglossum officinale",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.85,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Cynoglossum officinale var. latifolium",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.2,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Cynoglossum amplexicaule",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.1,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Cynoglossum officinale",
+   "confidence": 0.85,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Shepherd's Scrip",
+   "candidates": [
+    {
+     "scientific_name": "Capsella bursa-pastoris",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Capsella rubella",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.15,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Barbarea vulgaris",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.05,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Capsella bursa-pastoris",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Capsella bursa-pastoris",
+   "ema_monograph": null,
+   "pubmed": [],
+   "pubchem_cids": [],
+   "notable_constituents": [],
+   "summary": "No modern clinical evidence or safety data found for Capsella bursa-pastoris regarding the traditional uses of treating women's conditions or blood fluxes. The absence of toxicological studies in this specific context is noted."
+  },
+  {
+   "taxon": "Cynoglossum officinale",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Cynoglossum officinale toxicity in calves.",
+     "identifier": "1678752",
+     "year": "1991",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/1678752/",
+     "relevance_note": "Documents pyrrolizidine alkaloid poisoning in livestock, contradicting traditional use for blood fluxes."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Cynoglossum officinale (hound's-tongue)--a cause of pyrrolizidine alkaloid poisoning in horses.",
+     "identifier": "6490488",
+     "year": "1984",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/6490488/",
+     "relevance_note": "Confirms hepatotoxicity via pyrrolizidine alkaloids, posing significant safety risks for internal use."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Hound's-tongue (Cynoglossum officinale) poisoning in a calf.",
+     "identifier": "2703425",
+     "year": "1989",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/2703425/",
+     "relevance_note": "Further evidence of severe toxicity in animals, suggesting contraindication for human flux treatments."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "pyrrolizidine alkaloids"
+   ],
+   "summary": "Modern toxicology identifies pyrrolizidine alkaloids as major constituents causing liver damage. This evidence strongly contradicts traditional uses for treating bloody fluxes or women's conditions, indicating a high risk of hepatotoxicity rather than therapeutic benefit."
+  }
+ ],
+ "concordance": {
+  "grade": "D",
+  "direction": "contradicts",
+  "rationale": "Modern evidence identifies the entry as Shepherd's Purse (Capsella) or Whoreman's Permacety (Cynoglossum). Cynoglossum is toxic (pyrrolizidine alkaloids), contradicting safe therapeutic use. Capsella lacks EMA approval and clinical evidence for hemostasis.",
+  "uncertainty": "Low; taxonomic resolution is high, but pharmacological data contradicts historical safety claims.",
+  "caveats": [
+   "Historical 'Service-Tree' may refer to different taxa.",
+   "Modern toxicity does not negate historical efficacy, only safety."
+  ]
+ },
+ "audit": {
+  "schema_ok": false,
+  "quotes_verified": [
+   "A good ointment may be made of it for all wounds, especially wounds in the head.",
+   "The juice being dropped into the ears, heals the pains, noise, and mutterings thereof."
+  ],
+  "quotes_failed": [
+   "...as also flux of the belly, and bloody flux...",
+   "...bloody flux, spitting blood, and bloody urine...",
+   "...bloody urine, stops the terms in women; being bound to the wrists...",
+   "...flux of the belly, and bloody flux, spitting blood...",
+   "...helps inflammations and St. Anthony's fire. The juice being dropped...",
+   "...it helps the yellow jaundice. The herb being made into a poultice...",
+   "...may be used in decoctions for the said purpose, either to drink...",
+   "...spitting blood, and bloody urine, stops the terms in women...",
+   "IT is called Whoreman's Permacety, Shepherd's Scrip, Shepherd's Pounce...",
+   "It helps all fluxes of blood, either caused by inward or outward wounds...",
+   "SHEPHERD'S PURSE.",
+   "The herb being made into a poultice, helps inflammations and St. Anthony's fire."
+  ],
+  "issues": [
+   "Missing 'context_quote' arguments for verification step (quote text and source_text not provided in input), preventing mechanical verification.",
+   "Unearned Grade D: The concordance grade 'D' is assigned based on zero PubMed hits for Capsella bursa-pastoris and only 3 for Cynoglossum officinale. However, the entry lacks explicit textual evidence (context_quote) to justify this specific grade against the source text. A grade of 'D' typically implies significant contradiction or lack of support; without the actual quote showing the contradiction, the grade is unearned.",
+   "Incomplete Evidence: The 'evidence' section lists taxa but provides no supporting literature citations or excerpts to validate the 'GBIF EXACT' claim or the LLM proposal confidence scores.",
+   "Missing Family Data: All candidate and selected scientific names lack 'family' field population in resolutions."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T07:31:03Z"
+ }
+}

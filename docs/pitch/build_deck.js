@@ -162,10 +162,10 @@ const label = (s, txt, x, y, w, color = ACCENT, size = 11) =>
     x: M, y: 0.75, w: 12.2, h: 0.8, fontFace: SERIF, fontSize: 33, bold: true, color: TEXT, margin: 0 });
 
   const rows = [
-    ["Historian", "A historian reads Culpeper the way a historian does: polarity (Culpeper denies uses too), preparations, authorities cited — “as Dioscorides saith” is data.", "cross-era signal: ⟨n_authorities⟩ authority citations captured"],
-    ["Botanist", "“All-heal” is three plants depending on era. Tool-verified resolution against Kew POWO + GBIF — never an unverified guess — with confidence and honest ambiguity.", "accuracy@1 ⟨res_acc⟩ [CI ⟨lo⟩–⟨hi⟩] · calibration binned"],
-    ["Pharmacologist", "PubMed queries need modern biomedical terms — “jangling of the belly” indexes under nothing. Absence of evidence is reported as a finding.", "⟨evidence_docs⟩ evidence documents attached"],
-    ["Auditor", "An adversarial gate: mechanical quote verification + grade coherence. Failed quotes fail the entry — and stay visible.", "quote integrity ⟨quote_rate⟩ machine-verified"],
+    ["Historian", "A historian reads Culpeper the way a historian does: polarity (Culpeper denies uses too), preparations, authorities cited — “as Dioscorides saith” is data.", "cross-era signal: 120 authority citations captured (Dioscorides, Galen…)"],
+    ["Botanist", "“All-heal” is three plants depending on era. Tool-verified resolution against Kew POWO + GBIF — never an unverified guess — with confidence and honest ambiguity.", "accuracy@1 0.81 [95% CI 0.64–0.95] · calibration reported by bin"],
+    ["Pharmacologist", "PubMed queries need modern biomedical terms — “jangling of the belly” indexes under nothing. Absence of evidence is reported as a finding.", "494 evidence documents attached (EMA · PMID · CID)"],
+    ["Auditor", "An adversarial gate: mechanical quote verification + grade coherence. Failed quotes fail the entry — and stay visible.", "quote integrity 82.7% machine-verified (220/266)"],
   ];
   let y = 1.75;
   for (const [who, what, stat] of rows) {
@@ -215,9 +215,9 @@ const label = (s, txt, x, y, w, color = ACCENT, size = 11) =>
     fontFace: SERIF, fontSize: 36, bold: true, color: TEXT, margin: 0 });
 
   const stats = [
-    [NUM.res_acc, "resolution accuracy@1", `95% CI ${NUM.res_lo}–${NUM.res_hi} · 30-entry gold set`],
-    [NUM.quote_rate, "quote integrity (machine-verified)", "every quote checked against source text"],
-    [NUM.n_entries, "entries processed end-to-end", `unattended run · ${NUM.n_resolved} taxa resolved`],
+    [NUM.res_acc, "resolution accuracy@1", `95% CI ${NUM.res_lo}–${NUM.res_hi} · ${NUM.gold_n}-entry scored gold set (0.87 if gold among tool-verified candidates)`],
+    [NUM.quote_rate, "quote integrity (machine-verified)", `${NUM.quote_v} of ${NUM.quote_v + NUM.quote_f} extracted quotes verbatim-verified`],
+    [NUM.n_entries, "entries processed end-to-end", `unattended run · ${NUM.n_resolved} taxa resolved · ${NUM.evidence_docs} evidence docs`],
   ];
   let x = M;
   for (const [v, cap, sub] of stats) {
@@ -227,25 +227,24 @@ const label = (s, txt, x, y, w, color = ACCENT, size = 11) =>
     x += 4.095;
   }
 
-  if (NUM.calib && NUM.calib.length) {
+  {
+    const cal = [["Resolved", 293], ["Ambiguous", 28], ["Unresolved", 3]];
     s.addChart(p.charts.BAR, [{
-      name: "accuracy in bin", labels: NUM.calib.map(c => c.bin), values: NUM.calib.map(c => c.acc),
+      name: "name resolutions", labels: cal.map(c => c[0]), values: cal.map(c => c[1]),
     }], {
       x: M, y: 4.2, w: 7.3, h: 2.6, barDir: "col", varyColors: true,
       chartColors: NUM.calib.map(c => c.acc >= c.mean_conf ? INK : "C9A45C"),
       chartArea: { fill: { color: BG } },
       catAxisLabelColor: MUTED, valAxisLabelColor: MUTED,
-      valAxisMaxVal: 100, valAxisMinVal: 0,
+      valAxisMaxVal: 320, valAxisMinVal: 0,
       showValue: true, dataLabelPosition: "outEnd", dataLabelColor: TEXT, dataLabelFontSize: 11,
-      showLegend: false, showTitle: true, title: "Calibration: accuracy within confidence bins (%)",
-      titleFontSize: 12, titleColor: TEXT, catAxisTitle: "model confidence bin", showCatAxisTitle: true,
-      catAxisTitleFontSize: 10, catAxisTitleColor: MUTED,
+      showLegend: false, showTitle: true, title: "Name resolutions: honest status distribution (n=324)",
+      titleFontSize: 12, titleColor: TEXT,
     });
     s.addText([
       { text: "Bootstrap 95% CIs on every headline metric\n", options: { bold: true, color: INK } },
-      { text: "(1000 resamples, percentile method) · status distribution reported honestly: " +
-              `${NUM.resolved} resolved · ${NUM.ambiguous} ambiguous · ${NUM.unresolved} unresolved`, options: { color: TEXT } },
-    ], { x: 8.3, y: 4.35, w: 4.4, h: 2.3, fontFace: SANS, fontSize: 13.5, paraSpaceAfter: 6, margin: 0 });
+      { text: "(1000 resamples, percentile method). Calibration: tool-confirmed resolutions sit in the 0.85–1.0 confidence bin and score 0.81 there — mild over-confidence, reported as found. 28 ambiguities kept visible, 3 unresolved.", options: { color: TEXT } },
+    ], { x: 8.3, y: 4.35, w: 4.4, h: 2.4, fontFace: SANS, fontSize: 12.5, paraSpaceAfter: 6, margin: 0 });
   }
   s.addText("Source: eval/results.json — reproducible with one command.", { x: M, y: 7.0, w: 12, h: 0.35,
     fontFace: SANS, fontSize: 10.5, color: MUTED, margin: 0 });
@@ -256,13 +255,13 @@ const label = (s, txt, x, y, w, color = ACCENT, size = 11) =>
   const s = p.addSlide();
   s.background = { color: BG };
   label(s, "Ablation · what did the architecture buy?", M, 0.45, 8);
-  s.addText("Same model. Without the agents, it's just a chatbot.", {
+  s.addText("Same model, same gold entries — the tools and the gate are the difference.", {
     x: M, y: 0.75, w: 12.2, h: 0.8, fontFace: SERIF, fontSize: 34, bold: true, color: TEXT, margin: 0 });
 
   s.addChart(p.charts.BAR, [
-    { name: "Single-shot LLM", labels: ["Resolution acc@1 (%)", "Quote fidelity (%)"],
+    { name: "Single-shot LLM", labels: ["Resolution acc@1 (%)", "Quote check (%)"],
       values: [NUM.base_acc, NUM.base_quote] },
-    { name: "Five-agent pipeline", labels: ["Resolution acc@1 (%)", "Quote fidelity (%)"],
+    { name: "Five-agent pipeline", labels: ["Resolution acc@1 (%)", "Quote check (%)"],
       values: [NUM.pipe_acc, NUM.pipe_quote] },
   ], {
     x: M, y: 1.85, w: 7.4, h: 4.4, barDir: "col", barGapWidthPct: 60,
@@ -274,14 +273,14 @@ const label = (s, txt, x, y, w, color = ACCENT, size = 11) =>
   });
   s.addText([
     { text: "Baseline: ", options: { bold: true } },
-    { text: "one unaided LLM call — no tools, no roles, no audit.", options: { breakLine: true } },
+    { text: "one unaided LLM call — no tools, no roles, no audit. It vouches for the single quote it chose to produce (86%).", options: { breakLine: true } },
     { text: " ", options: { breakLine: true } },
     { text: "Pipeline: ", options: { bold: true } },
-    { text: "tool-verified taxonomy (POWO/GBIF), mechanical + agent audit, provenance on every edge.", options: { breakLine: true } },
+    { text: "tool-verified taxonomy (POWO/GBIF) + mechanical & agent audit applied to ALL 266 quotes it extracts (82.7% pass; failures kept visible).", options: { breakLine: true } },
     { text: " ", options: { breakLine: true } },
-    { text: "The architecture is the result.", options: { bold: true, italic: true, color: ACCENT } },
+    { text: "The architecture buys verified provenance, not magic.", options: { bold: true, italic: true, color: ACCENT } },
   ], { x: 8.4, y: 2.1, w: 4.3, h: 3.6, fontFace: SANS, fontSize: 14.5, color: TEXT, paraSpaceAfter: 6, margin: 0 });
-  s.addText("Source: eval/ablation.json — same 30 gold entries, same model.", { x: M, y: 6.55, w: 12, h: 0.35,
+  s.addText("Source: eval/ablation.json — same 22 scored gold entries, same model.", { x: M, y: 6.55, w: 12, h: 0.35,
     fontFace: SANS, fontSize: 10.5, color: MUTED, margin: 0 });
 }
 

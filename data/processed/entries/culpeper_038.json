@@ -1,0 +1,255 @@
+{
+ "id": "culpeper_038",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "The Bramble, Or Black-Berry Bush",
+  "book": "",
+  "chapter": "",
+  "char_start": 111742,
+  "char_end": 113674,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "IT is so well known that it needs no description. The virtues thereof\nare as follows:—\n\n_Government and virtues._] It is a plant of Venus in Aries. If any\nask the reason why Venus is so prickly? Tell them it is because she\nis in the house of Mars. The buds, leaves, and branches, while they\nare green, are of a good use in the ulcers and putrid sores of the\nmouth and throat, and of the quinsey, and likewise to heal other fresh\nwounds and sores; but the flowers and fruit unripe are very binding,\nand so profitable for the bloody flux, lasks, and are a fit remedy for\nspitting of blood. Either the decoction of the powder or of the root\ntaken, is good to break or drive forth gravel and the stone in the\nreins and kidneys. The leaves and brambles, as well green as dry, are\nexceeding good lotions for sores in the mouth, or secret parts. The\ndecoction of them, and of the dried branches, do much bind the belly\nand are good for too much flowing of women’s courses; the berries\nof the flowers are a powerful remedy against the poison of the most\nvenomous serpents; as well drank as outwardly applied, helps the\nsores of the fundament and the piles; the juice of the berries mixed\nwith the juice of mulberries, do bind more effectually, and helps\nall fretting and eating sores and ulcers wheresoever. The distilled\nwater of the branches, leaves, and flowers, or of the fruit, is very\npleasant in taste, and very effectual in fevers and hot distempers of\nthe body, head, eyes, and other parts, and for the purposes aforesaid.\nThe leaves boiled in lye, and the head washed therewith, heals the\nitch and running sores thereof, and makes the hair black. The powder\nof the leaves strewed on cankers and running ulcers, wonderfully helps\nto heal them. Some use to condensate the juice of the leaves, and some\nthe juice of the berries, to keep for their use all the year, for the\npurposes aforesaid.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "The Bramble, Or Black-Berry Bush",
+    "context_quote": "HEADING: The Bramble, Or Black-Berry Bush",
+    "part_used": "plant"
+   },
+   {
+    "name_text": "Venus",
+    "context_quote": "It is a plant of Venus in Aries.",
+    "part_used": "planetary association"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "ulcers and putrid sores of the mouth and throat",
+    "context_quote": "good use in the ulcers and putrid sores of the mouth and throat",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "quinsey",
+    "context_quote": "and likewise to heal other fresh wounds and sores; but the flowers and fruit unripe are very binding, and so profitable for the bloody flux, lasks, and are a fit remedy for spitting of blood.",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "fresh wounds and sores",
+    "context_quote": "good use in the ulcers and putrid sores of the mouth and throat, and of the quinsey, and likewise to heal other fresh wounds and sores",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "bloody flux",
+    "context_quote": "profitable for the bloody flux, lasks, and are a fit remedy for spitting of blood.",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "lasks",
+    "context_quote": "profitable for the bloody flux, lasks, and are a fit remedy for spitting of blood.",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "spitting of blood",
+    "context_quote": "and are a fit remedy for spitting of blood.",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "gravel and the stone in the reins and kidneys",
+    "context_quote": "is good to break or drive forth gravel and the stone in the reins and kidneys.",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "sores in the mouth, or secret parts",
+    "context_quote": "are exceeding good lotions for sores in the mouth, or secret parts.",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "decoction of the powder or of the root",
+    "context_quote": "Either the decoction of the powder or of the root taken, is good to break or drive forth gravel and the stone in the reins and kidneys."
+   },
+   {
+    "kind": "lotions (leaves and brambles)",
+    "context_quote": "The leaves and brambles, as well green as dry, are exceeding good lotions for sores in the mouth, or secret parts."
+   },
+   {
+    "kind": "decoction of them, and of the dried branches",
+    "context_quote": "The decoction of them, and of the dried branches, do much bind the belly and are good for too much flowing of women's courses"
+   },
+   {
+    "kind": "juice mixed with mulberry juice",
+    "context_quote": "The juice of the berries mixed with the juice of mulberries, do bind more effectually, and helps all fretting and eating sores and ulcers wheresoever."
+   }
+  ],
+  "dosage_notes": [
+   "Either the decoction of the powder or of the root taken",
+   "as well drank as outwardly applied",
+   "Some use to condensate the juice of the leaves, and some the juice of the berries, to keep for their use all the year"
+  ],
+  "cautions": [
+   "flowers and fruit unripe are very binding",
+   "do much bind the belly",
+   "good for too much flowing of women's courses"
+  ],
+  "authority_citations": []
+ },
+ "resolutions": [
+  {
+   "historical_name": "The Bramble, Or Black-Berry Bush",
+   "candidates": [
+    {
+     "scientific_name": "Rubus fruticosus agg.",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Rubus caesius",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.3,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Rubus idaeus",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.25,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Rubus fruticosus agg.",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF HIGHERRANK"
+  },
+  {
+   "historical_name": "Venus",
+   "candidates": [
+    {
+     "scientific_name": "Helleborus viridis",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.85,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Helleborus foetidus",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.6,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Helleborus niger",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.4,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Helleborus viridis",
+   "confidence": 0.85,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Rubus fruticosus agg.",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Acute toxicity, brine shrimp cytotoxicity, anthelmintic and relaxant potentials of fruits of Rubus fruticosus Agg.",
+     "identifier": "23773797",
+     "year": "2013",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/23773797/",
+     "relevance_note": "Evaluates anthelmintic and relaxant properties of fruits, offering modern toxicological and pharmacological context for traditional wound and flux uses."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "Anthocyanins",
+    "Tannins"
+   ],
+   "summary": "Modern studies focus on the fruits' anthelmintic and cytotoxic potentials. While specific evidence for treating bloody flux or wounds is absent in this dataset, the identified constituents suggest potential relevance to traditional applications involving hemorrhage and tissue repair."
+  },
+  {
+   "taxon": "Helleborus viridis",
+   "ema_monograph": null,
+   "pubmed": [],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "Cardiac glycosides"
+   ],
+   "summary": "No relevant modern evidence was found in the provided search results. Given the traditional use for ulcers and bloody flux, the absence of safety data is critical, as this species contains potent cardiac glycosides that pose significant toxicity risks."
+  }
+ ],
+ "concordance": {
+  "grade": "C",
+  "direction": "partial",
+  "rationale": "Modern evidence (PMID:23773797) shows anthelmintic and relaxant potentials but lacks clinical data for ulcers, quinsey, or bloody flux. Safety concerns exist due to potential toxicity.",
+  "uncertainty": "Clinical efficacy for historical claims is unsupported by current literature; only preclinical properties are documented.",
+  "caveats": [
+   "No EMA approval",
+   "Toxicity risks noted"
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "Either the decoction of the powder or of the root taken, is good to break or drive forth gravel and the stone in the reins and kidneys.",
+   "It is a plant of Venus in Aries.",
+   "The juice of the berries mixed with the juice of mulberries, do bind more effectually, and helps all fretting and eating sores and ulcers wheresoever.",
+   "The leaves and brambles, as well green as dry, are exceeding good lotions for sores in the mouth, or secret parts.",
+   "and are a fit remedy for spitting of blood.",
+   "and likewise to heal other fresh wounds and sores; but the flowers and fruit unripe are very binding, and so profitable for the bloody flux, lasks, and are a fit remedy for spitting of blood.",
+   "are exceeding good lotions for sores in the mouth, or secret parts.",
+   "good use in the ulcers and putrid sores of the mouth and throat",
+   "good use in the ulcers and putrid sores of the mouth and throat, and of the quinsey, and likewise to heal other fresh wounds and sores",
+   "is good to break or drive forth gravel and the stone in the reins and kidneys.",
+   "profitable for the bloody flux, lasks, and are a fit remedy for spitting of blood."
+  ],
+  "quotes_failed": [
+   "HEADING: The Bramble, Or Black-Berry Bush",
+   "The decoction of them, and of the dried branches, do much bind the belly and are good for too much flowing of women's courses"
+  ],
+  "issues": [
+   "Unearned grade 'C' with no EMA/clinical evidence; only preclinical properties documented for Rubus fruticosus agg. and Helleborus viridis.",
+   "Safety concerns (toxicity) noted but not mitigated in entry.",
+   "Clinical efficacy claims unsupported by current literature."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T06:11:27Z"
+ }
+}

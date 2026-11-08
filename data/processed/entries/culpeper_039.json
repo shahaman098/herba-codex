@@ -1,0 +1,241 @@
+{
+ "id": "culpeper_039",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Blites",
+  "book": "",
+  "chapter": "",
+  "char_start": 113675,
+  "char_end": 115234,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "_Descript._] OF these there are two sorts commonly known, viz. white\nand red. The white has leaves somewhat like to Beets, but smaller,\nrounder and of a whitish green colour, every one standing upon a small\nlong footstalk: the stalk rises up two or three feet high, with such\nlike leaves thereon; the flowers grow at the top in long round tufts,\nor clusters, wherein are contained small and round seeds; the root is\nvery full of threads or strings.\n\nThe red Blite is in all things like the white but that its leaves and\ntufted heads are exceeding red at first, and after turn more purple.\n\nThere are other kinds of Blites which grow different from the two\nformer sorts but little, but only the wild are smaller in every part.\n\n_Place._] They grow in gardens, and wild in many places in this land.\n\n_Time._] They seed in August and September.\n\n_Government and virtues._] They are all of them cooling, drying, and\nbinding, serving to restrain the fluxes of blood in either man or\nwoman, especially the red; which also stays the overflowing of the\nwomen’s reds, as the white Blites stays the whites in women. It is an\nexcellent secret; you cannot well fail in the use. They are all under\nthe dominion of Venus.\n\nThere is another sort of wild Blites like the other wild kinds, but\nhave long and spiky heads of greenish seeds, seeming by the thick\nsetting together to be all seed.\n\nThis sort the fishers are delighted with, and it is good and usual\nbait; for fishes will bite fast enough at them, if you have wit enough\nto catch them when they bite.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Blites",
+    "context_quote": "OF these there are two sorts commonly known, viz. white and red.",
+    "part_used": "root"
+   },
+   {
+    "name_text": "white Blites",
+    "context_quote": "the white has leaves somewhat like to Beets, but smaller, rounder and of a whitish green colour",
+    "part_used": "leaves"
+   },
+   {
+    "name_text": "red Blite",
+    "context_quote": "The red Blite is in all things like the white but that its leaves and tufted heads are exceeding red at first",
+    "part_used": "leaves"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "fluxes of blood",
+    "context_quote": "serving to restrain the fluxes of blood in either man or woman",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "women's reds overflowing",
+    "context_quote": "which also stays the overflowing of the women's reds",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "whites in women",
+    "context_quote": "as the white Blites stays the whites in women",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "internal use",
+    "context_quote": "It is an excellent secret; you cannot well fail in the use."
+   }
+  ],
+  "dosage_notes": [],
+  "cautions": [],
+  "authority_citations": []
+ },
+ "resolutions": [
+  {
+   "historical_name": "Blites",
+   "candidates": [
+    {
+     "scientific_name": "Beta vulgaris",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Beta maritima",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.6,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Chenopodium album",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.3,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Beta vulgaris",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "white Blites",
+   "candidates": [
+    {
+     "scientific_name": "Beta vulgaris subsp. vulgaris (white beet)",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.85,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Beta maritima",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.4,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Beta patula",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.35,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Beta vulgaris subsp. vulgaris (white beet)",
+   "confidence": 0.85,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "red Blite",
+   "candidates": [
+    {
+     "scientific_name": "Beta vulgaris subsp. vulgaris (red beet)",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.9,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Beta vulgaris var. rubra",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.75,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Chenopodium rubrum",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.2,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Beta vulgaris subsp. vulgaris (red beet)",
+   "confidence": 0.9,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Beta vulgaris",
+   "ema_monograph": null,
+   "pubmed": [],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "betalains",
+    "flavonoids"
+   ],
+   "summary": "No modern clinical evidence found supporting traditional uses for blood flux or women's reds. Research focuses on nutritional benefits and anti-inflammatory properties of betalains."
+  },
+  {
+   "taxon": "Beta vulgaris subsp. vulgaris (white beet)",
+   "ema_monograph": null,
+   "pubmed": [],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "inulin",
+    "flavonoids"
+   ],
+   "summary": "No specific studies link white beets to the recorded traditional uses of regulating women's 'reds' or 'whites'. Evidence is limited to general dietary health."
+  },
+  {
+   "taxon": "Beta vulgaris subsp. vulgaris (red beet)",
+   "ema_monograph": null,
+   "pubmed": [],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "betanin",
+    "betaxanthin"
+   ],
+   "summary": "No modern literature supports the traditional claim that red beets treat 'women's reds overflowing'. Current research highlights antioxidant and cardiovascular benefits of betalains."
+  }
+ ],
+ "concordance": {
+  "grade": "D",
+  "direction": "contradicts",
+  "rationale": "Modern evidence shows no EMA approval or PubMed clinical trials for Beta vulgaris treating hemorrhage. High oxalate content poses safety risks, contradicting historical claims of safe hemostatic use.",
+  "uncertainty": "Low; taxon resolved with high confidence, but clinical efficacy data is absent.",
+  "caveats": [
+   "No clinical trials found",
+   "Safety concerns due to oxalates"
+  ]
+ },
+ "audit": {
+  "schema_ok": false,
+  "quotes_verified": [
+   "It is an excellent secret; you cannot well fail in the use.",
+   "OF these there are two sorts commonly known, viz. white and red.",
+   "The red Blite is in all things like the white but that its leaves and tufted heads are exceeding red at first",
+   "as the white Blites stays the whites in women",
+   "serving to restrain the fluxes of blood in either man or woman",
+   "the white has leaves somewhat like to Beets, but smaller, rounder and of a whitish green colour"
+  ],
+  "quotes_failed": [
+   "which also stays the overflowing of the women's reds"
+  ],
+  "issues": [
+   "Incomplete evidence data: 'ema' field truncated for 'Beta vulgaris subsp. vulgaris (red beet)' and missing for others; 'pubmed_n' is 0 for all taxa, indicating no clinical/EMA evidence exists.",
+   "Unearned grades: All taxa have confidence >0.8 but zero PubMed citations and false EMA status. An 'A' or high-confidence grade without empirical evidence (clinical trials, EMA approval) is unearned in this adversarial context.",
+   "Source reliability: All candidates derived from 'LLM_knowledge' with no primary source text provided for verification.",
+   "Taxonomic precision: Subspecies/varietal distinctions (e.g., 'white beet', 'red beet') are treated as distinct taxa without verifying if they represent cultivars of the same species or distinct biological entities, potentially inflating taxon count artificially."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T06:47:59Z"
+ }
+}

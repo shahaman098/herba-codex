@@ -1,0 +1,196 @@
+{
+ "id": "culpeper_185",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Mouse-Ear",
+  "book": "",
+  "chapter": "",
+  "char_start": 453351,
+  "char_end": 456090,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "_Descript._] MOUSE-EAR is a low herb, creeping upon the ground by small\nstrings, like the Strawberry plant, whereby it shoots forth small\nroots, whereat grow, upon the ground, many small and somewhat short\nleaves, set in a round form together, and very hairy, which, being\nbroken, do give a whitish milk: From among these leaves spring up two\nor three small hoary stalks about a span high, with a few smaller\nleaves thereon; at the tops whereof stands usually but one flower,\nconsisting of many pale yellow leaves, broad at the point, and a little\ndented in, set in three or four rows (the greater uppermost) very like\na Dandelion flower, and a little reddish underneath about the edges,\nespecially if it grow in a dry ground; which after they have stood long\nin flower do turn into down, which with the seed is carried away with\nthe wind.\n\n_Place._] It grows on ditch banks, and sometimes in ditches, if they be\ndry, and in sandy grounds.\n\n_Time._] It flowers about June or July, and abides green all the Winter.\n\n_Government and virtues._] The Moon owns this herb also; and though\nauthors cry out upon Alchymists, for attempting to fix quicksilver by\nthis herb and Moonwort, a Roman would not have judged a thing by the\nsuccess; if it be to be fixed at all, it is by lunar influence. The\njuice thereof taken in wine, or the decoction thereof drank, doth help\nthe jaundice, although of long continuance, to drink thereof morning\nand evening, and abstain from other drink two or three hours after.\nIt is a special remedy against the stone, and the tormenting pains\nthereof: as also other tortures and griping pains of the bowels. The\ndecoction thereof with Succory and Centaury is held very effectual\nto help the dropsy, and them that are inclining thereunto, and the\ndiseases of the spleen. It stays the fluxes of blood, either at the\nmouth or nose, and inward bleeding also, for it is a singular wound\nherb for wounds both inward and outward: It helps the bloody flux, and\nhelps the abundance of women’s courses. There is a syrup made of the\njuice hereof and sugar, by the apothecaries of Italy, and other places,\nwhich is of much account with them, to be given to those that are\ntroubled with the cough or phthisic. The same also is singularly good\nfor ruptures or burstings. The green herb bruised and presently bound\nto any cut or wound, doth quickly solder the lips thereof. And the\njuice, decoction, or powder of the dried herb is most singular to stay\nthe malignity of spreading and fretting cankers and ulcers whatsoever,\nyea in the mouth and secret parts. The distilled water of the plant is\navailable in all the diseases aforesaid, and to wash outward wounds and\nsores, by applying tents of cloths wet therein.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "MOUSE-EAR",
+    "context_quote": "MOUSE-EAR is a low herb, creeping upon the ground by small strings, like the Strawberry plant",
+    "part_used": "leaves"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "jaundice",
+    "context_quote": "The juice thereof taken in wine, or the decoction thereof drank, doth help the jaundice",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "stone",
+    "context_quote": "It is a special remedy against the stone, and the tormenting pains thereof",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "bowel pains",
+    "context_quote": "as also other tortures and griping pains of the bowels",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "dropsy",
+    "context_quote": "The decoction thereof with Succory and Centaury is held very effectual to help the dropsy",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "bleeding",
+    "context_quote": "It stays the fluxes of blood, either at the mouth or nose, and inward bleeding also",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "wounds",
+    "context_quote": "for it is a singular wound herb for wounds both inward and outward",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "cough or phthisic",
+    "context_quote": "to be given to those that are troubled with the cough or phthisic",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "ruptures",
+    "context_quote": "The same also is singularly good for ruptures or burstings",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "juice taken in wine",
+    "context_quote": "The juice thereof taken in wine, or the decoction thereof drank"
+   },
+   {
+    "kind": "decoction with Succory and Centaury",
+    "context_quote": "The decoction thereof with Succory and Centaury is held very effectual"
+   },
+   {
+    "kind": "syrup of juice and sugar",
+    "context_quote": "There is a syrup made of the juice hereof and sugar, by the apothecaries of Italy"
+   },
+   {
+    "kind": "distilled water",
+    "context_quote": "The distilled water of the plant is available in all the diseases aforesaid"
+   }
+  ],
+  "dosage_notes": [
+   "to drink thereof morning and evening, and abstain from other drink two or three hours after",
+   "by applying tents of cloths wet therein"
+  ],
+  "cautions": [],
+  "authority_citations": []
+ },
+ "resolutions": [
+  {
+   "historical_name": "MOUSE-EAR",
+   "candidates": [
+    {
+     "scientific_name": "Cerastium arvense",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.85,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Cerastium fontanum",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.75,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Arenaria serpyllifolia",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.4,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Cerastium arvense",
+   "confidence": 0.85,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Cerastium arvense",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Syntheses and herbicidal activity of new triazolopyrimidine-2-sulfonamides as acetohydroxyacid synthase inhibitor.",
+     "identifier": "20598554",
+     "year": "2010",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/20598554/",
+     "relevance_note": "Discusses herbicidal activity of synthetic compounds, not traditional uses or constituents of Cerastium arvense."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [],
+   "summary": "No EMA monograph exists for Cerastium arvense. The single retrieved PubMed document (PMID 20598554) concerns synthetic herbicides, offering no evidence supporting traditional uses for stone, jaundice, bowel pains, wounds, dropsy, or bleeding."
+  }
+ ],
+ "concordance": {
+  "grade": "C",
+  "direction": "partial",
+  "rationale": "Modern evidence (PMID:20598554) focuses on herbicidal activity, not therapeutic efficacy. No clinical data supports historical claims for jaundice, stones, or bleeding.",
+  "uncertainty": "High due to lack of human trials and potential toxicity from specific compounds like triazolopyrimidines.",
+  "caveats": [
+   "No safety data available",
+   "Herbicidal use does not imply medical benefit"
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "It is a special remedy against the stone, and the tormenting pains thereof",
+   "It stays the fluxes of blood, either at the mouth or nose, and inward bleeding also",
+   "MOUSE-EAR is a low herb, creeping upon the ground by small strings, like the Strawberry plant",
+   "The decoction thereof with Succory and Centaury is held very effectual",
+   "The decoction thereof with Succory and Centaury is held very effectual to help the dropsy",
+   "The distilled water of the plant is available in all the diseases aforesaid",
+   "The juice thereof taken in wine, or the decoction thereof drank",
+   "The juice thereof taken in wine, or the decoction thereof drank, doth help the jaundice",
+   "The same also is singularly good for ruptures or burstings",
+   "There is a syrup made of the juice hereof and sugar, by the apothecaries of Italy",
+   "as also other tortures and griping pains of the bowels",
+   "for it is a singular wound herb for wounds both inward and outward",
+   "to be given to those that are troubled with the cough or phthisic"
+  ],
+  "quotes_failed": [],
+  "issues": [
+   "Unearned Grade: The entry assigns a 'C' grade with 'partial' direction based solely on herbicidal activity (PMID:20598554) and lack of clinical data. This is an unearned downgrade because the historical claims (jaundice, stones, bleeding) are not supported by evidence, but the entry lacks explicit citations for these specific historical uses or a clear statement that they are debunked beyond just 'no clinical data'. The reasoning conflates 'lack of efficacy proof' with 'partial support', which is logically weak without positive evidence for any claim. Additionally, the 'selected' taxon 'Cerastium arvense' has no authorship and family listed in the resolution candidates, indicating incomplete metadata resolution despite a 'resolved' status."
+  ],
+  "verdict": "pass_with_issues"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T06:30:32Z"
+ }
+}

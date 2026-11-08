@@ -1,0 +1,216 @@
+{
+ "id": "culpeper_274",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Mithridate Mustard",
+  "book": "",
+  "chapter": "",
+  "char_start": 671892,
+  "char_end": 673157,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "_Descript._] THIS grows higher than the former, spreading more and\nhigher branches, whose leaves are smaller and narrower, sometimes\nunevenly dented about the edges. The flowers are small and white,\ngrowing on long branches, with much smaller and rounder vessels after\nthem, and parted in the same manner, having smaller brown seeds than\nthe former, and much sharper in taste. The root perishes after seed\ntime, but abides the first Winter after springing.\n\n_Place._] They grow in sundry places in this land, as half a mile from\nHatfield, by the river side, under a hedge as you go to Hatfield, and\nin the street of Peckham on Surrey side.\n\n_Time._] They flower and seed from May to August.\n\n_Government and virtues._] Both of them are herbs of Mars. The Mustards\nare said to purge the body both upwards and downwards, and procure\nwomen’s courses so abundantly, that it suffocates the birth. It breaks\ninward imposthumes, being taken inwardly; and used in clysters, helps\nthe sciatica. The seed applied, doth the same. It is an especial\ningredient in mithridate and treacle, being of itself an antidote\nresisting poison, venom and putrefaction. It is also available in many\ncases for which the common Mustard is used, but somewhat weaker.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Mustards",
+    "context_quote": "The Mustards are said to purge the body both upwards and downwards",
+    "part_used": "herbs"
+   },
+   {
+    "name_text": "seed",
+    "context_quote": "The seed applied, doth the same. It is an especial ingredient in mithridate",
+    "part_used": "seed"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "purging the body",
+    "context_quote": "Both of them are herbs of Mars. The Mustards are said to purge the body both upwards and downwards",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "women's courses",
+    "context_quote": "and procure women's courses so abundantly, that it suffocates the birth",
+    "polarity": "causes",
+    "strength": "claimed"
+   },
+   {
+    "name": "inward imposthumes",
+    "context_quote": "It breaks inward imposthumes, being taken inwardly",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "sciatica",
+    "context_quote": "and used in clysters, helps the sciatica",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "poison, venom and putrefaction",
+    "context_quote": "being of itself an antidote resisting poison, venom and putrefaction",
+    "polarity": "prevents",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "clysters",
+    "context_quote": "and used in clysters, helps the sciatica"
+   },
+   {
+    "kind": "ingested seed",
+    "context_quote": "It breaks inward imposthumes, being taken inwardly; and used in clysters"
+   }
+  ],
+  "dosage_notes": [],
+  "cautions": [
+   "it suffocates the birth",
+   "somewhat weaker [than common Mustard]"
+  ],
+  "authority_citations": []
+ },
+ "resolutions": [
+  {
+   "historical_name": "Mustards",
+   "candidates": [
+    {
+     "scientific_name": "Sinapis alba",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.85,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Brassica nigra",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.75,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Sinapis arvensis",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.65,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Sinapis alba",
+   "confidence": 0.85,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "seed",
+   "candidates": [
+    {
+     "scientific_name": "Sinapis alba",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.8,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Brassica nigra",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.7,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Nigella sativa",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.5,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Sinapis alba",
+   "confidence": 0.8,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Sinapis alba",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Sinapis Semen: A review on phytochemistry, pharmacology, toxicity, analytical methods and pharmacokinetics.",
+     "identifier": "37124205",
+     "year": "2023",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/37124205/",
+     "relevance_note": "Reviews modern pharmacology of mustard seeds, addressing traditional uses like purging and toxicity."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Biologically Active Compounds in Mustard Seeds: A Toxicological Perspective.",
+     "identifier": "34574199",
+     "year": "2021",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/34574199/",
+     "relevance_note": "Examines toxicological aspects relevant to historical concerns about poison and venom."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "glucosinolates",
+    "isothiocyanates"
+   ],
+   "summary": "Modern reviews confirm Sinapis alba contains glucosinolates linked to purgative effects and toxicity. Evidence supports traditional uses regarding purging and potential venom/poison risks, though specific data on sciatica or women's courses is limited in these recent sources."
+  }
+ ],
+ "concordance": {
+  "grade": "D",
+  "direction": "contradicts",
+  "rationale": "Modern toxicology (PMID: 34574199, 37124205) identifies glucosinolates and isothiocyanates as potent irritants causing mucosal damage. Claims of 'purging' or inducing abortion via suffocation contradict safety profiles; high doses cause severe GI distress rather than therapeutic purgation.",
+  "uncertainty": "Low uncertainty regarding toxicity, but historical intent vs. modern safety interpretation varies.",
+  "caveats": [
+   "Historical 'purging' implies toxicity now.",
+   "Abortion claims lack clinical support."
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "Both of them are herbs of Mars. The Mustards are said to purge the body both upwards and downwards",
+   "It breaks inward imposthumes, being taken inwardly",
+   "It breaks inward imposthumes, being taken inwardly; and used in clysters",
+   "The Mustards are said to purge the body both upwards and downwards",
+   "The seed applied, doth the same. It is an especial ingredient in mithridate",
+   "and used in clysters, helps the sciatica",
+   "being of itself an antidote resisting poison, venom and putrefaction"
+  ],
+  "quotes_failed": [
+   "and procure women's courses so abundantly, that it suffocates the birth"
+  ],
+  "issues": [
+   "Unearned Grade: The entry assigns a 'D' grade based on modern toxicology contradicting historical claims. However, the specific claim regarding inducing abortion ('suffocates the birth') is flagged as having no clinical support in the evidence (pubmed_n: 2), yet the historical resolution explicitly includes this mechanism. This creates an inconsistency between the resolved historical function and the graded safety profile which dismisses it without acknowledging the lack of modern evidence for that specific historical claim, rather than just general toxicity.",
+   "Completeness Gap: The 'seed' resolution selects Sinapis alba but ignores Nigella sativa (Black Seed) which is historically significant for similar medicinal uses in Mithridate contexts, potentially leading to a false negative if the user seeks information on Black Seed's role in this formulation."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T06:40:04Z"
+ }
+}

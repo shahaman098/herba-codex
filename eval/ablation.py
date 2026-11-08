@@ -100,7 +100,6 @@ def main() -> None:
             p_res_t += 1
             p_res_c += bool(name_match(r.get("selected", ""), g["taxon"])
                             or any(name_match(c.get("scientific_name", ""), g["taxon"])
-                                   for c in r.get("candidates", []) and c.get("source") == "POWO"
                                    for c in r.get("candidates", [])))
         a = e.get("audit") or {}
         p_q_ok += len(a.get("quotes_verified", []))

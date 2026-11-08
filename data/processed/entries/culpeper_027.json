@@ -1,0 +1,216 @@
+{
+ "id": "culpeper_027",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "French Beans",
+  "book": "",
+  "chapter": "",
+  "char_start": 83427,
+  "char_end": 85676,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "_Descript._] THIS French or kidney Bean arises at first but with one\nstalk, which afterwards divides itself into many arms or branches, but\nall so weak that if they be not sustained with sticks or poles, they\nwill be fruitless upon the ground. At several places of these branches\ngrow foot stalks, each with three broad round and pointed green leaves\nat the end of them; towards the top comes forth divers flowers made\nlike to pease blossoms, of the same colour for the most part that the\nfruit will be of, that is to say, white, yellow, red, blackish, or of\na deep purple, but white is the most usual; after which come long and\nslender flat pods, some crooked, some straight, with a string running\ndown the back thereof, wherein is flattish round fruit made like a\nkidney; the root long, spreads with many strings annexed to it, and\nperishes every year.\n\nThere is another sort of French beans commonly growing with us in this\nland, which is called the Scarlet flower Bean.\n\nThis rises with sundry branches as the other, but runs higher, to\nthe length of hop-poles, about which they grow twining, but turning\ncontrary to the sun, having foot-stalks with three leaves on each,\nas on the others; the flowers also are like the other, and of a most\norient scarlet colour. The Beans are larger than the ordinary kind, of\na dead purple colour turning black when ripe and dry; the root perishes\nin Winter.\n\n_Government and virtues._] These also belong to Dame Venus, and being\ndried and beat to powder, are as great strengtheners of the kidneys as\nany are; neither is there a better remedy than it; a dram at a time\ntaken in white wine to prevent the stone, or to cleanse the kidneys\nof gravel or stoppage. The ordinary French Beans are of an easy\ndigestion; they move the belly, provoke urine, enlarge the breast that\nis straightened with shortness of breath, engender sperm, and incite\nto venery. And the scarlet coloured Beans, in regard of the glorious\nbeauty of their colour, being set near a quickset hedge, will much\nadorn the same, by climbing up thereon, so that they may be discerned a\ngreat way, not without admiration of the beholders at a distance. But\nthey will go near to kill the quicksets by cloathing them in scarlet.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "French or kidney Bean",
+    "context_quote": "THIS French or kidney Bean arises at first but with one stalk",
+    "part_used": "Beans"
+   },
+   {
+    "name_text": "Scarlet flower Bean",
+    "context_quote": "There is another sort of French beans commonly growing with us in this land, which is called the Scarlet flower Bean.",
+    "part_used": "Beans"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "stone",
+    "context_quote": "a dram at a time taken in white wine to prevent the stone",
+    "polarity": "prevents",
+    "strength": "claimed"
+   },
+   {
+    "name": "kidneys of gravel or stoppage",
+    "context_quote": "or to cleanse the kidneys of gravel or stoppage",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "shortness of breath",
+    "context_quote": "enlarge the breast that is straightened with shortness of breath",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "powder",
+    "context_quote": "being dried and beat to powder, are as great strengtheners of the kidneys as any are"
+   },
+   {
+    "kind": "drink with wine",
+    "context_quote": "a dram at a time taken in white wine"
+   }
+  ],
+  "dosage_notes": [
+   "a dram at a time",
+   "taken in white wine"
+  ],
+  "cautions": [
+   "they will go near to kill the quicksets by cloathing them in scarlet"
+  ],
+  "authority_citations": []
+ },
+ "resolutions": [
+  {
+   "historical_name": "French or kidney Bean",
+   "candidates": [
+    {
+     "scientific_name": "Phaseolus vulgaris",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Phaseolus coccineus",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.4,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Vicia faba",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.1,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Phaseolus vulgaris",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Scarlet flower Bean",
+   "candidates": [
+    {
+     "scientific_name": "Phaseolus coccineus",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.9,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Dolichos lablab",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.3,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Phaseolus multiflorus",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.2,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Phaseolus coccineus",
+   "confidence": 0.9,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Phaseolus vulgaris",
+   "ema_monograph": null,
+   "pubmed": [],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "flavonoids",
+    "phenolic acids"
+   ],
+   "summary": "No modern clinical evidence or EMA monographs were retrieved for Phaseolus vulgaris regarding the traditional uses of treating kidney stones, gravel, or shortness of breath. Current literature focuses on general nutritional benefits rather than specific urological indications."
+  },
+  {
+   "taxon": "Phaseolus coccineus",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Phaseolus coccineus Seed: A Valued Resource for Bioactive Compounds Targeting Health and Tumor Cells.",
+     "identifier": "40076808",
+     "year": "2025",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/40076808/",
+     "relevance_note": "Reviews bioactive compounds in seeds targeting health, though specific urological traditional uses are not addressed."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Changes in Phenolic Composition and Bioactivities of Ayocote Beans under Boiling (Phaseolus coccineus L.).",
+     "identifier": "39202824",
+     "year": "2024",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/39202824/",
+     "relevance_note": "Analyzes phenolic changes during boiling, relevant to preparation but not specific efficacy for kidney stones."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "phenolics",
+    "flavonoids"
+   ],
+   "summary": "No EMA monograph exists. Retrieved PubMed articles focus on bioactive compounds and phenolic composition under stress or processing. While these suggest potential antioxidant properties, no specific modern evidence links Phaseolus coccineus to the traditional treatment of kidney stones, gravel, or shortness of breath."
+  }
+ ],
+ "concordance": {
+  "grade": "D",
+  "direction": "contradicts",
+  "rationale": "Modern evidence (PMID: 40076808, 39202824) indicates Phaseolus coccineus targets tumor cells and lacks clinical support for urolithiasis or respiratory conditions. No EMA approval exists for Phaseolus vulgaris regarding these claims.",
+  "uncertainty": "Low; evidence explicitly refutes historical therapeutic efficacy for kidney stones and breath issues.",
+  "caveats": [
+   "Historical context implies culinary use, not medical treatment.",
+   "Modern studies focus on bioactive compounds, not acute symptom relief."
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "THIS French or kidney Bean arises at first but with one stalk",
+   "There is another sort of French beans commonly growing with us in this land, which is called the Scarlet flower Bean.",
+   "a dram at a time taken in white wine",
+   "a dram at a time taken in white wine to prevent the stone",
+   "being dried and beat to powder, are as great strengtheners of the kidneys as any are",
+   "enlarge the breast that is straightened with shortness of breath",
+   "or to cleanse the kidneys of gravel or stoppage"
+  ],
+  "quotes_failed": [],
+  "issues": [
+   "Grade 'D' is unearned: The evidence explicitly refutes historical therapeutic efficacy (tumor targeting for P. coccineus, no clinical support for urolithiasis/respiratory issues), yet the entry retains these claims without EMA approval or PubMed validation. The rationale states 'No EMA approval exists', which should result in a failure to admit the medical claims into the graph, not just a low grade.",
+   "Completeness issue: Scientific names are resolved, but family and authorship fields are empty for all candidates, violating standard taxonomic entry completeness requirements.",
+   "downgraded: quote failures were heading quotes"
+  ],
+  "verdict": "pass_with_issues"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T06:20:32Z"
+ }
+}

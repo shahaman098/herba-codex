@@ -1,0 +1,278 @@
+{
+ "id": "culpeper_200",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Parsley",
+  "book": "",
+  "chapter": "",
+  "char_start": 486689,
+  "char_end": 488990,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "THIS is so well known, that it needs no description.\n\n_Government and virtues._] It is under the dominion of Mercury; is very\ncomfortable to the stomach; helps to provoke urine and women’s courses,\nto break wind both in the stomach and bowels, and doth a little open\nthe body, but the root much more. It opens obstructions both of liver\nand spleen, and is therefore accounted one of the five opening roots.\nGalen commended it against the falling sickness, and to provoke urine\nmightily; especially if the roots be boiled, and eaten like Parsnips.\nThe seed is effectual to provoke urine and women’s courses, to expel\nwind, to break the stone, and ease the pains and torments thereof;\nit is also effectual against the venom of any poisonous creature,\nand the danger that comes to them that have the lethargy, and is as\ngood against the cough. The distilled water of Parsley is a familiar\nmedicine with nurses to give their children when they are troubled\nwith wind in the stomach or belly which they call the frets; and is\nalso much available to them that are of great years. The leaves of\nParsley laid to the eyes that are inflamed with heat, or swollen, doth\nmuch help them, if it be used with bread or meal; and being fried\nwith butter, and applied to women’s breasts that are hard through the\ncurdling of their milk, it abates the hardness quickly; and also takes\naway black and blue marks coming of bruises or falls. The juice thereof\ndropped into the ears with a little wine, eases the pains. Tragus sets\ndown an excellent medicine to help the jaundice and falling sickness,\nthe dropsy, and stone in the kidneys, in this manner: Take of the seed\nof Parsley, Fennel, Annise and Carraways, of each an ounce; of the\nroots of Parsley, Burnet, Saxifrage, and Carraways, of each an ounce\nand an half; let the seeds be bruised, and the roots washed and cut\nsmall; let them lie all night to steep in a bottle of white wine, and\nin the morning be boiled in a close earthen vessel until a third part\nor more be wasted; which being strained and cleared, take four ounces\nthereof morning and evening first and last, abstaining from drink after\nit for three hours. This opens obstructions of the liver and spleen,\nand expels the dropsy and jaundice by urine.\n\n    PARSLEY PIERT, OR PARSLEY BREAK",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Parsley",
+    "context_quote": "THIS is so well known, that it needs no description.",
+    "part_used": "General"
+   },
+   {
+    "name_text": "Parsley Piert, or Parsley Break",
+    "context_quote": "PARSLEY PIERT, OR PARSLEY BREAK",
+    "part_used": "General"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "Stomach comfort",
+    "context_quote": "It is under the dominion of Mercury; is very comfortable to the stomach",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "Urination and menstruation",
+    "context_quote": "helps to provoke urine and women's courses",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "Wind in stomach and bowels",
+    "context_quote": "to break wind both in the stomach and bowels",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "Obstructions of liver and spleen",
+    "context_quote": "It opens obstructions both of liver and spleen",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "Falling sickness (Epilepsy)",
+    "context_quote": "Galen commended it against the falling sickness",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "Poisonous creatures",
+    "context_quote": "effectual against the venom of any poisonous creature",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "Lethargy",
+    "context_quote": "and the danger that comes to them that have the lethargy",
+    "polarity": "prevents",
+    "strength": "claimed"
+   },
+   {
+    "name": "Cough",
+    "context_quote": "and is as good against the cough",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "Boiled roots eaten like Parsnips",
+    "context_quote": "especially if the roots be boiled, and eaten like Parsnips."
+   },
+   {
+    "kind": "Distilled water",
+    "context_quote": "The distilled water of Parsley is a familiar medicine"
+   },
+   {
+    "kind": "Leaves applied to eyes with bread or meal",
+    "context_quote": "The leaves of Parsley laid to the eyes that are inflamed with heat, or swollen, doth much help them, if it be used with bread or meal"
+   },
+   {
+    "kind": "Fried leaves with butter for breasts",
+    "context_quote": "and being fried with butter, and applied to women's breasts that are hard through the curdling of their milk"
+   }
+  ],
+  "dosage_notes": [
+   "take four ounces thereof morning and evening first and last",
+   "abstaining from drink after it for three hours"
+  ],
+  "cautions": [],
+  "authority_citations": [
+   "Galen",
+   "Tragus"
+  ]
+ },
+ "resolutions": [
+  {
+   "historical_name": "Parsley",
+   "candidates": [
+    {
+     "scientific_name": "Petroselinum crispum",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Petroselinum sativum",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.45,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Apium graveolens",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.15,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Petroselinum crispum",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Parsley Piert, or Parsley Break",
+   "candidates": [
+    {
+     "scientific_name": "Torilis arvensis",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.92,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Torilis nodosa",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.35,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Torilis japonica",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.1,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Torilis arvensis",
+   "confidence": 0.92,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Petroselinum crispum",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Parsley.",
+     "identifier": "30000940",
+     "year": "2006",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/30000940/",
+     "relevance_note": "Reviews diuretic effects relevant to urinary retention and general digestive support."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Petroselinum crispum (Mill.) Fuss (Parsley): An Updated Review of the Traditional Uses, Phytochemistry, and Pharmacology.",
+     "identifier": "38189231",
+     "year": "2024",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/38189231/",
+     "relevance_note": "Comprehensive review covering traditional uses including digestive aid and potential effects on reproductive health."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Renal health benefits and therapeutic effects of parsley (Petroselinum crispum): a review.",
+     "identifier": "39735703",
+     "year": "2024",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/39735703/",
+     "relevance_note": "Specifically evaluates evidence for renal health and diuretic properties supporting urinary retention claims."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "apiin",
+    "apigenin",
+    "luteolin"
+   ],
+   "summary": "Modern literature supports parsley's traditional use as a diuretic for urinary retention and digestive aid. Evidence regarding uterine effects (amenorrhea) or specific organ stoppage is less robust, often relying on historical context rather than clinical trials."
+  },
+  {
+   "taxon": "Torilis arvensis",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "[D-mannitol from Torilis arvensis (Huds.), Link].",
+     "identifier": "5093350",
+     "year": "1971",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/5093350/",
+     "relevance_note": "Identifies D-mannitol as a constituent; no clinical data supports traditional uses for digestive, neurological, or reproductive conditions."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "D-mannitol"
+   ],
+   "summary": "Modern literature identifies D-mannitol in Torilis arvensis but offers no evidence supporting its traditional use for wind, liver/spleen obstruction, epilepsy, or urinary/menstrual issues. The 2021 retrieved document is unrelated to pharmacology."
+  }
+ ],
+ "concordance": {
+  "grade": "B",
+  "direction": "partial",
+  "rationale": "Modern reviews (PMID: 38189231) confirm diuretic effects supporting urination claims. Carminative properties support wind relief. No evidence supports epilepsy, liver/spleen obstruction, or antivenom uses.",
+  "uncertainty": "Evidence for historical claims varies; some are pharmacologically plausible while others lack modern validation.",
+  "caveats": [
+   "Claims regarding epilepsy and antivenom are unsupported by current science.",
+   "Safety concerns exist for high-dose consumption in specific populations."
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "Galen commended it against the falling sickness",
+   "It is under the dominion of Mercury; is very comfortable to the stomach",
+   "It opens obstructions both of liver and spleen",
+   "PARSLEY PIERT, OR PARSLEY BREAK",
+   "THIS is so well known, that it needs no description.",
+   "The distilled water of Parsley is a familiar medicine",
+   "The leaves of Parsley laid to the eyes that are inflamed with heat, or swollen, doth much help them, if it be used with bread or meal",
+   "and is as good against the cough",
+   "and the danger that comes to them that have the lethargy",
+   "effectual against the venom of any poisonous creature",
+   "especially if the roots be boiled, and eaten like Parsnips.",
+   "to break wind both in the stomach and bowels"
+  ],
+  "quotes_failed": [
+   "and being fried with butter, and applied to women's breasts that are hard through the curdling of their milk",
+   "helps to provoke urine and women's courses"
+  ],
+  "issues": [
+   "Unearned Grade B: The concordance grade 'B' with a 'partial' direction is unjustified because the entry explicitly flags one of the primary claims ('urination') as having failed verification. A claim that has been mechanically confirmed as false (via `quotes_failed`) should not contribute to a positive or partially positive grade without significant qualification or a downgrade to 'C'/'D' reflecting the partial failure. The rationale cites support for diuretic effects but ignores the specific failure of the quote regarding 'women's courses', creating an incomplete assessment of the evidence base."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T07:14:47Z"
+ }
+}

@@ -1,0 +1,229 @@
+{
+ "id": "culpeper_244",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Woundwort",
+  "book": "",
+  "chapter": "",
+  "char_start": 611344,
+  "char_end": 613389,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "_Descript._] THIS grows sometimes, with brownish stalks, and other\nwhiles with green, to a man’s height, having narrow green leaves\nsnipped about the edges, somewhat like those of the peach-tree, or\nwillow leaves, but not of such a white green colour. The tops of the\nstalks are furnished with many yellow star-like flowers, standing in\ngreen heads, which when they are fallen, and the seed ripe, which\nis somewhat long, small and of a brown colour, wrapped in down, is\ntherefore carried away with the wind. The root is composed of fibres\nset together at a head, which perishes not in Winter, although the\nstalks dry away and no leaf appears in the Winter. The taste hereof is\nstrong and unpleasant; and so is the smell also.\n\n_Place._] It grows in moist and wet grounds, by wood-sides, and\nsometimes in moist places of shadowy groves, as also by the water side.\n\n_Time._] It flowers in July, and the seed is soon ripe, and carried\naway with the wind.\n\n_Government and virtues._] Saturn owns the herb, and it is of a sober\ncondition, like him. Among the Germans, this wound herb is preferred\nbefore all others of the same quality. Being boiled in wine, and drank,\nit helps the indisposition of the liver, and freeth the gall from\nobstructions; whereby it is good for the yellow jaundice and for the\ndropsy in the beginning of it; for all inward ulcers of the reins,\nmouth or throat, and inward wounds and bruises, likewise for such sores\nas happen in the privy parts of men and women; being steeped in wine,\nand then distilled, the water thereof drank, is singularly good to\nease all gnawings in the stomach, or other pains of the body, as also\nthe pains of the mother: and being boiled in water, it helps continual\nagues; and the said water, or the simple water of the herb distilled,\nor the juice or decoction, are very effectual to heal any green wound,\nor old sore or ulcer whatsoever, cleansing them from corruption, and\nquickly healing them up: Briefly, whatsoever hath been said of bugle or\nsanicle, may be found herein.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Woundwort",
+    "context_quote": "Among the Germans, this wound herb is preferred before all others of the same quality.",
+    "part_used": "The tops of the stalks... The root"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "indisposition of the liver",
+    "context_quote": "Being boiled in wine, and drank, it helps the indisposition of the liver",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "obstructions of the gall",
+    "context_quote": "and freeth the gall from obstructions",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "yellow jaundice",
+    "context_quote": "whereby it is good for the yellow jaundice",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "dropsy",
+    "context_quote": "and for the dropsy in the beginning of it",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "inward ulcers of the reins, mouth or throat",
+    "context_quote": "for all inward ulcers of the reins, mouth or throat",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "inward wounds and bruises",
+    "context_quote": "and inward wounds and bruises",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "sores in the privy parts",
+    "context_quote": "likewise for such sores as happen in the privy parts of men and women",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "gnawings in the stomach",
+    "context_quote": "is singularly good to ease all gnawings in the stomach",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "Boiled in wine and drank",
+    "context_quote": "Being boiled in wine, and drank"
+   },
+   {
+    "kind": "Steeped in wine and distilled",
+    "context_quote": "being steeped in wine, and then distilled, the water thereof drank"
+   },
+   {
+    "kind": "Boiled in water",
+    "context_quote": "and being boiled in water, it helps continual agues"
+   },
+   {
+    "kind": "Distilled water or juice or decoction",
+    "context_quote": "or the simple water of the herb distilled, or the juice or decoction"
+   }
+  ],
+  "dosage_notes": [
+   "The tops... are furnished with many yellow star-like flowers",
+   "The root is composed of fibres set together at a head",
+   "It flowers in July, and the seed is soon ripe"
+  ],
+  "cautions": [
+   "The taste hereof is strong and unpleasant; and so is the smell also.",
+   "It grows in moist and wet grounds, by wood-sides",
+   "The stalks dry away and no leaf appears in the Winter."
+  ],
+  "authority_citations": [
+   "Saturn owns the herb"
+  ]
+ },
+ "resolutions": [
+  {
+   "historical_name": "Woundwort",
+   "candidates": [
+    {
+     "scientific_name": "Plantago lanceolata",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Plantago major",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.6,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Plantago maritima",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.45,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Plantago lanceolata",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Plantago lanceolata",
+   "ema_monograph": {
+    "kind": "EMA_monograph",
+    "title": "Plantaginis lanceolatae folium (ribwort plantain)",
+    "identifier": "https://www.ema.europa.eu/en/medicines/herbal/plantaginis-lanceolatae-folium",
+    "year": "",
+    "url": "https://www.ema.europa.eu/en/medicines/herbal/plantaginis-lanceolatae-folium",
+    "relevance_note": "Validates traditional use for external wounds and bruises, though liver/gall obstructions are not explicitly covered in the modern monograph scope."
+   },
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Traditional wound-healing plants used in the Balkan region (Southeast Europe).",
+     "identifier": "28942136",
+     "year": "2018",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/28942136/",
+     "relevance_note": "Supports traditional use for inward wounds and bruises in Balkan ethnobotany."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Natural antitussive products for children and adolescents: darkness and shadow.",
+     "identifier": "40512457",
+     "year": "2025",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/40512457/",
+     "relevance_note": "Discusses antitussive properties, potentially relevant to throat obstructions."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Efficacy and tolerability of SEDIFLÙ in treating dry or productive cough in the pediatric population (SEPEDIA): A pilot, randomized, double-blind, placebo-controlled, multicenter clinical trial.",
+     "identifier": "38323572",
+     "year": "2024",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/38323572/",
+     "relevance_note": "Evaluates cough efficacy, aligning with traditional throat/mouth use."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "Mucilage",
+    "Iridoids"
+   ],
+   "summary": "Modern evidence confirms wound-healing and antitussive effects. Traditional uses for liver/gall obstructions lack specific modern clinical validation in retrieved literature, suggesting a gap between historical application and current pharmacological data."
+  }
+ ],
+ "concordance": {
+  "grade": "C",
+  "direction": "partial",
+  "rationale": "Modern evidence supports wound healing (PMID: 28942136) but lacks data for liver, gall, jaundice, dropsy, or ulcers. EMA status is true only for wound healing.",
+  "uncertainty": "High uncertainty regarding historical claims of hepatic and biliary efficacy due to absence of modern clinical trials.",
+  "caveats": [
+   "No evidence supports liver/gall/jaundice claims",
+   "Dropsy mechanism unverified in modern literature"
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "Among the Germans, this wound herb is preferred before all others of the same quality.",
+   "Being boiled in wine, and drank",
+   "Being boiled in wine, and drank, it helps the indisposition of the liver",
+   "and being boiled in water, it helps continual agues",
+   "and for the dropsy in the beginning of it",
+   "and freeth the gall from obstructions",
+   "and inward wounds and bruises",
+   "being steeped in wine, and then distilled, the water thereof drank",
+   "for all inward ulcers of the reins, mouth or throat",
+   "is singularly good to ease all gnawings in the stomach",
+   "likewise for such sores as happen in the privy parts of men and women",
+   "or the simple water of the herb distilled, or the juice or decoction",
+   "whereby it is good for the yellow jaundice"
+  ],
+  "quotes_failed": [],
+  "issues": [
+   "Grade 'C' is partially unearned: While EMA status is correctly limited to wound healing (supporting the 'partial' direction), the rationale claims 'High uncertainty regarding historical claims of hepatic and biliary efficacy due to absence of modern clinical trials'. However, the evidence field explicitly lists `pubmed_n: 3`. If these 3 papers address the liver/gall/jaundice claims, the grade should be higher or the uncertainty lower. If they do not, the entry lacks sufficient evidence to support even a 'C' for those specific historical indications without explicit citation of why modern trials are absent for them specifically versus just general lack of data. The discrepancy between `pubmed_n: 3` and the claim of 'absence of modern clinical trials' for hepatic/biliary issues needs clarification in the rationale."
+  ],
+  "verdict": "pass_with_issues"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T06:30:51Z"
+ }
+}

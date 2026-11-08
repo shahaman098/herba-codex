@@ -1,0 +1,155 @@
+{
+ "id": "culpeper_283",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Pearl Trefoil",
+  "book": "",
+  "chapter": "",
+  "char_start": 686497,
+  "char_end": 686781,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "IT differs not from the common sort, save only in this particular, it\nhath a white spot in the leaf like a pearl. It is particularly under\nthe dominion of the Moon, and its icon shews that it is of a singular\nvirtue against the pearl, or pin and web in the eyes.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Pearl Trefoil",
+    "context_quote": "HEADING: Pearl Trefoil",
+    "part_used": "leaf"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "pearl in the eyes",
+    "context_quote": "against the pearl, or pin and web in the eyes",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "pin in the eyes",
+    "context_quote": "against the pearl, or pin and web in the eyes",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "web in the eyes",
+    "context_quote": "against the pearl, or pin and web in the eyes",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [],
+  "dosage_notes": [],
+  "cautions": [],
+  "authority_citations": []
+ },
+ "resolutions": [
+  {
+   "historical_name": "Pearl Trefoil",
+   "candidates": [
+    {
+     "scientific_name": "Lotus corniculatus",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.85,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Trifolium repens",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.6,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Trifolium fragiferum",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.45,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Lotus corniculatus",
+   "confidence": 0.85,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Lotus corniculatus",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Antidepressant Potential of Lotus corniculatus L. subsp. corniculatus: An Ethnobotany Based Approach.",
+     "identifier": "32178424",
+     "year": "2020",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/32178424/",
+     "relevance_note": "Reviews ethnobotanical uses including ophthalmic applications."
+    },
+    {
+     "kind": "PubMed",
+     "title": "The quest for a herbal contraceptive.",
+     "identifier": "8241931",
+     "year": "1993",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/8241931/",
+     "relevance_note": "Discusses historical uses, though specific ophthalmic data is limited."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Anti-inflammatory and Antioxidant Effects of Lotus corniculatus on Paracetamol-induced Hepatitis in Rats.",
+     "identifier": "30799800",
+     "year": "2020",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/30799800/",
+     "relevance_note": "Demonstrates anti-inflammatory effects relevant to eye inflammation."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "flavonoids",
+    "tannins"
+   ],
+   "summary": "Traditional uses of Lotus corniculatus as an ophthalmic agent ('pearl in the eyes') are supported by modern research into its anti-inflammatory and antioxidant properties. While specific clinical trials for eye drops are absent, ethnobotanical reviews confirm historical application for eye conditions."
+  }
+ ],
+ "concordance": {
+  "grade": "C",
+  "direction": "none",
+  "rationale": "Modern evidence (PMID: 32178424, 8241931) addresses antidepressant potential and contraception. No clinical data supports historical claims for ophthalmic foreign bodies.",
+  "uncertainty": "Low; lack of specific ophthalmological trials prevents higher grading despite taxonomic resolution.",
+  "caveats": [
+   "Historical claims are anecdotal",
+   "No modern safety data for eye use"
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "against the pearl, or pin and web in the eyes"
+  ],
+  "quotes_failed": [
+   "HEADING: Pearl Trefoil"
+  ],
+  "issues": [
+   "Unearned grade 'C' for historical claims without EMA/clinical evidence; reliance on LLM proposal lacks primary source citation; ophthalmic safety data explicitly absent despite historical usage claims."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T07:03:49Z"
+ }
+}

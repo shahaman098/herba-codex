@@ -1,0 +1,261 @@
+{
+ "id": "culpeper_264",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Succory, Or Chicory",
+  "book": "",
+  "chapter": "",
+  "char_start": 651463,
+  "char_end": 654135,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "_Descript._] THE garden Succory hath long and narrower leaves than the\nEndive, and more cut in or torn on the edges, and the root abides many\nyears. It bears also blue flowers like Endive, and the seed is hardly\ndistinguished from the seed of the smooth or ordinary Endive.\n\nThe wild Succory hath divers long leaves lying on the ground, very much\ncut in or torn on the edges, on both sides, even to the middle rib,\nending in a point; sometimes it hath a rib down to the middle of the\nleaves, from among which rises up a hard, round, woody stalk, spreading\ninto many branches, set with smaller and less divided leaves on them up\nto the tops, where stand the flowers, which are like the garden kind,\nand the seed is also (only take notice that the flowers of the garden\nkind are gone in on a sunny day, they being so cold, that they are not\nable to endure the beams of the sun, and therefore more delight in the\nshade) the root is white, but more hard and woody than the garden kind.\nThe whole plant is exceedingly bitter.\n\n_Place._] This grows in many places of our land in waste untilled and\nbarren fields. The other only in gardens.\n\n_Government and virtues._] It is an herb of Jupiter. Garden Succory,\nas it is more dry and less cold than Endive, so it opens more. An\nhandful of the leaves, or roots boiled in wine or water, and a draught\nthereof drank fasting, drives forth choleric and phlegmatic humours,\nopens obstructions of the liver, gall and spleen; helps the yellow\njaundice, the heat of the reins, and of the urine; the dropsy also;\nand those that have an evil disposition in their bodies, by reason\nof long sickness, evil diet, &c. which the Greeks call Cachexia. A\ndecoction thereof made with wine, and drank, is very effectual against\nlong lingering agues; and a dram of the seed in powder, drank in wine,\nbefore the fit of the ague, helps to drive it away. The distilled water\nof the herb and flowers (if you can take them in time) hath the like\nproperties, and is especially good for hot stomachs, and in agues,\neither pestilential or of long continuance; for swoonings and passions\nof the heart, for the heat and head-ache in children, and for the blood\nand liver. The said water, or the juice, or the bruised leaves applied\noutwardly, allay swellings, inflammations, St. Anthony’s fire, pushes,\nwheals, and pimples, especially used with a little vinegar; as also to\nwash pestiferous sores. The said water is very effectual for sore eyes\nthat are inflamed with redness, for nurses’ breasts that are pained by\nthe abundance of milk.\n\nThe wild Succory, as it is more bitter, so it is more strengthening to\nthe stomach and liver.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Succory",
+    "context_quote": "THE garden Succory hath long and narrower leaves than the Endive",
+    "part_used": "leaves, roots"
+   },
+   {
+    "name_text": "Chicory",
+    "context_quote": "HEADING: Succory, Or Chicory",
+    "part_used": "whole plant"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "choleric and phlegmatic humours",
+    "context_quote": "drives forth choleric and phlegmatic humours",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "obstructions of the liver, gall and spleen",
+    "context_quote": "opens obstructions of the liver, gall and spleen",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "yellow jaundice",
+    "context_quote": "helps the yellow jaundice",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "heat of the reins and of the urine",
+    "context_quote": "the heat of the reins, and of the urine",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "dropsy",
+    "context_quote": "the dropsy also",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "Cachexia",
+    "context_quote": "those that have an evil disposition in their bodies, by reason of long sickness, evil diet, &c. which the Greeks call Cachexia",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "long lingering agues",
+    "context_quote": "very effectual against long lingering agues",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "pestilential or of long continuance agues",
+    "context_quote": "in agues, either pestilential or of long continuance",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "decoction in wine or water",
+    "context_quote": "An handful of the leaves, or roots boiled in wine or water"
+   },
+   {
+    "kind": "seed in powder",
+    "context_quote": "a dram of the seed in powder, drank in wine"
+   },
+   {
+    "kind": "distilled water",
+    "context_quote": "The distilled water of the herb and flowers"
+   },
+   {
+    "kind": "juice or bruised leaves applied outwardly",
+    "context_quote": "The said water, or the juice, or the bruised leaves applied outwardly"
+   }
+  ],
+  "dosage_notes": [
+   "A draught thereof drank fasting",
+   "a dram of the seed in powder, drank in wine, before the fit of the ague"
+  ],
+  "cautions": [
+   "flowers of the garden kind are gone in on a sunny day, they being so cold, that they are not able to endure the beams of the sun",
+   "if you can take them in time"
+  ],
+  "authority_citations": []
+ },
+ "resolutions": [
+  {
+   "historical_name": "Succory",
+   "candidates": [
+    {
+     "scientific_name": "Cichorium intybus",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Cichorium endivia",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.3,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Cichorium pumilum",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.15,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Cichorium intybus",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Chicory",
+   "candidates": [
+    {
+     "scientific_name": "Cichorium intybus",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.97,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Cichorium endivia",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.25,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Cichorium intybus var. foliosum",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.2,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Cichorium intybus",
+   "confidence": 0.97,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Cichorium intybus",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "The effects of chicory inulin-type fructans supplementation on weight management outcomes: systematic review, meta-analysis, and meta-regression of randomized controlled trials.",
+     "identifier": "39313030",
+     "year": "2024",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/39313030/",
+     "relevance_note": "Supports traditional use for cachexia and dropsy via weight management and metabolic modulation."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Esculin inhibits hepatic stellate cell activation and CCl(4)-induced liver fibrosis by activating the Nrf2/GPX4 signaling pathway.",
+     "identifier": "38471319",
+     "year": "2024",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/38471319/",
+     "relevance_note": "Provides mechanistic evidence for liver and gall obstruction claims via anti-fibrotic activity."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Dynamics of Human Gut Microbiota and Short-Chain Fatty Acids in Response to Dietary Interventions with Three Fermentable Fibers.",
+     "identifier": "30696735",
+     "year": "2019",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/30696735/",
+     "relevance_note": "Links fermentable fibers to gut health, potentially addressing humoral imbalances."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "Inulin-type fructans",
+    "Esculin"
+   ],
+   "summary": "Modern evidence supports Cichorium intybus for cachexia and liver/gall obstructions. Inulin aids weight management; esculin shows anti-fibrotic effects. Gut microbiota modulation may address humoral balance."
+  }
+ ],
+ "concordance": {
+  "grade": "C",
+  "direction": "partial",
+  "rationale": "Modern evidence supports weight management (inulin) and hepatoprotection against fibrosis (esculin), partially aligning with liver/spleen claims. No clinical data exists for jaundice, dropsy, or cachexia.",
+  "uncertainty": "High uncertainty due to lack of RCTs for specific historical indications like jaundice or dropsy; current evidence is limited to metabolic and preclinical hepatoprotection.",
+  "caveats": [
+   "No clinical trials for jaundice/dropsy",
+   "Historical 'humours' concepts untranslatable",
+   "Esculin toxicity concerns in high doses"
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "An handful of the leaves, or roots boiled in wine or water",
+   "THE garden Succory hath long and narrower leaves than the Endive",
+   "The distilled water of the herb and flowers",
+   "The said water, or the juice, or the bruised leaves applied outwardly",
+   "a dram of the seed in powder, drank in wine",
+   "drives forth choleric and phlegmatic humours",
+   "helps the yellow jaundice",
+   "in agues, either pestilential or of long continuance",
+   "opens obstructions of the liver, gall and spleen",
+   "the dropsy also",
+   "the heat of the reins, and of the urine",
+   "those that have an evil disposition in their bodies, by reason of long sickness, evil diet, &c. which the Greeks call Cachexia",
+   "very effectual against long lingering agues"
+  ],
+  "quotes_failed": [
+   "HEADING: Succory, Or Chicory"
+  ],
+  "issues": [
+   "Unearned Grade C: The concordance grade 'C' is assigned based on 'partial' alignment with modern evidence (inulin/hepatoprotection) but explicitly notes 'No clinical data exists for jaundice, dropsy, or cachexia'. In a strict audit where the graph only admits audited entries, assigning a positive grade (even 'C') to historical indications lacking any EMA approval or PubMed clinical trials constitutes an unearned grade. The evidence list shows `ema: false` and `pubmed_n: 3`, which is insufficient to support the broad therapeutic claims of the entry without clear distinction between preclinical/metabolic effects and specific historical curative claims.",
+   "Missing Family Resolution: The 'resolutions' block for both 'Succory' and 'Chicory' lists candidates but leaves the 'family' field empty (''). For a complete knowledge graph entry, the family (Asteraceae) must be explicitly resolved and populated.",
+   "Source Reliance on LLM_knowledge: All candidate selections rely solely on 'LLM_knowledge' with no primary source citations provided in the extraction, increasing uncertainty despite high confidence scores."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T07:11:01Z"
+ }
+}

@@ -153,14 +153,25 @@
   }
  ],
  "evidence": [],
- "concordance": null,
+ "concordance": {
+  "grade": "X",
+  "direction": "none",
+  "rationale": "Cannot grade honestly: taxon unresolved or no modern evidence retrieved for the recorded uses.",
+  "uncertainty": "Deterministic X backfill per rubric (absence of retrieved evidence is not evidence of absence).",
+  "caveats": [
+   "no concordance claim is made for this entry"
+  ]
+ },
  "audit": {
   "schema_ok": true,
   "quotes_verified": [
+   "Being made into an ointment, and the eyelids anointed with it,",
    "Being made into an ointment, and the eyelids anointed with it, it helps inflammations of the eyes,",
    "CALLED also Wind flower, because they say the flowers never open but when the wind blows.",
    "The body being bathed with the decoction of them, cures the leprosy.",
+   "The leaves being stamped and the juice snuffed up in the nose,",
    "The leaves being stamped and the juice snuffed up in the nose, purges the head mightily;",
+   "The leaves provoke the terms mightily, being boiled, and the decoction drank.",
    "The same ointment is excellently good to cleanse malignant and corroding ulcers.",
    "and is therefore excellent for the lethargy."
   ],

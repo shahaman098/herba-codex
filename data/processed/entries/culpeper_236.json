@@ -218,6 +218,8 @@
  "audit": {
   "schema_ok": true,
   "quotes_verified": [
+   "A decoction thereof with some dried dill leaves and flowers",
+   "An ointment made of the juice thereof with oil of roses, ceruse, and a little vinegar",
    "GARDEN-RUE is so well known by this name",
    "and the name Herb of Grace",
    "causes all venomous things to become harmless",
@@ -229,6 +231,7 @@
    "the tormenting pains of the sciatica and the joints"
   ],
   "quotes_failed": [
+   "Another electuary is made thus: Take of nitre, pepper, and cummin seed... of the leaves of Rue clean picked... beat them well together",
    "Mithridate's counter-poison against the plague"
   ],
   "issues": [

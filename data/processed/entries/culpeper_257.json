@@ -1,0 +1,201 @@
+{
+ "id": "culpeper_257",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Wood Sorrel",
+  "book": "",
+  "chapter": "",
+  "char_start": 638444,
+  "char_end": 640476,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "_Descript._] THIS grows upon the ground, having a number of leaves\ncoming from the root made of three leaves, like a trefoil, but broad\nat the ends, and cut in the middle, of a yellowish green colour, every\none standing on a long foot-stalk, which at their first coming up are\nclose folded together to the stalk, but opening themselves afterwards,\nand are of a fine sour relish, and yielding a juice which will turn\nred when it is clarified, and makes a most dainty clear syrup. Among\nthese leaves rise up divers slender, weak foot-stalks, with every one\nof them a flower at the top, consisting of five small pointed leaves,\nstar-fashion, of a white colour, in most places, and in some dashed\nover with a small show of blueish, on the back side only. After the\nflowers are past, follow small round heads, with small yellowish seed\nin them. The roots are nothing but small strings fastened to the end of\na small long piece; all of them being of a yellowish colour.\n\n_Place._] It grows in many places of our land, in woods and wood-sides,\nwhere they be moist and shadowed, and in other places not too much upon\nthe Sun.\n\n_Time._] It flowers in April and May.\n\n_Government and virtues._] Venus owns it. Wood Sorrel serves to all the\npurposes that the other Sorrels do, and is more effectual in hindering\nputrefaction of blood, and ulcers in the mouth and body, and to quench\nthirst, to strengthen a weak stomach, to procure an appetite, to stay\nvomiting, and very excellent in any contagious sickness or pestilential\nfevers. The syrup made of the juice, is effectual in all the cases\naforesaid, and so is the distilled water of the herb. Sponges or linen\ncloths wet in the juice and applied outwardly to any hot swelling or\ninflammations, doth much cool and help them. The same juice taken\nand gargled in the mouth, and after it is spit forth, taken afresh,\ndoth wonderfully help a foul stinking canker or ulcer therein. It is\nsingularly good to heal wounds, or to stay the bleeding of thrusts or\nscabs in the body.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Wood Sorrel",
+    "context_quote": "THIS grows upon the ground, having a number of leaves coming from the root made of three leaves, like a trefoil",
+    "part_used": "leaves"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "putrefaction of blood",
+    "context_quote": "more effectual in hindering putrefaction of blood",
+    "polarity": "prevents",
+    "strength": "claimed"
+   },
+   {
+    "name": "ulcers in the mouth and body",
+    "context_quote": "and ulcers in the mouth and body",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "thirst",
+    "context_quote": "to quench thirst",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "weak stomach",
+    "context_quote": "to strengthen a weak stomach",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "loss of appetite",
+    "context_quote": "to procure an appetite",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "vomiting",
+    "context_quote": "to stay vomiting",
+    "polarity": "prevents",
+    "strength": "claimed"
+   },
+   {
+    "name": "contagious sickness or pestilential fevers",
+    "context_quote": "very excellent in any contagious sickness or pestilential fevers",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "hot swelling or inflammations",
+    "context_quote": "applied outwardly to any hot swelling or inflammations, doth much cool and help them",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "syrup",
+    "context_quote": "yielding a juice which will turn red when it is clarified, and makes a most dainty clear syrup"
+   },
+   {
+    "kind": "distilled water",
+    "context_quote": "and so is the distilled water of the herb"
+   },
+   {
+    "kind": "topical application",
+    "context_quote": "Sponges or linen cloths wet in the juice and applied outwardly"
+   },
+   {
+    "kind": "gargle",
+    "context_quote": "The same juice taken and gargled in the mouth, and after it is spit forth, taken afresh"
+   }
+  ],
+  "dosage_notes": [
+   "Syrup made of the juice is effectual in all the cases aforesaid",
+   "Distilled water of the herb is also effective",
+   "Juice applied to swellings or gargled for ulcers"
+  ],
+  "cautions": [],
+  "authority_citations": []
+ },
+ "resolutions": [
+  {
+   "historical_name": "Wood Sorrel",
+   "candidates": [
+    {
+     "scientific_name": "Oxalis acetosella",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Oxalis stricta",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.75,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Oxalis montana",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.6,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Oxalis acetosella",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Oxalis acetosella",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Potentials and challenges of an integrative medicine protocol in intensive care: the perspective of intensive care nurses.",
+     "identifier": "42237325",
+     "year": "2026",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42237325/",
+     "relevance_note": "No direct evidence found for treating ulcers, blood putrefaction, or appetite loss in this study."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "Oxalic acid",
+    "Vitamin C"
+   ],
+   "summary": "Traditional uses for mouth ulcers and digestive issues lack modern clinical support. The only retrieved document (PMID 42237325) addresses ICU nursing protocols, not herbal efficacy for these specific conditions."
+  }
+ ],
+ "concordance": {
+  "grade": "C",
+  "direction": "partial",
+  "rationale": "Modern evidence (PMID: 42237325) is a nursing perspective on ICU protocols, not clinical trials for Wood Sorrel. No specific data supports historical claims of treating ulcers, thirst, or fevers.",
+  "uncertainty": "High due to lack of direct therapeutic studies for Oxalis acetosella in the provided evidence set.",
+  "caveats": [
+   "Oxalis contains oxalic acid; caution advised for renal issues.",
+   "Historical claims lack modern pharmacological validation."
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "Sponges or linen cloths wet in the juice and applied outwardly",
+   "THIS grows upon the ground, having a number of leaves coming from the root made of three leaves, like a trefoil",
+   "The same juice taken and gargled in the mouth, and after it is spit forth, taken afresh",
+   "and so is the distilled water of the herb",
+   "and ulcers in the mouth and body",
+   "applied outwardly to any hot swelling or inflammations, doth much cool and help them",
+   "more effectual in hindering putrefaction of blood",
+   "to procure an appetite",
+   "to quench thirst",
+   "to stay vomiting",
+   "to strengthen a weak stomach",
+   "very excellent in any contagious sickness or pestilential fevers",
+   "yielding a juice which will turn red when it is clarified, and makes a most dainty clear syrup"
+  ],
+  "quotes_failed": [],
+  "issues": [
+   "Grade 'C' is unearned: The evidence set contains only 1 PubMed citation (PMID: 42237325) which is a nursing perspective on ICU protocols, not clinical trials for Oxalis acetosella. There is no EMA approval or direct therapeutic data to support any efficacy claim, yet the entry implies historical claims of treating ulcers/thirst/fevers without validation. The rationale correctly identifies the lack of support but the grade 'C' (implying partial evidence) is misleading given the total absence of relevant clinical/pharmacological evidence for the specific taxon.",
+   "downgraded: quote failures were heading quotes"
+  ],
+  "verdict": "pass_with_issues"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T07:26:14Z"
+ }
+}

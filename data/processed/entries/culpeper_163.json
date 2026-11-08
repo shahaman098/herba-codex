@@ -1,0 +1,267 @@
+{
+ "id": "culpeper_163",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Flowers",
+  "book": "",
+  "chapter": "",
+  "char_start": 402193,
+  "char_end": 404972,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "IT is likewise called Grass-polly.\n\n_Descript._] This grows with many woody square stalks, full of joints,\nabout three feet high at least; at every one whereof stand two long\nleaves, shorter, narrower, and a greener colour than the former, and\nsome brownish. The stalks are branched into many long stems of spiked\nflowers half a foot long, growing in bundles one above another, out\nof small husks, very like the spiked heads of Lavender, each of which\nflowers have five round-pointed leaves of a purple violet colour, or\nsomewhat inclining to redness; in which husks stand small round heads\nafter the flowers are fallen, wherein is contained small seed. The\nroot creeps under ground like unto the yellow, but is greater than it,\nand so are the heads of the leaves when they first appear out of the\nground, and more brown than the other.\n\n_Place._] It grows usually by rivers, and ditch-sides in wet ground, as\nabout the ditches at and near Lambeth, and in many places of this land.\n\n_Time._] It flowers in the months of June and July.\n\n_Government and virtues._] It is an herb of the Moon, and under the\nsign Cancer; neither do I know a better preserver of the sight when\nit is well, nor a better cure for sore eyes than Eyebright, taken\ninwardly, and this used outwardly; it is cold in quality. This herb\nis nothing inferior to the former, it having not only all the virtues\nwhich the former hath, but more peculiar virtues of its own, found\nout by experience; as, namely, The distilled water is a present\nremedy for hurts and blows on the eyes, and for blindness, so as the\nChristalline humours be not perished or hurt; and this hath been\nsufficiently proved true by the experience of a man of judgment, who\nkept it long to himself as a great secret. It clears the eyes of dust,\nor any thing gotten into them, and preserves the sight. It is also very\navailable against wounds and thrusts, being made into an ointment in\nthis manner: To every ounce of the water, add two drams of May butter\nwithout salt, and of sugar and wax, of each as much also; let them\nboil gently together. Let tents dipped into the liquor that remains\nafter it is cold, be put into the wounds, and the place covered with\na linen cloth doubled and anointed with the ointment; and this is also\nan approved medicine. It likewise cleanses and heals all foul ulcers,\nand sores whatsoever, and stays their inflammations by washing them\nwith the water, and laying on them a green leaf or two in the Summer,\nor dry leaves in the Winter. This water, gargled warm in the mouth,\nand sometimes drank also, doth cure the quinsy, or king’s evil in the\nthroat. The said water applied warm, takes away all spots, marks, and\nscabs in the skin; and a little of it drank, quenches thirst when it is\nextreme.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Grass-polly",
+    "context_quote": "IT is likewise called Grass-polly.",
+    "part_used": "Flowers"
+   },
+   {
+    "name_text": "Eyebright",
+    "context_quote": "nor a better cure for sore eyes than Eyebright, taken inwardly, and this used outwardly",
+    "part_used": "Flowers"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "sore eyes",
+    "context_quote": "nor a better cure for sore eyes than Eyebright",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "blindness",
+    "context_quote": "The distilled water is a present remedy for hurts and blows on the eyes, and for blindness",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "dust in eyes",
+    "context_quote": "It clears the eyes of dust, or any thing gotten into them",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "wounds and thrusts",
+    "context_quote": "It is also very available against wounds and thrusts",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "foul ulcers",
+    "context_quote": "This herb... cleanses and heals all foul ulcers, and sores whatsoever",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "inflammations",
+    "context_quote": "and stays their inflammations by washing them with the water",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "quinsy",
+    "context_quote": "This water, gargled warm in the mouth... doth cure the quinsy",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "king's evil",
+    "context_quote": "or king's evil in the throat",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "distilled water",
+    "context_quote": "The distilled water is a present remedy for hurts and blows on the eyes"
+   },
+   {
+    "kind": "ointment",
+    "context_quote": "being made into an ointment in this manner: To every ounce of the water, add two drams of May butter without salt, and of sugar and wax, of each as much also; let them boil gently together"
+   },
+   {
+    "kind": "gargle",
+    "context_quote": "This water, gargled warm in the mouth"
+   }
+  ],
+  "dosage_notes": [
+   "taken inwardly",
+   "drank also",
+   "a little of it drank"
+  ],
+  "cautions": [
+   "so as the Christalline humours be not perished or hurt",
+   "cold in quality",
+   ""
+  ],
+  "authority_citations": []
+ },
+ "resolutions": [
+  {
+   "historical_name": "Grass-polly",
+   "candidates": [
+    {
+     "scientific_name": "Galium mollugo",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.85,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Galium verum",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.6,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Galium aparine",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.45,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Galium mollugo",
+   "confidence": 0.85,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Eyebright",
+   "candidates": [
+    {
+     "scientific_name": "Euphrasia officinalis",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Euphrasia ciliata",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.7,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Euphrasia rostkoviana",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.55,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Euphrasia officinalis",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Galium mollugo",
+   "ema_monograph": null,
+   "pubmed": [],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "tannins",
+    "flavonoids"
+   ],
+   "summary": "No modern clinical or chemical evidence was retrieved for Galium mollugo regarding its traditional uses for eye conditions or wounds. While historical texts cite applications for sore eyes and ulcers, current literature lacks specific studies validating these effects."
+  },
+  {
+   "taxon": "Euphrasia officinalis",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Chemical Characterization and Assessment of the Neuroprotective Potential of Euphrasia officinalis.",
+     "identifier": "39684612",
+     "year": "2024",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/39684612/",
+     "relevance_note": "Characterizes neuroprotective potential, distinct from traditional eye wash uses."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Protective Effects of Euphrasia officinalis Extract against Ultraviolet B-Induced Photoaging in Normal Human Dermal Fibroblasts.",
+     "identifier": "30366440",
+     "year": "2018",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/30366440/",
+     "relevance_note": "Demonstrates skin protection against UV, not direct ocular inflammation treatment."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Revealing the Phenolic Composition and the Antioxidant, Antimicrobial and Antiproliferative Activities of Two Euphrasia sp. Extracts.",
+     "identifier": "38999630",
+     "year": "2024",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/38999630/",
+     "relevance_note": "Confirms antimicrobial and antioxidant activities relevant to wound healing and inflammation."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "phenolic acids",
+    "flavonoids"
+   ],
+   "summary": "Modern research confirms Euphrasia officinalis possesses significant antioxidant, antimicrobial, and antiproliferative activities. While specific clinical trials for treating 'sore eyes' or 'dust in eyes' are absent from the retrieved data, the confirmed antimicrobial properties support its historical application for foul ulcers and wound care."
+  }
+ ],
+ "concordance": {
+  "grade": "C",
+  "direction": "partial",
+  "rationale": "Modern evidence (PMID: 39684612, 30366440) supports neuroprotective and UV-protective effects of Euphrasia officinalis. No clinical trials confirm historical claims for sore eyes, blindness, or ulcers.",
+  "uncertainty": "Clinical efficacy for ocular conditions remains unproven; evidence is limited to preclinical mechanisms.",
+  "caveats": [
+   "No EMA approval",
+   "Lack of human trials for specific indications"
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "IT is likewise called Grass-polly.",
+   "It clears the eyes of dust, or any thing gotten into them",
+   "It is also very available against wounds and thrusts",
+   "The distilled water is a present remedy for hurts and blows on the eyes",
+   "The distilled water is a present remedy for hurts and blows on the eyes, and for blindness",
+   "This water, gargled warm in the mouth",
+   "and stays their inflammations by washing them with the water",
+   "being made into an ointment in this manner: To every ounce of the water, add two drams of May butter without salt, and of sugar and wax, of each as much also; let them boil gently together",
+   "nor a better cure for sore eyes than Eyebright",
+   "nor a better cure for sore eyes than Eyebright, taken inwardly, and this used outwardly"
+  ],
+  "quotes_failed": [
+   "This herb... cleanses and heals all foul ulcers, and sores whatsoever",
+   "This water, gargled warm in the mouth... doth cure the quinsy",
+   "or king's evil in the throat"
+  ],
+  "issues": [
+   "Unearned Grade C: The concordance grade 'C' is partially justified by the lack of clinical trials for ocular conditions (Euphrasia officinalis), but the complete absence of EMA approval and human trial data for *both* taxa (Galium mollugo and Euphrasia officinalis) regarding the specific historical claims (ulcers, quinsy, king's evil) renders the 'C' grade misleadingly optimistic. The evidence supports only preclinical mechanisms, not clinical efficacy for the stated indications.",
+   "Missing Evidence: No EMA approval or PubMed citations support the healing of ulcers, quinsy, or scrofula ('king's evil') for either selected taxon."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T06:57:25Z"
+ }
+}

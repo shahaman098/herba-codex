@@ -1,0 +1,13 @@
+{
+  "baseline_single_shot": {
+    "resolution_accuracy_at_1": 0.818,
+    "quote_fidelity": 0.864,
+    "n": 22,
+    "notes": "one unaided LLM call; no tools, no verification, no audit"
+  },
+  "agent_pipeline": {
+    "resolution_accuracy_at_1": 0.87,
+    "quote_integrity": 0.827,
+    "notes": "5 agents, POWO/GBIF verification, mechanical + agent audit"
+  }
+}

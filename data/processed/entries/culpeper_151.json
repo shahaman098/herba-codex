@@ -1,0 +1,204 @@
+{
+ "id": "culpeper_151",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Knapweed",
+  "book": "",
+  "chapter": "",
+  "char_start": 381400,
+  "char_end": 383373,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "_Descript._] THE common sort hereof has many long and somewhat dark\ngreen leaves, rising from the root, dented about the edges, and\nsometimes a little rent or torn on both sides in two or three places,\nand somewhat hairy withal; amongst which arises a long round stalk,\nfour or five feet high, divided into many branches, at the tops whereof\nstand great scaly green heads, and from the middle of them thrust forth\na number of dark purplish red thrumbs or threads, which after they are\nwithered and past, there are found divers black seeds, lying in a great\ndeal of down, somewhat like unto Thistle seed, but smaller; the root\nis white, hard and woody, and divers fibres annexed thereunto, which\nperishes not, but abides with leaves thereon all the Winter, shooting\nout fresh every spring.\n\n_Place._] It grows in most fields and meadows, and about their borders\nand hedges, and in many waste grounds also every where.\n\n_Time._] It usually flowers in June and July, and the seed is ripe\nshortly after.\n\n_Government and virtues._] Saturn challenges the herb for his own. This\nKnapweed helps to stay fluxes, both of blood at the mouth or nose,\nor other outward parts, and those veins that are inwardly broken, or\ninward wounds, as also the fluxes of the belly; it stays distillation\nof thin and sharp humours from the head upon the stomach and lungs; it\nis good for those that are bruised by any fall, blows or otherwise,\nand is profitable for those that are bursten, and have ruptures, by\ndrinking the decoction of the herb and roots in wine, and applying\nthe same outwardly to the place. It is singularly good in all running\nsores, cancerous and fistulous, drying up of the moisture, and healing\nthem up so gently, without sharpness; it doth the like to running sores\nor scabs of the head or other parts. It is of special use for the\nsoreness of the throat, swelling of the uvula and jaws, and excellently\ngood to stay bleeding, and heal up all green wounds.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Knapweed",
+    "context_quote": "THE common sort hereof has many long and somewhat dark green leaves",
+    "part_used": "leaves, root, stalk"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "fluxes of blood at the mouth or nose",
+    "context_quote": "This Knapweed helps to stay fluxes, both of blood at the mouth or nose",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "inward wounds",
+    "context_quote": "or other outward parts, and those veins that are inwardly broken, or inward wounds",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "fluxes of the belly",
+    "context_quote": "as also the fluxes of the belly",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "distillation of thin and sharp humours from the head upon the stomach and lungs",
+    "context_quote": "it stays distillation of thin and sharp humours from the head upon the stomach and lungs",
+    "polarity": "prevents",
+    "strength": "claimed"
+   },
+   {
+    "name": "bruises by any fall, blows or otherwise",
+    "context_quote": "and is good for those that are bruised by any fall, blows or otherwise",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "ruptures",
+    "context_quote": "and is profitable for those that are bursten, and have ruptures",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "running sores, cancerous and fistulous",
+    "context_quote": "It is singularly good in all running sores, cancerous and fistulous",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "scabs of the head or other parts",
+    "context_quote": "or scabs of the head or other parts",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "decoction of the herb and roots in wine",
+    "context_quote": "by drinking the decoction of the herb and roots in wine"
+   },
+   {
+    "kind": "outward application",
+    "context_quote": "and applying the same outwardly to the place"
+   }
+  ],
+  "dosage_notes": [],
+  "cautions": [],
+  "authority_citations": []
+ },
+ "resolutions": [
+  {
+   "historical_name": "Knapweed",
+   "candidates": [
+    {
+     "scientific_name": "Centaurea cyanus",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.85,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Centaurea nigra",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.75,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Centaurea solstitialis",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.6,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Centaurea cyanus",
+   "confidence": 0.85,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Centaurea cyanus",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Plant Extracts as Skin Care and Therapeutic Agents.",
+     "identifier": "37895122",
+     "year": "2023",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/37895122/",
+     "relevance_note": "Reviews general plant extracts for skin care; no specific data on Centaurea cyanus wound healing or hemostasis found in this document."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Radionuclides: Accumulation and Transport in Plants.",
+     "identifier": "27300012",
+     "year": "2017",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/27300012/",
+     "relevance_note": "Discusses radionuclide transport; irrelevant to traditional uses of wounds, bleeding, or humoral distillation."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Regional diversity of the ALS gene and hormesis due to tribenuron-methyl in Centaurea cyanus L.",
+     "identifier": "39448670",
+     "year": "2024",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/39448670/",
+     "relevance_note": "Focuses on herbicide resistance genetics; does not address therapeutic applications for injuries or internal fluxes."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "Cyanidin",
+    "Quercetin"
+   ],
+   "summary": "No modern clinical evidence was found in the retrieved documents supporting the traditional use of Centaurea cyanus for treating wounds, hemorrhages, or internal fluxes. The available literature focuses on skin care agents generally, radionuclide transport, and herbicide resistance genetics, none of which validate the specific historical indications recorded."
+  }
+ ],
+ "concordance": {
+  "grade": "C",
+  "direction": "partial",
+  "rationale": "Modern evidence (PMID: 37895122) notes general skin/therapeutic potential but lacks specific clinical data for hemostasis or internal fluxes. Evidence (PMID: 27300012) addresses radionuclide accumulation, not therapeutic efficacy.",
+  "uncertainty": "High uncertainty due to absence of randomized controlled trials or pharmacological studies validating historical claims for Centaurea cyanus.",
+  "caveats": [
+   "No EMA approval",
+   "Safety concerns regarding pyrrolizidine alkaloids in related species"
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "It is singularly good in all running sores, cancerous and fistulous",
+   "THE common sort hereof has many long and somewhat dark green leaves",
+   "This Knapweed helps to stay fluxes, both of blood at the mouth or nose",
+   "and applying the same outwardly to the place",
+   "and is profitable for those that are bursten, and have ruptures",
+   "as also the fluxes of the belly",
+   "by drinking the decoction of the herb and roots in wine",
+   "it stays distillation of thin and sharp humours from the head upon the stomach and lungs",
+   "or other outward parts, and those veins that are inwardly broken, or inward wounds",
+   "or scabs of the head or other parts"
+  ],
+  "quotes_failed": [
+   "and is good for those that are bruised by any fall, blows or otherwise"
+  ],
+  "issues": [
+   "Unearned Grade: The entry received a 'C' grade with 'High uncertainty', yet the rationale cites lack of clinical data. However, the specific claim in the failed quote ('good for bruises') represents a direct therapeutic efficacy claim which is explicitly unsupported by the provided evidence (PMID 37895122 notes general potential but lacks specific clinical data; PMID 27300012 addresses radionuclides). Including an unverified historical therapeutic claim without supporting RCTs or pharmacological validation in the 'evidence' section constitutes an unearned grade for that specific claim.",
+   "Completeness Gap: The 'resolutions' section lists three candidates but only resolves one ('Centaurea cyanus'). While this may be intentional, the lack of resolution status for 'Centaurea nigra' and 'Centaurea solstitialis' leaves ambiguity if they were considered distractors or if the entry is incomplete regarding species differentiation."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T06:17:07Z"
+ }
+}

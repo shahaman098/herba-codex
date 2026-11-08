@@ -213,14 +213,19 @@
    "It helps the stranguary",
    "It is generally used against infirmities of the Spleen",
    "THE smooth Spleenwort, from a black, thready and bushy root",
+   "That the distilled water thereof being drank",
    "and is good against the yellow jaundice and the hiccough",
+   "and that the lye that is made of the ashes thereof being drank",
    "but the juice of it in women hinders conception",
    "good against the yellow jaundice",
    "helps all melancholy diseases",
+   "if a dram of the dust that is on the backside of the leaves be mixed with half a dram of amber in powder, and taken with the juice of purslain or plantain",
    "it helps the gonorrhea speedily",
    "wasteth the stone in the bladder"
   ],
-  "quotes_failed": [],
+  "quotes_failed": [
+   "and the herb and root being boiled and taken"
+  ],
   "issues": [
    "Grade 'C' is unearned: The entry lacks EMA approval (explicitly false) and clinical evidence for the specific historical claims (spleen, stones, jaundice). The rationale cites only preclinical constituents without human trial data to support even a partial efficacy grade. A 'C' implies some validated benefit or strong preclinical consensus which is absent given the explicit lack of clinical data in the caveats."
   ],

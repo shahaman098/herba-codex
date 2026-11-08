@@ -256,8 +256,11 @@
  "audit": {
   "schema_ok": true,
   "quotes_verified": [
+   "Flowers of the White Archangel are preserved or conserved to be used",
    "Flowers of the White Archangel are preserved or conserved to be used to stay the whites",
    "This is likewise called Bee Nettle",
+   "applying the herb hot into the region of the spleen as a plaister",
+   "by using the decoction of the herb in wine",
    "doth much allay the pains, and give ease to the gout, sciatica, and other pains of the joints and sinews",
    "drives away melancholy",
    "is good against quartan agues",
@@ -267,7 +270,8 @@
    "used with better success for the stopping and hardness of the spleen"
   ],
   "quotes_failed": [
-   "laid upon a hard tumour or swelling, or that vulgarly called the king's evil, do help to dissolve or discuss them"
+   "laid upon a hard tumour or swelling, or that vulgarly called the king's evil, do help to dissolve or discuss them",
+   "the herb also bruised, and with some salt and vinegar and hog's-grease"
   ],
   "issues": [
    "Unearned Grade: The entry received a 'D' grade with rationale citing lack of clinical data for specific historical claims (spleen, leukorrhea, melancholy). However, the failed quote regarding 'king's evil' (scrofula) represents a major historical claim that is explicitly unsupported by modern evidence. While the rationale mentions this, the presence of a confirmed failed quote regarding such a significant claim without any mitigating evidence in the graph makes the overall validation strict fail. The grade 'D' implies some validity or partial support which is contradicted by the failure of the primary historical indication (King's Evil) to have supporting evidence.",

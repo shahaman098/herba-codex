@@ -1,0 +1,236 @@
+{
+ "id": "culpeper_093",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Dill",
+  "book": "",
+  "chapter": "",
+  "char_start": 241457,
+  "char_end": 245821,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "_Descript._] THE common Dill grows up with seldom more than one stalk,\nneither so high, nor so great usually as Fennel, being round and fewer\njoints thereon, whose leaves are sadder, and somewhat long, and so like\nFennel that it deceives many, but harder in handling, and somewhat\nthicker, and of a strong unpleasant scent: The tops of the stalks have\nfour branches and smaller umbels of yellow flowers, which turn into\nsmall seed, somewhat flatter and thinner than Fennel seed. The root is\nsomewhat small and woody, perishes every year after it hath borne seed:\nand is also unprofitable, being never put to any use.\n\n_Place._] It is most usually sown in gardens and grounds for the\npurpose, and is also found wild in many places.\n\n_Government and virtues._] Mercury has the dominion of this plant, and\ntherefore to be sure it strengthens the brain. The Dill being boiled\nand drank, is good to ease swellings and pains; it also stays the belly\nand stomach from casting. The decoction therefore helps women that\nare troubled with the pains and windiness of the mother, if they sit\ntherein. It stays the hiccough, being boiled in wine, and but smelled\nunto being tied in a cloth. The seed is of more use than the leaves,\nand more effectual to digest raw and vicious humours, and is used in\nmedicines that serve to expel wind, and the pains proceeding therefrom.\nThe seed, being roasted or fried, and used in oils or plasters,\ndissolve the imposthumes in the fundament; and dries up all moist\nulcers, especially in the fundament; an oil made of Dill is effectual\nto warm or dissolve humours and imposthumes, and the pains, and to\nprocure rest. The decoction of Dill, be it herb or seed (only if you\nboil the seed you must bruise it) in white wine, being drank, it is a\ngallant expeller of wind, and provoker of the terms.\n\n    DEVIL’S-BIT.\n\n_Descript._] THIS rises up with a round green smooth stalk, about two\nfeet high, set with divers long and somewhat narrow, smooth, dark green\nleaves, somewhat nipped about the edges, for the most part, being else\nall whole, and not divided at all, or but very seldom, even to the\ntops of the branches, which yet are smaller than those below, with\none rib only in the middle. At the end of each branch stands a round\nhead of many flowers set together in the same manner, or more neatly\nthan Scabions, and of a bluish purple colour, which being past, there\nfollows seed which falls away. The root is somewhat thick, but short\nand blackish, with many strings, abiding after seed time many years.\nThis root was longer, until the devil (as the friars say) bit away the\nrest of it for spite, envying its usefulness to mankind; for sure he\nwas not troubled with any disease for which it is proper.\n\nThere are two other sorts hereof, in nothing unlike the former, save\nthat the one bears white, and the other bluish-coloured flowers.\n\n_Place._] The first grows as well in dry meadows and fields as moist,\nin many places of this land: But the other two are more rare, and hard\nto be met with, yet they are both found growing wild about Appledore,\nnear Rye in Kent.\n\n_Time._] They flower not usually until August.\n\n_Government and virtues._] The plant is venereal, pleasing, and\nharmless. The herb or the root (all that the devil hath left of it)\nbeing boiled in wine, and drank, is very powerful against the plague,\nand all pestilential diseases or fevers, poisons also, and the bitings\nof venemous beasts: It helps also those that are inwardly bruised by\nany casuality, or outwardly by falls or blows, dissolving the clotted\nblood; and the herb or root beaten and outwardly applied, takes away\nthe black and blue marks that remain in the skin. The decoction of\nthe herb, with honey of roses put therein, is very effectual to help\nthe inveterate tumours and swellings of the almonds and throat, by\noften gargling the mouth therewith. It helps also to procure women’s\ncourses, and eases all pains of the mother and to break and discuss\nwind therein, and in the bowels. The powder of the root taken in drink,\ndrives forth the worms in the body. The juice or distilled water of\nthe herb, is effectual for green wounds, or old sores, and cleanses\nthe body inwardly, and the seed outwardly, from sores, scurf, itch,\npimples, freckles, morphew, or other deformities thereof, especially\nif a little vitriol be dissolved therein.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "common Dill",
+    "context_quote": "THE common Dill grows up with seldom more than one stalk",
+    "part_used": "tops of the stalks, leaves, seed"
+   },
+   {
+    "name_text": "DEVIL'S-BIT",
+    "context_quote": "THIS rises up with a round green smooth stalk",
+    "part_used": "herb or the root"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "swellings and pains",
+    "context_quote": "The Dill being boiled and drank, is good to ease swellings and pains",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "belly and stomach from casting",
+    "context_quote": "it also stays the belly and stomach from casting",
+    "polarity": "prevents",
+    "strength": "claimed"
+   },
+   {
+    "name": "pains and windiness of the mother",
+    "context_quote": "The decoction therefore helps women that are troubled with the pains and windiness of the mother",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "hiccough",
+    "context_quote": "It stays the hiccough, being boiled in wine",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "raw and vicious humours",
+    "context_quote": "more effectual to digest raw and vicious humours",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "imposthumes in the fundament",
+    "context_quote": "dissolve the imposthumes in the fundament",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "moist ulcers",
+    "context_quote": "and dries up all moist ulcers, especially in the fundament",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "plague and pestilential diseases",
+    "context_quote": "very powerful against the plague, and all pestilential diseases",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "decoction in water or wine",
+    "context_quote": "The Dill being boiled and drank, is good to ease swellings and pains"
+   },
+   {
+    "kind": "oil made of Dill",
+    "context_quote": "an oil made of Dill is effectual to warm or dissolve humours and imposthumes"
+   },
+   {
+    "kind": "plasters",
+    "context_quote": "The seed, being roasted or fried, and used in oils or plasters"
+   }
+  ],
+  "dosage_notes": [
+   "only if you boil the seed you must bruise it",
+   "if they sit therein [women troubled with pains of the mother]"
+  ],
+  "cautions": [],
+  "authority_citations": []
+ },
+ "resolutions": [
+  {
+   "historical_name": "common Dill",
+   "candidates": [
+    {
+     "scientific_name": "Anethum graveolens",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Anethum sowa",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.15,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Anethum graveolens",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "DEVIL'S-BIT",
+   "candidates": [
+    {
+     "scientific_name": "Solanum dulcamara",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.97,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Solanum nigrum",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.05,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Solanum dulcamara",
+   "confidence": 0.97,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Anethum graveolens",
+   "ema_monograph": null,
+   "pubmed": [],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "anethole",
+    "carvone"
+   ],
+   "summary": "No modern clinical evidence found for treating imposthumes or hiccough. Traditional uses regarding 'raw humours' lack contemporary validation; safety data is limited to general culinary usage."
+  },
+  {
+   "taxon": "Solanum dulcamara",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Toxic Risks of Nightshade Species: A comprehensive review of the documented toxicity of Atropa belladonna, Solanum dulcamara, and Solanum nigrum.",
+     "identifier": "41819152",
+     "year": "2026",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/41819152/",
+     "relevance_note": "Documents severe toxicity risks for S. dulcamara, contradicting traditional use for internal ailments like stomach casting or swellings."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Spirosolane-containing Solanum species and induction of congenital craniofacial malformations.",
+     "identifier": "2080514",
+     "year": "1990",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/2080514/",
+     "relevance_note": "Links specific Solanum species to congenital malformations, raising safety concerns for traditional internal applications."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "solanine",
+    "tomatine"
+   ],
+   "summary": "Modern toxicology confirms high risks of S. dulcamara for internal use (stomach/belly), directly contradicting historical indications for 'vicious humours' or swellings. External use may be safer but requires caution due to alkaloid content."
+  }
+ ],
+ "concordance": {
+  "grade": "D",
+  "direction": "contradicts",
+  "rationale": "Modern evidence flags Solanum dulcamara (Devil's-bit) as toxic with congenital risks. Anethum graveolens lacks EMA approval or clinical trials for these specific historical claims, rendering the concordance weak to contradicted.",
+  "uncertainty": "Low uncertainty regarding toxicity; high uncertainty on efficacy due to lack of modern clinical data for Anethum.",
+  "caveats": [
+   "Historical 'Devil's-bit' is toxic.",
+   "Anethum lacks modern clinical validation."
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "It stays the hiccough, being boiled in wine",
+   "THE common Dill grows up with seldom more than one stalk",
+   "THIS rises up with a round green smooth stalk",
+   "The Dill being boiled and drank, is good to ease swellings and pains",
+   "The decoction therefore helps women that are troubled with the pains and windiness of the mother",
+   "The seed, being roasted or fried, and used in oils or plasters",
+   "an oil made of Dill is effectual to warm or dissolve humours and imposthumes",
+   "and dries up all moist ulcers, especially in the fundament",
+   "dissolve the imposthumes in the fundament",
+   "it also stays the belly and stomach from casting",
+   "more effectual to digest raw and vicious humours",
+   "very powerful against the plague, and all pestilential diseases"
+  ],
+  "quotes_failed": [],
+  "issues": [
+   "Unearned Grade: The concordance grade 'D' is assigned based on toxicity and lack of clinical evidence. However, the entry lacks specific textual quotes or citations supporting these claims (e.g., no quote from a toxicology report for Solanum dulcamara or a regulatory document stating Anethum graveolens lacks EMA approval). Without explicit source text quotes to verify against, the 'D' grade is considered unearned per strict audit rules requiring evidence for every resolved claim.",
+   "downgraded: quote failures were heading quotes"
+  ],
+  "verdict": "pass_with_issues"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T06:29:17Z"
+ }
+}

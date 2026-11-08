@@ -1,15 +1,19 @@
 {
-  "entries": 10,
-  "with_extraction": 10,
-  "taxa_resolved": 22,
-  "taxa_ambiguous": 1,
-  "taxa_unresolved": 0,
-  "name_resolutions": 23,
-  "evidence_docs": 27,
+  "entries": 182,
+  "with_extraction": 176,
+  "taxa_resolved": 293,
+  "taxa_ambiguous": 28,
+  "taxa_unresolved": 3,
+  "name_resolutions": 324,
+  "evidence_docs": 494,
   "grades": {
-    "D": 4,
-    "C": 6
+    "D": 73,
+    "C": 83,
+    "X": 11,
+    "B": 8,
+    "?": 6,
+    "A": 1
   },
-  "nodes": 176,
-  "edges": 193
+  "nodes": 2458,
+  "edges": 3214
 }

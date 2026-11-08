@@ -1,0 +1,228 @@
+{
+ "id": "culpeper_285",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Garden Valerian",
+  "book": "",
+  "chapter": "",
+  "char_start": 688870,
+  "char_end": 691616,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "_Descript._] THIS hath a thick short greyish root, lying for the most\npart above ground, shooting forth on all other sides such like small\npieces of roots, which have all of them many long green strings and\nfibres under them in the ground, whereby it draws nourishment. From\nthe head of these roots spring up many green leaves, which at first\nare somewhat broad and long, without any divisions at all in them, or\ndenting on the edges; but those that rise up after are more and more\ndivided on each side, some to the middle rib, being winged, as made of\nmany leaves together on a stalk, and those upon a stalk, in like manner\nmore divided, but smaller towards the top than below; the stalk rises\nto be a yard high or more, sometimes branched at the top, with many\nsmall whitish flowers, sometimes dashed over at the edges with a pale\npurplish colour, of a little scent, which passing away, there follows\nsmall brownish white seed, that is easily carried away with the wind.\nThe root smells more strong than either leaf or flower, and is of more\nuse in medicines.\n\n_Place._] It is generally kept with us in gardens.\n\n_Time._] It flowers in June and July, and continues flowering until the\nfrost pull it down.\n\n_Government and virtues._] This is under the influence of Mercury.\nDioscorides saith, That the Garden Valerian hath a warming faculty,\nand that being dried and given to drink it provokes urine, and helps\nthe stranguary. The decoction thereof taken, doth the like also, and\ntakes away pains of the sides, provokes women’s courses, and is used\nin antidotes. Pliny saith, That the powder of the root given in drink,\nor the decoction thereof taken, helps all stoppings and stranglings\nin any part of the body, whether they proceed of pains in the chest\nor sides, and takes them away. The root of Valerian boiled with\nliquorice, raisins, and anniseed, is singularly good for those that are\nshort-winded, and for those that are troubled with the cough, and helps\nto open the passages, and to expectorate phlegm easily. It is given to\nthose that are bitten or stung by any venomous creature, being boiled\nin wine. It is of a special virtue against the plague, the decoction\nthereof being drank, and the root being used to smell to. It helps\nto expel the wind in the belly. The green herb with the root taken\nfresh, being bruised and applied to the head, takes away the pains and\nprickings there, stays rheum and thin distillation, and being boiled\nin white wine, and a drop thereof put into the eyes, takes away the\ndimness of the sight, or any pin or web therein. It is of excellent\nproperty to heal any inward sores or wounds, and also for outward hurts\nor wounds, and drawing away splinters or thorns out of the flesh.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Garden Valerian",
+    "context_quote": "Dioscorides saith, That the Garden Valerian hath a warming faculty",
+    "part_used": "root"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "stranguary",
+    "context_quote": "and that being dried and given to drink it provokes urine, and helps the stranguary",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "pains of the sides",
+    "context_quote": "and takes away pains of the sides",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "women's courses (amenorrhea)",
+    "context_quote": "provokes women's courses",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "stoppings and stranglings",
+    "context_quote": "helps all stoppings and stranglings in any part of the body",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "short-windedness",
+    "context_quote": "singularly good for those that are short-winded",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "cough",
+    "context_quote": "and for those that are troubled with the cough",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "venomous bites or stings",
+    "context_quote": "It is given to those that are bitten or stung by any venomous creature",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "plague",
+    "context_quote": "It is of a special virtue against the plague",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "dried root given to drink",
+    "context_quote": "and that being dried and given to drink it provokes urine"
+   },
+   {
+    "kind": "decoction of the root",
+    "context_quote": "The decoction thereof taken, doth the like also"
+   },
+   {
+    "kind": "powder of the root given in drink",
+    "context_quote": "That the powder of the root given in drink"
+   },
+   {
+    "kind": "root boiled with liquorice, raisins, and anniseed",
+    "context_quote": "The root of Valerian boiled with liquorice, raisins, and anniseed"
+   }
+  ],
+  "dosage_notes": [
+   "being dried and given to drink",
+   "The decoction thereof taken",
+   "powder of the root given in drink"
+  ],
+  "cautions": [],
+  "authority_citations": [
+   "Dioscorides",
+   "Pliny"
+  ]
+ },
+ "resolutions": [
+  {
+   "historical_name": "Garden Valerian",
+   "candidates": [
+    {
+     "scientific_name": "Valeriana officinalis",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Valeriana wallichii",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.3,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Valeriana edulis",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.15,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Valeriana officinalis",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Valeriana officinalis",
+   "ema_monograph": {
+    "kind": "EMA_monograph",
+    "title": "Valerianae radix (valerian root)",
+    "identifier": "https://www.ema.europa.eu/en/medicines/herbal/valerianae-radix",
+    "year": "",
+    "url": "https://www.ema.europa.eu/en/medicines/herbal/valerianae-radix",
+    "relevance_note": "Confirms traditional use for sleep and anxiety, noting lack of evidence for other listed indications."
+   },
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Valerian Root in Treating Sleep Problems and Associated Disorders-A Systematic Review and Meta-Analysis.",
+     "identifier": "33086877",
+     "year": "2020",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/33086877/",
+     "relevance_note": "Supports use for sleep/anxiety; does not address historical uses for cough or amenorrhea."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Herbal Products Used in Menopause and for Gynecological Disorders.",
+     "identifier": "34946512",
+     "year": "2021",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/34946512/",
+     "relevance_note": "Reviews gynecological herbs but finds insufficient modern evidence for Valeriana treating amenorrhea."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Anti-anxiety Properties of Selected Medicinal Plants.",
+     "identifier": "33480339",
+     "year": "2022",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/33480339/",
+     "relevance_note": "Focuses on anxiety mechanisms; no data provided for cough, strangury, or side pains."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "valerenic acid",
+    "actein"
+   ],
+   "summary": "Modern evidence supports Valeriana officinalis primarily for sleep and anxiety disorders. While historical texts record uses for amenorrhea, cough, and strangury, contemporary reviews do not substantiate these specific indications. The herb's active constituents are linked to sedative effects rather than the respiratory or obstetric claims recorded in tradition."
+  }
+ ],
+ "concordance": {
+  "grade": "C",
+  "direction": "partial",
+  "rationale": "Modern evidence (PMID: 33086877, 34946512) supports sleep and menopause uses. No clinical data exists for strangury, side pains, amenorrhea, obstructions, dyspnea, cough, or venomous bites.",
+  "uncertainty": "Evidence is limited to gynecological/sleep domains; other historical claims lack specific modern validation.",
+  "caveats": [
+   "Historical 'stranguary' differs from modern urinary retention definitions.",
+   "Safety concerns exist for pregnancy and sedative interactions."
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "Dioscorides saith, That the Garden Valerian hath a warming faculty",
+   "It is given to those that are bitten or stung by any venomous creature",
+   "It is of a special virtue against the plague",
+   "That the powder of the root given in drink",
+   "The decoction thereof taken, doth the like also",
+   "The root of Valerian boiled with liquorice, raisins, and anniseed",
+   "and for those that are troubled with the cough",
+   "and takes away pains of the sides",
+   "and that being dried and given to drink it provokes urine",
+   "and that being dried and given to drink it provokes urine, and helps the stranguary",
+   "helps all stoppings and stranglings in any part of the body",
+   "singularly good for those that are short-winded"
+  ],
+  "quotes_failed": [
+   "provokes women's courses"
+  ],
+  "issues": [
+   "Unearned grade: Grade 'C' with 'partial' direction is insufficient given the explicit failure of a critical historical claim ('provokes women's courses') which contradicts modern safety profiles or lacks evidence; this specific failure should likely result in a lower grade or exclusion of that indication entirely.",
+   "Completeness gap: The rationale lists multiple unsupported historical claims (strangury, side pains, etc.) but does not provide specific verification steps or source text excerpts for each, relying solely on the single failed quote extraction which may not cover all listed unsupported claims."
+  ],
+  "verdict": "pass_with_issues"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T06:36:21Z"
+ }
+}

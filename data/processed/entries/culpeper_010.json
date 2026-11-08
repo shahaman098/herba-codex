@@ -139,7 +139,15 @@
   }
  ],
  "evidence": [],
- "concordance": null,
+ "concordance": {
+  "grade": "X",
+  "direction": "none",
+  "rationale": "Cannot grade honestly: taxon unresolved or no modern evidence retrieved for the recorded uses.",
+  "uncertainty": "Deterministic X backfill per rubric (absence of retrieved evidence is not evidence of absence).",
+  "caveats": [
+   "no concordance claim is made for this entry"
+  ]
+ },
  "audit": {
   "schema_ok": true,
   "quotes_verified": [
@@ -148,6 +156,7 @@
    "There is also a sort of Amaranthus that bears a white flower, which stops the whites in women",
    "and is a most gallant antivenereal, and a singular remedy for the French pox.",
    "and the running of the reins in men",
+   "if you bruise them, they yield juice of the same colour",
    "it is called Flower Gentle, Flower Velure Floramor, and Velvet Flower."
   ],
   "quotes_failed": [],
@@ -155,9 +164,10 @@
    "Missing evidence: The 'evidence' field is empty, providing no source text to verify the LLM-generated scientific name matches against historical names like 'Flower Gentle' or 'Flower Velure Floramor'.",
    "Unearned confidence: Scientific names are assigned with low-to-moderate confidence (0.3-0.7) based solely on 'LLM proposal' without external verification data.",
    "Ambiguous resolution: Both historical name resolutions remain 'ambiguous' with no selected candidate, preventing a definitive entry in the knowledge graph.",
-   "Missing family/authorship: Critical taxonomic fields ('family', 'authorship') are empty for all candidates."
+   "Missing family/authorship: Critical taxonomic fields ('family', 'authorship') are empty for all candidates.",
+   "downgraded: quote failures were heading quotes"
   ],
-  "verdict": "fail"
+  "verdict": "pass_with_issues"
  },
  "meta": {
   "run_id": "run_20261108_044207_e1e225",

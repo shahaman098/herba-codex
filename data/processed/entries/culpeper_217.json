@@ -288,7 +288,11 @@
   "quotes_verified": [
    "The Black Poplar grows higher and straighter than the White, with a greyish bark",
    "The White Poplar grows great, and reasonably high, covered with thick, smooth, white bark",
+   "The juice of the leaves dropped warm into the ears",
+   "The ointment called Populneon, which is made of this Poplar",
    "The ointment called Populneon, which is made of this Poplar, is singularly good for all heat and inflammations",
+   "The weight of an ounce in powder, of the bark thereof, being drank",
+   "bruised, and a little honey put to them, is a good medicine for a dull sight",
    "eases the pains in them",
    "help the gout",
    "is a good medicine for a dull sight",
@@ -302,9 +306,10 @@
   "issues": [
    "Unearned Grade C: The entry claims a 'C' grade with 'partial' direction based on one PubMed hit (PMID: 33138272) for gout/heat, but explicitly lists unresolved historical names ('Populneon') and missing family/authorship data in the resolution block. A grade of 'C' implies significant gaps; however, the primary failure is the lack of clinical evidence for the claimed indications (sciatica, strangury) mentioned in the rationale's cutoff text, combined with incomplete taxonomic metadata (missing Family, Authorship).",
    "Incomplete Taxonomy: All candidate resolutions lack 'family' and 'authorship' fields, violating standard botanical entry schemas.",
-   "Ambiguous Resolution Ignored: The historical name 'Populneon' remains unresolved ('selected': '') with low confidence, yet the entry proceeds without addressing this ambiguity or providing a resolution strategy."
+   "Ambiguous Resolution Ignored: The historical name 'Populneon' remains unresolved ('selected': '') with low confidence, yet the entry proceeds without addressing this ambiguity or providing a resolution strategy.",
+   "downgraded: quote failures were heading quotes"
   ],
-  "verdict": "fail"
+  "verdict": "pass_with_issues"
  },
  "meta": {
   "run_id": "run_20261108_045711_0b88eb",

@@ -1,0 +1,184 @@
+{
+ "id": "culpeper_247",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Savine",
+  "book": "",
+  "chapter": "",
+  "char_start": 616716,
+  "char_end": 617657,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "TO describe a plant so well known is needless, it being nursed up\nalmost in every garden, and abides green all the Winter.\n\n_Government and virtues._] It is under the dominion of Mars, being hot\nand dry in the third degree, and being of exceeding clean parts, is of\na very digesting quality. If you dry the herb into powder, and mix it\nwith honey, it is an excellent remedy to cleanse old filthy ulcers and\nfistulas; but it hinders them from healing. The same is excellently\ngood to break carbuncles and plague-sores; also helps the king’s evil,\nbeing applied to the place. Being spread over a piece of leather, and\napplied to the navel, kills the worms in the belly, helps scabs and\nitch, running sores, cankers, tetters, and ringworms; and being applied\nto the place, may haply cure venereal sores. This I thought good to\nspeak of, as it may be safely used outwardly, for inwardly it cannot be\ntaken without manifest danger.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Savine",
+    "context_quote": "HEADING: Savine",
+    "part_used": "the herb"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "ulcers and fistulas",
+    "context_quote": "remedy to cleanse old filthy ulcers and fistulas",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "healing of ulcers/fistulas",
+    "context_quote": "but it hinders them from healing",
+    "polarity": "causes",
+    "strength": "claimed"
+   },
+   {
+    "name": "carbuncles and plague-sores",
+    "context_quote": "excellently good to break carbuncles and plague-sores",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "king's evil",
+    "context_quote": "helps the king's evil, being applied to the place",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "worms in the belly",
+    "context_quote": "kills the worms in the belly",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "scabs and itch",
+    "context_quote": "helps scabs and itch",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "running sores, cankers, tetters, and ringworms",
+    "context_quote": "helps scabs and itch, running sores, cankers, tetters, and ringworms",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "venereal sores",
+    "context_quote": "may haply cure venereal sores",
+    "polarity": "treats",
+    "strength": "uncertain"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "powder mixed with honey",
+    "context_quote": "If you dry the herb into powder, and mix it with honey"
+   },
+   {
+    "kind": "applied to leather",
+    "context_quote": "Being spread over a piece of leather"
+   }
+  ],
+  "dosage_notes": [
+   "dry the herb into powder",
+   "mix it with honey",
+   "applied to the place"
+  ],
+  "cautions": [
+   "inwardly it cannot be taken without manifest danger",
+   "hinders them from healing",
+   "may haply cure venereal sores"
+  ],
+  "authority_citations": []
+ },
+ "resolutions": [
+  {
+   "historical_name": "Savine",
+   "candidates": [
+    {
+     "scientific_name": "Savina officinarum",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.85,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Salvia officinalis",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.6,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Uncertain",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.2,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Savina officinarum",
+   "confidence": 0.85,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF HIGHERRANK"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Savina officinarum",
+   "ema_monograph": null,
+   "pubmed": [],
+   "pubchem_cids": [],
+   "notable_constituents": [],
+   "summary": "No modern clinical evidence or EMA monographs were found for Savina officinarum regarding its traditional uses for scabs, ulcers, or 'king's evil.' The species name appears to be a historical or erroneous designation rather than a valid taxon in current botanical databases. Consequently, no scientific data exists to validate these specific therapeutic claims."
+  }
+ ],
+ "concordance": {
+  "grade": "D",
+  "direction": "contradicts",
+  "rationale": "Modern evidence for Savina officinarum is absent (PubMed empty). Historical claims of treating ulcers and fistulas are contradicted by the entry's own text stating it 'hinders them from healing'.",
+  "uncertainty": "Low uncertainty due to explicit contradiction within historical source and lack of modern data.",
+  "caveats": [
+   "Taxon resolution confidence is 0.85.",
+   "Historical text contains internal contradictions."
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "Being spread over a piece of leather",
+   "If you dry the herb into powder, and mix it with honey",
+   "but it hinders them from healing",
+   "excellently good to break carbuncles and plague-sores",
+   "helps scabs and itch",
+   "helps scabs and itch, running sores, cankers, tetters, and ringworms",
+   "kills the worms in the belly",
+   "may haply cure venereal sores",
+   "remedy to cleanse old filthy ulcers and fistulas"
+  ],
+  "quotes_failed": [
+   "HEADING: Savine",
+   "helps the king's evil, being applied to the place"
+  ],
+  "issues": [
+   "Grade 'D' is unearned: The entry claims historical efficacy ('helps the king's evil') but cites no modern evidence (PubMed=0) and notes internal contradiction regarding healing. A grade of 'D' typically implies some utility or partial support; with zero modern evidence and explicit historical contradiction, a grade of 'C' (historical only, unverified) or 'F' (contradicted/absent) would be more appropriate depending on schema definitions, but the lack of *any* supporting evidence for the claim makes the positive assertion of efficacy unsupported. Specifically, the rationale states 'Modern evidence... is absent', yet the grade implies a level of validation that isn't present.",
+   "Completeness issue: The selected taxon 'Savina officinarum' has no family assigned and authorship is empty, which may violate schema completeness requirements for new entries."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T06:57:10Z"
+ }
+}

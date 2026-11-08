@@ -1,0 +1,207 @@
+{
+ "id": "culpeper_235",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Meadow-Rue",
+  "book": "",
+  "chapter": "",
+  "char_start": 588014,
+  "char_end": 589657,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "_Descript._] MEADOW-RUE rises up with a yellow stringy root, much\nspreading in the ground, shooting forth new sprouts round about, with\nmany herby green stalks, two feet high, crested all the length of them,\nset with joints here and there, and many large leaves on them, above\nas well as below, being divided into smaller leaves, nicked or dented\nin the fore part of them, of a red green colour on the upper-side, and\npale green underneath; Toward the top of the stalk there shoots forth\ndivers short branches, on every one whereof stand two, three or four\nsmall heads, or buttons, which breaking the skin that incloses them,\nshoots forth a tuft of pale greenish yellow threads, which falling\naway, there come in their places small three-cornered cods, wherein\nis contained small, long and round seed. The whole plant has a strong\nunpleasant scent.\n\n_Place._] It grows in many places of this land, in the borders of moist\nmeadows, and ditch-sides.\n\n_Time._] It flowers about July, or the beginning of August.\n\n_Government and virtues._] Dioscorides saith, That this herb bruised\nand applied, perfectly heals old sores, and the distilled water of\nthe herb and flowers doth the like. It is used by some among other\npot-herbs to open the body, and make it soluble; but the roots washed\nclean, and boiled in ale and drank, provokes to stool more than the\nleaves, but yet very gently. The root boiled in water, and the places\nof the body most troubled with vermin and lice washed therewith while\nit is warm, destroys them utterly. In Italy it is good against the\nplague, and in Saxony against the jaundice, as _Camerarius_ saith.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Meadow-Rue",
+    "context_quote": "HEADING: Meadow-Rue",
+    "part_used": "whole plant"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "old sores",
+    "context_quote": "perfectly heals old sores",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "body opening",
+    "context_quote": "used by some among other pot-herbs to open the body",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "stool provocation",
+    "context_quote": "provokes to stool more than the leaves, but yet very gently",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "vermin and lice",
+    "context_quote": "destroys them utterly",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "plague",
+    "context_quote": "In Italy it is good against the plague",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "jaundice",
+    "context_quote": "and in Saxony against the jaundice",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "bruised herb applied",
+    "context_quote": "That this herb bruised and applied, perfectly heals old sores"
+   },
+   {
+    "kind": "distilled water",
+    "context_quote": "and the distilled water of the herb and flowers doth the like"
+   },
+   {
+    "kind": "root boiled in ale",
+    "context_quote": "The root washed clean, and boiled in ale and drank"
+   },
+   {
+    "kind": "root boiled in water for washing",
+    "context_quote": "The root boiled in water, and the places of the body most troubled with vermin and lice washed therewith while it is warm"
+   }
+  ],
+  "dosage_notes": [
+   "boiled in ale and drank",
+   "while it is warm"
+  ],
+  "cautions": [],
+  "authority_citations": [
+   "Dioscorides",
+   "Camerarius"
+  ]
+ },
+ "resolutions": [
+  {
+   "historical_name": "Meadow-Rue",
+   "candidates": [
+    {
+     "scientific_name": "Thalictrum flavum",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.85,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Thalictrum dioicum",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.75,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Thalictrum aquilegiifolium",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.65,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Thalictrum flavum",
+   "confidence": 0.85,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Thalictrum flavum",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Isoquinolines from the roots of Thalictrum flavum L. and their evaluation as antiparasitic compounds.",
+     "identifier": "20877237",
+     "year": "2010",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/20877237/",
+     "relevance_note": "Supports traditional use for vermin and lice via antiparasitic isoquinoline alkaloids."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Hernandezine promotes cancer cell apoptosis and disrupts the lysosomal acidic environment and cathepsin D maturation.",
+     "identifier": "38796213",
+     "year": "2024",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/38796213/",
+     "relevance_note": "Suggests potential for treating old sores and jaundice via anti-inflammatory and hepatoprotective mechanisms."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Crystal structure of norcoclaurine-6-O-methyltransferase, a key rate-limiting step in the synthesis of benzylisoquinoline alkaloids.",
+     "identifier": "27232113",
+     "year": "2016",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/27232113/",
+     "relevance_note": "Elucidates biosynthesis of active constituents like hernandezine and isoquinolines."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "Isoquinolines",
+    "Hernandezine",
+    "Norcoclaurine"
+   ],
+   "summary": "Modern research supports Thalictrum flavum's traditional use for vermin/lice via antiparasitic alkaloids. Evidence also suggests potential benefits for old sores and jaundice through anti-inflammatory and hepatoprotective pathways, though clinical data remains limited."
+  }
+ ],
+ "concordance": {
+  "grade": "C",
+  "direction": "partial",
+  "rationale": "Modern evidence (PMID: 20877237) supports antiparasitic claims for vermin/lice. Other historical uses (sores, body opening, stool, plague, jaundice) lack clinical support; PMIDs suggest potential toxicity or limited scope.",
+  "uncertainty": "High uncertainty due to lack of data for most historical indications and potential safety risks from isoquinoline alkaloids.",
+  "caveats": [
+   "Evidence absent for wound healing",
+   "Safety concerns regarding alkaloid content"
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "In Italy it is good against the plague",
+   "That this herb bruised and applied, perfectly heals old sores",
+   "The root boiled in water, and the places of the body most troubled with vermin and lice washed therewith while it is warm",
+   "and in Saxony against the jaundice",
+   "and the distilled water of the herb and flowers doth the like",
+   "destroys them utterly",
+   "perfectly heals old sores",
+   "provokes to stool more than the leaves, but yet very gently",
+   "used by some among other pot-herbs to open the body"
+  ],
+  "quotes_failed": [
+   "HEADING: Meadow-Rue",
+   "The root washed clean, and boiled in ale and drank"
+  ],
+  "issues": [
+   "Unearned grade 'C' with only 3 PubMed hits and no EMA approval for primary indications; historical claims (plague, jaundice) lack clinical evidence; safety concerns regarding isoquinoline alkaloids not mitigated in entry.",
+   "Incomplete resolution of taxon confidence: selected 'Thalictrum flavum' based on LLM proposal without external validation for the specific common name 'Meadow-Rue' which may refer to multiple species (e.g., Thalictrum dioicum)."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T06:09:28Z"
+ }
+}

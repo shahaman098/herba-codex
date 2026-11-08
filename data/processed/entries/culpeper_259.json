@@ -1,0 +1,31 @@
+{
+ "id": "culpeper_259",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Southern Wood",
+  "book": "",
+  "chapter": "",
+  "char_start": 641957,
+  "char_end": 644096,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "SOUTHERN Wood is so well known to be an ordinary inhabitant in our\ngardens, that I shall not need to trouble you with any description\nthereof.\n\n_Time._] It flowers for the most part in July and August.\n\n_Government and virtues._] It is a gallant mercurial plant, worthy of\nmore esteem than it hath. Dioscorides saith, That the seed bruised,\nheated in warm water, and drank, helps those that are bursten, or\ntroubled with cramps or convulsions of the sinews, the sciatica, or\ndifficulty in making water, and bringing down women’s courses. The same\ntaken in wine is an antidote, or counter-poison against all deadly\npoison, and drives away serpents and other venomous creatures; as also\nthe smell of the herb, being burnt, doth the same. The oil thereof\nanointed on the back-bone before the fits of agues come, takes them\naway: It takes away inflammations in the eyes, if it be put with some\npart of a roasted quince, and boiled with a few crumbs of bread, and\napplied. Boiled with barley-meal it takes away pimples, pushes or\nwheals that arise in the face, or other parts of the body. The seed as\nwell as the dried herb, is often given to kill the worms in children:\nThe herb bruised and laid to, helps to draw forth splinters and thorns\nout of the flesh. The ashes thereof dries up and heals old ulcers,\nthat are without inflammation, although by the sharpness thereof it\nbites sore, and puts them to sore pains; as also the sores in the privy\nparts of man or woman. The ashes mingled with old sallad oil, helps\nthose that have hair fallen, and are bald, causing the hair to grow\nagain either on the head or beard. Daranters saith, That the oil made\nof Southern-wood, and put among the ointments that are used against\nthe French disease, is very effectual, and likewise kills lice in the\nhead. The distilled water of the herb is said to help them much that\nare troubled with the stone, as also for the diseases of the spleen and\nmother. The Germans commend it for a singular wound herb, and therefore\ncall it Stabwort. It is held by all writers, ancient and modern, to be\nmore offensive to the stomach than worm-wood.",
+ "extraction": null,
+ "resolutions": [],
+ "evidence": [],
+ "concordance": null,
+ "audit": null,
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "note": "no extraction or non-medicinal"
+ }
+}

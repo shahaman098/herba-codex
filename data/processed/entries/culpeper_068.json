@@ -174,6 +174,8 @@
  "audit": {
   "schema_ok": true,
   "quotes_verified": [
+   "The herb bruised, or the juice applied (with cloths or sponges dipped therein)",
+   "The leaves boiled with marsh-mallows, and made into a poultice with fenugreek and linseed",
    "doth wonderfully temperate the heat of the liver",
    "for all redness in the face",
    "helps cramps, convulsions, and palsy",
@@ -184,7 +186,9 @@
    "wheals, pushes, itch, scabs"
   ],
   "quotes_failed": [
-   "HEADING: Chickweed"
+   "HEADING: Chickweed",
+   "The juice, or distilled water, is of much good use... to drop some thereof into them",
+   "or boiled with hog's grease and applied"
   ],
   "issues": [
    "Grade 'C' is partially unearned: While the rationale correctly cites lack of clinical data for specific historical claims (liver heat, convulsions), the entry lacks any EMA approval or robust clinical evidence to support even a basic safety profile or efficacy for general use, yet no explicit 'fail' flag was raised for the taxon resolution itself. However, per strict guidelines ('verdict=fail if any quote failed'), the presence of a failed quote overrides the partial coherence.",

@@ -1,0 +1,181 @@
+{
+ "id": "culpeper_189",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Mustard",
+  "book": "",
+  "chapter": "",
+  "char_start": 462866,
+  "char_end": 466839,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "_Descript._] OUR common Mustard hath large and broad rough leaves, very\nmuch jagged with uneven and unorderly gashes, somewhat like turnip\nleaves, but less and rougher. The stalk rises to be more than a foot\nhigh, and sometimes two feet high, being round, rough, and branched at\nthe top, bearing such like leaves thereon as grow below, but lesser,\nand less divided, and divers yellow flowers one above another at the\ntops, after which come small rough pods, with small, lank, flat ends,\nwherein is contained round yellowish seed, sharp, hot, and biting upon\nthe tongue. The root is small, long, and woody when it bears stalks,\nand perishes every year.\n\n_Place._] This grows with us in gardens only, and other manured places.\n\n_Time._] It is an annual plant, flowering in July, and the seed is ripe\nin August.\n\n_Government and virtues._] It is an excellent sauce for such whose\nblood wants clarifying, and for weak stomachs, being an herb of Mars,\nbut naught for choleric people, though as good for such as are aged,\nor troubled with cold diseases. Aries claims something to do with it,\ntherefore it strengthens the heart, and resists poison. Let such whose\nstomachs are so weak they cannot digest their meat, or appetite it,\ntake of Mustard-seed a dram, Cinnamon as much, and having beaten them\nto powder, and half as much Mastich in powder, and with gum Arabic\ndissolved in rose-water, make it up into troches, of which they may\ntake one of about half a dram weight an hour or two before meals; let\nold men and women make much of this medicine, and they will either give\nme thanks, or shew manifest ingratitude. Mustard seed hath the virtue\nof heat, discussing, ratifying, and drawing out splinters of bones, and\nother things of the flesh. It is of good effect to bring down women’s\ncourses, for the falling-sickness or lethargy, drowsy forgetful evil,\nto use it both inwardly and outwardly, to rub the nostrils, forehead\nand temples, to warm and quicken the spirits; for by the fierce\nsharpness it purges the brain by sneezing, and drawing down rheum and\nother viscous humours, which by their distillations upon the lungs and\nchest, procure coughing, and therefore, with some, honey added thereto,\ndoth much good therein. The decoction of the seed made in wine, and\ndrank, provokes urine, resists the force of poison, the malignity of\nmushrooms, and venom of scorpions, or other venomous creatures, if it\nbe taken in time; and taken before the cold fits of agues, alters,\nlessens, and cures them. The seed taken either by itself, or with other\nthings, either in an electuary or drink, doth mightily stir up bodily\nlust, and helps the spleen and pains in the sides, and gnawings in the\nbowels; and used as a gargle draws up the palate of the mouth, being\nfallen down; and also it dissolves the swellings about the throat, if\nit be outwardly applied. Being chewed in the mouth it oftentimes helps\nthe tooth-ache. The outward application hereof upon the pained place\nof the sciatica, discusses the humours, and eases the pains, as also\nthe gout, and other joint aches; and is much and often used to ease\npains in the sides or loins, the shoulder, or other parts of the body,\nupon the plying thereof to raise blisters, and cures the disease by\ndrawing it to the outward parts of the body. It is also used to help\nthe falling off the hair. The seed bruised mixed with honey, and\napplied, or made up with wax, takes away the marks and black and blue\nspots of bruises, or the like, the roughness or scabbiness of the skin,\nas also the leprosy, and lousy evil. It helps also the crick in the\nneck. The distilled water of the herb, when it is in the flower, is\nmuch used to drink inwardly to help in any of the diseases aforesaid,\nor to wash the mouth when the palate is down, and for the disease of\nthe throat to gargle, but outwardly also for scabs, itch, or other the\nlike infirmities, and cleanses the face from morphew, spots, freckles,\nand other deformities.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Mustard",
+    "context_quote": "OUR common Mustard hath large and broad rough leaves",
+    "part_used": "seed"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "weak stomachs",
+    "context_quote": "It is an excellent sauce for such whose blood wants clarifying, and for weak stomachs",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "cold diseases",
+    "context_quote": "though as good for such as are aged, or troubled with cold diseases",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "poison",
+    "context_quote": "and resists poison",
+    "polarity": "prevents",
+    "strength": "claimed"
+   },
+   {
+    "name": "women's courses",
+    "context_quote": "It is of good effect to bring down women's courses",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "falling-sickness or lethargy",
+    "context_quote": "for the falling-sickness or lethargy, drowsy forgetful evil",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "coughing",
+    "context_quote": "procure coughing, and therefore, with some, honey added thereto, doth much good therein",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "ague",
+    "context_quote": "taken before the cold fits of agues, alters, lessens, and cures them",
+    "polarity": "cures",
+    "strength": "claimed"
+   },
+   {
+    "name": "spleen and pains in the sides",
+    "context_quote": "and helps the spleen and pains in the sides",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "troches",
+    "context_quote": "make it up into troches, of which they may take one of about half a dram weight an hour or two before meals"
+   },
+   {
+    "kind": "decoction in wine",
+    "context_quote": "The decoction of the seed made in wine, and drank, provokes urine"
+   },
+   {
+    "kind": "electuary or drink",
+    "context_quote": "The seed taken either by itself, or with other things, either in an electuary or drink"
+   },
+   {
+    "kind": "gargle",
+    "context_quote": "and used as a gargle draws up the palate of the mouth, being fallen down"
+   }
+  ],
+  "dosage_notes": [
+   "take of Mustard-seed a dram, Cinnamon as much, and having beaten them to powder, and half as much Mastich in powder",
+   "take one of about half a dram weight an hour or two before meals"
+  ],
+  "cautions": [
+   "naught for choleric people",
+   "if it be taken in time"
+  ],
+  "authority_citations": []
+ },
+ "resolutions": [
+  {
+   "historical_name": "Mustard",
+   "candidates": [
+    {
+     "scientific_name": "Brassica nigra",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.6,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Sinapis alba",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.5,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Brassica rapa",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.4,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "",
+   "confidence": 0.36,
+   "status": "ambiguous",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [],
+ "concordance": {
+  "grade": "X",
+  "direction": "none",
+  "rationale": "Cannot grade honestly: taxon unresolved or no modern evidence retrieved for the recorded uses.",
+  "uncertainty": "Deterministic X backfill per rubric (absence of retrieved evidence is not evidence of absence).",
+  "caveats": [
+   "no concordance claim is made for this entry"
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "It is an excellent sauce for such whose blood wants clarifying, and for weak stomachs",
+   "OUR common Mustard hath large and broad rough leaves",
+   "The decoction of the seed made in wine, and drank, provokes urine",
+   "The seed taken either by itself, or with other things, either in an electuary or drink",
+   "and helps the spleen and pains in the sides",
+   "and resists poison",
+   "and used as a gargle draws up the palate of the mouth, being fallen down",
+   "for the falling-sickness or lethargy, drowsy forgetful evil",
+   "make it up into troches, of which they may take one of about half a dram weight an hour or two before meals",
+   "procure coughing, and therefore, with some, honey added thereto, doth much good therein",
+   "taken before the cold fits of agues, alters, lessens, and cures them",
+   "though as good for such as are aged, or troubled with cold diseases"
+  ],
+  "quotes_failed": [
+   "It is of good effect to bring down women's courses"
+  ],
+  "issues": [
+   "Unearned grade: Entry marked 'ambiguous' with low confidence (0.36) but lacks any supporting evidence or citations; the failed quote contains unverified medical claims regarding menstruation ('women's courses') which cannot be substantiated by the provided empty evidence list, violating strict audit standards for clinical/medical assertions."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T06:22:38Z"
+ }
+}

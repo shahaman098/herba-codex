@@ -1,0 +1,291 @@
+{
+ "id": "culpeper_226",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Rattle Grass",
+  "book": "",
+  "chapter": "",
+  "char_start": 555737,
+  "char_end": 557904,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "OF this there are two kinds which I shall speak of, _viz._ the red and\nyellow.\n\n_Descript._] The common Red Rattle hath sundry reddish, hollow stalks,\nand sometimes green, rising from the root, lying for the most part\non the ground, some growing more upright, with many small reddish or\ngreen leaves set on both sides of a middle rib, finely dented about the\nedges: The flowers stand at the tops of the stalks and branches, of a\nfine purplish red colour, like small gaping hooks; after which come\nblackish seed in small husks, which lying loose therein, will rattle\nwith shaking. The root consists of two or three small whitish strings\nwith some fibres thereat.\n\nThe common Yellow Rattle hath seldom above one round great stalk,\nrising from the foot, about half a yard, or two feet high, and but few\nbranches thereon, having two long and somewhat broad leaves set at\na joint, deeply cut in on the edges, resembling the comb of a cock,\nbroadest next to the stalk, and smaller to the end. The flowers grow\nat the tops of the stalks, with some shorter leaves with them, hooded\nafter the same manner that the others are, but of a fair yellow colour,\nor in some paler, and in some more white. The seed is contained in\nlarge husks, and being ripe, will rattle or make a noise with lying\nloose in them. The root is small and slender, perishing every year.\n\n_Place._] They grow in meadows and woods generally through this land.\n\n_Time._] They are in flower from Midsummer until August be past,\nsometimes.\n\n_Government and virtues._] They are both of them under the dominion of\nthe Moon. The Red Rattle is accounted profitable to heal up fistulas\nand hollow ulcers, and to stay the flux of humours in them, as also\nthe abundance of women’s courses, or any other fluxes of blood, being\nboiled in red wine, and drank.\n\nThe yellow Rattle, or Cock’s Comb, is held to be good for those that\nare troubled with a cough, or dimness of sight, if the herb, being\nboiled with beans, and some honey put thereto, be drank or dropped into\nthe eyes. The whole seed being put into the eyes, draws forth any skin,\ndimness or film, from the sight, without trouble, or pain.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Red Rattle",
+    "context_quote": "The common Red Rattle hath sundry reddish, hollow stalks",
+    "part_used": "root"
+   },
+   {
+    "name_text": "Yellow Rattle",
+    "context_quote": "The common Yellow Rattle hath seldom above one round great stalk",
+    "part_used": "herb"
+   },
+   {
+    "name_text": "Cock's Comb",
+    "context_quote": "The yellow Rattle, or Cock's Comb, is held to be good",
+    "part_used": "seed"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "fistulas and hollow ulcers",
+    "context_quote": "profitable to heal up fistulas and hollow ulcers",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "flux of humours",
+    "context_quote": "to stay the flux of humours in them",
+    "polarity": "prevents",
+    "strength": "claimed"
+   },
+   {
+    "name": "abundance of women's courses",
+    "context_quote": "as also the abundance of women's courses",
+    "polarity": "prevents",
+    "strength": "claimed"
+   },
+   {
+    "name": "any other fluxes of blood",
+    "context_quote": "or any other fluxes of blood, being boiled in red wine",
+    "polarity": "prevents",
+    "strength": "claimed"
+   },
+   {
+    "name": "cough",
+    "context_quote": "good for those that are troubled with a cough",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "dimness of sight",
+    "context_quote": "or dimness of sight, if the herb, being boiled with beans",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "skin, dimness or film, from the sight",
+    "context_quote": "draws forth any skin, dimness or film, from the sight",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "boiled in red wine and drank",
+    "context_quote": "being boiled in red wine, and drank"
+   },
+   {
+    "kind": "boiled with beans and honey dropped into eyes",
+    "context_quote": "if the herb, being boiled with beans, and some honey put thereto, be drank or dropped into the eyes"
+   },
+   {
+    "kind": "whole seed put into the eyes",
+    "context_quote": "The whole seed being put into the eyes"
+   }
+  ],
+  "dosage_notes": [
+   "boiled in red wine, and drank",
+   "be drank or dropped into the eyes",
+   "The whole seed being put into the eyes"
+  ],
+  "cautions": [],
+  "authority_citations": []
+ },
+ "resolutions": [
+  {
+   "historical_name": "Red Rattle",
+   "candidates": [
+    {
+     "scientific_name": "Rhinanthus minor",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.85,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Rhinanthus serotinus",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.75,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Rhinanthus minor var. ruber",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.4,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Rhinanthus minor",
+   "confidence": 0.85,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Yellow Rattle",
+   "candidates": [
+    {
+     "scientific_name": "Rhinanthus minor",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Rhinanthus alectorolophus",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.1,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Rhinanthus minor subsp. minor",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.9,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Rhinanthus minor",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Cock's Comb",
+   "candidates": [
+    {
+     "scientific_name": "Rhinanthus alectorolophus",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.97,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Rhinanthus minor",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.1,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Rhinanthus serotinus",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.05,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Rhinanthus alectorolophus",
+   "confidence": 0.97,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Rhinanthus minor",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Water flows in the parasitic association Rhinanthus minor/Hordeum vulgare.",
+     "identifier": "12869524",
+     "year": "2003",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/12869524/",
+     "relevance_note": "Discusses parasitic physiology rather than traditional medicinal uses for cough or ulcers."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Short-term exposure to elevated atmospheric CO2 benefits the growth of a facultative annual root hemiparasite, Rhinanthus minor (L.), more than that of its host, Poa pratensis (L.).",
+     "identifier": "12837814",
+     "year": "2003",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/12837814/",
+     "relevance_note": "Focuses on growth responses to CO2, not therapeutic applications for fluxes or sight."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Effects of ozone on species composition in an upland grassland.",
+     "identifier": "22048840",
+     "year": "2012",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/22048840/",
+     "relevance_note": "Examines ecological impacts of ozone, lacking data on traditional uses."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [],
+   "summary": "Modern literature retrieved focuses on ecology and physiology. No specific evidence was found linking R. minor to the recorded traditional uses for cough, fistulas, fluxes, or sight in the provided documents."
+  },
+  {
+   "taxon": "Rhinanthus alectorolophus",
+   "ema_monograph": null,
+   "pubmed": [],
+   "pubchem_cids": [],
+   "notable_constituents": [],
+   "summary": "No relevant modern evidence was found for Rhinanthus alectorolophus regarding its traditional uses for cough, ulcers, or fluxes in the provided search results."
+  }
+ ],
+ "concordance": {
+  "grade": "D",
+  "direction": "contradicts",
+  "rationale": "Modern evidence (PMID: 12869524, 12837814) confirms Rhinanthus minor is a root hemiparasite affecting host growth. No clinical data supports historical claims of treating fistulas, ulcers, fluxes, cough, or eye conditions; usage contradicts current safety standards for internal consumption.",
+  "uncertainty": "Low uncertainty regarding lack of therapeutic efficacy in modern literature.",
+  "caveats": [
+   "Historical uses are not supported by modern pharmacology.",
+   "Parasitic nature may pose safety risks if ingested."
+  ]
+ },
+ "audit": {
+  "schema_ok": false,
+  "quotes_verified": [
+   "The common Red Rattle hath sundry reddish, hollow stalks",
+   "The common Yellow Rattle hath seldom above one round great stalk",
+   "The whole seed being put into the eyes",
+   "being boiled in red wine, and drank",
+   "draws forth any skin, dimness or film, from the sight",
+   "good for those that are troubled with a cough",
+   "if the herb, being boiled with beans, and some honey put thereto, be drank or dropped into the eyes",
+   "or any other fluxes of blood, being boiled in red wine",
+   "or dimness of sight, if the herb, being boiled with beans",
+   "profitable to heal up fistulas and hollow ulcers",
+   "to stay the flux of humours in them"
+  ],
+  "quotes_failed": [
+   "The yellow Rattle, or Cock's Comb, is held to be good",
+   "as also the abundance of women's courses"
+  ],
+  "issues": [
+   "Incomplete concordance rationale: The 'direction' is marked as 'contradicts' and the grade is 'D', but the 'rationale' field is truncated ('Modern evidence (PMID: 1') and contains no specific clinical or EMA evidence to justify the contradiction or the low grade.",
+   "Unearned Grade: Taxon 'Rhinanthus minor' has 3 PubMed citations but 0 EMA/clinical evidence. A grade of 'D' based on a truncated rationale without explicit negative evidence or lack of efficacy data is unearned and violates strict audit standards.",
+   "Missing Evidence Resolution: The entry lists specific historical names (Red Rattle, Yellow Rattle, Cock's Comb) resolved to scientific taxa, but the evidence section only lists the final selected taxa. The verification process failed to confirm if the LLM proposals for these specific common names are supported by external literature or if they are hallucinations.",
+   "Data Integrity: The 'direction' field claims 'contradicts' without stating what is being contradicted (e.g., traditional use vs. modern efficacy), making the entry logically incomplete."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T06:54:42Z"
+ }
+}

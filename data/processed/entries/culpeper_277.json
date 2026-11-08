@@ -1,0 +1,212 @@
+{
+ "id": "culpeper_277",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Thyme",
+  "book": "",
+  "chapter": "",
+  "char_start": 676653,
+  "char_end": 677570,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "IT is in vain to describe an herb so commonly known.\n\n_Government and virtues._] It is a noble strengthener of the lungs, as\nnotable a one as grows; neither is there scarce a better remedy growing\nfor that disease in children which they commonly call the Chin-cough,\nthan it is. It purges the body of phlegm, and is an excellent remedy\nfor shortness of breath. It kills worms in the belly, and being a\nnotable herb of Venus, provokes the terms, gives safe and speedy\ndelivery to women in travail, and brings away the after birth. It is so\nharmless you need not fear the use of it. An ointment made of it takes\naway hot swellings and warts, helps the sciatica and dullness of sight,\nand takes away pains and hardness of the spleen. ’Tis excellent for\nthose that are troubled with the gout. It eases pains in the loins and\nhips. The herb taken any way inwardly, comforts the stomach much, and\nexpels wind.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Thyme",
+    "context_quote": "IT is in vain to describe an herb so commonly known.",
+    "part_used": "The herb"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "Chin-cough",
+    "context_quote": "neither is there scarce a better remedy growing for that disease in children which they commonly call the Chin-cough, than it is.",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "shortness of breath",
+    "context_quote": "It purges the body of phlegm, and is an excellent remedy for shortness of breath.",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "worms in the belly",
+    "context_quote": "It kills worms in the belly",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "hot swellings and warts",
+    "context_quote": "An ointment made of it takes away hot swellings and warts",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "sciatica",
+    "context_quote": "helps the sciatica",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "dullness of sight",
+    "context_quote": "helps the sciatica and dullness of sight",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "gout",
+    "context_quote": "'Tis excellent for those that are troubled with the gout.",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "pains in the loins and hips",
+    "context_quote": "It eases pains in the loins and hips.",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "internal use (any way inwardly)",
+    "context_quote": "The herb taken any way inwardly, comforts the stomach much, and expels wind."
+   },
+   {
+    "kind": "ointment",
+    "context_quote": "An ointment made of it takes away hot swellings and warts"
+   }
+  ],
+  "dosage_notes": [],
+  "cautions": [
+   "It is so harmless you need not fear the use of it."
+  ],
+  "authority_citations": []
+ },
+ "resolutions": [
+  {
+   "historical_name": "Thyme",
+   "candidates": [
+    {
+     "scientific_name": "Thymus vulgaris",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Thymus serpyllum",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.75,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Thymus praecox",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.6,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Thymus vulgaris",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Thymus vulgaris",
+   "ema_monograph": {
+    "kind": "EMA_monograph",
+    "title": "Thymi herba (thyme)",
+    "identifier": "https://www.ema.europa.eu/en/medicines/herbal/thymi-herba",
+    "year": "",
+    "url": "https://www.ema.europa.eu/en/medicines/herbal/thymi-herba",
+    "relevance_note": "Confirms traditional use for respiratory conditions like coughs, aligning with 'Chin-cough' and 'shortness of breath', though specific indications for other uses are not detailed in the monograph."
+   },
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Thymol, thyme, and other plant sources: Health and potential uses.",
+     "identifier": "29785774",
+     "year": "2018",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/29785774/",
+     "relevance_note": "Reviews antimicrobial and antioxidant properties of thymol, supporting traditional uses for infections and inflammation like 'hot swellings'."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Carvacrol and human health: A comprehensive review.",
+     "identifier": "29744941",
+     "year": "2018",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/29744941/",
+     "relevance_note": "Discusses carvacrol's biological activities, relevant to traditional claims regarding 'worms in the belly' and antimicrobial effects."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Aromatic plants as cosmeceuticals: benefits and applications for skin health.",
+     "identifier": "39500772",
+     "year": "2024",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/39500772/",
+     "relevance_note": "Explores topical applications of aromatic plants, potentially relevant to treating 'warts' and skin irritations."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "Thymol",
+    "Carvacrol"
+   ],
+   "summary": "Modern evidence supports Thymus vulgaris for respiratory issues (coughs) and antimicrobial/inflammatory effects via thymol and carvacrol. Specific traditional uses like 'dullness of sight' or 'sciatica' lack direct modern clinical validation in the retrieved literature, though general anti-inflammatory properties are noted."
+  }
+ ],
+ "concordance": {
+  "grade": "C",
+  "direction": "partial",
+  "rationale": "Modern evidence (PMID: 29785774, 29744941) confirms antimicrobial and antioxidant properties of Thymus vulgaris. However, clinical trials for specific historical claims like 'Chin-cough' or 'worms' are absent; only general respiratory support is plausible.",
+  "uncertainty": "High uncertainty due to lack of direct clinical data for pediatric coughs or anthelmintic efficacy in modern humans.",
+  "caveats": [
+   "Historical claims lack specific dosage data.",
+   "Safety concerns exist for internal use in children."
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "An ointment made of it takes away hot swellings and warts",
+   "IT is in vain to describe an herb so commonly known.",
+   "It eases pains in the loins and hips.",
+   "It kills worms in the belly",
+   "It purges the body of phlegm, and is an excellent remedy for shortness of breath.",
+   "The herb taken any way inwardly, comforts the stomach much, and expels wind.",
+   "helps the sciatica",
+   "helps the sciatica and dullness of sight",
+   "neither is there scarce a better remedy growing for that disease in children which they commonly call the Chin-cough, than it is."
+  ],
+  "quotes_failed": [
+   "'Tis excellent for those that are troubled with the gout."
+  ],
+  "issues": [
+   "Unearned Grade: The entry received a 'C' grade citing lack of clinical trials for specific historical claims (cough, worms), yet failed to address the gout claim in the evidence or rationale. The presence of a failed quote regarding gout without corresponding modern clinical evidence or a specific rejection rationale constitutes an unearned grade.",
+   "Completeness Gap: The 'evidence' section lists only 3 PubMed IDs and generic EMA status but fails to explicitly refute or contextualize the gout claim found in the failed quote, leaving the historical assertion unsupported by the provided evidence."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T06:36:36Z"
+ }
+}

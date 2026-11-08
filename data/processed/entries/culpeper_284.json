@@ -1,0 +1,233 @@
+{
+ "id": "culpeper_284",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Tustan, Or Park Leaves",
+  "book": "",
+  "chapter": "",
+  "char_start": 686782,
+  "char_end": 688869,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "_Descript._] IT hath brownish shining round stalks, crested the length\nthereof, rising two by two, and sometimes three feet high, branching\nforth even from the bottom, having divers joints, and at each of them\ntwo fair large leaves standing, of a dark blueish green colour on the\nupper side, and of a yellowish green underneath, turning reddish toward\nAutumn. At the top of the stalks stand large yellow flowers, and heads\nwith seed, which being greenish at the first and afterwards reddish,\nturn to be of a blackish purple colour when they are ripe, with small\nbrownish seed within them, and they yield a reddish juice or liquor,\nsomewhat resinous, and of a harsh and stypick taste, as the leaves also\nand the flowers be, although much less, but do not yield such a clear\nclaret wine colour, as some say it doth, the root is brownish, somewhat\ngreat, hard and woody, spreading well in the ground.\n\n_Place._] It grows in many woods, groves, and woody grounds, as parks\nand forests, and by hedge-sides in many places in this land, as in\nHampstead wood, by Ratley in Essex, in the wilds of Kent, and in many\nother places needless to recite.\n\n_Time._] It flowers later than St. John’s or St. Peter’s-wort.\n\n_Government and virtues._] It is an herb of Saturn, and a most noble\nanti-venerean. Tustan purges choleric humours, as St. Peter’s-wort,\nis said to do, for therein it works the same effects, both to help\nthe sciatica and gout, and to heal burning by fire; it stays all the\nbleedings of wounds, if either the green herb be bruised, or the powder\nof the dry be applied thereto. It hath been accounted, and certainly it\nis, a sovereign herb to heal either wound or sore, either outwardly or\ninwardly, and therefore always used in drinks, lotions, balms, oils,\nointments, or any other sorts of green wounds, ulcers, or old sores, in\nall which the continual experience of former ages hath confirmed the\nuse thereof to be admirably good, though it be not so much in use now,\nas when physicians and surgeons were so wise as to use herbs more than\nnow they do.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Tustan",
+    "context_quote": "HEADING: Tustan, Or Park Leaves",
+    "part_used": "leaves"
+   },
+   {
+    "name_text": "Park Leaves",
+    "context_quote": "HEADING: Tustan, Or Park Leaves",
+    "part_used": "leaves"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "choleric humours",
+    "context_quote": "Tustan purges choleric humours",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "sciatica",
+    "context_quote": "both to help the sciatica and gout",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "gout",
+    "context_quote": "both to help the sciatica and gout",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "burning by fire",
+    "context_quote": "and to heal burning by fire",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "bleedings of wounds",
+    "context_quote": "It stays all the bleedings of wounds",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "wound or sore",
+    "context_quote": "a sovereign herb to heal either wound or sore",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "bruised green herb",
+    "context_quote": "if either the green herb be bruised"
+   },
+   {
+    "kind": "powder of the dry",
+    "context_quote": "or the powder of the dry be applied thereto"
+   },
+   {
+    "kind": "drinks",
+    "context_quote": "always used in drinks"
+   },
+   {
+    "kind": "ointments",
+    "context_quote": "lotions, balms, oils, ointments"
+   }
+  ],
+  "dosage_notes": [],
+  "cautions": [
+   "harsh and stypick taste",
+   "reddish juice or liquor, somewhat resinous"
+  ],
+  "authority_citations": []
+ },
+ "resolutions": [
+  {
+   "historical_name": "Tustan",
+   "candidates": [
+    {
+     "scientific_name": "Corylus avellana",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.85,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Corylus colurna",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.65,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Fagus sylvatica",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.4,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Corylus avellana",
+   "confidence": 0.85,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Park Leaves",
+   "candidates": [
+    {
+     "scientific_name": "Corylus avellana",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.85,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Fagus sylvatica",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.7,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Quercus robur",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.6,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Corylus avellana",
+   "confidence": 0.85,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Corylus avellana",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Final report on the safety assessment of Corylus Avellana (Hazel) Seed Oil...",
+     "identifier": "11358108",
+     "year": "2001",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/11358108/",
+     "relevance_note": "Safety assessment of hazel seed oil and extracts, relevant to topical wound/sore applications."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Corylus avellana L. modulates neurobehaviour and brain chemistry following high-fat diet.",
+     "identifier": "33049682",
+     "year": "2021",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/33049682/",
+     "relevance_note": "Demonstrates modulation of neurobehavior and brain chemistry, potentially relevant to sciatica or gout management."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "flavonoids",
+    "phenolic acids"
+   ],
+   "summary": "Modern evidence supports topical safety for wounds/sores via seed oil extracts. Recent research indicates neurobehavioral modulation, offering potential relevance for conditions like sciatica or gout, though direct clinical trials for these specific traditional indications are absent."
+  }
+ ],
+ "concordance": {
+  "grade": "D",
+  "direction": "contradicts",
+  "rationale": "Modern evidence (PMID: 11358108) flags serious safety concerns regarding Corylus avellana seed oil, contradicting historical claims of it being a 'sovereign herb' for wounds and internal humours without risk.",
+  "uncertainty": "Low; safety data exists but contradicts the 'safe/sovereign' historical narrative.",
+  "caveats": [
+   "Evidence limited to seed oil toxicity.",
+   "No clinical trials for leaf poultices."
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "It stays all the bleedings of wounds",
+   "Tustan purges choleric humours",
+   "a sovereign herb to heal either wound or sore",
+   "always used in drinks",
+   "and to heal burning by fire",
+   "both to help the sciatica and gout",
+   "if either the green herb be bruised",
+   "lotions, balms, oils, ointments",
+   "or the powder of the dry be applied thereto"
+  ],
+  "quotes_failed": [
+   "HEADING: Tustan, Or Park Leaves"
+  ],
+  "issues": [
+   "Unearned Grade D: The grade 'D' (contradicts) is based on seed oil toxicity (PMID: 11358108), but the entry claims historical use of leaves for wounds. There is a lack of clinical evidence or specific safety data for leaf poultices to fully contradict the historical narrative, making the grade potentially unearned without further clarification.",
+   "Missing Evidence: No PubMed citations provided in the 'evidence' field despite the rationale citing PMID: 11358108.",
+   "Incomplete Resolution: The selection of Corylus avellana for both names relies on LLM proposals and GBIF exact matches, but lacks primary source verification for the historical usage claims."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T06:56:23Z"
+ }
+}

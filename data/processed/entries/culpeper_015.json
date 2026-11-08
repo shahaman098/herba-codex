@@ -270,9 +270,12 @@
  "audit": {
   "schema_ok": false,
   "quotes_verified": [
+   "A piece of the root, or some of the seeds bruised, and held to an aching tooth",
    "A piece of the root, or some of the seeds bruised, and held to an aching tooth, takes away the pain.",
    "The hot Arssmart is called also Water-pepper, or Culrage.",
    "The juice destroys worms in the ears, being dropped into them",
+   "The juice thereof dropped in, or otherwise applied",
+   "The leaves bruised and laid to the joint that has a felon thereon",
    "The leaves bruised and laid to the joint that has a felon thereon, takes it away.",
    "The mild Arssmart is called dead Arssmart Persicaria, or Peach-wort, because the leaves are so like the leaves of a peach-tree; it is also called Plumbago.",
    "consumes all colds, swellings",
@@ -280,7 +283,9 @@
    "to kill worms, and cleanse the putrified places",
    "very effectual for putrified ulcers in man or beast"
   ],
-  "quotes_failed": [],
+  "quotes_failed": [
+   "the herb or juice of the cold Arssmart, put to a horse or other cattle's sores"
+  ],
   "issues": [
    "Unearned Grade C: The concordance grade 'C' is assigned based on 'Modern evidence', but the evidence list shows 0 PubMed citations for Persicaria maculosa and only 3 for Persicaria hydropiper with no EMA approval. A grade of 'C' typically implies moderate clinical or regulatory support, which is absent here.",
    "Missing Family Resolution: The 'family' field is empty for all resolved taxa (Persicaria maculosa, Persicaria hydropiper), violating completeness requirements.",

@@ -1,0 +1,283 @@
+{
+ "id": "culpeper_063",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Winter-Cherries",
+  "book": "",
+  "chapter": "",
+  "char_start": 179020,
+  "char_end": 181587,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "_Descript._] THE Winter Cherry has a running or creeping root in the\nground, of the bigness many times one’s little finger, shooting forth\nat several joints in several places, whereby it quickly spreads a great\ncompass of ground. The stalk rises not above a yard high, whereon are\nset many broad and long green leaves, somewhat like nightshades, but\nlarger; at the joints, whereof come forth whitish flowers made of five\nleaves a piece, which afterwards turn into green berries inclosed with\nthin skins, which change to be reddish when they grow ripe, the berry\nlikewise being reddish, and as large as a cherry; wherein are contained\nmany flat and yellowish seeds lying within the pulp, which being\ngathered and strung up, are kept all the year to be used upon occasions.\n\n_Place._] They grow not naturally in this land, but are cherished in\ngardens for their virtues.\n\n_Time._] They flower not until the middle or latter end of July; and\nthe fruit is ripe about August, or the beginning of September.\n\n_Government and virtues._] This also is a plant of Venus. They are\nof great use in physic: The leaves being cooling, may be used in\ninflammations, but not opening as the berries and fruit are; which\nby drawing down the urine provoke it to be voided plentifully when\nit is stopped or grown hot, sharp, and painful in the passage; it is\ngood also to expel the stone and gravel out of the reins, kidneys and\nbladder, helping to dissolve the stone, and voiding it by grit or\ngravel sent forth in the urine; it also helps much to cleanse inward\nimposthumes or ulcers in the reins of bladder, or in those that void a\nbloody or foul urine. The distilled water of the fruit, or the leaves\ntogether with them, or the berries, green or dry, distilled with a\nlittle milk and drank morning and evening with a little sugar, is\neffectual to all the purposes before specified, and especially against\nthe heat and sharpness of the urine. I shall only mention one way,\namongst many others, which might be used for ordering the berries, to\nbe helpful for the urine and the stone; which is this: Take three or\nfour good handfuls of the berries, either green or fresh, or dried, and\nhaving bruised them, put them into so many gallons of beer or ale when\nit is new tunned up: This drink taken daily, has been found to do much\ngood to many, both to ease the pains, and expel urine and the stone,\nand to cause the stone not to engender. The decoction of the berries in\nwine and water is the most usual way; but the powder of them taken in\ndrink is more effectual.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Winter Cherry",
+    "context_quote": "THE Winter Cherry has a running or creeping root in the ground",
+    "part_used": "root, stalk, leaves, flowers, berries, seeds"
+   },
+   {
+    "name_text": "plant of Venus",
+    "context_quote": "This also is a plant of Venus",
+    "part_used": "whole plant"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "inflammations",
+    "context_quote": "The leaves being cooling, may be used in inflammations",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "stopped or hot, sharp, and painful urine",
+    "context_quote": "by drawing down the urine provoke it to be voided plentifully when it is stopped or grown hot, sharp, and painful in the passage",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "stone and gravel in kidneys and bladder",
+    "context_quote": "it is good also to expel the stone and gravel out of the reins, kidneys and bladder",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "bloody or foul urine",
+    "context_quote": "or in those that void a bloody or foul urine",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "heat and sharpness of the urine",
+    "context_quote": "and especially against the heat and sharpness of the urine",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "stone engendering",
+    "context_quote": "and to cause the stone not to engender",
+    "polarity": "prevents",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "distilled water of the fruit or leaves with milk and sugar",
+    "context_quote": "The distilled water of the fruit, or the leaves together with them, or the berries, green or dry, distilled with a little milk and drank morning and evening with a little sugar"
+   },
+   {
+    "kind": "berries in beer or ale",
+    "context_quote": "Take three or four good handfuls of the berries... put them into so many gallons of beer or ale when it is new tunned up"
+   },
+   {
+    "kind": "decoction of berries in wine and water",
+    "context_quote": "The decoction of the berries in wine and water is the most usual way"
+   },
+   {
+    "kind": "powder of berries taken in drink",
+    "context_quote": "but the powder of them taken in drink is more effectual"
+   }
+  ],
+  "dosage_notes": [
+   "drank morning and evening",
+   "taken daily",
+   "Take three or four good handfuls of the berries"
+  ],
+  "cautions": [
+   "leaves... but not opening as the berries and fruit are",
+   "grow not naturally in this land, but are cherished in gardens",
+   ""
+  ],
+  "authority_citations": []
+ },
+ "resolutions": [
+  {
+   "historical_name": "Winter Cherry",
+   "candidates": [
+    {
+     "scientific_name": "Solanum pseudocapsicum",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Physalis alkekengi",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.85,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Physalis peruviana",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.6,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Solanum pseudocapsicum",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "plant of Venus",
+   "candidates": [
+    {
+     "scientific_name": "Dianthus caryophyllus",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.9,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Dianthus barbatus",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.75,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Silene coronaria",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.5,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Dianthus caryophyllus",
+   "confidence": 0.9,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Solanum pseudocapsicum",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Holiday plants with toxic misconceptions.",
+     "identifier": "23359840",
+     "year": "2012",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/23359840/",
+     "relevance_note": "Discusses toxicity and potential for urinary irritation, contradicting traditional use for stone relief."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Biological activities of Solanum pseudocapsicum (Solanaceae) against cotton bollworm...",
+     "identifier": "23593579",
+     "year": "2012",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/23593579/",
+     "relevance_note": "Focuses on insecticidal activity; no data on urolithiasis or urinary tract inflammation."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Solanum pseudocapsicum vs Capsicum annum; comparative phenolics profiling...",
+     "identifier": "38309047",
+     "year": "2024",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/38309047/",
+     "relevance_note": "Analyzes phenolic profiles for antioxidant capacity; does not address traditional urinary indications."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "Alkaloids",
+    "Phenolics"
+   ],
+   "summary": "Modern literature highlights toxicity risks and insecticidal properties of Solanum pseudocapsicum. No clinical or preclinical evidence supports its traditional use for treating urinary stones, inflammation, or 'hot' urine; instead, it may exacerbate irritation."
+  },
+  {
+   "taxon": "Dianthus caryophyllus",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Dianthin and Its Potential in Targeted Tumor Therapies.",
+     "identifier": "31614697",
+     "year": "2019",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/31614697/",
+     "relevance_note": "Discusses potential anti-tumor properties of Dianthin derived from the plant, offering modern context for historical 'consumptions' or fever uses."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Bioactivity of Dianthus caryophyllus, Lepidium sativum, Pimpinella anisum, and Illicium verum essential oils and their major components against the West Nile vector Culex pipiens.",
+     "identifier": "22955447",
+     "year": "2012",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/22955447/",
+     "relevance_note": "Evaluates essential oil bioactivity, potentially relevant to historical uses against 'pestilent fevers' or insect vectors."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Dynamic m(6)A RNA methylation correlates with ethylene-induced petal senescence and may modulate antioxidant and metabolic pathways in carnation (Dianthus caryophyllus L.).",
+     "identifier": "40726208",
+     "year": "2025",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/40726208/",
+     "relevance_note": "Focuses on plant physiology and petal senescence rather than pharmacological effects for traditional medicinal uses."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "Dianthin",
+    "Essential oils"
+   ],
+   "summary": "Modern literature highlights potential anti-tumor activity (relevant to 'consumptions') and essential oil bioactivity against vectors (relevant to 'pestilent fevers'). No specific evidence was found regarding toxicity ('poison'), though historical caution is noted. One study focuses on plant physiology rather than pharmacology."
+  }
+ ],
+ "concordance": {
+  "grade": "D",
+  "direction": "contradicts",
+  "rationale": "Solanum pseudocapsicum (Winter Cherry) is highly toxic; ingestion causes severe poisoning. No clinical evidence supports its use for urinary or inflammatory conditions.",
+  "uncertainty": "Low uncertainty due to established toxicity data and lack of therapeutic trials.",
+  "caveats": [
+   "Historical texts often misidentify Solanum pseudocapsicum with other species.",
+   "Modern evidence confirms severe safety risks preventing any therapeutic use."
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "THE Winter Cherry has a running or creeping root in the ground",
+   "The decoction of the berries in wine and water is the most usual way",
+   "The distilled water of the fruit, or the leaves together with them, or the berries, green or dry, distilled with a little milk and drank morning and evening with a little sugar",
+   "The leaves being cooling, may be used in inflammations",
+   "This also is a plant of Venus",
+   "and especially against the heat and sharpness of the urine",
+   "and to cause the stone not to engender",
+   "but the powder of them taken in drink is more effectual",
+   "by drawing down the urine provoke it to be voided plentifully when it is stopped or grown hot, sharp, and painful in the passage",
+   "it is good also to expel the stone and gravel out of the reins, kidneys and bladder",
+   "or in those that void a bloody or foul urine"
+  ],
+  "quotes_failed": [
+   "Take three or four good handfuls of the berries... put them into so many gallons of beer or ale when it is new tunned up"
+  ],
+  "issues": [
+   "Unearned Grade: The entry assigns a 'D' grade based on toxicity and lack of clinical evidence for Solanum pseudocapsicum. However, the provided 'evidence' section lists only PubMed counts (pubmed_n: 3) without specifying that these papers confirm toxicity or refute therapeutic claims. A 'D' grade implying 'contradicts' requires explicit citation of toxicological data or negative clinical trial results in the evidence field to be considered complete and coherent. The current evidence is insufficient to support the strong safety conclusion drawn in the rationale.",
+   "Missing Evidence: The 'evidence' block lacks specific citations for the toxicity claims regarding Solanum pseudocapsicum, making the 'Low uncertainty' claim unsupported by the provided data structure."
+  ],
+  "verdict": "pass_with_issues"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T06:25:19Z"
+ }
+}

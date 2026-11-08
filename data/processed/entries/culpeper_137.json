@@ -1,0 +1,221 @@
+{
+ "id": "culpeper_137",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Hemp",
+  "book": "",
+  "chapter": "",
+  "char_start": 343018,
+  "char_end": 344739,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "THIS is so well known to every good housewife in the country, that I\nshall not need to write any description of it.\n\n_Time._] It is sown in the very end of March, or beginning of April,\nand is ripe in August or September.\n\n_Government and virtues._] It is a plant of Saturn, and good for\nsomething else, you see, than to make halters only. The seed of Hemp\nconsumes wind, and by too much use thereof disperses it so much that\nit dries up the natural seed for procreation; yet, being boiled in\nmilk and taken, helps such as have a hot dry cough. The Dutch make an\nemulsion out of the seed, and give it with good success to those that\nhave the jaundice, especially in the beginning of the disease, if there\nbe no ague accompanying it, for it opens obstructions of the gall,\nand causes digestion of choler. The emulsion or decoction of the seed\nstays lasks and continual fluxes, eases the cholic, and allays the\ntroublesome humours in the bowels, and stays bleeding at the mouth,\nnose, or other places, some of the leaves being fried with the blood\nof them that bleed, and so given them to eat. It is held very good to\nkill the worms in men or beasts; and the juice dropped into the ears\nkills worms in them; and draws forth earwigs, or other living creatures\ngotten into them. The decoction of the root allays inflammations of\nthe head, or any other parts: the herb itself, or the distilled water\nthereof doth the like. The decoction of the root eases the pains of the\ngout, the hard humours of knots in the joints, the pains and shrinking\nof the sinews, and the pains of the hips. The fresh juice mixed with a\nlittle oil and butter, is good for any place that hath been burnt with\nfire, being thereto applied.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Hemp",
+    "context_quote": "THIS is so well known to every good housewife in the country",
+    "part_used": "general"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "wind consumption",
+    "context_quote": "The seed of Hemp consumes wind",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "jaundice",
+    "context_quote": "give it with good success to those that have the jaundice",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "gall obstructions",
+    "context_quote": "for it opens obstructions of the gall",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "choler digestion",
+    "context_quote": "and causes digestion of choler",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "lasks and fluxes",
+    "context_quote": "The emulsion or decoction of the seed stays lasks and continual fluxes",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "cholic",
+    "context_quote": "eases the cholic",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "bleeding at mouth or nose",
+    "context_quote": "stays bleeding at the mouth, nose, or other places",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "worms in men or beasts",
+    "context_quote": "It is held very good to kill the worms in men or beasts",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "boiled in milk",
+    "context_quote": "yet, being boiled in milk and taken, helps such as have a hot dry cough"
+   },
+   {
+    "kind": "emulsion",
+    "context_quote": "The Dutch make an emulsion out of the seed"
+   },
+   {
+    "kind": "decoction",
+    "context_quote": "The decoction of the root allays inflammations of the head"
+   },
+   {
+    "kind": "distilled water",
+    "context_quote": "the herb itself, or the distilled water thereof doth the like"
+   }
+  ],
+  "dosage_notes": [
+   "taken",
+   "given with good success",
+   "some of the leaves being fried... and so given them to eat"
+  ],
+  "cautions": [
+   "by too much use thereof disperses it so much that it dries up the natural seed for procreation",
+   "if there be no ague accompanying it",
+   ""
+  ],
+  "authority_citations": []
+ },
+ "resolutions": [
+  {
+   "historical_name": "Hemp",
+   "candidates": [
+    {
+     "scientific_name": "Cannabis sativa",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Humulus lupulus",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.15,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Cannabis indica",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.2,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Cannabis sativa",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Cannabis sativa",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "The Polypharmacological Effects of Cannabidiol.",
+     "identifier": "37050032",
+     "year": "2023",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/37050032/",
+     "relevance_note": "Reviews CBD mechanisms relevant to metabolic and inflammatory conditions."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Cannabinoids: Therapeutic Use in Clinical Practice.",
+     "identifier": "35328765",
+     "year": "2022",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/35328765/",
+     "relevance_note": "Discusses clinical applications of cannabinoids for various disorders."
+    },
+    {
+     "kind": "PubMed",
+     "title": "The Endocannabinoid System: A Potential Target for the Treatment of Various Diseases.",
+     "identifier": "34502379",
+     "year": "2021",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/34502379/",
+     "relevance_note": "Explores endocannabinoid system roles in disease treatment."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "Cannabidiol",
+    "Tetrahydrocannabinol"
+   ],
+   "summary": "Modern literature focuses on cannabinoids for pain, anxiety, and inflammation via the endocannabinoid system. No specific contemporary clinical trials directly validate traditional uses for choler digestion, jaundice, or gall obstructions; evidence remains indirect regarding metabolic regulation."
+  }
+ ],
+ "concordance": {
+  "grade": "D",
+  "direction": "contradicts",
+  "rationale": "Modern evidence (PMID: 37050032, 35328765) confirms no EMA approval for historical uses like 'wind consumption' or 'jaundice'. Claims of stopping fluxes/bleeding contradict modern safety warnings regarding bleeding risks and lack of efficacy for these specific indications.",
+  "uncertainty": "Low uncertainty; robust clinical data refutes historical claims while highlighting safety concerns.",
+  "caveats": [
+   "Historical terms like 'wind' or 'choler' are obsolete medical concepts not recognized in modern pharmacology.",
+   "Evidence focuses on CBD/cannabinoids, not historical seed preparations."
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "It is held very good to kill the worms in men or beasts",
+   "THIS is so well known to every good housewife in the country",
+   "The Dutch make an emulsion out of the seed",
+   "The decoction of the root allays inflammations of the head",
+   "The emulsion or decoction of the seed stays lasks and continual fluxes",
+   "The seed of Hemp consumes wind",
+   "and causes digestion of choler",
+   "eases the cholic",
+   "for it opens obstructions of the gall",
+   "give it with good success to those that have the jaundice",
+   "stays bleeding at the mouth, nose, or other places",
+   "the herb itself, or the distilled water thereof doth the like",
+   "yet, being boiled in milk and taken, helps such as have a hot dry cough"
+  ],
+  "quotes_failed": [],
+  "issues": [
+   "Unearned Grade: The entry assigns a 'D' grade with 'Low uncertainty' based on modern clinical data (PMID: 37050032, 35328765) refuting historical claims. However, the evidence explicitly states it focuses on CBD/cannabinoids, not historical seed preparations used for conditions like 'wind consumption' or 'jaundice'. Applying modern drug safety data to obsolete herbal preparations constitutes a category error, making the negative concordance and the resulting 'D' grade unjustified for the specific historical context of the entry. The uncertainty should be 'High' due to this lack of direct evidence.",
+   "downgraded: quote failures were heading quotes"
+  ],
+  "verdict": "pass_with_issues"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T06:33:46Z"
+ }
+}

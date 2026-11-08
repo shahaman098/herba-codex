@@ -1,0 +1,127 @@
+{
+ "id": "culpeper_170",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Maple Tree",
+  "book": "",
+  "chapter": "",
+  "char_start": 420332,
+  "char_end": 420665,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "_Government and virtues._] IT is under the dominion of Jupiter. The\ndecoction either of the leaves or bark, must needs strengthen the liver\nmuch, and so you shall find it to do, if you use it. It is excellently\ngood to open obstructions both of the liver and spleen, and eases pains\nof the sides thence proceeding.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Maple Tree",
+    "context_quote": "HEADING: Maple Tree",
+    "part_used": "leaves or bark"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "weak liver",
+    "context_quote": "must needs strengthen the liver much",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "obstructions of the liver and spleen",
+    "context_quote": "excellently good to open obstructions both of the liver and spleen",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "pains of the sides",
+    "context_quote": "eases pains of the sides thence proceeding",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "decoction",
+    "context_quote": "The decoction either of the leaves or bark"
+   }
+  ],
+  "dosage_notes": [],
+  "cautions": [],
+  "authority_citations": []
+ },
+ "resolutions": [
+  {
+   "historical_name": "Maple Tree",
+   "candidates": [
+    {
+     "scientific_name": "Acer saccharum",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.6,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Acer rubrum",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.5,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Acer pseudoplatanus",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.4,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "",
+   "confidence": 0.36,
+   "status": "ambiguous",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [],
+ "concordance": {
+  "grade": "X",
+  "direction": "none",
+  "rationale": "Cannot grade honestly: taxon unresolved or no modern evidence retrieved for the recorded uses.",
+  "uncertainty": "Deterministic X backfill per rubric (absence of retrieved evidence is not evidence of absence).",
+  "caveats": [
+   "no concordance claim is made for this entry"
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "The decoction either of the leaves or bark",
+   "eases pains of the sides thence proceeding",
+   "excellently good to open obstructions both of the liver and spleen",
+   "must needs strengthen the liver much"
+  ],
+  "quotes_failed": [
+   "HEADING: Maple Tree"
+  ],
+  "issues": [
+   "Missing evidence for taxon resolution: No source text or concordance provided to support the selection of Acer saccharum/rubrum/pseudoplatanus; LLM proposals without external verification are insufficient.",
+   "Unearned confidence: The 'ambiguous' status with low confidence (0.36) lacks supporting clinical or botanical evidence (e.g., EMA, field guides, specimen data).",
+   "Incomplete resolution: No definitive scientific name selected despite multiple candidates listed."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T06:51:04Z"
+ }
+}

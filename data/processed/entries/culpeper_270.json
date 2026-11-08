@@ -1,0 +1,165 @@
+{
+ "id": "culpeper_270",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Thistles",
+  "book": "",
+  "chapter": "",
+  "char_start": 663637,
+  "char_end": 664488,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "OF these are many kinds growing here in England which are so well\nknown, that they need no description: Their difference is easily known\non the places where they grow, _viz._\n\n_Place._] Some grow in fields, some in meadows, and some among the\ncorn; others on heaths, greens, and waste grounds in many places.\n\n_Time._] They flower in June and August and their seed is ripe quickly\nafter.\n\n_Government and virtues._] Surely Mars rules it, it is such a prickly\nbusiness. All these thistles are good to provoke urine, and to mend\nthe stinking smell thereof; as also the rank smell of the arm-pits, or\nthe whole body; being boiled in wine and drank, and are said to help a\nstinking breath, and to strengthen the stomach. Pliny saith, That the\njuice bathed on the place that wants hair, it being fallen off, will\ncause it to grow speedily.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Thistles",
+    "context_quote": "OF these are many kinds growing here in England which are so well known",
+    "part_used": "All these thistles"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "urine retention",
+    "context_quote": "All these thistles are good to provoke urine",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "stinking urine smell",
+    "context_quote": "and to mend the stinking smell thereof",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "rank smell of arm-pits",
+    "context_quote": "as also the rank smell of the arm-pits",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "rank smell of body",
+    "context_quote": "or the whole body",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "stinking breath",
+    "context_quote": "and are said to help a stinking breath",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "weak stomach",
+    "context_quote": "and to strengthen the stomach",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "hair loss",
+    "context_quote": "That the juice bathed on the place that wants hair, it being fallen off, will cause it to grow speedily",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "boiled in wine and drank",
+    "context_quote": "being boiled in wine and drank"
+   },
+   {
+    "kind": "juice bathed on the place",
+    "context_quote": "Pliny saith, That the juice bathed on the place that wants hair"
+   }
+  ],
+  "dosage_notes": [],
+  "cautions": [
+   "it is such a prickly business"
+  ],
+  "authority_citations": [
+   "Pliny"
+  ]
+ },
+ "resolutions": [
+  {
+   "historical_name": "Thistles",
+   "candidates": [
+    {
+     "scientific_name": "Cirsium vulgare",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.6,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Onopordum acanthium",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.6,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Cirsium arvense",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.5,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "",
+   "confidence": 0.36,
+   "status": "ambiguous",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [],
+ "concordance": {
+  "grade": "X",
+  "direction": "none",
+  "rationale": "Cannot grade honestly: taxon unresolved or no modern evidence retrieved for the recorded uses.",
+  "uncertainty": "Deterministic X backfill per rubric (absence of retrieved evidence is not evidence of absence).",
+  "caveats": [
+   "no concordance claim is made for this entry"
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "All these thistles are good to provoke urine",
+   "OF these are many kinds growing here in England which are so well known",
+   "Pliny saith, That the juice bathed on the place that wants hair",
+   "That the juice bathed on the place that wants hair, it being fallen off, will cause it to grow speedily",
+   "and are said to help a stinking breath",
+   "and to mend the stinking smell thereof",
+   "and to strengthen the stomach",
+   "as also the rank smell of the arm-pits",
+   "being boiled in wine and drank",
+   "or the whole body"
+  ],
+  "quotes_failed": [],
+  "issues": [
+   "Missing evidence: The 'evidence' field is empty, providing no source text to verify the LLM proposals or support the 'ambiguous' status.",
+   "Missing concordance: The 'concordance' field is null, failing to link claims to specific textual evidence.",
+   "Unearned confidence: Scientific names are assigned with low confidence (0.5-0.6) based solely on 'LLM proposal' without external verification or citation.",
+   "Incomplete resolution: No specific taxon was selected ('selected': ''), leaving the entry ambiguous and unusable for a knowledge graph.",
+   "downgraded: quote failures were heading quotes"
+  ],
+  "verdict": "pass_with_issues"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T07:07:50Z"
+ }
+}

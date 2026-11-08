@@ -1,0 +1,242 @@
+{
+ "id": "culpeper_205",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "The Pear Tree",
+  "book": "",
+  "chapter": "",
+  "char_start": 497956,
+  "char_end": 499287,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "PEAR Trees are so well known, that they need no description.\n\n_Government and virtues._] The Tree belongs to Venus, and so doth the\nApple tree. For their physical use they are best discerned by their\ntaste. All the sweet and luscious sorts, whether manured or wild, do\nhelp to move the belly downwards, more or less. Those that are hard and\nsour, do, on the contrary, bind the belly as much, and the leaves do\nso also: Those that are moist do in some sort cool, but harsh or wild\nsorts much more, and are very good in repelling medicines; and if the\nwild sort be boiled with mushrooms, it makes them less dangerous. The\nsaid Pears boiled with a little honey, help much the oppressed stomach,\nas all sorts of them do, some more, some less: but the harsher sorts\ndo more cool and bind, serving well to be bound to green wounds, to\ncool and stay the blood, and heal up the green wound without farther\ntrouble, or inflammation, as Galen saith he hath found by experience.\nThe wild Pears do sooner close up the lips of green wounds than others.\n\nSchola Selerni advises to drink much wine after Pears, or else (say\nthey) they are as bad as poison; nay, and they curse the tree for it\ntoo; but if a poor man find his stomach oppressed by eating Pears, it\nis but working hard, and it will do as well as drinking wine.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Pear Tree",
+    "context_quote": "HEADING: The Pear Tree",
+    "part_used": "Tree"
+   },
+   {
+    "name_text": "wild sort",
+    "context_quote": "and if the wild sort be boiled with mushrooms, it makes them less dangerous.",
+    "part_used": "leaves; fruit"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "oppressed stomach",
+    "context_quote": "The said Pears boiled with a little honey, help much the oppressed stomach",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "green wounds",
+    "context_quote": "serving well to be bound to green wounds, to cool and stay the blood",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "mushrooms",
+    "context_quote": "if the wild sort be boiled with mushrooms, it makes them less dangerous",
+    "polarity": "prevents",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "boiled with a little honey",
+    "context_quote": "The said Pears boiled with a little honey, help much the oppressed stomach"
+   },
+   {
+    "kind": "boiled with mushrooms",
+    "context_quote": "and if the wild sort be boiled with mushrooms, it makes them less dangerous."
+   }
+  ],
+  "dosage_notes": [
+   "drink much wine after Pears",
+   "Schola Selerni advises to drink much wine after Pears"
+  ],
+  "cautions": [
+   "they are as bad as poison",
+   "if a poor man find his stomach oppressed by eating Pears, it is but working hard"
+  ],
+  "authority_citations": [
+   "Galen saith he hath found by experience",
+   "Schola Selerni advises"
+  ]
+ },
+ "resolutions": [
+  {
+   "historical_name": "Pear Tree",
+   "candidates": [
+    {
+     "scientific_name": "Pyrus communis",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Pyrus pyraster",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.6,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Pyrus betulaefolia",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.3,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Pyrus communis",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "wild sort",
+   "candidates": [
+    {
+     "scientific_name": "Solanum dulcamara",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.9,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Rumex acetosella",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.4,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Oxalis stricta",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.3,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Solanum dulcamara",
+   "confidence": 0.9,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Pyrus communis",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Phenolic Compounds from Pyrus communis Residues: Mechanisms of Antibacterial Action and Therapeutic Applications.",
+     "identifier": "40149091",
+     "year": "2025",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/40149091/",
+     "relevance_note": "Discusses antibacterial mechanisms relevant to wound care."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Bioactive Compounds and Health-Promoting Properties of Pear (Pyrus communis L.) Fruits.",
+     "identifier": "32992651",
+     "year": "2020",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/32992651/",
+     "relevance_note": "Reviews general health properties, potentially addressing digestive support."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Pyrus communis L. (Pear) and Malus domestica Borkh. (apple) leaves lipoidal extracts as sources for beta-sitosterol rich formulae and their wound healing evaluation.",
+     "identifier": "35369826",
+     "year": "2023",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/35369826/",
+     "relevance_note": "Evaluates wound healing potential of leaf extracts."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "Phenolic compounds",
+    "Beta-sitosterol"
+   ],
+   "summary": "Modern literature supports antibacterial and wound-healing properties via phenolics and beta-sitosterol, aligning with traditional uses for green wounds. Digestive benefits are implied by general health reviews, though specific 'oppressed stomach' mechanisms require further targeted study."
+  },
+  {
+   "taxon": "Solanum dulcamara",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Toxic Risks of Nightshade Species: A comprehensive review of the documented toxicity of Atropa belladonna, Solanum dulcamara, and Solanum nigrum.",
+     "identifier": "41819152",
+     "year": "2026",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/41819152/",
+     "relevance_note": "Documents severe toxicity risks for S. dulcamara, contradicting traditional use for internal ailments like stomach casting or swellings."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Spirosolane-containing Solanum species and induction of congenital craniofacial malformations.",
+     "identifier": "2080514",
+     "year": "1990",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/2080514/",
+     "relevance_note": "Links specific Solanum species to congenital malformations, raising safety concerns for traditional internal applications."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "solanine",
+    "tomatine"
+   ],
+   "summary": "Modern toxicology confirms high risks of S. dulcamara for internal use (stomach/belly), directly contradicting historical indications for 'vicious humours' or swellings. External use may be safer but requires caution due to alkaloid content."
+  }
+ ],
+ "concordance": {
+  "grade": "C",
+  "direction": "partial",
+  "rationale": "Modern evidence shows antibacterial mechanisms (PMID: 40149091) and toxicity risks for Solanum dulcamara (PMID: 41819152), offering limited plausibility for wound cooling or mushroom mitigation, but no clinical support for stomach relief.",
+  "uncertainty": "Evidence is preclinical; historical claims lack modern clinical validation.",
+  "caveats": [
+   "No human trials for gastric use",
+   "Toxicity limits wound application"
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "The said Pears boiled with a little honey, help much the oppressed stomach",
+   "and if the wild sort be boiled with mushrooms, it makes them less dangerous.",
+   "if the wild sort be boiled with mushrooms, it makes them less dangerous",
+   "serving well to be bound to green wounds, to cool and stay the blood"
+  ],
+  "quotes_failed": [
+   "HEADING: The Pear Tree"
+  ],
+  "issues": [
+   "Unearned grade 'C' with no EMA/clinical evidence for gastric relief or wound cooling; toxicity risks noted but not mitigated by clinical data; historical claims lack modern validation as per rationale."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T07:04:59Z"
+ }
+}

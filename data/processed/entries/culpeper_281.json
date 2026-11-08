@@ -1,0 +1,246 @@
+{
+ "id": "culpeper_281",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Meadow Trefoil, Or Honeysuckles",
+  "book": "",
+  "chapter": "",
+  "char_start": 684214,
+  "char_end": 685721,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "IT is so well known, especially by the name of Honeysuckles, white and\nred, that I need not describe them.\n\n_Place._] They grow almost every where in this land.\n\n_Government and virtues._] Mercury hath dominion over the common sort.\nDodoneus saith, The leaves and flowers are good to ease the griping\npains of the gout, the herb being boiled and used in a clyster. If\nthe herb be made into a poultice, and applied to inflammations, it\nwill ease them. The juice dropped in the eyes, is a familiar medicine,\nwith many country people, to take away the pin and web (as they call\nit) in the eyes; it also allays the heat and blood shooting of them.\nCountry people do also in many places drink the juice thereof against\nthe biting of an adder; and having boiled the herb in water, they\nfirst wash the place with the decoction, and then lay some of the herb\nalso to the hurt place. The herb also boiled in swine’s grease, and so\nmade into an ointment, is good to apply to the biting of any venomous\ncreature. The herb also bruised and heated between tiles, and applied\nhot to the share, causes them to make water who had it stopt before.\nIt is held likewise to be good for wounds, and to take away seed. The\ndecoction of the herb and flowers, with the seed and root, taken for\nsome time, helps women that are troubled with the whites. The seed and\nflowers boiled in water, and afterwards made into a poultice with some\noil, and applied, helps hard swellings and imposthumes.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Meadow Trefoil",
+    "context_quote": "HEADING: Meadow Trefoil, Or Honeysuckles",
+    "part_used": "general"
+   },
+   {
+    "name_text": "Honeysuckles",
+    "context_quote": "IT is so well known, especially by the name of Honeysuckles, white and red, that I need not describe them.",
+    "part_used": "general"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "griping pains of the gout",
+    "context_quote": "The leaves and flowers are good to ease the griping pains of the gout",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "inflammations",
+    "context_quote": "If the herb be made into a poultice, and applied to inflammations, it will ease them.",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "pin and web in the eyes",
+    "context_quote": "The juice dropped in the eyes, is a familiar medicine... to take away the pin and web (as they call it) in the eyes",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "heat and blood shooting of the eyes",
+    "context_quote": "it also allays the heat and blood shooting of them.",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "biting of an adder",
+    "context_quote": "Country people do also in many places drink the juice thereof against the biting of an adder",
+    "polarity": "prevents",
+    "strength": "claimed"
+   },
+   {
+    "name": "biting of any venomous creature",
+    "context_quote": "The herb also boiled in swine's grease... is good to apply to the biting of any venomous creature.",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "stopped urine flow",
+    "context_quote": "The herb also bruised and heated between tiles... causes them to make water who had it stopt before.",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "wounds",
+    "context_quote": "It is held likewise to be good for wounds",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "clyster (boiled leaves and flowers)",
+    "context_quote": "the herb being boiled and used in a clyster."
+   },
+   {
+    "kind": "poultice (bruised and heated)",
+    "context_quote": "If the herb be made into a poultice, and applied to inflammations"
+   },
+   {
+    "kind": "eye drops (juice)",
+    "context_quote": "The juice dropped in the eyes"
+   },
+   {
+    "kind": "ointment (boiled in swine's grease)",
+    "context_quote": "The herb also boiled in swine's grease, and so made into an ointment"
+   }
+  ],
+  "dosage_notes": [
+   "taken for some time",
+   "applied hot to the share",
+   "first wash the place with the decoction, and then lay some of the herb also to the hurt place"
+  ],
+  "cautions": [],
+  "authority_citations": [
+   "Dodoneus"
+  ]
+ },
+ "resolutions": [
+  {
+   "historical_name": "Meadow Trefoil",
+   "candidates": [
+    {
+     "scientific_name": "Trifolium pratense",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Trifolium repens",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.6,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Trifolium medium",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.4,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Trifolium pratense",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Honeysuckles",
+   "candidates": [
+    {
+     "scientific_name": "Lonicera periclymenum",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.9,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Lonicera caprifolium",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.5,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Lonicera xylosteum",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.3,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Lonicera periclymenum",
+   "confidence": 0.9,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Trifolium pratense",
+   "ema_monograph": null,
+   "pubmed": [],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "Isoflavones",
+    "Flavonoids"
+   ],
+   "summary": "No modern clinical evidence or EMA monographs were found supporting traditional uses for eye inflammation, venomous bites, gout pain, or adder bites. Research focuses on antioxidant properties rather than acute toxicological applications."
+  },
+  {
+   "taxon": "Lonicera periclymenum",
+   "ema_monograph": null,
+   "pubmed": [],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "Chlorogenic acid",
+    "Hyperoside"
+   ],
+   "summary": "No specific modern evidence or EMA monographs were retrieved for treating eye injuries, venomous bites, gout, or adder bites. Current literature emphasizes antimicrobial and anti-inflammatory potential in chronic contexts, not acute envenomation."
+  }
+ ],
+ "concordance": {
+  "grade": "D",
+  "direction": "contradicts",
+  "rationale": "No modern clinical evidence supports treating gout, eye conditions, or venomous bites with Trifolium pratense or Lonicera periclymenum. EMA status is false for both taxa.",
+  "uncertainty": "Low; lack of clinical trials and safety data for these specific indications in modern medicine.",
+  "caveats": [
+   "Traditional uses do not equate to proven efficacy.",
+   "Potential toxicity exists for some Lonicera species."
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "Country people do also in many places drink the juice thereof against the biting of an adder",
+   "IT is so well known, especially by the name of Honeysuckles, white and red, that I need not describe them.",
+   "If the herb be made into a poultice, and applied to inflammations",
+   "If the herb be made into a poultice, and applied to inflammations, it will ease them.",
+   "It is held likewise to be good for wounds",
+   "The juice dropped in the eyes",
+   "The leaves and flowers are good to ease the griping pains of the gout",
+   "it also allays the heat and blood shooting of them.",
+   "the herb being boiled and used in a clyster."
+  ],
+  "quotes_failed": [
+   "HEADING: Meadow Trefoil, Or Honeysuckles",
+   "The herb also boiled in swine's grease, and so made into an ointment",
+   "The herb also boiled in swine's grease... is good to apply to the biting of any venomous creature.",
+   "The herb also bruised and heated between tiles... causes them to make water who had it stopt before.",
+   "The juice dropped in the eyes, is a familiar medicine... to take away the pin and web (as they call it) in the eyes"
+  ],
+  "issues": [
+   "Unearned Grade D: The grade 'D' with rationale 'No modern clinical evidence...' is logically inconsistent because the provided quotes are historical/traditional claims, not modern clinical data. A grade of 'D' (contradicts) implies these traditional claims are factually incorrect or unsupported by *any* valid evidence within the graph's scope, but the graph lacks the historical context to validate them as 'true' traditions, leading to a false negative on historical efficacy. The entry conflates lack of modern evidence with falsity of historical claim.",
+   "Missing Evidence for Resolved Taxa: Both Trifolium pratense and Lonicera periclymenum have EMA=false and pubmed_n=0, yet the entry asserts specific medical indications (gout, eye conditions, venomous bites) derived from the failed quotes. Without positive evidence (even historical citations in a verified database), these indications cannot be admitted to the knowledge graph.",
+   "Incomplete Resolution: The 'reasoning' relies solely on 'LLM proposal; GBIF EXACT' for taxonomic resolution but provides no source text verification for the medical claims, violating the adversarial fact-checker requirement to verify quotes against source text."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T06:45:18Z"
+ }
+}

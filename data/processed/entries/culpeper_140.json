@@ -1,0 +1,171 @@
+{
+ "id": "culpeper_140",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Black Hellebore",
+  "book": "",
+  "chapter": "",
+  "char_start": 350213,
+  "char_end": 352911,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "IT is also called Setter-wort, Setter-grass, Bear’s-foot,\nChristmas-herb, and Christmas-flowers.\n\n_Descript._] It hath sundry fair green leaves rising from the root,\neach of them standing about an handful high from the earth; each leaf\nis divided into seven, eight, or nine parts, dented from the middle\nof the leaf to the point on both sides, abiding green all the Winter;\nabout Christmas-time, if the weather be any thing temperate, the\nflowers appear upon foot stalks, also consisting of five large, round,\nwhite leaves a-piece, which sometimes are purple towards the edges,\nwith many pale yellow thumbs in the middle; the seeds are divided\ninto several cells, like those of Columbines, save only that they are\ngreater; the seeds are in colour black, and in form long and round. The\nroot consists of numberless blackish strings all united into one head.\nThere is another Black Hellebore, which grows up and down in the woods\nvery like this, but only that the leaves are smaller and narrower, and\nperish in the Winter, which this doth not.\n\n_Place._] The first is maintained in gardens. The second is commonly\nfound in the woods in Northamptonshire.\n\n_Time._] The first flowers in December or January; the second in\nFebruary or March.\n\n_Government and virtues._] It is an herb of Saturn, and therefore no\nmarvel if it has some sullen conditions with it, and would be far\nsafer, being purified by the art of the alchymist than given raw. If\nany have taken any harm by taking it, the common cure is to take goat’s\nmilk: If you cannot get goat’s milk, you must make a shift with such\nas you can get. The roots are very effectual against all melancholy\ndiseases, especially such as are of long standing, as quartan agues and\nmadness; it helps the falling sickness, the leprosy, both the yellow\nand black jaundice, the gout, sciatica, and convulsions; and this was\nfound out by experience, that the root of that which grows wild in our\ncountry, works not so churlishly as those do which are brought from\nbeyond sea, as being maintained by a more temperate air. The root used\nas a pessary, provokes the terms exceedingly; also being beaten into\npowder, and strewed upon foul ulcers, it consumes the dead flesh, and\ninstantly heals them; nay, it will help gangrenes in the beginning.\nTwenty grains taken inwardly is a sufficient dose for one time, and\nlet that be corrected with half so much cinnamon; country people used\nto rowel their cattle with it. If a beast be troubled with a cough,\nor have taken any poison, they bore a hole through the ear, and put\na piece of the root in it, this will help him in 24 hours time. Many\nother uses farriers put it to which I shall forbear.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Black Hellebore",
+    "context_quote": "HEADING: Black Hellebore",
+    "part_used": "root"
+   },
+   {
+    "name_text": "Setter-wort, Setter-grass, Bear's-foot, Christmas-herb, and Christmas-flowers",
+    "context_quote": "IT is also called Setter-wort, Setter-grass, Bear's-foot, Christmas-herb, and Christmas-flowers.",
+    "part_used": "root"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "melancholy diseases",
+    "context_quote": "The roots are very effectual against all melancholy diseases",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "quartan agues",
+    "context_quote": "especially such as are of long standing, as quartan agues and madness",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "madness",
+    "context_quote": "especially such as are of long standing, as quartan agues and madness",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "falling sickness",
+    "context_quote": "it helps the falling sickness",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "leprosy",
+    "context_quote": "the leprosy, both the yellow and black jaundice",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "yellow jaundice",
+    "context_quote": "both the yellow and black jaundice",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "black jaundice",
+    "context_quote": "both the yellow and black jaundice",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "gout",
+    "context_quote": "the gout, sciatica, and convulsions",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "raw root (purified by alchymist preferred)",
+    "context_quote": "would be far safer, being purified by the art of the alchymist than given raw."
+   },
+   {
+    "kind": "powder",
+    "context_quote": "also being beaten into powder, and strewed upon foul ulcers"
+   },
+   {
+    "kind": "pessary",
+    "context_quote": "The root used as a pessary, provokes the terms exceedingly"
+   },
+   {
+    "kind": "root piece in ear",
+    "context_quote": "they bore a hole through the ear, and put a piece of the root in it"
+   }
+  ],
+  "dosage_notes": [
+   "Twenty grains taken inwardly is a sufficient dose for one time",
+   "let that be corrected with half so much cinnamon"
+  ],
+  "cautions": [
+   "It hath some sullen conditions with it",
+   "would be far safer, being purified by the art of the alchymist than given raw",
+   "If any have taken any harm by taking it, the common cure is to take goat's milk"
+  ],
+  "authority_citations": []
+ },
+ "resolutions": [
+  {
+   "historical_name": "Black Hellebore",
+   "candidates": [],
+   "selected": "",
+   "confidence": 0.0,
+   "status": "unresolved",
+   "reasoning": "no candidates proposed"
+  },
+  {
+   "historical_name": "Setter-wort, Setter-grass, Bear's-foot, Christmas-herb, and Christmas-flowers",
+   "candidates": [],
+   "selected": "",
+   "confidence": 0.0,
+   "status": "unresolved",
+   "reasoning": "no candidates proposed"
+  }
+ ],
+ "evidence": [],
+ "concordance": {
+  "grade": "X",
+  "direction": "none",
+  "rationale": "Cannot grade honestly: taxon unresolved or no modern evidence retrieved for the recorded uses.",
+  "uncertainty": "Deterministic X backfill per rubric (absence of retrieved evidence is not evidence of absence).",
+  "caveats": [
+   "no concordance claim is made for this entry"
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "The root used as a pessary, provokes the terms exceedingly",
+   "The roots are very effectual against all melancholy diseases",
+   "also being beaten into powder, and strewed upon foul ulcers",
+   "both the yellow and black jaundice",
+   "especially such as are of long standing, as quartan agues and madness",
+   "it helps the falling sickness",
+   "the gout, sciatica, and convulsions",
+   "the leprosy, both the yellow and black jaundice",
+   "they bore a hole through the ear, and put a piece of the root in it",
+   "would be far safer, being purified by the art of the alchymist than given raw."
+  ],
+  "quotes_failed": [
+   "HEADING: Black Hellebore",
+   "IT is also called Setter-wort, Setter-grass, Bear's-foot, Christmas-herb, and Christmas-flowers."
+  ],
+  "issues": [
+   "Missing taxonomic resolution (no selected candidate for 'Black Hellebore' or common names)",
+   "Missing evidence source text for all claims",
+   "Concordance grade cannot be determined without supporting evidence"
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T06:19:59Z"
+ }
+}

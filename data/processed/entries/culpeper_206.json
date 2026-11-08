@@ -1,0 +1,31 @@
+{
+ "id": "culpeper_206",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Pellitory Of Spain",
+  "book": "",
+  "chapter": "",
+  "char_start": 499288,
+  "char_end": 501594,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "COMMON Pellitory of Spain, if it be planted in our gardens, will\nprosper very well; yet there is one sort growing ordinarily here wild,\nwhich I esteem to be little inferior to the other, if at all. I shall\nnot deny you the description of them both.\n\n_Descript._] Common Pellitory is a very common plant, and will not be\nkept in our gardens without diligent looking to. The root goes down\nright into the ground bearing leaves, being long and finely cut upon\nthe stalk, lying on the ground, much larger than the leaves of the\nCamomile are. At the top it bears one single large flower at a place,\nhaving a border of many leaves, white on the upper side, and reddish\nunderneath, with a yellow thrum in the middle, not standing so close as\nthat of Camomile.\n\nThe other common Pellitory which grows here, hath a root of a sharp\nbiting taste, scarcely discernible by the taste from that before\ndescribed, from whence arise divers brittle stalks, a yard high and\nmore, with narrow leaves finely dented about the edges, standing one\nabove another up to the tops. The flowers are many and white, standing\nin tufts like those of Yarrow, with a small yellowish thrum in the\nmiddle. The seed is very small.\n\n_Place._] The last grows in fields by the hedge sides and paths, almost\nevery where.\n\n_Time._] It flowers at the latter end of June and July.\n\n_Government and virtues._] It is under the government of Mercury, and\nI am persuaded it is one of the best purgers of the brain that grows.\nAn ounce of the juice taken in a draught of Muskadel an hour before the\nfit of the ague comes, it will assuredly drive away the ague at the\nsecond or third time taken at the farthest. Either the herb or root\ndried and chewed in the mouth, purges the brain of phlegmatic humours;\nthereby not only easing pains in the head and teeth, but also hinders\nthe distilling of the brain upon the lungs and eyes, thereby preventing\ncoughs, phthisicks and consumption, the apoplexy and falling sickness.\nIt is an excellently approved remedy in the lethargy. The powder of\nthe herb or root being snuffed up the nostrils, procures sneezing, and\neases the head-ache; being made into an ointment with hog’s grease, it\ntakes away black and blue spots occasioned by blows or falls, and helps\nboth the gout and sciatica.",
+ "extraction": null,
+ "resolutions": [],
+ "evidence": [],
+ "concordance": null,
+ "audit": null,
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "note": "no extraction or non-medicinal"
+ }
+}

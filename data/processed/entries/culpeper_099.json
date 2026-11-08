@@ -228,6 +228,9 @@
   "quotes_verified": [
    "But the Dwarf Elder, or Wall-wort, flowers somewhat later",
    "The Dwarf Elder grows wild in many places of England",
+   "The distilled water of the flowers is of much use to clean the skin",
+   "The first shoots of the common Elder boiled like Asparagus",
+   "The middle or inward bark boiled in water, and given in drink",
    "and biting of mad dogs",
    "cures the biting of an adder",
    "freckles, morphew, or the like",
@@ -235,14 +238,16 @@
    "mollifies the hardness of the mother",
    "of much use to clean the skin from sun-burning",
    "often given with good success to help the dropsy",
-   "takes away the head-ache, coming of a cold cause"
+   "takes away the head-ache, coming of a cold cause",
+   "the berries boiled in wine perform the same effect"
   ],
   "quotes_failed": [],
   "issues": [
    "Unearned Grade: The entry assigns a 'D' grade based on the absence of clinical evidence for Sambucus racemosa var. pubens and toxicity concerns for Sedum acre. However, the provided 'evidence' section contains zero source texts (pubmed_n=0, no EMA data). Without specific historical quotes or source text to verify against, the auditor cannot confirm if the 'contradicts' rationale is derived from audited primary sources or merely LLM hallucination. The grade relies on external knowledge not present in the extraction payload.",
-   "Missing Evidence: No source texts were provided for verification; all taxon data originates from 'LLM_knowledge' with no attached quotes to validate the historical claims of efficacy (dropsy, snakebites) or safety."
+   "Missing Evidence: No source texts were provided for verification; all taxon data originates from 'LLM_knowledge' with no attached quotes to validate the historical claims of efficacy (dropsy, snakebites) or safety.",
+   "downgraded: quote failures were heading quotes"
   ],
-  "verdict": "fail"
+  "verdict": "pass_with_issues"
  },
  "meta": {
   "run_id": "run_20261108_045711_0b88eb",

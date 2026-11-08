@@ -1,0 +1,270 @@
+{
+ "id": "culpeper_208",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Pennyroyal",
+  "book": "",
+  "chapter": "",
+  "char_start": 505727,
+  "char_end": 508791,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "PENNYROYAL is so well known unto all, I mean the common kind, that it\nneeds no description.\n\nThere is a greater kind than the ordinary sort found wild with us,\nwhich so abides, being brought into gardens, and differs not from it,\nbut only in the largeness of the leaves and stalks, in rising higher,\nand not creeping upon the ground so much. The flowers whereof are\npurple, growing in rundles about the stalks like the other.\n\n_Place._] The first, which is common in gardens, grows also in many\nmoist and watery places of this land.\n\nThe second is found wild in effect in divers places by the highways\nfrom London to Colchester, and thereabouts, more abundantly than in any\nother counties, and is also planted in their gardens in Essex.\n\n_Time._] They flower in the latter end of Summer, about August.\n\n_Government and virtues._] The herb is under Venus. Dioscorides saith,\nthat Pennyroyal makes thin tough phlegm, warms the coldness of any part\nwhereto it is applied, and digests raw or corrupt matter; Being boiled\nand drank, it provokes women’s courses, and expels the dead child and\nafter-birth, and stays the disposition to vomit, being taken in water\nand vinegar mingled together. And being mingled with honey and salt,\nit voids phlegm out of the lungs, and purges melancholy by the stool.\nDrank with wine, it helps such as are bitten and stung with venomous\nbeasts, and applied to the nostrils with vinegar, revives those that\nare fainting and swooning. Being dried and burnt, it strengthens the\ngums. It is helpful to those that are troubled with the gout, being\napplied of itself to the place until it was red; and applied in a\nplaister, it takes away spots or marks in the face; applied with salt,\nit profits those that are splenetic, or livergrown. The decoction doth\nhelp the itch, if washed therewith. The green herb bruised and put into\nvinegar, cleanses foul ulcers, and takes away the marks of bruises and\nblows about the eyes, and all discolourings of the face by fire, yea,\nand the leprosy, being drank and outwardly applied: Boiled in wine\nwith honey and salt, it helps the tooth-ache. It helps the cold griefs\nby the joints, taking away the pains, and warms the cold part, being\nfast bound to the place, after a bathing or sweating in a hot house.\nPliny adds, that Pennyroyal and Mints together, help faintings, being\nput into vinegar, and smelled unto, or put into the nostrils or mouth.\nIt eases head-aches, pains of the breast and belly, and gnawings of\nthe stomach; applied with honey, salt, and vinegar, it helps cramps or\nconvulsions of the sinews: Boiled in milk, and drank, it is effectual\nfor the cough, and for ulcers and sores in the mouth; drank in wine it\nprovokes women’s courses, and expels the dead child, and after-birth.\nMatthiolus saith, The decoction thereof being drank, helps the jaundice\nand dropsy, all pains of the head and sinews that come of a cold cause,\nand clears the eye-sight. It helps the lethargy, and applied with\nbarley-meal, helps burnings; and put into the ears, eases the pains of\nthem.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Pennyroyal",
+    "context_quote": "PENNYROYAL is so well known unto all, I mean the common kind",
+    "part_used": "The herb"
+   },
+   {
+    "name_text": "common kind",
+    "context_quote": "I mean the common kind, that it needs no description",
+    "part_used": "The herb"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "makes thin tough phlegm",
+    "context_quote": "Dioscorides saith, that Pennyroyal makes thin tough phlegm",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "warms the coldness of any part",
+    "context_quote": "warms the coldness of any part whereto it is applied",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "digests raw or corrupt matter",
+    "context_quote": "and digests raw or corrupt matter",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "provokes women's courses",
+    "context_quote": "Being boiled and drank, it provokes women's courses",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "expels the dead child and after-birth",
+    "context_quote": "and expels the dead child and after-birth",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "stays the disposition to vomit",
+    "context_quote": "and stays the disposition to vomit, being taken in water and vinegar mingled together",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "voids phlegm out of the lungs",
+    "context_quote": "and being mingled with honey and salt, it voids phlegm out of the lungs",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "purges melancholy by the stool",
+    "context_quote": "and purges melancholy by the stool",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "Boiled and drank in water and vinegar",
+    "context_quote": "Being boiled and drank, it provokes women's courses... being taken in water and vinegar mingled together"
+   },
+   {
+    "kind": "Mingled with honey and salt",
+    "context_quote": "And being mingled with honey and salt, it voids phlegm out of the lungs"
+   },
+   {
+    "kind": "Applied to the nostrils with vinegar",
+    "context_quote": "and applied to the nostrils with vinegar, revives those that are fainting and swooning"
+   },
+   {
+    "kind": "Dried and burnt",
+    "context_quote": "Being dried and burnt, it strengthens the gums"
+   }
+  ],
+  "dosage_notes": [
+   "taken in water and vinegar mingled together",
+   "mingled with honey and salt",
+   "applied of itself to the place until it was red"
+  ],
+  "cautions": [],
+  "authority_citations": [
+   "Dioscorides",
+   "Pliny",
+   "Matthiolus"
+  ]
+ },
+ "resolutions": [
+  {
+   "historical_name": "Pennyroyal",
+   "candidates": [
+    {
+     "scientific_name": "Mentha pulegium",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Hedeoma pulegioides",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.45,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Mentha aquatica",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.2,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Mentha pulegium",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "common kind",
+   "candidates": [
+    {
+     "scientific_name": "Mentha pulegium",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.85,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Mentha spicata",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.3,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Mentha arvensis",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.25,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Mentha pulegium",
+   "confidence": 0.85,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Mentha pulegium",
+   "ema_monograph": {
+    "kind": "EMA_monograph",
+    "title": "Menthae piperitae folium (peppermint leaf)",
+    "identifier": "Menthae piperitae folium (peppermint leaf)",
+    "year": "",
+    "url": "https://www.ema.europa.eu/en/medicines/herbal/menthae-piperitae-folium",
+    "relevance_note": "EU HMPC monograph"
+   },
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Pennyroyal Oil.",
+     "identifier": "31643984",
+     "year": "2012",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/31643984/",
+     "relevance_note": "Discusses hepatotoxicity and contraindications of pennyroyal oil, relevant to traditional use for inducing menstruation."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Mentha Pulegium: A Plant with Several Medicinal Properties.",
+     "identifier": "37711001",
+     "year": "2024",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/37711001/",
+     "relevance_note": "Reviews modern pharmacological properties including antispasmodic and emetic effects aligning with traditional uses."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Persian Herbal Medicine in Functional Dyspepsia: A Systematic Review.",
+     "identifier": "32525777",
+     "year": "2021",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/32525777/",
+     "relevance_note": "Examines traditional Persian uses for digestive issues and expelling after-birth, though evidence is limited."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "pulegone",
+    "menthone",
+    "1,8-cineole"
+   ],
+   "summary": "Modern evidence highlights significant hepatotoxicity risks associated with pulegone. While traditional uses for inducing menstruation and expelling after-birth are documented in historical texts like the Persian Herbal, contemporary reviews emphasize severe safety concerns rather than therapeutic efficacy. Evidence supports emetic properties but warns against internal use due to toxicity."
+  }
+ ],
+ "concordance": {
+  "grade": "D",
+  "direction": "contradicts",
+  "rationale": "Mentha pulegium contains high levels of pulegone, a hepatotoxic compound. Modern evidence (PMID: 31643984) explicitly warns against internal use due to severe liver toxicity and potential fatality, contradicting historical claims of safe therapeutic efficacy.",
+  "uncertainty": "Low; safety data is definitive for this species.",
+  "caveats": [
+   "Do not ingest internally",
+   "External use only"
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "And being mingled with honey and salt, it voids phlegm out of the lungs",
+   "Being dried and burnt, it strengthens the gums",
+   "Dioscorides saith, that Pennyroyal makes thin tough phlegm",
+   "I mean the common kind, that it needs no description",
+   "PENNYROYAL is so well known unto all, I mean the common kind",
+   "and applied to the nostrils with vinegar, revives those that are fainting and swooning",
+   "and being mingled with honey and salt, it voids phlegm out of the lungs",
+   "and digests raw or corrupt matter",
+   "and expels the dead child and after-birth",
+   "and purges melancholy by the stool",
+   "and stays the disposition to vomit, being taken in water and vinegar mingled together",
+   "warms the coldness of any part whereto it is applied"
+  ],
+  "quotes_failed": [
+   "Being boiled and drank, it provokes women's courses",
+   "Being boiled and drank, it provokes women's courses... being taken in water and vinegar mingled together"
+  ],
+  "issues": [
+   "Unearned Grade: The entry assigns a 'D' grade based on hepatotoxicity (PMID: 31643984), but the concordance rationale claims to contradict historical claims of safe therapeutic efficacy. However, the specific historical claim cited in the failed quote ('provokes women's courses') is a traditional medicinal use that is not directly contradicted by modern toxicity data regarding liver failure; rather, it represents a different mechanism (emmenagogue vs. hepatotoxin). The grade 'D' implies a direct contradiction of safety/efficacy which is conflated here. Additionally, the failed quote indicates a historical therapeutic claim that was likely considered valid in its context but is now flagged as unsafe or inaccurate without explicit verification of the toxicity link to that specific effect in the provided evidence.",
+   "verdict",
+   "machine check caught failed quotes"
+  ],
+  "verdict": "pass_with_issues"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T06:28:15Z"
+ }
+}

@@ -257,11 +257,14 @@
   "quotes_verified": [
    "Being tied round about the neck, is one of the most admirable remedies for the vertigo or dizziness in the head",
    "Besides Amara Dulcis, some call it Mortal, others Bitter-sweet; some Woody Night-shade, and others Felon-wort.",
+   "Country people commonly take the berries of it, and having bruised them, apply them to felons",
    "Country people commonly take the berries of it, and having bruised them, apply them to felons, and thereby soon rid their fingers of such troublesome guests.",
    "It is excellently good to remove witchcraft both in men and beasts, as also all sudden diseases whatsoever.",
    "so have you a most excellent drink to open obstructions of the liver and spleen, to help difficulty of breath, bruises and falls, and congealed blood in any part of the body"
   ],
-  "quotes_failed": [],
+  "quotes_failed": [
+   "Take a pound of the wood and leaves together, bruise the wood... then put it in a pot, and put to it three pints of white wine, put on the pot-lid and shut it close; and let it infuse hot over a gentle fire twelve hours, then strain it out"
+  ],
   "issues": [
    "Unresolved taxon 'Mortal' (status: ambiguous) violates completeness requirement for every name.",
    "Evidence for 'Solanum dulcamara' is insufficient to support a high confidence grade; EMA status is false and PubMed count is low (3), yet the entry proceeds without explicit clinical validation.",

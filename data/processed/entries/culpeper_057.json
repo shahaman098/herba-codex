@@ -1,0 +1,251 @@
+{
+ "id": "culpeper_057",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Carrots",
+  "book": "",
+  "chapter": "",
+  "char_start": 163356,
+  "char_end": 165170,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "GARDEN Carrots are so well known, that they need no description; but\nbecause they are of less physical use than the wild kind (as indeed\nalmost in all herbs the wild are the most effectual in physic, as being\nmore powerful in operation than the garden kinds,) I shall therefore\nbriefly describe the Wild Carrot.\n\n_Descript._] It grows in a manner altogether like the tame, but that\nthe leaves and stalks are somewhat whiter and rougher. The stalks bear\nlarge tufts of white flowers, with a deep purple spot in the middle,\nwhich are contracted together when the seed begins to ripen, that the\nmiddle part being hollow and low, and the outward stalk rising high,\nmakes the whole umbel to show like a bird’s nest. The root small, long,\nand hard, and unfit for meat, being somewhat sharp and strong.\n\n_Place._] The wild kind grows in divers parts of this land plentifully\nby the field-sides, and untilled places.\n\n_Time._] They flower and seed in the end of Summer.\n\n_Government and virtues._] Wild Carrots belong to Mercury, and\ntherefore break wind, and remove stitches in the sides, provoke urine\nand women’s courses, and helps to break and expel the stone; the seed\nalso of the same works the like effect, and is good for the dropsy,\nand those whose bellies are swelling with wind; helps the cholic, the\nstone in the kidneys, and rising of the mother; being taken in wine, or\nboiled in wine and taken, it helps conception. The leaves being applied\nwith honey to running sores or ulcers, do cleanse them.\n\nI suppose the seeds of them perform this better than the roots; and\nthough Galen commended garden Carrots highly to break wind, yet\nexperience teaches they breed it first, and we may thank nature for\nexpelling it, not they; the seeds of them expel wind indeed, and so\nmend what the root marrs.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Wild Carrot",
+    "context_quote": "I shall therefore briefly describe the Wild Carrot.",
+    "part_used": "root, seed, leaves"
+   },
+   {
+    "name_text": "Garden Carrots",
+    "context_quote": "GARDEN Carrots are so well known, that they need no description",
+    "part_used": "root"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "wind (flatulence)",
+    "context_quote": "therefore break wind, and remove stitches in the sides",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "stitches in the sides",
+    "context_quote": "break wind, and remove stitches in the sides",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "urinary retention",
+    "context_quote": "provoke urine",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "amenorrhea (women's courses)",
+    "context_quote": "and women's courses",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "stones (renal/urinary)",
+    "context_quote": "helps to break and expel the stone; the seed also of the same works the like effect",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "dropsy (edema)",
+    "context_quote": "and is good for the dropsy",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "distended bellies with wind",
+    "context_quote": "and those whose bellies are swelling with wind",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "cholic (colic)",
+    "context_quote": "helps the cholic",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "taken in wine",
+    "context_quote": "being taken in wine, or boiled in wine and taken"
+   },
+   {
+    "kind": "boiled in wine",
+    "context_quote": "or boiled in wine and taken"
+   },
+   {
+    "kind": "topical application with honey",
+    "context_quote": "The leaves being applied with honey to running sores or ulcers"
+   }
+  ],
+  "dosage_notes": [],
+  "cautions": [
+   "experience teaches they breed it first [referring to garden carrots causing wind]",
+   "the root small, long, and hard, and unfit for meat",
+   "nature for expelling it, not they [garden carrots]"
+  ],
+  "authority_citations": [
+   "Galen"
+  ]
+ },
+ "resolutions": [
+  {
+   "historical_name": "Wild Carrot",
+   "candidates": [
+    {
+     "scientific_name": "Daucus carota",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.85,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Daucus carota subsp. carota",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.75,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Daucus carota subsp. gummifer",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.65,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Daucus carota",
+   "confidence": 0.85,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Garden Carrots",
+   "candidates": [
+    {
+     "scientific_name": "Daucus carota subsp. sativus",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Daucus carota var. sativa",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.9,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Daucus carota L.",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.85,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Daucus carota subsp. sativus",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF HIGHERRANK"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Daucus carota",
+   "ema_monograph": null,
+   "pubmed": [],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "beta-carotene",
+    "lutein"
+   ],
+   "summary": "No modern clinical evidence found for the specific traditional uses of D. carota (stitches, wind, amenorrhea, stones, dropsy, retention). The species is primarily studied as a source of provitamin A."
+  },
+  {
+   "taxon": "Daucus carota subsp. sativus",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Carrot.",
+     "identifier": "30000953",
+     "year": "2006",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/30000953/",
+     "relevance_note": "Reviews nutritional properties and beta-carotene content; does not address traditional uses for stitches, wind, amenorrhea, stones, dropsy, or urinary retention."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "beta-carotene",
+    "lutein"
+   ],
+   "summary": "Modern literature focuses on nutritional benefits and antioxidant capacity. No specific evidence supports the traditional claims regarding stitches, flatulence, amenorrhea, kidney stones, edema, or urinary retention for this subspecies."
+  }
+ ],
+ "concordance": {
+  "grade": "C",
+  "direction": "none",
+  "rationale": "No clinical evidence supports historical claims for flatulence, urinary retention, amenorrhea, stones, dropsy, or distended bellies. Only a general review exists (PMID:30000953). EMA status is false.",
+  "uncertainty": "Historical uses lack modern validation; only nutritional benefits are well-documented in literature.",
+  "caveats": [
+   "Claims are historical assertions without therapeutic efficacy proof.",
+   "Safety concerns regarding specific conditions remain unaddressed by current data."
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "GARDEN Carrots are so well known, that they need no description",
+   "I shall therefore briefly describe the Wild Carrot.",
+   "The leaves being applied with honey to running sores or ulcers",
+   "and is good for the dropsy",
+   "and those whose bellies are swelling with wind",
+   "being taken in wine, or boiled in wine and taken",
+   "break wind, and remove stitches in the sides",
+   "helps the cholic",
+   "helps to break and expel the stone; the seed also of the same works the like effect",
+   "or boiled in wine and taken",
+   "provoke urine",
+   "therefore break wind, and remove stitches in the sides"
+  ],
+  "quotes_failed": [
+   "and women's courses"
+  ],
+  "issues": [
+   "Unearned Grade C: The grade relies on a lack of clinical evidence for specific historical claims (flatulence, urinary retention, etc.), but the entry lacks any EMA approval or robust clinical trial data to substantiate even a 'C' grade which typically implies some level of validated efficacy or safety profile. The rationale cites only a general review (PMID:30000953) for nutritional benefits, not therapeutic efficacy.",
+   "Missing Evidence: No PubMed citations provided for the specific historical claims mentioned in the rationale (flatulence, urinary retention, amenorrhea, stones, dropsy).",
+   "Incomplete Resolution: The 'Garden Carrots' resolution selects 'Daucus carota subsp. sativus', but standard taxonomic databases often treat cultivated carrots as 'Daucus carota' with subspecies or varieties (e.g., var. sativa) rather than a distinct subspecies 'sativus' in all contexts; however, this is minor compared to the evidence gap.",
+   "Failed Quote: The quote fragment 'and women's courses' failed verification, indicating missing context for historical claims regarding amenorrhea or reproductive health."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T07:07:45Z"
+ }
+}

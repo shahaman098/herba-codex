@@ -1,0 +1,211 @@
+{
+ "id": "culpeper_202",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Parsnips",
+  "book": "",
+  "chapter": "",
+  "char_start": 490429,
+  "char_end": 491926,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "THE garden kind thereof is so well known (the root being commonly\neaten) that I shall not trouble you with any description of it. But the\nwild kind being of more physical use, I shall in this place describe it\nunto you.\n\n_Descript._] The wild Parsnip differs little from the garden, but\ngrows not so fair and large, nor hath so many leaves, and the root is\nshorter, more woody, and not so fit to be eaten, and therefore more\nmedicinal.\n\n_Place._] The name of the first shews the place of its growth. The\nother grows wild in divers places, as in the marshes in Rochester,\nand elsewhere, and flowers in July; the seed being ripe about the\nbeginning of August, the second year after its sowing; for if they do\nflower the first year, the country people call them Madneps.\n\n_Government and virtues._] The garden Parsnips are under Venus. The\ngarden Parsnip nourishes much, and is good and wholesome nourishment,\nbut a little windy, whereby it is thought to procure bodily lust; but\nit fastens the body much, if much need. It is conducible to the stomach\nand reins, and provokes urine. But the wild Parsnips hath a cutting,\nattenuating, cleansing, and opening quality therein. It resists and\nhelps the bitings of serpents, eases the pains and stitches in the\nsides, and dissolves wind both in the stomach and bowels, which is the\ncholic, and provokes urine. The root is often used, but the seed much\nmore. The wild being better than the tame, shews Dame Nature to be the\nbest physician.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "wild kind",
+    "context_quote": "But the wild kind being of more physical use, I shall in this place describe it unto you.",
+    "part_used": "root"
+   },
+   {
+    "name_text": "Madneps",
+    "context_quote": "for if they do flower the first year, the country people call them Madneps.",
+    "part_used": "plant"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "serpent bites",
+    "context_quote": "It resists and helps the bitings of serpents",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "side pains",
+    "context_quote": "eases the pains and stitches in the sides",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "wind in stomach",
+    "context_quote": "dissolves wind both in the stomach and bowels",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "cholic",
+    "context_quote": "which is the cholic",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "urinary retention",
+    "context_quote": "provokes urine",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "root",
+    "context_quote": "The root is often used, but the seed much more."
+   },
+   {
+    "kind": "seed",
+    "context_quote": "The root is often used, but the seed much more."
+   }
+  ],
+  "dosage_notes": [
+   "The wild being better than the tame, shews Dame Nature to be the best physician.",
+   "It is conducible to the stomach and reins",
+   "but a little windy"
+  ],
+  "cautions": [
+   "it fastens the body much, if much need",
+   "procure bodily lust",
+   "not so fit to be eaten"
+  ],
+  "authority_citations": []
+ },
+ "resolutions": [
+  {
+   "historical_name": "wild kind",
+   "candidates": [
+    {
+     "scientific_name": "Pastinaca sativa",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.85,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Pastinaca sativa var. sylvestris",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.6,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Pastinaca sativa",
+   "confidence": 0.85,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Madneps",
+   "candidates": [
+    {
+     "scientific_name": "Pastinaca sativa",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Sium sisarum",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.2,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Pastinaca sativa",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Pastinaca sativa",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Review of Pharmacological Properties and Chemical Constituents of Pastinaca sativa.",
+     "identifier": "33833896",
+     "year": "2021",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/33833896/",
+     "relevance_note": "Reviews general pharmacological properties and chemical constituents, providing a modern scientific context for traditional applications."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Wild parsnip (Pastinaca sativa)-induced photosensitization.",
+     "identifier": "31173794",
+     "year": "2019",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/31173794/",
+     "relevance_note": "Discusses toxicological aspects and furocoumarin content, which is critical for safety assessment of traditional uses."
+    },
+    {
+     "kind": "PubMed",
+     "title": "South Tyrol (Italy) Pastinaca sativa L. subsp. sativa Essential Oil: GC-MS Composition, Antimicrobial, Anti-Biofilm, and Antioxidant Properties.",
+     "identifier": "40733297",
+     "year": "2025",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/40733297/",
+     "relevance_note": "Demonstrates antimicrobial and anti-biofilm activity of essential oil, potentially relevant to treating infections from bites or internal issues."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "Furocoumarins",
+    "Essential oils"
+   ],
+   "summary": "Modern evidence supports antimicrobial and antioxidant properties via essential oils, which may partially explain traditional uses for infections. However, significant toxicity risks exist due to furocoumarin-induced photosensitization. No specific modern studies directly validate the historical claims for serpent bites, side pains, cholic conditions, wind, or urinary retention; these remain largely anecdotal."
+  }
+ ],
+ "concordance": {
+  "grade": "D",
+  "direction": "contradicts",
+  "rationale": "Evidence flags serious safety concerns: PMID 31173794 documents severe photosensitization (skin burns) upon sun exposure, contradicting safe internal use. EMA status is false.",
+  "uncertainty": "Low uncertainty regarding the specific risk of photosensitivity in P. sativa.",
+  "caveats": [
+   "Do not consume if exposed to sunlight",
+   "Historical claims lack modern clinical validation"
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "But the wild kind being of more physical use, I shall in this place describe it unto you.",
+   "It resists and helps the bitings of serpents",
+   "The root is often used, but the seed much more.",
+   "dissolves wind both in the stomach and bowels",
+   "eases the pains and stitches in the sides",
+   "for if they do flower the first year, the country people call them Madneps.",
+   "provokes urine",
+   "which is the cholic"
+  ],
+  "quotes_failed": [],
+  "issues": [
+   "Grade 'D' is unearned: The entry lacks EMA approval (explicitly stated as false) and has only 1 PubMed citation. A grade of 'D' typically implies a specific level of safety or efficacy validation that cannot be supported by a single study documenting adverse effects without broader clinical context or regulatory clearance. The rationale correctly identifies the risk but fails to justify the specific letter grade 'D' against the lack of positive evidence or regulatory status, making the grade potentially misleading in a knowledge graph requiring strict audit."
+  ],
+  "verdict": "pass_with_issues"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T07:16:54Z"
+ }
+}

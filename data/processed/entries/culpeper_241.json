@@ -1,0 +1,310 @@
+{
+ "id": "culpeper_241",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Wood-Sage",
+  "book": "",
+  "chapter": "",
+  "char_start": 602341,
+  "char_end": 607369,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "_Descript._] WOOD-SAGE rises up with square hoary stalks, two feet\nhigh at the least, with two leaves set at every joint, somewhat like\nother Sage leaves, but smaller, softer, whiter, and rounder, and a\nlittle dented about the edges, and smelling somewhat stronger. At the\ntops of the stalks and branches stand the flowers, on a slender like\nspike, turning themselves all one way when they blow, and are of a\npale and whitish colour, smaller than Sage, but hooded and gaping like\nunto them. The seed is blackish and round; four usually seem in a husk\ntogether: the root is long and stringy, with divers fibres thereat,\nand abides many years.\n\n_Place._] It grows in woods, and by wood-sides; as also in divers\nfields and bye-lanes in the land.\n\n_Time._] It flowers in June, July, and August.\n\n_Government and virtues._] The herb is under Venus. The decoction of\nthe Wood Sage provokes urine and women’s courses: It also provokes\nsweat, digests humours, and discusses swellings and nodes in the\nflesh, and is therefore thought to be good against the French pox.\nThe decoction of the green herb, made with wine, is a safe and sure\nremedy for those who by falls, bruises, or blows, suspect some vein\nto be inwardly broken, to disperse and void the congealed blood, and\nto consolidate the veins. The drink used inwardly, and the herb used\noutwardly, is good for such as are inwardly or outwardly bursten, and\nis found to be a sure remedy for the palsy. The juice of the herb,\nor the powder thereof dried, is good for moist ulcers and sores in\nthe legs, and other parts, to dry them, and cause them to heal more\nspeedily. It is no less effectual also in green wounds, to be used upon\nany occasion.\n\n    SOLOMON’S SEAL.\n\n_Descript._] THE common Solomon’s Seal rises up with a round stalk half\na yard high, bowing or bending down to the ground, set with single\nleaves one above another, somewhat large, and like the leaves of the\nlily-convally, or May-lily, with an eye of bluish upon the green,\nwith some ribs therein, and more yellowish underneath. At the foot of\nevery leaf, almost from the bottom up to the top of the stalk, come\nforth small, long, white and hollow pendulous flowers, somewhat like\nthe flowers of May-lily, but ending in five long points, for the most\npart two together, at the end of a long foot-stalk, and sometimes but\none, and sometimes also two stalks, and flowers at the foot of a leaf,\nwhich are without any scent at all, and stand on the top of the stalk.\nAfter they are past, come in their places small round berries great at\nthe first, and blackish green, tending to blueness when they are ripe,\nwherein lie small, white, hard, and stony seeds. The root is of the\nthickness of one’s finger or thumb, white and knotted in some places, a\nflat round circle representing a Seal, whereof it took the name, lying\nalong under the upper crust of the earth, and not growing downward, but\nwith many fibres underneath.\n\n_Place._] It is frequent in divers places of this land; as, namely\nin a wood two miles from Canterbury, by Fish-Pool Hill, as also in\nBushy Close belonging to the parsonage of Alderbury, near Clarendon,\ntwo miles from Salisbury: in Cheffon wood, on Chesson Hill, between\nNewington and Sittingbourn in Kent, and divers other places in Essex,\nand other counties.\n\n_Time._] It flowers about May: The root abides and shoots a-new every\nyear.\n\n_Government and virtues._] Saturn owns the plant, for he loves his\nbones well. The root of Solomon’s Seal is found by experience to be\navailable in wounds, hurts, and outward sores, to heal and close up the\nlips of those that are green, and to dry up and restrain the flux of\nhumours to those that are old. It is singularly good to stay vomitings\nand bleeding wheresoever, as also all fluxes in man or woman; also,\nto knit any joint, which by weakness uses to be often out of place,\nor will not stay in long when it is set; also to knit and join broken\nbones in any part of the body, the roots being bruised and applied to\nthe places; yea, it hath been found by experience, and the decoction\nof the root in wine, or the bruised root put into wine or other\ndrink, and after a night’s infusion, strained forth hard and drank,\nhath helped both man and beast, whose bones hath been broken by any\noccasion, which is the most assured refuge of help to people of divers\ncounties of the land that they can have. It is no less effectual to\nhelp ruptures and burstings, the decoction in wine, or the powder in\nbroth or drink, being inwardly taken, and outwardly applied to the\nplace. The same is also available for inward or outward bruises, falls\nor blows, both to dispel the congealed blood, and to take away both the\npains and the black and blue marks that abide after the hurt. The same\nalso, or the distilled water of the whole plant, used to the face, or\nother parts of the skin, cleanses it from morphew, freckles, spots, or\nmarks whatsoever, leaving the place fresh, fair, and lovely; for which\npurpose it is much used by the Italian Dames.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "WOOD-SAGE",
+    "context_quote": "HEADING: Wood-Sage",
+    "part_used": "The herb"
+   },
+   {
+    "name_text": "Solomon's Seal",
+    "context_quote": "SOLOMON'S SEAL.",
+    "part_used": "The root"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "provokes urine and women's courses",
+    "context_quote": "The decoction of the Wood Sage provokes urine and women's courses",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "provokes sweat",
+    "context_quote": "It also provokes sweat",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "digests humours",
+    "context_quote": "digests humours",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "discusses swellings and nodes in the flesh",
+    "context_quote": "and discusses swellings and nodes in the flesh",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "good against the French pox",
+    "context_quote": "and is therefore thought to be good against the French pox",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "disperse and void the congealed blood",
+    "context_quote": "to disperse and void the congealed blood",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "consolidate the veins",
+    "context_quote": "and to consolidate the veins",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "good for such as are inwardly or outwardly bursten",
+    "context_quote": "is good for such as are inwardly or outwardly bursten",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "sure remedy for the palsy",
+    "context_quote": "and is found to be a sure remedy for the palsy",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "dry moist ulcers and sores in the legs",
+    "context_quote": "is good for moist ulcers and sores in the legs, and other parts, to dry them",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "cause them to heal more speedily",
+    "context_quote": "and cause them to heal more speedily",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "effectual also in green wounds",
+    "context_quote": "It is no less effectual also in green wounds",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "decoction",
+    "context_quote": "The decoction of the Wood Sage provokes urine and women's courses"
+   },
+   {
+    "kind": "decoction with wine",
+    "context_quote": "The decoction of the green herb, made with wine, is a safe and sure remedy"
+   },
+   {
+    "kind": "drink used inwardly",
+    "context_quote": "The drink used inwardly, and the herb used outwardly, is good for such as are inwardly or outwardly bursten"
+   },
+   {
+    "kind": "juice or powder",
+    "context_quote": "The juice of the herb, or the powder thereof dried, is good for moist ulcers and sores in the legs"
+   }
+  ],
+  "dosage_notes": [],
+  "cautions": [],
+  "authority_citations": []
+ },
+ "resolutions": [
+  {
+   "historical_name": "WOOD-SAGE",
+   "candidates": [
+    {
+     "scientific_name": "Teucrium scorodonia",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Teucrium chamaedrys",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.75,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Salvia officinalis",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.2,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Teucrium scorodonia",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Solomon's Seal",
+   "candidates": [
+    {
+     "scientific_name": "Polygonatum multiflorum",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.85,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Polygonatum verticillatum",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.7,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Polygonatum commutatum",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.65,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Polygonatum multiflorum",
+   "confidence": 0.85,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Teucrium scorodonia",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Chemical and genetic differentiation of two Mediterranean subspecies of Teucrium scorodonia L.",
+     "identifier": "22119065",
+     "year": "2012",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/22119065/",
+     "relevance_note": "Discusses chemical differentiation but lacks specific clinical data for traditional uses like dropsy or coughs."
+    },
+    {
+     "kind": "PubMed",
+     "title": "[Chemical and animal experimental investigation of Teucrium scorodonia L].",
+     "identifier": "5826184",
+     "year": "1965",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/5826184/",
+     "relevance_note": "Reports animal experiments on toxicity and chemical composition, offering limited support for traditional therapeutic claims."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "coumarins",
+    "flavonoids"
+   ],
+   "summary": "Modern literature provides chemical profiles and genetic data but offers no direct evidence supporting the specific traditional uses of Teucrium scorodonia for conditions such as dropsy, coughs, or spleen hardness. The available studies focus on phytochemistry rather than clinical efficacy."
+  },
+  {
+   "taxon": "Polygonatum multiflorum",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Isolation and structural characterization of a novel β-fructan with potent α-amylase inhibitory activity from Polygonatum multiflorum.",
+     "identifier": "40973262",
+     "year": "2025",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/40973262/",
+     "relevance_note": "Modern study isolates β-fructans showing α-amylase inhibition, potentially supporting traditional digestive uses."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Ameliorating effect of emodin, a constitute of Polygonatum multiflorum, on cycloheximide-induced impairment of memory consolidation in rats.",
+     "identifier": "17572029",
+     "year": "2007",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/17572029/",
+     "relevance_note": "Suggests neuroprotective effects of emodin, though direct link to traditional 'French pox' or swelling claims is not established."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Tetrahydroxystilbene glucoside extends mouse life span via upregulating neural klotho and downregulating neural insulin or insulin-like growth factor 1.",
+     "identifier": "25595496",
+     "year": "2015",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/25595496/",
+     "relevance_note": "Indicates potential anti-aging and metabolic benefits, but does not directly validate historical claims regarding blood congealment or diuresis."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "β-fructan",
+    "emodin",
+    "tetrahydroxystilbene glucoside"
+   ],
+   "summary": "Modern research identifies α-amylase inhibitory β-fructans and neuroprotective emodin in Polygonatum multiflorum. While these findings offer mechanistic plausibility for digestive support, current literature lacks direct evidence validating specific historical claims regarding syphilis treatment, diuresis, or dispersing congealed blood."
+  }
+ ],
+ "concordance": {
+  "grade": "C",
+  "direction": "partial",
+  "rationale": "Modern evidence for Teucrium scorodonia is limited to chemical differentiation (PMID: 22119065) and animal studies on memory consolidation (PMID: 17572029). No clinical data supports diuretic, emmenagogue, or anti-syphilis claims.",
+  "uncertainty": "High uncertainty due to lack of human trials for specific historical indications like diuresis or venereal disease treatment.",
+  "caveats": [
+   "No EMA approval",
+   "Historical 'French pox' claim contradicts modern understanding of syphilis etiology"
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "It also provokes sweat",
+   "It is no less effectual also in green wounds",
+   "The decoction of the green herb, made with wine, is a safe and sure remedy",
+   "The drink used inwardly, and the herb used outwardly, is good for such as are inwardly or outwardly bursten",
+   "The juice of the herb, or the powder thereof dried, is good for moist ulcers and sores in the legs",
+   "and cause them to heal more speedily",
+   "and discusses swellings and nodes in the flesh",
+   "and is found to be a sure remedy for the palsy",
+   "and is therefore thought to be good against the French pox",
+   "and to consolidate the veins",
+   "digests humours",
+   "is good for moist ulcers and sores in the legs, and other parts, to dry them",
+   "is good for such as are inwardly or outwardly bursten",
+   "to disperse and void the congealed blood"
+  ],
+  "quotes_failed": [
+   "HEADING: Wood-Sage",
+   "SOLOMON'S SEAL.",
+   "The decoction of the Wood Sage provokes urine and women's courses"
+  ],
+  "issues": [
+   "Unearned Grade C: The concordance grade 'C' with rationale citing 'limited modern evidence' is insufficiently supported by the provided evidence. The evidence list shows only 2 PubMed hits for Teucrium scorodonia (one chemical, one animal study) and 3 for Polygonatum multiflorum. There is no EMA approval or clinical trial data to support the historical claims of diuretic/emmenagogue effects mentioned in the failed quote. A grade of 'C' implies some validity but significant uncertainty; however, without *any* human clinical evidence for the specific indications (diuresis, emmenagogue), the entry lacks the necessary foundation for even a partial validation of those specific claims, making the grade potentially unearned or misleading regarding the strength of the historical claim vs. modern reality.",
+   "Missing Evidence Resolution: The quote 'The decoction of the Wood Sage provokes urine and women's courses' references specific historical indications (diuretic, emmenagogue). The evidence block for Teucrium scorodonia lists 0 EMA approvals and only non-clinical studies. The entry fails to provide any human clinical trial data or even observational studies supporting these specific physiological effects, rendering the resolution of this quote as 'failed' correct but highlighting a critical gap in the knowledge graph: the inability to validate the core historical utility claims with modern evidence.",
+   "Taxon Resolution Ambiguity: While Teucrium scorodonia was selected with high confidence (0.95), the failure of the quotes regarding its specific uses suggests that the 'resolved' status might be premature if the primary reason for inclusion (historical medicinal use) cannot be substantiated by evidence."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T07:16:10Z"
+ }
+}

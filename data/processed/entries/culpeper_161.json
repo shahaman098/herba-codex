@@ -1,0 +1,169 @@
+{
+ "id": "culpeper_161",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Liverwort",
+  "book": "",
+  "chapter": "",
+  "char_start": 399269,
+  "char_end": 400491,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "THERE are, according to some botanists, upwards of three hundred\ndifferent kinds of Liverwort.\n\n_Descript._] Common Liverwort grows close, and spreads much upon the\nground in moist and shady places, with many small green leaves, or\nrather (as it were) sticking flat to one another, very unevenly cut\nin on the edges, and crumpled; from among which arise small slender\nstalks, an inch or two high at most, bearing small star-like flowers at\nthe top; the roots are very fine and small.\n\n_Government and virtues._] It is under the dominion of Jupiter, and\nunder the sign Cancer. It is a singularly good herb for all the\ndiseases of the liver, both to cool and cleanse it, and helps the\ninflammations in any part, and the yellow jaundice likewise. Being\nbruised and boiled in small beer, and drank, it cools the heat of the\nliver and kidneys, and helps the running of the reins in men, and the\nwhites in women; it is a singular remedy to stay the spreading of\ntetters, ringworms, and other fretting and running sores and scabs, and\nis an excellent remedy for such whose livers are corrupted by surfeits,\nwhich cause their bodies to break out, for it fortifies the liver\nexceedingly, and makes it impregnable.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Common Liverwort",
+    "context_quote": "Descript.] Common Liverwort grows close, and spreads much upon the ground in moist and shady places",
+    "part_used": "leaves, stalks, roots"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "diseases of the liver",
+    "context_quote": "It is a singularly good herb for all the diseases of the liver",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "inflammations in any part",
+    "context_quote": "and helps the inflammations in any part",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "yellow jaundice",
+    "context_quote": "and the yellow jaundice likewise",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "heat of the liver and kidneys",
+    "context_quote": "it cools the heat of the liver and kidneys",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "running of the reins in men",
+    "context_quote": "and helps the running of the reins in men",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "whites in women",
+    "context_quote": "and the whites in women",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "tetters, ringworms, and other fretting and running sores and scabs",
+    "context_quote": "remedy to stay the spreading of tetters, ringworms, and other fretting and running sores and scabs",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "livers corrupted by surfeits",
+    "context_quote": "such whose livers are corrupted by surfeits, which cause their bodies to break out",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "bruised and boiled in small beer, and drank",
+    "context_quote": "Being bruised and boiled in small beer, and drank"
+   },
+   {
+    "kind": "applied topically (implied by 'stay the spreading')",
+    "context_quote": "remedy to stay the spreading of tetters, ringworms"
+   }
+  ],
+  "dosage_notes": [
+   "drank",
+   "bruised and boiled in small beer"
+  ],
+  "cautions": [],
+  "authority_citations": []
+ },
+ "resolutions": [
+  {
+   "historical_name": "Common Liverwort",
+   "candidates": [
+    {
+     "scientific_name": "Marchantia polymorpha",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.6,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Pellia endiviifolia",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.5,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Frullania tamariscina",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.4,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "",
+   "confidence": 0.36,
+   "status": "ambiguous",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [],
+ "concordance": {
+  "grade": "X",
+  "direction": "none",
+  "rationale": "Cannot grade honestly: taxon unresolved or no modern evidence retrieved for the recorded uses.",
+  "uncertainty": "Deterministic X backfill per rubric (absence of retrieved evidence is not evidence of absence).",
+  "caveats": [
+   "no concordance claim is made for this entry"
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "Being bruised and boiled in small beer, and drank",
+   "It is a singularly good herb for all the diseases of the liver",
+   "and helps the inflammations in any part",
+   "and helps the running of the reins in men",
+   "and the whites in women",
+   "and the yellow jaundice likewise",
+   "it cools the heat of the liver and kidneys",
+   "remedy to stay the spreading of tetters, ringworms",
+   "remedy to stay the spreading of tetters, ringworms, and other fretting and running sores and scabs",
+   "such whose livers are corrupted by surfeits, which cause their bodies to break out"
+  ],
+  "quotes_failed": [
+   "Descript.] Common Liverwort grows close, and spreads much upon the ground in moist and shady places"
+  ],
+  "issues": [
+   "Unearned grade: The entry contains no EMA or clinical evidence to support any efficacy/safety claims (concordance is null), yet the presence of a failed quote regarding description implies a lack of rigorous source validation for the core entity definition. Additionally, the 'selected' field in resolutions is empty while status is 'ambiguous', indicating incomplete taxonomic resolution despite LLM proposals.",
+   "Missing evidence: The 'evidence' array is empty, failing to support the selected scientific name or the historical name resolution."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T06:54:59Z"
+ }
+}

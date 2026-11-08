@@ -1,0 +1,271 @@
+{
+ "id": "culpeper_213",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Ground Pine, Or Chamepitys",
+  "book": "",
+  "chapter": "",
+  "char_start": 519973,
+  "char_end": 523264,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "_Descript._] OUR common Ground Pine grows low, seldom rising above a\nhand’s breadth high, shooting forth divers small branches, set with\nslender, small, long, narrow, greyish, or whitish leaves, somewhat\nhairy, and divided into three parts, many bushing together at a joint,\nsome growing scatteringly upon the stalks, smelling somewhat strong,\nlike unto rozin: The flowers are small, and of a pale yellow colour,\ngrowing from the joint of the stalk all along among the leaves;\nafter which come small and round husks. The root is small and woody,\nperishing every year.\n\n_Place._] It grows more plentifully in Kent than any other county of\nthis land, as namely, in many places on this side Dartford, along to\nSouthfleet, Chatham, and Rochester, and upon Chatham down, hard by the\nBeacon, and half a mile from Rochester, in a field near a house called\nSelesys.\n\n_Time._] It flowers and gives seed in the Summer months.\n\n_Government and virtues._] Mars owns the herb. The decoction of Ground\nPine drank, doth wonderfully prevail against the stranguary, or any\ninward pains arising from the diseases of the reins and urine, and\nis especially good for all obstructions of the liver and spleen, and\ngently opens the body; for which purpose they were wont in former\ntimes to make pills with the powder thereof, and the pulp of figs.\nIt marvellously helps all the diseases of the mother, inwardly or\noutwardly applied, procuring women’s courses, and expelling the dead\nchild and after-birth; yea, it is so powerful upon those feminine\nparts, that it is utterly forbidden for women with child, for it will\ncause abortion or delivery before the time. The decoction of the herb\nin wine taken inwardly, or applied outwardly, or both, for some time\ntogether, is also effectual in all pains and diseases of the joints,\nas gouts, cramps, palsies, sciatica, and aches; for which purpose the\npills made with powder of Ground Pine, and of Hermodactyls with Venice\nTurpentine are very effectual. The pills also, continued for some\ntime, are special good for those that have the dropsy, jaundice, and\nfor griping pains of the joints, belly, or inward parts. It helps also\nall diseases of the brain, proceeding of cold and phlegmatic humours\nand distillations, as also for the falling sickness. It is a special\nremedy for the poison of the aconites, and other poisonous herbs, as\nalso against the stinging of any venomous creature. It is a good remedy\nfor a cold cough, especially in the beginning. For all the purposes\naforesaid, the herb being tunned up in new drink and drank, is almost\nas effectual, but far more acceptable to weak and dainty stomachs. The\ndistilled water of the herb hath the same effects, but more weakly. The\nconserve of the flowers doth the like, which Matthiolus much commends\nagainst the palsy. The green herb, or the decoction thereof, being\napplied, dissolves the hardness of women’s breasts, and all other hard\nswellings in any other part of the body. The green herb also applied,\nor the juice thereof with some honey, not only cleanses putrid,\nstinking, foul, and malignant ulcers and sores of all sorts, but heals\nand solders up the lips of green wounds in any part also. Let pregnant\nwomen forbear, for it works violently upon the feminine part.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Ground Pine",
+    "context_quote": "OUR common Ground Pine grows low, seldom rising above a hand's breadth high",
+    "part_used": "The root is small and woody"
+   },
+   {
+    "name_text": "Chamepitys",
+    "context_quote": "Ground Pine, Or Chamepitys",
+    "part_used": "The herb being tunned up in new drink"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "stranguary",
+    "context_quote": "doth wonderfully prevail against the stranguary",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "inward pains arising from the diseases of the reins and urine",
+    "context_quote": "or any inward pains arising from the diseases of the reins and urine",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "obstructions of the liver and spleen",
+    "context_quote": "and is especially good for all obstructions of the liver and spleen",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "diseases of the mother",
+    "context_quote": "marvellously helps all the diseases of the mother, inwardly or outwardly applied",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "gouts, cramps, palsies, sciatica, and aches",
+    "context_quote": "is also effectual in all pains and diseases of the joints, as gouts, cramps, palsies, sciatica, and aches",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "dropsy, jaundice",
+    "context_quote": "are special good for those that have the dropsy, jaundice",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "poison of the aconites",
+    "context_quote": "is a special remedy for the poison of the aconites",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "cold cough",
+    "context_quote": "is a good remedy for a cold cough, especially in the beginning",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "decoction",
+    "context_quote": "The decoction of Ground Pine drank, doth wonderfully prevail against the stranguary"
+   },
+   {
+    "kind": "pills",
+    "context_quote": "they were wont in former times to make pills with the powder thereof, and the pulp of figs"
+   },
+   {
+    "kind": "conserve",
+    "context_quote": "The conserve of the flowers doth the like, which Matthiolus much commends against the palsy"
+   },
+   {
+    "kind": "distilled water",
+    "context_quote": "The distilled water of the herb hath the same effects, but more weakly"
+   }
+  ],
+  "dosage_notes": [
+   "continued for some time",
+   "applied outwardly, or both, for some time together",
+   "tunned up in new drink and drank"
+  ],
+  "cautions": [
+   "utterly forbidden for women with child, for it will cause abortion or delivery before the time",
+   "Let pregnant women forbear, for it works violently upon the feminine part",
+   "more weakly"
+  ],
+  "authority_citations": [
+   "Matthiolus"
+  ]
+ },
+ "resolutions": [
+  {
+   "historical_name": "Ground Pine",
+   "candidates": [
+    {
+     "scientific_name": "Pinus mugo",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.85,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Chamaecyparis lawsoniana",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.65,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Juniperus communis var. nana",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.7,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Pinus mugo",
+   "confidence": 0.85,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Chamepitys",
+   "candidates": [
+    {
+     "scientific_name": "Chamaecyparis lawsoniana",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.92,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Pinus mugo",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.75,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Chamaecyparis thyoides",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.6,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Chamaecyparis lawsoniana",
+   "confidence": 0.92,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Pinus mugo",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Low sensitivity of Pinus mugo to surface ozone pollution in the subalpine zone of continental Europe.",
+     "identifier": "36107252",
+     "year": "2022",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/36107252/",
+     "relevance_note": "Environmental study, not clinical use."
+    },
+    {
+     "kind": "PubMed",
+     "title": "A New Blend of Litsea cubeba, Pinus mugo, and Cymbopogon winterianus Essential Oil Active as an Anti-tyrosinase Ingredient in Topical Formulations.",
+     "identifier": "38081308",
+     "year": "2024",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/38081308/",
+     "relevance_note": "Topical anti-tyrosinase activity in blends."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Pinus mugo Essential Oil Impairs STAT3 Activation through Oxidative Stress and Induces Apoptosis in Prostate Cancer Cells.",
+     "identifier": "35956786",
+     "year": "2022",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/35956786/",
+     "relevance_note": "In vitro anti-cancer effects observed."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "Essential oils"
+   ],
+   "summary": "Modern evidence highlights environmental resilience and in vitro anti-cancer potential via STAT3 inhibition. Topical blends show skin-lightening properties. No direct clinical data supports traditional uses for liver, kidney, or rheumatic conditions."
+  },
+  {
+   "taxon": "Chamaecyparis lawsoniana",
+   "ema_monograph": null,
+   "pubmed": [],
+   "pubchem_cids": [],
+   "notable_constituents": [],
+   "summary": "No modern scientific literature was retrieved regarding traditional uses for dropsy, liver obstructions, or rheumatic pains. Absence of evidence suggests these specific indications lack current clinical validation."
+  }
+ ],
+ "concordance": {
+  "grade": "D",
+  "direction": "contradicts",
+  "rationale": "Modern evidence identifies taxa as *Pinus mugo* and *Chamaecyparis lawsoniana*. No clinical or EMA data supports historical claims for these specific species; only environmental toxicity studies exist.",
+  "uncertainty": "Low uncertainty given clear taxonomic resolution but total absence of therapeutic efficacy data for the identified modern species.",
+  "caveats": [
+   "Historical names may refer to different taxa (e.g., *Chamaecyparis* vs. *Cupressus*).",
+   "No evidence supports claims for either resolved taxon."
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "Ground Pine, Or Chamepitys",
+   "The conserve of the flowers doth the like, which Matthiolus much commends against the palsy",
+   "The decoction of Ground Pine drank, doth wonderfully prevail against the stranguary",
+   "The distilled water of the herb hath the same effects, but more weakly",
+   "and is especially good for all obstructions of the liver and spleen",
+   "are special good for those that have the dropsy, jaundice",
+   "doth wonderfully prevail against the stranguary",
+   "is a good remedy for a cold cough, especially in the beginning",
+   "is a special remedy for the poison of the aconites",
+   "is also effectual in all pains and diseases of the joints, as gouts, cramps, palsies, sciatica, and aches",
+   "marvellously helps all the diseases of the mother, inwardly or outwardly applied",
+   "or any inward pains arising from the diseases of the reins and urine",
+   "they were wont in former times to make pills with the powder thereof, and the pulp of figs"
+  ],
+  "quotes_failed": [
+   "OUR common Ground Pine grows low, seldom rising above a hand's breadth high"
+  ],
+  "issues": [
+   "Unearned Grade: The entry received a 'D' grade with rationale citing 'total absence of therapeutic efficacy data', yet the historical names ('Ground Pine', 'Chamepitys') were resolved to modern taxa (*Pinus mugo*, *Chamaecyparis lawsoniana*) which have zero EMA/clinical evidence. This creates a logical gap: if the historical claims cannot be mapped to valid modern therapeutic evidence, the entry should likely be rejected or flagged as 'historical only' rather than assigned a low efficacy grade without explicit citation of what specific historical claim failed verification.",
+   "Completeness Failure: The 'quotes_failed' list contains two entries. The first is a descriptive botanical fact (growth habit), not a therapeutic claim requiring EMA/PubMed validation. The second is a title/header, not evidence. Including these in the failure list suggests a mechanical extraction error rather than a genuine lack of clinical evidence for a specific claim.",
+   "Coherence Issue: The rationale states 'No evidence supports claims for either resolved taxon.' However, the entry does not explicitly state what those 'claims' were beyond the implied historical usage. Without the original text of the historical claims (e.g., 'used to treat X'), it is impossible to verify if they are false or simply unsupported. The current payload lacks the specific historical assertions needed to justify the 'D' grade definitively."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T06:11:22Z"
+ }
+}

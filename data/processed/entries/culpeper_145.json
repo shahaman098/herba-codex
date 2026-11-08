@@ -1,0 +1,282 @@
+{
+ "id": "culpeper_145",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Horehound",
+  "book": "",
+  "chapter": "",
+  "char_start": 361140,
+  "char_end": 363734,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "THERE are two kinds of Horehound, the white and the black. The black\nsort is likewise called Hen-bit; but the white one is here spoken of.\n\n_Descript._] Common Horehound grows up with square hairy stalks, half a\nyard or two feet high, set at the joints with two round crumpled rough\nleaves of a sullen hoary green colour, of a reasonable good scent, but\na very bitter taste. The flowers are small, white, and gaping, set in a\nrough, hard prickly husk round about the joints, with the leaves from\nthe middle of the stalk upward, wherein afterward is found small round\nblackish seed. The root is blackish, hard and woody, with many strings,\nand abides many years.\n\n_Place._] It is found in many parts of this land, in dry grounds, and\nwaste green places.\n\n_Time._] It flowers in July, and the seed is ripe in August.\n\n_Government and virtues._] It is an herb of Mercury. A decoction of\nthe dried herb, with the seed, or the juice of the green herb taken\nwith honey, is a remedy for those that are short-winded, have a cough,\nor are fallen into a consumption, either through long sickness, or\nthin distillations of rheum upon the lungs. It helps to expectorate\ntough phlegm from the chest, being taken from the roots of Iris or\nOrris. It is given to women to bring down their courses, to expel the\nafter-birth, and to them that have taken poison, or are stung or bitten\nby venemous serpents. The leaves used with honey, purge foul ulcers,\nstay running or creeping sores, and the growing of the flesh over\nthe nails. It also helps pains of the sides. The juice thereof with\nwine and honey, helps to clear the eyesight, and snuffed up into the\nnostrils, purges away the yellow-jaundice, and with a little oil of\nroses dropped into the ears, eases the pains of them. Galen saith, it\nopens obstructions both of the liver and spleen, and purges the breast\nand lungs of phlegm: and used outwardly it both cleanses and digests. A\ndecoction of Horehound (saith Matthiolus) is available for those that\nhave hard livers, and for such as have itches and running tetters.\nThe powder hereof taken, or the decoction, kills worms. The green\nleaves bruised, and boiled in old hog’s grease into an ointment, heals\nthe biting of dogs, abates the swellings and pains that come by any\npricking of thorns, or such like means; and used with vinegar, cleanses\nand heals tetters. There is a syrup made of Horehound to be had at the\napothecaries, very good for old coughs, to rid the tough phlegm; as\nalso to void cold rheums from the lungs of old folks, and for those\nthat are asthmatic or short-winded.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Horehound",
+    "context_quote": "THERE are two kinds of Horehound, the white and the black.",
+    "part_used": "herb"
+   },
+   {
+    "name_text": "Hen-bit",
+    "context_quote": "The black sort is likewise called Hen-bit; but the white one is here spoken of.",
+    "part_used": "black sort"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "short-windedness",
+    "context_quote": "is a remedy for those that are short-winded, have a cough, or are fallen into a consumption",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "cough",
+    "context_quote": "is a remedy for those that are short-winded, have a cough, or are fallen into a consumption",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "consumption",
+    "context_quote": "is a remedy for those that are short-winded, have a cough, or are fallen into a consumption",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "tough phlegm",
+    "context_quote": "It helps to expectorate tough phlegm from the chest",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "poisoning",
+    "context_quote": "to them that have taken poison, or are stung or bitten by venemous serpents",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "venomous serpent bites",
+    "context_quote": "to them that have taken poison, or are stung or bitten by venemous serpents",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "foul ulcers",
+    "context_quote": "purge foul ulcers, stay running or creeping sores",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "running sores",
+    "context_quote": "purge foul ulcers, stay running or creeping sores",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "decoction of the dried herb with seed",
+    "context_quote": "A decoction of the dried herb, with the seed, or the juice of the green herb taken with honey"
+   },
+   {
+    "kind": "juice of the green herb with honey",
+    "context_quote": "A decoction of the dried herb, with the seed, or the juice of the green herb taken with honey"
+   },
+   {
+    "kind": "leaves used with honey",
+    "context_quote": "The leaves used with honey, purge foul ulcers, stay running or creeping sores"
+   },
+   {
+    "kind": "syrup made of Horehound",
+    "context_quote": "There is a syrup made of Horehound to be had at the apothecaries"
+   }
+  ],
+  "dosage_notes": [
+   "taken with honey",
+   "taken from the roots of Iris or Orris",
+   "snuffed up into the nostrils"
+  ],
+  "cautions": [],
+  "authority_citations": [
+   "Galen",
+   "Matthiolus"
+  ]
+ },
+ "resolutions": [
+  {
+   "historical_name": "Horehound",
+   "candidates": [
+    {
+     "scientific_name": "Marrubium vulgare",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Marrubium peregrinum",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.75,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Marrubium celticum",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.45,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Marrubium vulgare",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Hen-bit",
+   "candidates": [
+    {
+     "scientific_name": "Stachys palustris",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Stachys officinalis",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.65,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Stachys arvensis",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.4,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Stachys palustris",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Marrubium vulgare",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Marrubium vulgare L.: A Phytochemical and Pharmacological Overview.",
+     "identifier": "32599693",
+     "year": "2020",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/32599693/",
+     "relevance_note": "Reviews antispasmodic, expectorant, and anti-inflammatory properties supporting cough/phlegm uses."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Marrubium vulgare Extract Improves Spatial Working Memory and Oxidative Stress Damage in Scopolamine-Treated Rats.",
+     "identifier": "38489175",
+     "year": "2024",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/38489175/",
+     "relevance_note": "Demonstrates neuroprotective effects against oxidative stress, potentially relevant to historical poisoning contexts."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Ointment-Based Combination of Dittrichia viscosa L. and Marrubium vulgare L. Accelerate Burn Wound Healing.",
+     "identifier": "35337087",
+     "year": "2022",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/35337087/",
+     "relevance_note": "Shows wound healing activity in combination, though not specifically for venomous bites."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "rosmarinic acid",
+    "verbascoside",
+    "flavonoids"
+   ],
+   "summary": "Modern evidence supports traditional uses for cough and phlegm via expectorant and anti-inflammatory mechanisms. Neuroprotective data suggests potential relevance to poisoning mitigation, while wound healing studies indicate utility for trauma, though specific venomous bite efficacy remains unconfirmed in recent literature."
+  },
+  {
+   "taxon": "Stachys palustris",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Betony.",
+     "identifier": "30000919",
+     "year": "2006",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/30000919/",
+     "relevance_note": "Review of traditional uses including hemorrhage and fluxes."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Phytotherapeutic Intervention in Monosodium Glutamate-Induced Uterine Dysfunction: Efficacy of Lepidium sativum, Prunus armeniaca, Stachys palustris, and Solenostemma argel.",
+     "identifier": "41901366",
+     "year": "2026",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/41901366/",
+     "relevance_note": "Investigates efficacy in uterine dysfunction, potentially relevant to women's courses."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "rosmarinic acid",
+    "tannins"
+   ],
+   "summary": "Modern literature supports traditional uses for hemorrhage and fluxes. Recent study suggests potential utility in uterine dysfunction, though specific data on menstrual regulation remains limited."
+  }
+ ],
+ "concordance": {
+  "grade": "B",
+  "direction": "partial",
+  "rationale": "Modern evidence (PMID: 32599693, 38489175) supports anti-inflammatory and antioxidant properties of Marrubium vulgare, plausibly supporting respiratory claims. No clinical data exists for poisoning or consumption.",
+  "uncertainty": "High due to lack of specific clinical trials for historical indications like 'consumption' or antivenom effects.",
+  "caveats": [
+   "No EMA approval",
+   "Antivenom efficacy unproven"
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "A decoction of the dried herb, with the seed, or the juice of the green herb taken with honey",
+   "It helps to expectorate tough phlegm from the chest",
+   "THERE are two kinds of Horehound, the white and the black.",
+   "The black sort is likewise called Hen-bit; but the white one is here spoken of.",
+   "The leaves used with honey, purge foul ulcers, stay running or creeping sores",
+   "There is a syrup made of Horehound to be had at the apothecaries",
+   "is a remedy for those that are short-winded, have a cough, or are fallen into a consumption",
+   "purge foul ulcers, stay running or creeping sores",
+   "to them that have taken poison, or are stung or bitten by venemous serpents"
+  ],
+  "quotes_failed": [],
+  "issues": [
+   "Grade 'B' is unearned: Evidence shows 0 EMA approvals and no clinical trials for historical indications (consumption, antivenom), yet the rationale claims 'plausible support' without quantifying this plausibility against the lack of specific data. The grade should likely be lower or accompanied by a stronger warning label given the 'High uncertainty' noted in the entry itself."
+  ],
+  "verdict": "pass_with_issues"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T06:45:34Z"
+ }
+}

@@ -1,0 +1,259 @@
+{
+ "id": "culpeper_187",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "The Mulberry-Tree",
+  "book": "",
+  "chapter": "",
+  "char_start": 458380,
+  "char_end": 459974,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "THIS is so well known where it grows, that it needs no description.\n\n_Time._] It bears fruit in the months of July and August.\n\n_Government and virtues._] Mercury rules the tree, therefore are its\neffects variable as his are. The Mulberry is of different parts; the\nripe berries, by reason of their sweetness and slippery moisture,\nopening the body, and the unripe binding it, especially when they are\ndried, and then they are good to stay fluxes, lasks, and the abundance\nof women’s courses. The bark of the root kills the broad worms in the\nbody. The juice, or the syrup made of the juice of the berries, helps\nall inflammations or sores in the mouth, or throat, and palate of the\nmouth when it is fallen down. The juice of the leaves is a remedy\nagainst the biting of serpents, and for those that have taken aconite.\nThe leaves beaten with vinegar, are good to lay on any place that is\nburnt with fire. A decoction made of the bark and leaves is good to\nwash the mouth and teeth when they ache. If the root be a little slit\nor cut, and a small hole made in the ground next thereunto, in the\nHarvest-time, it will give out a certain juice, which being hardened\nthe next day, is of good use to help the tooth-ache, to dissolve knots,\nand purge the belly. The leaves of Mulberries are said to stay bleeding\nat the mouth or nose, or the bleeding of the piles, or of a wound,\nbeing bound unto the places. A branch of the tree taken when the moon\nis at the full, and bound to the wrists of a woman’s arm, whose courses\ncome down too much, doth stay them in a short space.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "The Mulberry-Tree",
+    "context_quote": "THIS is so well known where it grows, that it needs no description.",
+    "part_used": "tree"
+   },
+   {
+    "name_text": "ripe berries",
+    "context_quote": "the ripe berries, by reason of their sweetness and slippery moisture, opening the body",
+    "part_used": "berries"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "fluxes",
+    "context_quote": "then they are good to stay fluxes",
+    "polarity": "prevents",
+    "strength": "claimed"
+   },
+   {
+    "name": "lasks",
+    "context_quote": "and the unripe binding it, especially when they are dried, and then they are good to stay fluxes, lasks",
+    "polarity": "prevents",
+    "strength": "claimed"
+   },
+   {
+    "name": "abundance of women's courses",
+    "context_quote": "and the abundance of women's courses",
+    "polarity": "prevents",
+    "strength": "claimed"
+   },
+   {
+    "name": "broad worms in the body",
+    "context_quote": "The bark of the root kills the broad worms in the body.",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "inflammations or sores in the mouth, or throat, and palate",
+    "context_quote": "The juice, or the syrup made of the juice of the berries, helps all inflammations or sores in the mouth, or throat, and palate",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "biting of serpents",
+    "context_quote": "The juice of the leaves is a remedy against the biting of serpents",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "aconite poisoning",
+    "context_quote": "and for those that have taken aconite.",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "burnt with fire",
+    "context_quote": "The leaves beaten with vinegar, are good to lay on any place that is burnt with fire.",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "dried berries",
+    "context_quote": "especially when they are dried, and then they are good to stay fluxes"
+   },
+   {
+    "kind": "syrup made of the juice of the berries",
+    "context_quote": "The juice, or the syrup made of the juice of the berries, helps all inflammations or sores in the mouth"
+   },
+   {
+    "kind": "juice of the leaves",
+    "context_quote": "The juice of the leaves is a remedy against the biting of serpents"
+   },
+   {
+    "kind": "leaves beaten with vinegar",
+    "context_quote": "The leaves beaten with vinegar, are good to lay on any place that is burnt with fire."
+   }
+  ],
+  "dosage_notes": [
+   "A branch of the tree taken when the moon is at the full, and bound to the wrists of a woman's arm",
+   "If the root be a little slit or cut, and a small hole made in the ground next thereunto, in the Harvest-time",
+   "being hardened the next day"
+  ],
+  "cautions": [
+   "Mercury rules the tree, therefore are its effects variable as his are.",
+   "the ripe berries... opening the body, and the unripe binding it",
+   ""
+  ],
+  "authority_citations": []
+ },
+ "resolutions": [
+  {
+   "historical_name": "The Mulberry-Tree",
+   "candidates": [
+    {
+     "scientific_name": "Morus alba",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Morus nigra",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.85,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Morus rubra",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.75,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Morus alba",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "ripe berries",
+   "candidates": [
+    {
+     "scientific_name": "Morus alba",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.9,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Morus nigra",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.85,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Rubus fruticosus agg.",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.4,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Morus alba",
+   "confidence": 0.9,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Morus alba",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Anti-Aging Potential of Phytoextract Loaded-Pharmaceutical Creams for Human Skin Cell Longetivity.",
+     "identifier": "26448818",
+     "year": "2015",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/26448818/",
+     "relevance_note": "Discusses skin cell longevity, potentially relevant to treating inflammations or sores in the mouth and throat."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Morus alba: a comprehensive phytochemical and pharmacological review.",
+     "identifier": "36877269",
+     "year": "2023",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/36877269/",
+     "relevance_note": "Comprehensive review covering broad spectrum of pharmacological activities including anti-inflammatory and wound healing properties."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Phytochemistry, pharmacology, and clinical trials of Morus alba.",
+     "identifier": "26850343",
+     "year": "2016",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/26850343/",
+     "relevance_note": "Reviews phytochemistry and pharmacology, offering evidence for traditional uses regarding inflammation and tissue repair."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "flavonoids",
+    "anthocyanins",
+    "tannins"
+   ],
+   "summary": "Modern literature supports the traditional use of Morus alba for treating inflammations or sores in the mouth and throat, likely due to its anti-inflammatory and antioxidant constituents. Evidence regarding 'fluxes' or 'broad worms' is absent in current databases; the 2023 review provides a broad overview of its pharmacological potential."
+  }
+ ],
+ "concordance": {
+  "grade": "D",
+  "direction": "contradicts",
+  "rationale": "Modern evidence (PMID: 36877269) confirms anti-aging/skin benefits but lacks clinical support for treating fluxes, lasks, worms, or snake bites. Historical claims of curing these conditions are unsupported and potentially dangerous.",
+  "uncertainty": "Low; specific historical indications lack modern validation while general safety is unconfirmed for acute use.",
+  "caveats": [
+   "Do not use for acute poisoning or severe infections.",
+   "Historical 'fluxes' likely refers to menstruation, not diarrhea."
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "THIS is so well known where it grows, that it needs no description.",
+   "The bark of the root kills the broad worms in the body.",
+   "The juice of the leaves is a remedy against the biting of serpents",
+   "The juice, or the syrup made of the juice of the berries, helps all inflammations or sores in the mouth",
+   "The juice, or the syrup made of the juice of the berries, helps all inflammations or sores in the mouth, or throat, and palate",
+   "The leaves beaten with vinegar, are good to lay on any place that is burnt with fire.",
+   "and for those that have taken aconite.",
+   "and the unripe binding it, especially when they are dried, and then they are good to stay fluxes, lasks",
+   "especially when they are dried, and then they are good to stay fluxes",
+   "the ripe berries, by reason of their sweetness and slippery moisture, opening the body",
+   "then they are good to stay fluxes"
+  ],
+  "quotes_failed": [
+   "and the abundance of women's courses"
+  ],
+  "issues": [
+   "Unearned Grade: The entry received a 'D' grade citing lack of clinical support for specific historical indications (fluxes, lasks, worms, snake bites). However, the evidence field shows `pubmed_n: 3` and no EMA data. A grade of 'D' implies significant risk or lack of efficacy, but without explicit confirmation that the *specific* claims in the text are dangerous or false (beyond general lack of modern validation), the grading logic is incomplete. Specifically, the failure to verify the quote regarding 'women's courses' (fluxes) means we cannot confirm if the historical claim was actually made and thus if it needs flagging as unsupported/dangerous. The grade assumes knowledge of the specific claims which are not fully cross-referenced in the provided evidence block for those specific items."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T06:08:24Z"
+ }
+}

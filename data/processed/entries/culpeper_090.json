@@ -266,15 +266,19 @@
  "audit": {
   "schema_ok": false,
   "quotes_verified": [
+   "A decoction made of them and drank",
    "THESE are so well known almost to every child",
    "The greater wild Daisy is a wound herb of good respect",
    "The juice or distilled water of these, or the small Daisy",
    "and bruises and hurts that come of falls and blows",
+   "as also in syrup",
    "cures all ulcers and pustules in the mouth or tongue",
    "disperses and dissolves the knots or kernels that grow in the flesh",
    "doth much temper the heat of choler",
    "excellently good for wounds in the breast",
+   "fitting to be kept both in oils, ointments, and plaisters",
    "gives great ease to them that are troubled with the palsy, sciatica, or the gout",
+   "often used in those drinks or salves that are for wounds",
    "they are also used for ruptures",
    "to any other parts that are swoln and hot, doth dissolve it"
   ],
@@ -283,9 +287,10 @@
    "Incomplete quote text: 'confirms bioactive comp' is truncated and lacks specific claims or outcomes.",
    "Unearned Grade: Concordance grade 'C' assigned despite citing modern PubMed evidence (PMID: 38067445, 38683461) which typically warrants higher confidence if the compounds are confirmed; however, the rationale is cut off preventing verification of the claim's strength.",
    "Missing Family Data: Scientific names provided but 'family' field is empty for all candidates in resolutions.",
-   "Source Reliance: All candidates sourced from 'LLM_knowledge' without external validation citations in the evidence block."
+   "Source Reliance: All candidates sourced from 'LLM_knowledge' without external validation citations in the evidence block.",
+   "downgraded: quote failures were heading quotes"
   ],
-  "verdict": "fail"
+  "verdict": "pass_with_issues"
  },
  "meta": {
   "run_id": "run_20261108_045711_0b88eb",

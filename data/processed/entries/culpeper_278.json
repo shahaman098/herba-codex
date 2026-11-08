@@ -1,0 +1,242 @@
+{
+ "id": "culpeper_278",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Wild Thyme, Or Mother Of Thyme",
+  "book": "",
+  "chapter": "",
+  "char_start": 677571,
+  "char_end": 678499,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "WILD Thyme also is so well known, that it needs no description.\n\n_Place._] It may be found commonly in commons, and other barren places\nthroughout the nation.\n\n_Government and virtues._] It is under the dominion of Venus, and\nunder the sign Aries, and therefore chiefly appropriated to the head.\nIt provokes urine and the terms, and eases the griping pain of the\nbelly, cramps, ruptures, and inflamation of the liver. If you make a\nvinegar of the herb, as vinegar of roses is made (you may find out\nthe way in my translation of the London Dispensatory) and anoint the\nhead with it, it presently stops the pains thereof. It is excellently\ngood to be given either in phrenzy or lethargy, although they are two\ncontrary diseases: It helps spitting and voiding of blood, coughing,\nand vomiting; it comforts and strengthens the head, stomach, reins, and\nwomb, expels wind, and breaks the stone.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Wild Thyme",
+    "context_quote": "WILD Thyme also is so well known, that it needs no description.",
+    "part_used": "the herb"
+   },
+   {
+    "name_text": "Mother Of Thyme",
+    "context_quote": "HEADING: Wild Thyme, Or Mother Of Thyme",
+    "part_used": "N/A"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "pains of the head",
+    "context_quote": "anoint the head with it, it presently stops the pains thereof.",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "phrenzy or lethargy",
+    "context_quote": "It is excellently good to be given either in phrenzy or lethargy",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "spitting and voiding of blood, coughing, and vomiting",
+    "context_quote": "It helps spitting and voiding of blood, coughing, and vomiting",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "griping pain of the belly",
+    "context_quote": "eases the griping pain of the belly",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "cramps, ruptures, and inflamation of the liver",
+    "context_quote": "cramps, ruptures, and inflamation of the liver.",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "wind",
+    "context_quote": "expels wind",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "stone",
+    "context_quote": "breaks the stone.",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "vinegar of the herb",
+    "context_quote": "If you make a vinegar of the herb, as vinegar of roses is made"
+   }
+  ],
+  "dosage_notes": [],
+  "cautions": [],
+  "authority_citations": [
+   "London Dispensatory"
+  ]
+ },
+ "resolutions": [
+  {
+   "historical_name": "Wild Thyme",
+   "candidates": [
+    {
+     "scientific_name": "Thymus serpyllum",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.85,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Thymus vulgaris",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.6,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Thymus praecox",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.55,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Thymus serpyllum",
+   "confidence": 0.85,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Mother Of Thyme",
+   "candidates": [
+    {
+     "scientific_name": "Thymus serpyllum",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.9,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Thymus vulgaris",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.4,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Thymus pulegioides",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.35,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Thymus serpyllum",
+   "confidence": 0.9,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Thymus serpyllum",
+   "ema_monograph": {
+    "kind": "EMA_monograph",
+    "title": "Thymi herba (thyme)",
+    "identifier": "https://www.ema.europa.eu/en/medicines/herbal/thymi-herba",
+    "year": "",
+    "url": "https://www.ema.europa.eu/en/medicines/herbal/thymi-herba",
+    "relevance_note": "Covers general safety and traditional uses of Thymus species, though specific indications for head pain or liver inflammation are not explicitly detailed in the monograph summary."
+   },
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "A comprehensive review on traditional applications, phytochemistry, pharmacology, and toxicology of Thymus serpyllum.",
+     "identifier": "38174535",
+     "year": "2023",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/38174535/",
+     "relevance_note": "Reviews traditional uses including respiratory and digestive complaints, aligning with coughing, vomiting, and belly pain records."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Antifungal and genotoxic effects of Thymus serpyllum as a root canal irrigant.",
+     "identifier": "38345516",
+     "year": "2024",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/38345516/",
+     "relevance_note": "Focuses on dental applications; does not address traditional uses for head pain, liver inflammation, or respiratory symptoms."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Wild thyme (Thymus serpyllum L.): a review of the current evidence of nutritional and preventive health benefits.",
+     "identifier": "38846542",
+     "year": "2024",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/38846542/",
+     "relevance_note": "Discusses nutritional benefits and potential preventive effects, offering modern context for historical claims regarding general health."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "Thymol",
+    "Carvacrol",
+    "Rosmarinic acid"
+   ],
+   "summary": "Modern evidence supports Thymus serpyllum's traditional use for respiratory issues like coughing and digestive complaints such as belly pain, primarily due to thymol and carvacrol. While specific historical claims regarding liver inflammation or head pains lack direct modern clinical validation, the plant's broad antimicrobial and anti-inflammatory properties provide a plausible mechanistic basis for these ancient observations."
+  }
+ ],
+ "concordance": {
+  "grade": "C",
+  "direction": "partial",
+  "rationale": "Modern evidence (PMID: 38174535) confirms traditional use but lacks clinical data for specific claims like headache or stone-breaking. Pharmacological plausibility exists for antimicrobial effects, not analgesia.",
+  "uncertainty": "High uncertainty due to absence of randomized controlled trials for the specific historical indications listed in the entry.",
+  "caveats": [
+   "No evidence supports breaking stones.",
+   "No clinical proof for headache relief."
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "If you make a vinegar of the herb, as vinegar of roses is made",
+   "It helps spitting and voiding of blood, coughing, and vomiting",
+   "It is excellently good to be given either in phrenzy or lethargy",
+   "WILD Thyme also is so well known, that it needs no description.",
+   "anoint the head with it, it presently stops the pains thereof.",
+   "breaks the stone.",
+   "cramps, ruptures, and inflamation of the liver.",
+   "eases the griping pain of the belly",
+   "expels wind"
+  ],
+  "quotes_failed": [
+   "HEADING: Wild Thyme, Or Mother Of Thyme"
+  ],
+  "issues": [
+   "Unearned grade 'C' with only 1 PubMed citation (PMID: 38174535) and no EMA approval; lacks clinical data for specific historical claims (headache, stone-breaking).",
+   "High uncertainty flagged but grade remains partial without robust evidence.",
+   "Missing resolutions for family names in candidate list."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T06:51:53Z"
+ }
+}

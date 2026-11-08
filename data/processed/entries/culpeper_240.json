@@ -192,7 +192,10 @@
  "audit": {
   "schema_ok": true,
   "quotes_verified": [
+   "A decoction of the leaves and branches of Sage made and drank",
+   "Gargles likewise are made with Sage, rosemary, honey-suckles, and plantain, boiled in wine or water",
    "OUR ordinary garden Sage needs no description.",
+   "The leaves of Sage and nettles bruised together, and laid upon the imposthume",
    "and cleanses foul ulcers",
    "and to breed blood",
    "causes the hair to become black",
@@ -202,6 +205,7 @@
    "stays the bleeding of wounds"
   ],
   "quotes_failed": [
+   "These pills are much commended; Take of spikenard, ginger... put thereto so much juice of Sage as may make them into a mass of pills",
    "brings down women's courses"
   ],
   "issues": [

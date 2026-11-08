@@ -1,0 +1,249 @@
+{
+ "id": "culpeper_019",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Ash Tree",
+  "book": "",
+  "chapter": "",
+  "char_start": 66233,
+  "char_end": 67990,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "This is so well known, that time would be misspent in writing a\ndescription of it; therefore I shall only insist upon the virtues of it.\n\n_Government and virtues._] It is governed by the Sun: and the young\ntender tops, with the leaves, taken inwardly, and some of them\noutwardly applied, are singularly good against the bitings of viper,\nadder, or any other venomous beast; and the water distilled therefrom\nbeing taken, a small quantity every morning fasting, is a singular\nmedicine for those that are subject to dropsy, or to abate the\ngreatness of those that are too gross or fat. The decoction of the\nleaves in white wine helps to break the stone, and expel it, and cures\nthe jaundice. The ashes of the bark of the Ash made into lye, and those\nheads bathed therewith which are leprous, scabby, or scald, they are\nthereby cured. The kernels within the husks, commonly called Ashen\nKeys, prevail against stitches and pains in the sides, proceeding of\nwind, and voideth away the stone by provoking urine.\n\nI can justly except against none of all this, save only the first,\n_viz._ That Ash-tree tops and leaves are good against the bitings of\nserpents and vipers. I suppose this had its rise from Gerrard or Pliny,\nboth which hold that there is such an antipathy between an adder\nand an Ash-tree, that if an adder be encompassed round with Ash-tree\nleaves, she will sooner run through the fire than through the leaves:\nThe contrary to which is the truth, as both my eyes are witnesses. The\nrest are virtues something likely, only if it be in Winter when you\ncannot get the leaves, you may safely use the bark instead of them. The\nkeys you may easily keep all the year, gathering them when they are\nripe.\n\n    AVENS, CALLED ALSO COLEWORT, AND",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Ash Tree",
+    "context_quote": "HEADING: Ash Tree",
+    "part_used": "tops, leaves, water distilled therefrom, bark, kernels"
+   },
+   {
+    "name_text": "Ashen Keys",
+    "context_quote": "The kernels within the husks, commonly called Ashen Keys",
+    "part_used": "kernels"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "bitings of viper, adder, or any other venomous beast",
+    "context_quote": "singularly good against the bitings of viper, adder, or any other venomous beast",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "dropsy",
+    "context_quote": "is a singular medicine for those that are subject to dropsy",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "abate the greatness of those that are too gross or fat",
+    "context_quote": "or to abate the greatness of those that are too gross or fat",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "break the stone, and expel it",
+    "context_quote": "helps to break the stone, and expel it",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "cures the jaundice",
+    "context_quote": "and cures the jaundice",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "heads which are leprous, scabby, or scald",
+    "context_quote": "those heads bathed therewith which are leprous, scabby, or scald, they are thereby cured",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "stitches and pains in the sides, proceeding of wind",
+    "context_quote": "prevail against stitches and pains in the sides, proceeding of wind",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "voideth away the stone by provoking urine",
+    "context_quote": "and voideth away the stone by provoking urine",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "young tender tops, with the leaves, taken inwardly",
+    "context_quote": "the young tender tops, with the leaves, taken inwardly"
+   },
+   {
+    "kind": "some of them outwardly applied",
+    "context_quote": "and some of them outwardly applied"
+   },
+   {
+    "kind": "water distilled therefrom being taken",
+    "context_quote": "The water distilled therefrom being taken, a small quantity every morning fasting"
+   },
+   {
+    "kind": "decoction of the leaves in white wine",
+    "context_quote": "The decoction of the leaves in white wine helps to break the stone"
+   }
+  ],
+  "dosage_notes": [
+   "a small quantity every morning fasting",
+   "if it be in Winter when you cannot get the leaves, you may safely use the bark instead of them",
+   "gathering them when they are ripe"
+  ],
+  "cautions": [
+   "I can justly except against none of all this, save only the first",
+   "The contrary to which is the truth, as both my eyes are witnesses",
+   "only if it be in Winter when you cannot get the leaves, you may safely use the bark instead of them"
+  ],
+  "authority_citations": [
+   "Gerrard",
+   "Pliny"
+  ]
+ },
+ "resolutions": [
+  {
+   "historical_name": "Ash Tree",
+   "candidates": [
+    {
+     "scientific_name": "Fraxinus excelsior",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Fraxinus americana",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.6,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Fraxinus ornus",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.4,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Fraxinus excelsior",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Ashen Keys",
+   "candidates": [
+    {
+     "scientific_name": "Fraxinus excelsior",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.85,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Fraxinus pennsylvanica",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.5,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Unknown/Descriptive Term",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.3,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Fraxinus excelsior",
+   "confidence": 0.85,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Fraxinus excelsior",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Phytochemical study and immunomodulatory activity of Fraxinus excelsior L.",
+     "identifier": "36332078",
+     "year": "2023",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/36332078/",
+     "relevance_note": "Modern study confirms immunomodulatory activity, potentially relevant to traditional claims regarding dropsy and jaundice management."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "Fraxin",
+    "Esculin",
+    "Aesculetin"
+   ],
+   "summary": "Traditional uses for venomous bites, skin conditions, obesity, jaundice, dropsy, and kidney stones are noted. Modern evidence supports immunomodulatory effects via phytochemicals like fraxin and esculin, which may address inflammatory or metabolic aspects of these historical claims."
+  }
+ ],
+ "concordance": {
+  "grade": "C",
+  "direction": "partial",
+  "rationale": "Modern evidence (PMID: 36332078) shows immunomodulatory activity but lacks clinical data for venom, dropsy, obesity, stones, jaundice, or leprosy. No EMA approval exists.",
+  "uncertainty": "High due to absence of specific clinical trials matching historical claims in modern literature.",
+  "caveats": [
+   "No safety data provided",
+   "Claims are historical only"
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "The decoction of the leaves in white wine helps to break the stone",
+   "The kernels within the husks, commonly called Ashen Keys",
+   "The water distilled therefrom being taken, a small quantity every morning fasting",
+   "and cures the jaundice",
+   "and some of them outwardly applied",
+   "and voideth away the stone by provoking urine",
+   "helps to break the stone, and expel it",
+   "is a singular medicine for those that are subject to dropsy",
+   "or to abate the greatness of those that are too gross or fat",
+   "prevail against stitches and pains in the sides, proceeding of wind",
+   "singularly good against the bitings of viper, adder, or any other venomous beast",
+   "the young tender tops, with the leaves, taken inwardly",
+   "those heads bathed therewith which are leprous, scabby, or scald, they are thereby cured"
+  ],
+  "quotes_failed": [
+   "HEADING: Ash Tree"
+  ],
+  "issues": [
+   "Unearned grade 'C' with only 1 PubMed citation and no EMA approval; historical claims (venom, dropsy, etc.) lack modern clinical evidence supporting the grade.",
+   "Incomplete resolution for 'Ashen Keys' candidate 'Unknown/Descriptive Term' lacks specific taxonomic justification."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T07:01:26Z"
+ }
+}

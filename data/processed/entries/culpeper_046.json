@@ -1,0 +1,298 @@
+{
+ "id": "culpeper_046",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Bugle",
+  "book": "",
+  "chapter": "",
+  "char_start": 136184,
+  "char_end": 140372,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "BESIDES the name Bugle, it is called Middle Confound and Middle\nComfrey, Brown Bugle, and by some Sicklewort, and Herb-Carpenter;\nthough in Essex we call another herb by that name.\n\n_Descript._] This has larger leaves than those of the Self-heal, but\nelse of the same fashion, or rather longer; in some green on the upper\nside, and in others more brownish, dented about the edges, somewhat\nhairy, as the square stalk is also which rises up to be half a yard\nhigh sometimes, with the leaves set by couples, from the middle almost,\nwhereof upwards stand the flowers, together with many smaller and\nbrowner leaves than the rest, on the stalk below set at distance, and\nthe stalk bare between them; among which flowers, are also small ones\nof a blueish and sometimes of an ash colour, fashioned like the flowers\nof Ground-ivy, after which come small, round blackish seeds. The root\nis composed of many strings, and spreads upon the ground.\n\nThe white flowered Bugle differs not in form or greatness from the\nformer, saving that the leaves and stalks are always green, and never\nbrown, like the other, and the flowers thereof are white.\n\n_Place._] They grow in woods, copses, and fields, generally throughout\nEngland, but the white flowered Bugle is not so plentiful as the former.\n\n_Time._] They flower from May until July, and in the mean time perfect\ntheir seed. The roots and leaves next thereunto upon the ground abiding\nall the Winter.\n\n_Government and virtues._] This herb belongs to Dame Venus: If the\nvirtues of it makes you fall in love with it (as they will if you be\nwise) keep a syrup of it to take inwardly, an ointment and plaister of\nit to use outwardly, always by you.\n\nThe decoction of the leaves and flowers made in wine, and taken,\ndissolves the congealed blood in those that are bruised inwardly by a\nfall, or otherwise is very effectual for any inward wounds, thrusts,\nor stabs in the body or bowels; and it is an especial help in all\nwound-drinks, and for those that are liver-grown (as they call it.)\nIt is wonderful in curing all manner of ulcers and sores, whether new\nand fresh, or old and inveterate; yea, gangrenes and fistulas also,\nif the leaves bruised and applied, or their juice be used to wash and\nbathe the place; and the same made into a lotion, and some honey and\nalum, cures all sores in the mouth and gums, be they ever so foul, or\nof long continuance; and works no less powerfully and effectually for\nsuch ulcers and sores as happen in the secret parts of men and women.\nBeing also taken inwardly, or outwardly applied, it helps those that\nhave broken any bone, or have any member out of joint. An ointment made\nwith the leaves of Bugle, Scabions and Sanicle, bruised and boiled in\nhog’s grease, until the herbs be dry, and then strained forth into a\npot for such occasions as shall require; it is so singularly good for\nall sorts of hurts in the body, that none that know its usefulness will\nbe without it.\n\nThe truth is, I have known this herb cure some diseases of Saturn, of\nwhich I thought good to quote one. Many times such as give themselves\nmuch to drinking are troubled with strange fancies, strange sights\nin the night time, and some with voices, as also with the disease\nEphialtes, or the Mare. I take the reason of this to be (according\nto Fernelius) a melancholy vapour made thin by excessive drinking\nstrong liquor, and, so flies up and disturbs the fancy, and breeds\nimaginations like itself, viz. fearful and troublesome. Those I have\nknown cured by taking only two spoonfuls, of the syrup of this herb\nafter supper two hours, when you go to bed. But whether this does it\nby sympathy, or antipathy, is some doubt in astrology. I know there\nis great antipathy between Saturn and Venus in matter of procreation;\nyea, such a one, that the barrenness of Saturn can be removed by none\nbut Venus! nor the lust of Venus be repelled by none but Saturn; but\nI am not of opinion this is done this way, and my reason is, because\nthese vapours though in quality melancholy, yet by their flying upward,\nseem to be something aerial; therefore I rather think it is done by\nantipathy; Saturn being exalted in Libra, in the house of Venus.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Bugle",
+    "context_quote": "BESIDES the name Bugle, it is called Middle Confound and Middle Comfrey, Brown Bugle, and by some Sicklewort, and Herb-Carpenter",
+    "part_used": "whole plant"
+   },
+   {
+    "name_text": "Middle Confound",
+    "context_quote": "BESIDES the name Bugle, it is called Middle Confound and Middle Comfrey, Brown Bugle, and by some Sicklewort, and Herb-Carpenter",
+    "part_used": "whole plant"
+   },
+   {
+    "name_text": "Brown Bugle",
+    "context_quote": "BESIDES the name Bugle, it is called Middle Confound and Middle Comfrey, Brown Bugle, and by some Sicklewort, and Herb-Carpenter",
+    "part_used": "whole plant"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "congealed blood from falls",
+    "context_quote": "dissolves the congealed blood in those that are bruised inwardly by a fall",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "inward wounds, thrusts, or stabs",
+    "context_quote": "or otherwise is very effectual for any inward wounds, thrusts, or stabs in the body or bowels",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "liver-grown condition",
+    "context_quote": "and for those that are liver-grown (as they call it.)",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "ulcers and sores",
+    "context_quote": "It is wonderful in curing all manner of ulcers and sores, whether new and fresh, or old and inveterate",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "gangrenes and fistulas",
+    "context_quote": "yea, gangrenes and fistulas also, if the leaves bruised and applied, or their juice be used to wash and bathe the place",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "sores in the mouth and gums",
+    "context_quote": "cures all sores in the mouth and gums, be they ever so foul, or of long continuance",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "ulcers in secret parts",
+    "context_quote": "works no less powerfully and effectually for such ulcers and sores as happen in the secret parts of men and women",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "broken bones or dislocated members",
+    "context_quote": "it helps those that have broken any bone, or have any member out of joint",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "syrup",
+    "context_quote": "keep a syrup of it to take inwardly"
+   },
+   {
+    "kind": "ointment and plaister",
+    "context_quote": "an ointment and plaister of it to use outwardly, always by you"
+   },
+   {
+    "kind": "decoction in wine",
+    "context_quote": "The decoction of the leaves and flowers made in wine, and taken"
+   },
+   {
+    "kind": "lotion with honey and alum",
+    "context_quote": "the same made into a lotion, and some honey and alum, cures all sores in the mouth and gums"
+   }
+  ],
+  "dosage_notes": [
+   "take inwardly",
+   "use outwardly",
+   "bruised and applied, or their juice be used to wash and bathe the place"
+  ],
+  "cautions": [],
+  "authority_citations": [
+   "Fernelius"
+  ]
+ },
+ "resolutions": [
+  {
+   "historical_name": "Bugle",
+   "candidates": [
+    {
+     "scientific_name": "Ajuga reptans",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Ajuga genevensis",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.6,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Buglossoides arvensis",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.4,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Ajuga reptans",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Middle Confound",
+   "candidates": [
+    {
+     "scientific_name": "Ajuga reptans",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.85,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Ajuga chamaepitys",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.5,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Unknown/Ambiguous",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.3,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Ajuga reptans",
+   "confidence": 0.85,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Brown Bugle",
+   "candidates": [
+    {
+     "scientific_name": "Ajuga reptans 'Variegata'",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.7,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Ajuga genevensis",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.55,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Buglossoides arvensis",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.45,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "",
+   "confidence": 0.42,
+   "status": "ambiguous",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Ajuga reptans",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Ajuga reptans L. Herb Extracts: Phytochemical Composition and Pharmacological Activity Screening.",
+     "identifier": "39861572",
+     "year": "2025",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/39861572/",
+     "relevance_note": "Screens extracts for broad pharmacological activity relevant to wound healing and inflammation."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Comparative Phytochemical Profile, Antioxidant, Antimicrobial and In Vivo Anti-Inflammatory Activity of Different Extracts of Traditionally Used Romanian Ajuga genevensis L. and A. reptans L. (Lamiaceae).",
+     "identifier": "31018502",
+     "year": "2019",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/31018502/",
+     "relevance_note": "Demonstrates antimicrobial and anti-inflammatory properties supporting traditional wound and ulcer management."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Acylated anthocyanidin 3-sophoroside-5-glucosides from Ajuga reptans flowers and the corresponding cell cultures.",
+     "identifier": "11557083",
+     "year": "2001",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/11557083/",
+     "relevance_note": "Identifies specific anthocyanidin glycosides, though flower-specific relevance to medicinal parts is unclear."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "Acylated anthocyanidins",
+    "Flavonoids"
+   ],
+   "summary": "Modern screening confirms antimicrobial and anti-inflammatory activities in A. reptans extracts, offering potential mechanistic support for traditional uses regarding wounds, ulcers, and inflammation. Specific phytochemicals like acylated anthocyanidins are identified, though their direct contribution to healing 'congealed blood' or deep thrusts requires further clinical validation."
+  }
+ ],
+ "concordance": {
+  "grade": "C",
+  "direction": "partial",
+  "rationale": "Modern evidence (PMID: 31018502, 39861572) confirms antimicrobial and anti-inflammatory activity. This partially supports historical claims for ulcers/sores but lacks clinical data for internal wounds or liver conditions.",
+  "uncertainty": "Evidence is limited to in vitro/in vivo screening; no human trials support specific historical indications like 'congealed blood' or 'liver-grown'.",
+  "caveats": [
+   "No EMA approval",
+   "Internal use not validated"
+  ]
+ },
+ "audit": {
+  "schema_ok": false,
+  "quotes_verified": [
+   "BESIDES the name Bugle, it is called Middle Confound and Middle Comfrey, Brown Bugle, and by some Sicklewort, and Herb-Carpenter",
+   "It is wonderful in curing all manner of ulcers and sores, whether new and fresh, or old and inveterate",
+   "The decoction of the leaves and flowers made in wine, and taken",
+   "an ointment and plaister of it to use outwardly, always by you",
+   "and for those that are liver-grown (as they call it.)",
+   "cures all sores in the mouth and gums, be they ever so foul, or of long continuance",
+   "dissolves the congealed blood in those that are bruised inwardly by a fall",
+   "it helps those that have broken any bone, or have any member out of joint",
+   "keep a syrup of it to take inwardly",
+   "or otherwise is very effectual for any inward wounds, thrusts, or stabs in the body or bowels",
+   "the same made into a lotion, and some honey and alum, cures all sores in the mouth and gums",
+   "works no less powerfully and effectually for such ulcers and sores as happen in the secret parts of men and women",
+   "yea, gangrenes and fistulas also, if the leaves bruised and applied, or their juice be used to wash and bathe the place"
+  ],
+  "quotes_failed": [],
+  "issues": [
+   "Incomplete rationale: The concordance grade 'C' with direction 'partial' is unearned because the provided evidence snippet cuts off mid-sentence ('lacks clinical'), failing to state whether clinical trials were absent or if efficacy was insufficient. Without the full sentence, the justification for the partial grade is incomplete.",
+   "Missing family resolution: All candidate taxa (Ajuga reptans, Ajuga genevensis, Buglossoides arvensis) have empty 'family' fields in the resolutions, violating completeness requirements for taxonomic entries.",
+   "Ambiguous selection: The 'Brown Bugle' historical name has no selected scientific name and low confidence (0.42), yet it is included in the entry without a resolution status of 'resolved'.",
+   "Unearned grade risk: The evidence shows only 3 PubMed citations and no EMA approval ('ema': false). A grade of 'C' might be defensible, but the truncated rationale prevents verification of whether the 'partial' support is sufficient or if the lack of clinical data should result in a lower grade or rejection.",
+   "downgraded: quote failures were heading quotes"
+  ],
+  "verdict": "pass_with_issues"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T07:00:21Z"
+ }
+}

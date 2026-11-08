@@ -1,0 +1,252 @@
+{
+ "id": "culpeper_210",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Pepperwort, Or Dittander",
+  "book": "",
+  "chapter": "",
+  "char_start": 512142,
+  "char_end": 513829,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "_Descript._] OUR common Pepperwort sends forth somewhat long and broad\nleaves, of a light blueish green colour, finely dented about the edges,\nand pointed at the ends, standing upon round hard stalks, three or\nfour feet high, spreading many branches on all sides, and having many\nsmall white flowers at the tops of them, after which follow small seeds\nin small heads. The root is slender, running much under ground, and\nshooting up again in many places, and both leaves and roots are very\nhot and sharp of taste, like pepper, for which cause it took the name.\n\n_Place._] It grows naturally in many places of this land, as at Clare\nin Essex; also near unto Exeter in Devonshire; upon Rochester common\nin Kent; in Lancashire, and divers other places; but usually kept in\ngardens.\n\n_Time._] It flowers in the end of June, and in July.\n\n_Government and virtues._] Here is another martial herb for you, make\nmuch of it. Pliny and Paulus Ægineta say, that Pepperwort is very\nsuccessful for the sciatica, or any other gout or pain in the joints,\nor any other inveterate grief: The leaves hereof to be bruised, and\nmixed with old hog’s grease, and applied to the place, and to continue\nthereon four hours in men, and two hours in women, the place being\nafterwards bathed with wine and oil mixed together, and then wrapped up\nwith wool or skins, after they have sweat a little. It also amends the\ndeformities or discolourings of the skin, and helps to take away marks,\nscars, and scabs, or the foul marks of burning with fire or iron. The\njuice hereof is by some used to be given in ale to drink, to women with\nchild, to procure them a speedy delivery in travail.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Pepperwort",
+    "context_quote": "OUR common Pepperwort sends forth somewhat long and broad leaves",
+    "part_used": "leaves and roots"
+   },
+   {
+    "name_text": "Dittander",
+    "context_quote": "Pepperwort, Or Dittander",
+    "part_used": "N/A"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "sciatica",
+    "context_quote": "Pliny and Paulus Ægineta say, that Pepperwort is very successful for the sciatica",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "gout",
+    "context_quote": "or any other gout or pain in the joints",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "pain in the joints",
+    "context_quote": "or any other gout or pain in the joints",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "inveterate grief",
+    "context_quote": "or any other inveterate grief",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "deformities or discolourings of the skin",
+    "context_quote": "It also amends the deformities or discolourings of the skin",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "marks, scars, and scabs",
+    "context_quote": "and helps to take away marks, scars, and scabs",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "foul marks of burning with fire or iron",
+    "context_quote": "or the foul marks of burning with fire or iron",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "bruised leaves mixed with old hog's grease",
+    "context_quote": "The leaves hereof to be bruised, and mixed with old hog's grease"
+   },
+   {
+    "kind": "application wrapped in wool or skins",
+    "context_quote": "and then wrapped up with wool or skins"
+   },
+   {
+    "kind": "wash of wine and oil",
+    "context_quote": "the place being afterwards bathed with wine and oil mixed together"
+   },
+   {
+    "kind": "juice given in ale",
+    "context_quote": "The juice hereof is by some used to be given in ale to drink"
+   }
+  ],
+  "dosage_notes": [
+   "continue thereon four hours in men, and two hours in women",
+   "after they have sweat a little"
+  ],
+  "cautions": [],
+  "authority_citations": [
+   "Pliny",
+   "Paulus Ægineta"
+  ]
+ },
+ "resolutions": [
+  {
+   "historical_name": "Pepperwort",
+   "candidates": [
+    {
+     "scientific_name": "Lepidium campestre",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.85,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Cardamine pratensis",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.75,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Lepidium sativum",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.65,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Lepidium campestre",
+   "confidence": 0.85,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Dittander",
+   "candidates": [
+    {
+     "scientific_name": "Origanum dictamnus",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Origanum vulgare",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.7,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Origanum majorana",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.6,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Origanum dictamnus",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Lepidium campestre",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Whole-genome mapping reveals QTLs linked to key agronomic traits in bi-parental populations of field cress (Lepidium campestre).",
+     "identifier": "39994504",
+     "year": "2025",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/39994504/",
+     "relevance_note": "Genomic study on agronomic traits, not clinical efficacy for skin or joint pain."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Development of an efficient regeneration and transformation method for the new potential oilseed crop Lepidium campestre.",
+     "identifier": "23937221",
+     "year": "2013",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/23937221/",
+     "relevance_note": "Focuses on plant propagation methods, lacking data on traditional therapeutic uses."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "Glucosinolates"
+   ],
+   "summary": "No clinical evidence found for treating skin deformities, grief, or joint pain. Retrieved literature focuses solely on agronomy and crop development."
+  },
+  {
+   "taxon": "Origanum dictamnus",
+   "ema_monograph": null,
+   "pubmed": [],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "Carvacrol"
+   ],
+   "summary": "No modern scientific evidence retrieved to support traditional uses for skin conditions or pain. Absence of data precludes confirmation of efficacy."
+  }
+ ],
+ "concordance": {
+  "grade": "D",
+  "direction": "contradicts",
+  "rationale": "Modern evidence for Lepidium campestre and Origanum dictamnus contains only agronomic or genomic data (PMIDs: 39994504, 23937221). No clinical trials support treating sciatica, gout, grief, or skin deformities. Absence of therapeutic efficacy data contradicts historical claims.",
+  "uncertainty": "Low; lack of specific pharmacological or clinical studies for the listed indications prevents validation.",
+  "caveats": [
+   "Historical texts may refer to different taxa now resolved as Lepidium campestre or Origanum dictamnus.",
+   "No modern safety data available for these specific historical uses."
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "It also amends the deformities or discolourings of the skin",
+   "OUR common Pepperwort sends forth somewhat long and broad leaves",
+   "Pepperwort, Or Dittander",
+   "Pliny and Paulus Ægineta say, that Pepperwort is very successful for the sciatica",
+   "The juice hereof is by some used to be given in ale to drink",
+   "and helps to take away marks, scars, and scabs",
+   "and then wrapped up with wool or skins",
+   "or any other gout or pain in the joints",
+   "or any other inveterate grief",
+   "or the foul marks of burning with fire or iron",
+   "the place being afterwards bathed with wine and oil mixed together"
+  ],
+  "quotes_failed": [
+   "The leaves hereof to be bruised, and mixed with old hog's grease"
+  ],
+  "issues": [
+   "Unearned Grade: Historical claims of treating sciatica, gout, grief, and skin deformities are contradicted by a lack of modern clinical or pharmacological evidence (only agronomic/genomic data found). The assigned grade 'D' is appropriate given the contradiction, but the entry fails validation because the graph cannot admit historical therapeutic efficacy without supporting clinical trials.",
+   "Completeness: No EMA approval status provided for either taxon (expected false), and no PubMed IDs linked to the specific historical indications in the evidence list."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T06:26:28Z"
+ }
+}

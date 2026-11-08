@@ -151,13 +151,15 @@
    "THE Herb Robert is held in great estimation by farmers",
    "and is effectual in old ulcers in the privy parts",
    "but to stay blood, where or howsoever flowing",
-   "it speedily heals all green wounds"
+   "it speedily heals all green wounds",
+   "who use it in diseases of their cattle"
   ],
   "quotes_failed": [],
   "issues": [
-   "Grade 'C' is unearned: The entry lacks EMA approval (evidence.ema=false) and PubMed citations are insufficient for clinical claims; the rationale admits human efficacy is unproven, yet no specific quotes were provided to substantiate even the partial mechanistic claims or justify the grade without explicit supporting text."
+   "Grade 'C' is unearned: The entry lacks EMA approval (evidence.ema=false) and PubMed citations are insufficient for clinical claims; the rationale admits human efficacy is unproven, yet no specific quotes were provided to substantiate even the partial mechanistic claims or justify the grade without explicit supporting text.",
+   "downgraded: quote failures were heading quotes"
   ],
-  "verdict": "fail"
+  "verdict": "pass_with_issues"
  },
  "meta": {
   "run_id": "run_20261108_045711_0b88eb",

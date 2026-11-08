@@ -1,0 +1,258 @@
+{
+ "id": "culpeper_279",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Tormentil, Or Septfoil",
+  "book": "",
+  "chapter": "",
+  "char_start": 678500,
+  "char_end": 682527,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "_Descript._] THIS hath reddish, slender, weak branches rising from the\nroot, lying on the ground, rather leaning than standing upright, with\nmany short leaves that stand closer to the stalk than cinquefoil (to\nwhich this is very like) with the root-stalk compassing the branches\nin several places; but those that grow to the ground are set upon\nlong foot stalks, each whereof are like the leaves of cinquefoil, but\nsomewhat long and lesser dented about the edges, many of them divided\ninto five leaves, but most of them into seven, whence it is also called\nSeptfoil; yet some may have six, and some eight, according to the\nfertility of the soil. At the tops of the branches stand divers small\nyellow flowers, consisting of five leaves, like those of cinquefoil,\nbut smaller. The root is smaller than bistort, somewhat thick, but\nblacker without, and not so red within, yet sometimes a little crooked,\nhaving blackish fibres thereat.\n\n_Place._] It grows as well in woods and shadowy places, as in the open\nchampain country, about the borders of fields in many places of this\nland, and almost in every broom field in Essex.\n\n_Time._] It flowers all the Summer long.\n\n_Government and virtues._] This is a gallant herb of the Sun. Tormentil\nis most excellent to stay all kind of fluxes of blood or humours in man\nor woman, whether at nose, mouth, or belly. The juice of the herb and\nroot, or the decoction thereof, taken with some Venice treacle, and\nthe person laid to sweat, expels any venom or poison, or the plague,\nfever, or other contagious diseases, as pox, measles, &c. for it is an\ningredient in all antidotes or counter poisons. Andreas Urlesius is of\nopinion that the decoction of this root is no less effectual to cure\nthe French pox than Guiacum or China; and it is not unlikely, because\nit so mightily resists putrefaction. The root taken inwardly is most\neffectual to help any flux of the belly, stomach, spleen, or blood; and\nthe juice wonderfully opens obstructions of the liver and lungs, and\nthereby helps the yellow jaundice. The powder or decoction drank, or\nto sit thereon as a bath, is an assured remedy against abortion, if it\nproceed from the over flexibility or weakness of the inward retentive\nfaculty; as also a plaster made therewith, and vinegar applied to\nthe reins of the back, doth much help not only this, but also those\nthat cannot hold their water, the powder being taken in the juice of\nplantain, and is also commended against the worms in children. It\nis very powerful in ruptures and burstings, as also for bruises and\nfalls, to be used as well outwardly as inwardly. The root hereof made\nup with pellitory of Spain and allum, and put into a hollow tooth, not\nonly assuages the pain, but stays the flux of humours which causes it.\nTormentil is no less effectual and powerful a remedy against outward\nwounds, sores and hurts, than for inward, and is therefore a special\ningredient to be used in wound drinks, lotions and injections, for\nfoul corrupt rotten sores and ulcers of the mouth, secrets, or other\nparts of the body. The juice or powder of the root put in ointments,\nplaisters, and such things that are to be applied to wounds or sores,\nis very effectual, as the juice of the leaves and the root bruised\nand applied to the throat or jaws, heals the king’s evil, and eases\nthe pain of the sciatica; the same used with a little vinegar, is a\nspecial remedy against the running sores of the head or other parts;\nscabs also, and the itch or any such eruptions in the skin, proceeding\nof salt and sharp humours. The same is also effectual for the piles\nor hæmorrhoids, if they be washed or bathed therewith, or with the\ndistilled water of the herb and roots. It is found also helpful to dry\nup any sharp rheum that distills from the head into the eyes, causing\nredness, pain, waterings, itching, or the like, if a little prepared\ntutia, or white amber, be used with the distilled water thereof. And\nhere is enough, only remember the Sun challengeth this herb.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Tormentil",
+    "context_quote": "THIS hath reddish, slender, weak branches rising from the root...",
+    "part_used": "root"
+   },
+   {
+    "name_text": "Septfoil",
+    "context_quote": "...but most of them into seven, whence it is also called Septfoil...",
+    "part_used": "leaves"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "fluxes of blood or humours",
+    "context_quote": "Tormentil is most excellent to stay all kind of fluxes of blood or humours...",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "venom or poison, plague, fever, contagious diseases",
+    "context_quote": "...expels any venom or poison, or the plague, fever, or other contagious diseases...",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "French pox",
+    "context_quote": "...decoction of this root is no less effectual to cure the French pox than Guiacum or China...",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "flux of the belly, stomach, spleen, or blood",
+    "context_quote": "...The root taken inwardly is most effectual to help any flux of the belly...",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "obstructions of the liver and lungs, yellow jaundice",
+    "context_quote": "...and the juice wonderfully opens obstructions of the liver and lungs, and thereby helps the yellow jaundice.",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "abortion (from weakness)",
+    "context_quote": "...is an assured remedy against abortion, if it proceed from the over flexibility...",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "ruptures and burstings, bruises and falls",
+    "context_quote": "It is very powerful in ruptures and burstings, as also for bruises and falls...",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "tooth pain and flux of humours from tooth issues",
+    "context_quote": "...not only assuages the pain, but stays the flux of humours which causes it.",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "juice and root decoction with Venice treacle",
+    "context_quote": "The juice of the herb and root, or the decoction thereof, taken with some Venice treacle..."
+   },
+   {
+    "kind": "powder or decoction as bath",
+    "context_quote": "The powder or decoction drank, or to sit thereon as a bath..."
+   },
+   {
+    "kind": "plaster with vinegar",
+    "context_quote": "...a plaster made therewith, and vinegar applied to the reins of the back..."
+   },
+   {
+    "kind": "ointment, plaisters, or bruised root/leaf mixture",
+    "context_quote": "The juice or powder of the root put in ointments, plaisters... as the juice of the leaves and the root bruised..."
+   }
+  ],
+  "dosage_notes": [
+   "taken with some Venice treacle",
+   "powder being taken in the juice of plantain"
+  ],
+  "cautions": [],
+  "authority_citations": [
+   "Andreas Urlesius"
+  ]
+ },
+ "resolutions": [
+  {
+   "historical_name": "Tormentil",
+   "candidates": [
+    {
+     "scientific_name": "Potentilla erecta",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Potentilla anserina",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.4,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Geum urbanum",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.15,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Potentilla erecta",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Septfoil",
+   "candidates": [
+    {
+     "scientific_name": "Potentilla erecta",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Potentilla reptans",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.3,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Alchemilla vulgaris",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.1,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Potentilla erecta",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Potentilla erecta",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Herbal Medicines for Gastrointestinal Disorders in Children and Adolescents: A Systematic Review.",
+     "identifier": "28562281",
+     "year": "2017",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/28562281/",
+     "relevance_note": "Reviews GI uses of Potentilla species, addressing traditional 'flux of the belly' claims."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Potentilla--a review of its phytochemical and pharmacological profile.",
+     "identifier": "19162156",
+     "year": "2009",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/19162156/",
+     "relevance_note": "Comprehensive review linking flavonoid content to anti-inflammatory and astringent effects."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Recent phytochemical and pharmacological advances in the genus Potentilla L. sensu lato - An update covering the period from 2009 to 2020.",
+     "identifier": "32987127",
+     "year": "2021",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/32987127/",
+     "relevance_note": "Updates on genus-wide pharmacology, supporting traditional uses for liver/lung obstructions."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "Quercetin",
+    "Kaempferol",
+    "Rutin"
+   ],
+   "summary": "Modern evidence supports Potentilla erecta's traditional use for gastrointestinal fluxes via its astringent and anti-inflammatory properties derived from flavonoids. While specific data on historical uses like plague or French pox is absent, recent reviews confirm pharmacological activity relevant to liver and lung obstructions."
+  }
+ ],
+ "concordance": {
+  "grade": "C",
+  "direction": "partial",
+  "rationale": "Modern evidence (PMID: 28562281, 19162156) supports anti-inflammatory and astringent properties for GI fluxes but lacks clinical data for venoms, fevers, or syphilis.",
+  "uncertainty": "Historical claims regarding systemic infections and specific poisons are not supported by current pharmacological profiles.",
+  "caveats": [
+   "No evidence for treating French pox",
+   "No evidence for expelling venom"
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [],
+  "quotes_failed": [
+   "...The root taken inwardly is most effectual to help any flux of the belly...",
+   "...a plaster made therewith, and vinegar applied to the reins of the back...",
+   "...and the juice wonderfully opens obstructions of the liver and lungs, and thereby helps the yellow jaundice.",
+   "...but most of them into seven, whence it is also called Septfoil...",
+   "...decoction of this root is no less effectual to cure the French pox than Guiacum or China...",
+   "...expels any venom or poison, or the plague, fever, or other contagious diseases...",
+   "...is an assured remedy against abortion, if it proceed from the over flexibility...",
+   "...not only assuages the pain, but stays the flux of humours which causes it.",
+   "It is very powerful in ruptures and burstings, as also for bruises and falls...",
+   "THIS hath reddish, slender, weak branches rising from the root...",
+   "The juice of the herb and root, or the decoction thereof, taken with some Venice treacle...",
+   "The juice or powder of the root put in ointments, plaisters... as the juice of the leaves and the root bruised...",
+   "The powder or decoction drank, or to sit thereon as a bath...",
+   "Tormentil is most excellent to stay all kind of fluxes of blood or humours..."
+  ],
+  "issues": [
+   "Unearned Grade: The entry received a 'C' grade with 'partial' direction based on modern evidence supporting only anti-inflammatory/astringent properties for GI fluxes. However, the historical claims explicitly include treating venoms, fevers, syphilis (French pox), and expelling plague/contagious diseases. The concordance rationale correctly identifies a lack of clinical data for these specific claims, yet the grade 'C' implies some level of partial support or moderate validity that is not justified when the evidence explicitly states 'No evidence' for the major historical indications listed in the failed quotes. A grade of 'D' or 'F' (unsupported) would be more appropriate given the total lack of modern pharmacological support for the specific claims of venom expulsion and systemic infection treatment.",
+   "Completeness Gap: The extraction lists 5 distinct historical claims (branches/seven leaves, stopping fluxes, expelling venom/plague/fever/syphilis, decoction properties) but the verification step failed to validate any of them against the source text provided in the prompt's context. All quotes marked as 'failed' represent direct contradictions to modern science or lack of evidence, which should be flagged as unsupported claims rather than just 'failed verification' if the goal is to prevent misinformation about efficacy."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T06:33:40Z"
+ }
+}

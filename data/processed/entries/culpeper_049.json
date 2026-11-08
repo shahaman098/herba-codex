@@ -268,7 +268,9 @@
    "or downwards in fits of the mother, by applying it to the soles of the feet",
    "or if you would stay it in its place, apply it to the navel"
   ],
-  "quotes_failed": [],
+  "quotes_failed": [
+   "by its leaf or seed you may draw the womb which way you please, either upwards by applying it to the crown of the head... or downwards in fits of the mother, by applying it to the soles of the feet; or if you would stay it in its place, apply it to the navel"
+  ],
   "issues": [
    "Unearned Grade: The entry assigns a 'C' grade based on the absence of clinical data for specific historical claims (uterine displacement, phlegm cures). However, the evidence list shows only 1 PubMed ID (PMID: 20981575) and EMA=false. A single modern study confirming general properties does not constitute sufficient evidence to validate the taxon's historical efficacy or justify a specific concordance grade in this context without explicit citation of the missing clinical trials. The rationale relies on 'lack' of data rather than positive verification, which is insufficient for graph admission under strict auditing rules.",
    "Missing Family Resolution: All candidate taxa (Arctium minus, Arctium lappa, Cirsium arvense, Cnicus benedictus) have empty 'family' fields despite being Asteraceae. This violates completeness requirements for taxonomic entries."
