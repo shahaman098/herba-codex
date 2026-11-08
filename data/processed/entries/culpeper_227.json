@@ -1,0 +1,215 @@
+{
+ "id": "culpeper_227",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Rest Harrow, Or Cammock",
+  "book": "",
+  "chapter": "",
+  "char_start": 557905,
+  "char_end": 560308,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "_Descript._] COMMON Rest Harrow rises up with divers rough woody twigs\nhalf a yard or a yard high, set at the joints without order, with\nlittle roundish leaves, sometimes more than two or three at a place,\nof a dark green colour, without thorns while they are young; but\nafterwards armed in sundry places, with short and sharp thorns. The\nflowers come forth at the tops of the twigs and branches, whereof it\nis full fashioned like pease or broom blossoms, but lesser, flatter,\nand somewhat closer, of a faint purplish colour; after which come small\npods containing small, flat, round seed: The root is blackish on the\noutside, and whitish within, very rough, and hard to break when it is\nfresh and green, and as hard as an horn when it is dried, thrusting\ndown deep into the ground, and spreading likewise, every piece being\napt to grow again if it be left in the ground.\n\n_Place._] It grows in many places of this land, as well in the arable\nas waste ground.\n\n_Time._] It flowers about the beginning or middle of July, and the seed\nis ripe in August.\n\n_Government and virtues._] It is under the dominion of Mars. It is\nsingularly good to provoke urine when it is stopped, and to break and\ndrive forth the stone, which the powder of the bark of the root taken\nin wine performs effectually. Matthiolus saith, The same helps the\ndisease called _Herma Carnosa_, the fleshy rupture, by taking the said\npowder for three months together constantly, and that it hath cured\nsome which seemed incurable by any other means than by cutting or\nburning. The decoction thereof made with some vinegar, gargled in the\nmouth, eases the tooth-ache, especially when it comes of rheum; and the\nsaid decoction is very powerful to open obstructions of the liver and\nspleen, and other parts. A distilled water in _Balneo Mariæ_, with four\npounds of the root hereof first sliced small, and afterwards steeped\nin a gallon of Canary wine, is singularly good for all the purposes\naforesaid, and to cleanse the urinary passages. The powder of the said\nroot made into an electuary, or lozenges, with sugar, as also the bark\nof the fresh roots boiled tender, and afterwards beaten to a conserve\nwith sugar, works the like effect. The powder of the roots strewed upon\nthe brims of ulcers, or mixed with any other convenient thing, and\napplied, consumes the hardness, and causes them to heal the better.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Rest Harrow",
+    "context_quote": "COMMON Rest Harrow rises up with divers rough woody twigs",
+    "part_used": "root"
+   },
+   {
+    "name_text": "Cammock",
+    "context_quote": "HEADING: Rest Harrow, Or Cammock",
+    "part_used": "plant"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "stopped urine",
+    "context_quote": "It is singularly good to provoke urine when it is stopped",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "stone",
+    "context_quote": "and to break and drive forth the stone",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "Herma Carnosa",
+    "context_quote": "The same helps the disease called Herma Carnosa, the fleshy rupture",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "tooth-ache",
+    "context_quote": "gargled in the mouth, eases the tooth-ache",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "obstructions of the liver and spleen",
+    "context_quote": "very powerful to open obstructions of the liver and spleen",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "ulcers",
+    "context_quote": "consumes the hardness, and causes them to heal the better",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "powder of the bark of the root taken in wine",
+    "context_quote": "which the powder of the bark of the root taken in wine performs effectually"
+   },
+   {
+    "kind": "decoction made with vinegar",
+    "context_quote": "The decoction thereof made with some vinegar, gargled in the mouth"
+   },
+   {
+    "kind": "distilled water in Balneo Mariæ",
+    "context_quote": "A distilled water in Balneo Mariæ, with four pounds of the root hereof first sliced small"
+   },
+   {
+    "kind": "electuary or lozenges with sugar",
+    "context_quote": "The powder of the said root made into an electuary, or lozenges, with sugar"
+   }
+  ],
+  "dosage_notes": [
+   "taking the said powder for three months together constantly",
+   "four pounds of the root hereof first sliced small, and afterwards steeped in a gallon of Canary wine"
+  ],
+  "cautions": [],
+  "authority_citations": [
+   "Matthiolus"
+  ]
+ },
+ "resolutions": [
+  {
+   "historical_name": "Rest Harrow",
+   "candidates": [
+    {
+     "scientific_name": "Glechoma hederacea",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.85,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Ajuga reptans",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.6,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Lamium galeobdolon",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.45,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Glechoma hederacea",
+   "confidence": 0.85,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Cammock",
+   "candidates": [
+    {
+     "scientific_name": "Glechoma hederacea",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.9,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Ajuga reptans",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.55,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Lamium amplexicaule",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.3,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Glechoma hederacea",
+   "confidence": 0.9,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Glechoma hederacea",
+   "ema_monograph": null,
+   "pubmed": [],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "rosmarinic acid",
+    "methyl jasmonate"
+   ],
+   "summary": "No modern clinical or preclinical evidence was retrieved to support traditional uses for griping pains, jaundice, or lung exulceration. Research focus remains limited."
+  }
+ ],
+ "concordance": {
+  "grade": "C",
+  "direction": "partial",
+  "rationale": "Modern evidence for Glechoma hederacea is absent (PubMed empty, no EMA). Historical claims regarding diuresis, lithiasis, and organ obstructions lack clinical validation in current literature.",
+  "uncertainty": "High due to complete absence of modern pharmacological or clinical data for the resolved taxon.",
+  "caveats": [
+   "Claims are based solely on historical texts.",
+   "No safety profile established."
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "COMMON Rest Harrow rises up with divers rough woody twigs",
+   "It is singularly good to provoke urine when it is stopped",
+   "and to break and drive forth the stone",
+   "consumes the hardness, and causes them to heal the better",
+   "gargled in the mouth, eases the tooth-ache",
+   "very powerful to open obstructions of the liver and spleen"
+  ],
+  "quotes_failed": [
+   "HEADING: Rest Harrow, Or Cammock",
+   "The same helps the disease called Herma Carnosa, the fleshy rupture"
+  ],
+  "issues": [
+   "Unearned grade 'C' with no EMA/clinical evidence (PubMed n=0) for Glechoma hederacea; historical claims lack modern validation.",
+   "Incomplete safety profile: No adverse effects or contraindications documented despite entry resolution."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T05:25:14Z"
+ }
+}

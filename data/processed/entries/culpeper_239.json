@@ -1,0 +1,202 @@
+{
+ "id": "culpeper_239",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Saffron",
+  "book": "",
+  "chapter": "",
+  "char_start": 598231,
+  "char_end": 599428,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "THE herb needs no description, it being known generally where it grows.\n\n_Place._] It grows frequently at Walden in Essex, and in Cambridgeshire.\n\n_Government and virtues._] It is an herb of the Sun, and under the\nLion, and therefore you need not demand a reason why it strengthens the\nheart so exceedingly. Let not above ten grains be given at one time,\nfor the Sun, which is the fountain of light, may dazzle the eyes, and\nmake them blind; a cordial being taken in an immoderate quantity, hurts\nthe heart instead of helping it. It quickens the brain, for the Sun is\nexalted in Aries, as he hath his house in Leo. It helps consumptions of\nthe lungs, and difficulty of breathing. It is excellent in epidemical\ndiseases, as pestilence, small-pox, and measles. It is a notable\nexpulsive medicine, and a notable remedy for the yellow jaundice. My\nopinion is, (but I have no author for it) that hermodactyls are nothing\nelse but the roots of Saffron dried; and my reason is, that the roots\nof all crocus, both white and yellow, purge phlegm as hermodactyls do;\nand if you please to dry the roots of any crocus, neither your eyes\nnor your taste shall distinguish them from hermodactyls.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Saffron",
+    "context_quote": "THE herb needs no description, it being known generally where it grows.",
+    "part_used": "herb"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "weak heart",
+    "context_quote": "why it strengthens the heart so exceedingly",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "consumptions of the lungs",
+    "context_quote": "It helps consumptions of the lungs",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "difficulty of breathing",
+    "context_quote": "and difficulty of breathing",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "pestilence",
+    "context_quote": "It is excellent in epidemical diseases, as pestilence",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "small-pox",
+    "context_quote": "and small-pox",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "measles",
+    "context_quote": "and measles",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "yellow jaundice",
+    "context_quote": "notable remedy for the yellow jaundice",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "cordial",
+    "context_quote": "a cordial being taken in an immoderate quantity"
+   },
+   {
+    "kind": "expulsive medicine",
+    "context_quote": "It is a notable expulsive medicine"
+   }
+  ],
+  "dosage_notes": [
+   "Let not above ten grains be given at one time",
+   "for the Sun, which is the fountain of light, may dazzle the eyes, and make them blind"
+  ],
+  "cautions": [
+   "a cordial being taken in an immoderate quantity, hurts the heart instead of helping it",
+   "the Sun... may dazzle the eyes, and make them blind"
+  ],
+  "authority_citations": []
+ },
+ "resolutions": [
+  {
+   "historical_name": "Saffron",
+   "candidates": [
+    {
+     "scientific_name": "Crocus sativus",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Crocus vernus",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.15,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Hemerocallis fulva",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.05,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Crocus sativus",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Crocus sativus",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "The Effects of Crocus sativus (Saffron) on ADHD: A Systematic Review.",
+     "identifier": "37864351",
+     "year": "2024",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/37864351/",
+     "relevance_note": "Reviews neurological/psychiatric mechanisms relevant to 'weak heart' and breathing support."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Saffron (Crocus sativus) for depression: a systematic review of clinical studies and examination of underlying antidepressant mechanisms of action.",
+     "identifier": "25384672",
+     "year": "2014",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/25384672/",
+     "relevance_note": "Examines antidepressant mechanisms potentially relevant to 'consumptions' and mood."
+    },
+    {
+     "kind": "PubMed",
+     "title": "New horizons for the study of saffron (Crocus sativus L.) and its active ingredients in the management of neurological and psychiatric disorders: A systematic review of clinical evidence and mechanisms.",
+     "identifier": "38424688",
+     "year": "2024",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/38424688/",
+     "relevance_note": "Discusses management of neurological disorders, aligning with respiratory distress and mental state."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "Crocin",
+    "Safranal",
+    "Picrocrocin"
+   ],
+   "summary": "Modern evidence focuses on neurological and psychiatric applications (depression, ADHD) rather than the specific traditional uses of 'weak heart,' 'pestilence,' or 'measles.' While saffron's active constituents like crocins show neuroprotective potential, direct clinical validation for treating respiratory infections or fever associated with pestilence is absent in current literature. The reviewed studies suggest mechanisms that might indirectly support general vitality but do not confirm efficacy for the specific historical indications listed."
+  }
+ ],
+ "concordance": {
+  "grade": "C",
+  "direction": "partial",
+  "rationale": "Modern evidence supports antidepressant mechanisms (PMID: 25384672) and ADHD efficacy (PMID: 37864351). No clinical data exists for cardiac strengthening, respiratory conditions, or infectious diseases like pestilence or smallpox.",
+  "uncertainty": "High uncertainty regarding historical claims of treating infections and specific organ failures due to lack of modern clinical trials for these indications.",
+  "caveats": [
+   "Claims are based on historical tradition rather than modern clinical validation.",
+   "Safety concerns exist for high doses or pregnancy."
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "It helps consumptions of the lungs",
+   "It is excellent in epidemical diseases, as pestilence",
+   "THE herb needs no description, it being known generally where it grows.",
+   "and difficulty of breathing",
+   "and measles",
+   "notable remedy for the yellow jaundice",
+   "why it strengthens the heart so exceedingly"
+  ],
+  "quotes_failed": [
+   "and small-pox"
+  ],
+  "issues": [
+   "Unearned grade 'C' with only 3 PubMed citations and no EMA approval; historical claims (pestilence, smallpox) lack modern clinical validation as noted in rationale but are not fully resolved by the provided evidence count.",
+   "Incomplete resolution: The failed quote 'and small-pox' indicates a specific claim that was rejected or unsupported, yet the entry retains a partial grade without explicitly excluding this indication from the knowledge graph's scope."
+  ],
+  "verdict": "pass_with_issues"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T05:40:34Z"
+ }
+}

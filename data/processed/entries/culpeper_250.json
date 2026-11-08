@@ -1,0 +1,263 @@
+{
+ "id": "culpeper_250",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Scabious, Three Sorts",
+  "book": "",
+  "chapter": "",
+  "char_start": 621896,
+  "char_end": 626210,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "_Descript._] COMMON field Scabious grows up with many hairy, soft,\nwhitish green leaves, some whereof are very little, if at all jagged\non the edges, others very much rent and torn on the sides, and have\nthreads in them, which upon breaking may be plainly seen; from among\nwhich rise up divers hairy green stalks, three or four feet high,\nwith such like hairy green leaves on them, but more deeply and finely\ndivided and branched forth a little: At the tops thereof, which\nare naked and bare of leaves for a good space, stand round heads\nof flowers, of a pale blueish colour, set together in a head, the\noutermost whereof are larger than the inward, with many threads also\nin the middle, somewhat flat at the top, as the head with the seed is\nlikewise; the root is great, white and thick, growing down deep into\nthe ground, and abides many years.\n\nThere is another sort of Field Scabious different in nothing from the\nformer, but only it is smaller in all respects.\n\nThe Corn Scabious differs little from the first, but that it is greater\nin all respects, and the flowers more inclining to purple, and the root\ncreeps under the upper crust of the earth, and runs not deep into the\nground as the first doth.\n\n_Place._] The first grows more usually in meadows, especially about\nLondon every where.\n\nThe second in some of the dry fields about this city, but not so\nplentifully as the former.\n\nThe third in standing corn, or fallow fields, and the borders of such\nlike fields.\n\n_Time._] They flower in June and July, and some abide flowering until\nit be late in August, and the seed is ripe in the mean time.\n\nThere are many other sorts of Scabious, but I take these which I have\nhere described to be most familiar with us. The virtues of both these\nand the rest, being much alike, take them as follow.\n\n_Government and virtues._] Mercury owns the plant. Scabious is very\neffectual for all sorts of coughs, shortness of breath, and all other\ndiseases of the breast and lungs, ripening and digesting cold phlegm,\nand other tough humours, voids them forth by coughing and spitting: It\nripens also all sorts of inward ulcers and imposthumes; pleurisy also,\nif the decoction of the herb dry or green be made in wine, and drank\nfor some time together. Four ounces of the clarified juice of Scabious\ntaken in the morning fasting, with a dram of mithridate, or Venice\ntreacle, frees the heart from any infection of pestilence, if after the\ntaking of it the party sweat two hours in bed, and this medicine be\nagain and again repeated, if need require. The green herb bruised and\napplied to any carbuncle or plague sore, is found by certain experience\nto dissolve and break it in three hours space. The same decoction also\ndrank, helps the pains and stitches in the side. The decoction of the\nroots taken for forty days together, or a dram of the powder of them\ntaken at a time in whey, doth (as Matthiolus saith) wonderfully help\nthose that are troubled with running of spreading scabs, tetters,\nringworms, yea, although they proceed from the French pox, which, he\nsaith he hath tried by experience. The juice or decoction drank, helps\nalso scabs and breakings-out of the itch, and the like. The juice also\nmade up into an ointment and used, is effectual for the same purpose.\nThe same also heals all inward wounds by the drying, cleansing, and\nhealing quality therein: And a syrup made of the juice and sugar, is\nvery effectual to all the purposes aforesaid, and so is the distilled\nwater of the herb and flowers made in due season, especially to be\nused when the green herb is not in force to be taken. The decoction of\nthe herb and roots outwardly applied, doth wonderfully help all sorts\nof hard or cold swellings in any part of the body, is effectual for\nshrunk sinews or veins, and heals green wounds, old sores, and ulcers.\nThe juice of Scabious, made up with the powder of Borax and Samphire,\ncleanses the skin of the face, or other parts of the body, not only\nfrom freckles and pimples, but also from morphew and leprosy; the head\nwashed with the decoction, cleanses it from dandriff, scurf, sores,\nitch, and the like, used warm. The herb bruised and applied, doth in\na short time loosen, and draw forth any splinter, broken bone, arrow\nhead, or other such like thing lying in the flesh.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "COMMON field Scabious",
+    "context_quote": "COMMON field Scabious grows up with many hairy, soft, whitish green leaves",
+    "part_used": "herb dry or green; root"
+   },
+   {
+    "name_text": "Corn Scabious",
+    "context_quote": "The Corn Scabious differs little from the first, but that it is greater in all respects",
+    "part_used": "herb; roots"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "coughs",
+    "context_quote": "Scabious is very effectual for all sorts of coughs",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "shortness of breath",
+    "context_quote": "shortness of breath, and all other diseases of the breast and lungs",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "diseases of the breast and lungs",
+    "context_quote": "all sorts of coughs, shortness of breath, and all other diseases of the breast and lungs",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "cold phlegm",
+    "context_quote": "ripening and digesting cold phlegm, and other tough humours",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "inward ulcers",
+    "context_quote": "It ripens also all sorts of inward ulcers and imposthumes",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "imposthumes",
+    "context_quote": "all sorts of inward ulcers and imposthumes",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "pleurisy",
+    "context_quote": "pleurisy also, if the decoction of the herb dry or green be made in wine",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "pestilence infection",
+    "context_quote": "frees the heart from any infection of pestilence",
+    "polarity": "prevents",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "decoction in wine",
+    "context_quote": "if the decoction of the herb dry or green be made in wine, and drank for some time together"
+   },
+   {
+    "kind": "clarified juice with mithridate or Venice treacle",
+    "context_quote": "Four ounces of the clarified juice of Scabious taken in the morning fasting, with a dram of mithridate, or Venice treacle"
+   },
+   {
+    "kind": "bruised green herb applied topically",
+    "context_quote": "The green herb bruised and applied to any carbuncle or plague sore"
+   },
+   {
+    "kind": "syrup of juice and sugar",
+    "context_quote": "And a syrup made of the juice and sugar, is very effectual to all the purposes aforesaid"
+   }
+  ],
+  "dosage_notes": [
+   "Four ounces of the clarified juice taken in the morning fasting",
+   "a dram of the powder of them taken at a time in whey",
+   "decoction taken for forty days together"
+  ],
+  "cautions": [],
+  "authority_citations": [
+   "Matthiolus"
+  ]
+ },
+ "resolutions": [
+  {
+   "historical_name": "COMMON field Scabious",
+   "candidates": [
+    {
+     "scientific_name": "Scabiosa columbaria",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Scabiosa atropurpurea",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.6,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Knautia arvensis",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.45,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Scabiosa columbaria",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Corn Scabious",
+   "candidates": [
+    {
+     "scientific_name": "Scabiosa atropurpurea",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.9,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Scabiosa columbaria",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.55,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Knautia arvensis",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.4,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Scabiosa atropurpurea",
+   "confidence": 0.9,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Scabiosa columbaria",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Evaluation of the wound healing properties of South African medicinal plants using zebrafish and in vitro bioassays.",
+     "identifier": "34822956",
+     "year": "2022",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/34822956/",
+     "relevance_note": "Investigates wound healing, potentially relevant to traditional use for ulcers."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Medicinal plants used in Lesotho for treatment of reproductive and post reproductive problems.",
+     "identifier": "27780751",
+     "year": "2016",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/27780751/",
+     "relevance_note": "Documents traditional use in Lesotho, though specific indications differ from respiratory complaints."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Ethnobotanical survey of medicinal plants used in the Maseru district of Lesotho.",
+     "identifier": "25957810",
+     "year": "2015",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/25957810/",
+     "relevance_note": "Records local ethnobotanical knowledge, providing context for traditional applications."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "flavonoids",
+    "coumarins"
+   ],
+   "summary": "Modern evidence links S. columbaria to wound healing mechanisms, supporting its historical use for ulcers. Respiratory indications lack direct modern validation in retrieved literature, though ethnobotanical surveys confirm regional usage patterns."
+  },
+  {
+   "taxon": "Scabiosa atropurpurea",
+   "ema_monograph": null,
+   "pubmed": [],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "flavonoids"
+   ],
+   "summary": "No modern scientific evidence or ethnobotanical records matching the specific traditional uses for ulcers or respiratory conditions were found in the provided search results. Absence of data precludes confirmation of efficacy."
+  }
+ ],
+ "concordance": {
+  "grade": "C",
+  "direction": "partial",
+  "rationale": "Modern evidence (PMID:34822956) shows wound healing potential for S. columbaria, offering weak plausibility for 'inward ulcers'. No clinical data supports respiratory claims.",
+  "uncertainty": "Evidence is limited to in vitro/zebrafish models; human efficacy for coughs or ulcers remains unproven.",
+  "caveats": [
+   "No EMA approval",
+   "In vitro results do not guarantee clinical cure"
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "COMMON field Scabious grows up with many hairy, soft, whitish green leaves",
+   "It ripens also all sorts of inward ulcers and imposthumes",
+   "Scabious is very effectual for all sorts of coughs",
+   "The Corn Scabious differs little from the first, but that it is greater in all respects",
+   "all sorts of coughs, shortness of breath, and all other diseases of the breast and lungs",
+   "all sorts of inward ulcers and imposthumes",
+   "frees the heart from any infection of pestilence",
+   "pleurisy also, if the decoction of the herb dry or green be made in wine",
+   "ripening and digesting cold phlegm, and other tough humours",
+   "shortness of breath, and all other diseases of the breast and lungs"
+  ],
+  "quotes_failed": [],
+  "issues": [
+   "Unearned Grade: The entry assigns a 'C' grade based on limited in vitro/zebrafish evidence (PMID:34822956) which is explicitly noted as insufficient for human efficacy claims. However, the rationale admits 'human efficacy... remains unproven', yet the entry resolves specific historical names ('COMMON field Scabious', 'Corn Scabious') with high confidence (0.95/0.9) derived solely from LLM proposals without citing primary source text or historical botanical authority to validate these specific nomenclatural resolutions. The evidence section lists 3 PubMed hits for S. columbaria but provides no textual concordance proving the 'inward ulcers' claim is historically accurate for this specific species in the context of the original text, leading to a potential hallucination of clinical indication from weak preclinical data."
+  ],
+  "verdict": "pass_with_issues"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T05:43:24Z"
+ }
+}

@@ -1,0 +1,301 @@
+{
+ "id": "culpeper_021",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Balm",
+  "book": "",
+  "chapter": "",
+  "char_start": 70779,
+  "char_end": 73334,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "THIS herb is so well known to be an inhabitant almost in every garden,\nthat I shall not need to write any discription thereof, although its\nvirtues, which are many, may not be omitted.\n\n_Government and virtues._] It is an herb of Jupiter, and under Cancer,\nand strengthens nature much in all its actions. Let a syrup made with\nthe juice of it and sugar (as you shall be taught at the latter end of\nthis book) be kept in every gentlewoman’s house to relieve the weak\nstomachs and sick bodies of their poor sickly neighbours; as also the\nherb kept dry in the house, that so with other convenient simples, you\nmay make it into an electuary with honey, according as the disease\nis you shall be taught at the latter end of my book. The Arabian\nphysicians have extolled the virtues thereof to the skies; although the\nGreeks thought it not worth mentioning. Seraphio says, it causes the\nmind and heart to become merry, and revives the heart, faintings and\nswoonings, especially of such who are overtaken in sleep, and drives\naway all troublesome cares and thoughts out of the mind, arising from\nmelancholy or black choler; which Avicen also confirms. It is very good\nto help digestion, and open obstructions of the brain, and hath so\nmuch purging quality in it (saith Avicen) as to expel those melancholy\nvapours from the spirits and blood which are in the heart and arteries,\nalthough it cannot do so in other parts of the body. Dioscorides says,\nthat the leaves steeped in wine, and the wine drank, and the leaves\nexternally applied, is a remedy against the stings of a scorpion, and\nthe bitings of mad dogs; and commends the decoction thereof for women\nto bathe or sit in to procure their courses; it is good to wash aching\nteeth therewith, and profitable for those that have the bloody flux.\nThe leaves also, with a little nitre taken in drink, are good against\nthe surfeit of mushrooms, helps the griping pains of the belly; and\nbeing made into an electuary, it is good for them that cannot fetch\ntheir breath: Used with salt, it takes away wens, kernels, or hard\nswelling in the flesh or throat; it cleanses foul sores, and eases\npains of the gout. It is good for the liver and spleen. A tansy or\ncaudle made with eggs, and juice thereof while it is young, putting to\nit some sugar and rose-water, is good for a woman in child-birth, when\nthe after-birth is not thoroughly voided, and for their faintings upon\nor in their sore travail. The herb bruised and boiled in a little wine\nand oil, and laid warm on a boil, will ripen it, and break it.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Balm",
+    "context_quote": "THIS herb is so well known to be an inhabitant almost in every garden",
+    "part_used": "leaves"
+   },
+   {
+    "name_text": "herb of Jupiter",
+    "context_quote": "It is an herb of Jupiter, and under Cancer",
+    "part_used": "whole plant"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "weak stomachs",
+    "context_quote": "relieve the weak stomachs and sick bodies",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "faintings and swoonings",
+    "context_quote": "revives the heart, faintings and swoonings",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "melancholy or black choler",
+    "context_quote": "drives away all troublesome cares and thoughts out of the mind, arising from melancholy or black choler",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "obstructions of the brain",
+    "context_quote": "open obstructions of the brain",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "melancholy vapours",
+    "context_quote": "expel those melancholy vapours from the spirits and blood",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "stings of a scorpion",
+    "context_quote": "remedy against the stings of a scorpion",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "bitings of mad dogs",
+    "context_quote": "and the bitings of mad dogs",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "bloody flux",
+    "context_quote": "profitable for those that have the bloody flux",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "syrup",
+    "context_quote": "Let a syrup made with the juice of it and sugar"
+   },
+   {
+    "kind": "electuary",
+    "context_quote": "make it into an electuary with honey"
+   },
+   {
+    "kind": "decoction",
+    "context_quote": "commends the decoction thereof for women to bathe or sit in"
+   },
+   {
+    "kind": "caudle",
+    "context_quote": "A tansy or caudle made with eggs, and juice thereof while it is young"
+   }
+  ],
+  "dosage_notes": [
+   "as you shall be taught at the latter end of this book",
+   "according as the disease is you shall be taught at the latter end of my book",
+   "bruised and boiled in a little wine and oil"
+  ],
+  "cautions": [],
+  "authority_citations": [
+   "Seraphio",
+   "Avicen",
+   "Dioscorides",
+   "Arabian physicians"
+  ]
+ },
+ "resolutions": [
+  {
+   "historical_name": "Balm",
+   "candidates": [
+    {
+     "scientific_name": "Melissa officinalis",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.85,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Mentha pulegium",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.75,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Malva sylvestris",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.6,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Melissa officinalis",
+   "confidence": 0.85,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "herb of Jupiter",
+   "candidates": [
+    {
+     "scientific_name": "Aconitum napellus",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.9,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Digitalis purpurea",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.7,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Ursinia juncea",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.2,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Aconitum napellus",
+   "confidence": 0.9,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Melissa officinalis",
+   "ema_monograph": {
+    "kind": "EMA_monograph",
+    "title": "Melissae folium (melissa/lemon balm)",
+    "identifier": "https://www.ema.europa.eu/en/medicines/herbal/melissae-folium",
+    "year": "",
+    "url": "https://www.ema.europa.eu/en/medicines/herbal/melissae-folium",
+    "relevance_note": "Confirms traditional use for nervous tension and digestive complaints, noting lack of evidence for gynecological fluxes or bleeding."
+   },
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "The effects of lemon balm (Melissa officinalis L.) on depression and anxiety in clinical trials: A systematic review and meta-analysis.",
+     "identifier": "34449930",
+     "year": "2021",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/34449930/",
+     "relevance_note": "Reviews efficacy for anxiety/depression, not historical uses like quartan agues or fluxes."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Melissa officinalis L. - A review of its traditional uses, phytochemistry and pharmacology.",
+     "identifier": "27167460",
+     "year": "2016",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/27167460/",
+     "relevance_note": "Discusses historical applications for nervous disorders and digestion, contrasting with older gynecological uses."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Clinical Efficacy and Tolerability of Lemon Balm (Melissa officinalis L.) in Psychological Well-Being: A Review.",
+     "identifier": "39458539",
+     "year": "2024",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/39458539/",
+     "relevance_note": "Focuses on modern psychological well-being, offering no data on traditional uses like vomiting or quartan agues."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "rosmarinic acid",
+    "citral",
+    "linalool"
+   ],
+   "summary": "Modern evidence supports Melissa officinalis for anxiety and digestive issues. Historical uses for 'fluxes,' 'bleedings,' or 'quartan agues' lack contemporary clinical validation, though the plant's calming effects on vomiting may align with modern anti-nausea findings."
+  },
+  {
+   "taxon": "Aconitum napellus",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "RETRACTED: Neuroprotective Effects of Dried Tubers of Aconitum napellus.",
+     "identifier": "32168878",
+     "year": "2020",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/32168878/",
+     "relevance_note": "Retracted study on neuroprotection, potentially relevant to 'falling-sickness' but lacks safety data."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Protective effects of the exogenous application of salicylic acid and chitosan on chromium-induced photosynthetic capacity and osmotic adjustment in Aconitum napellus.",
+     "identifier": "39379805",
+     "year": "2024",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/39379805/",
+     "relevance_note": "Study on plant physiology, not human therapeutic use for skin or systemic conditions."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Antidiabetic activity of standardized dried tubers extract of Aconitum napellus in streptozotocin-induced diabetic rats.",
+     "identifier": "32015952",
+     "year": "2020",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/32015952/",
+     "relevance_note": "Demonstrates antidiabetic effects in rats, unrelated to traditional uses for vertigo or skin."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "aconitine",
+    "delphinine"
+   ],
+   "summary": "Modern evidence highlights neuroprotective and antidiabetic properties but does not support traditional claims for vertigo or skin spots. Crucially, the species contains potent cardiotoxic alkaloids; modern research emphasizes severe toxicity rather than therapeutic efficacy for these specific ailments."
+  }
+ ],
+ "concordance": {
+  "grade": "B",
+  "direction": "partial",
+  "rationale": "Melissa officinalis shows clinical support for anxiety/depression (PMID:34449930), partially aligning with 'melancholy' claims. Aconitum napellus is toxic; evidence contradicts safety for internal use against 'weak stomachs' or 'bitings'.",
+  "uncertainty": "Historical 'scorpion' and 'dog bite' claims lack specific modern efficacy data for these taxa.",
+  "caveats": [
+   "Aconitum is highly toxic; internal use is unsafe.",
+   "Historical 'melancholy' maps to modern anxiety, not historical humoral theory."
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "It is an herb of Jupiter, and under Cancer",
+   "THIS herb is so well known to be an inhabitant almost in every garden",
+   "and the bitings of mad dogs",
+   "drives away all troublesome cares and thoughts out of the mind, arising from melancholy or black choler",
+   "expel those melancholy vapours from the spirits and blood",
+   "open obstructions of the brain",
+   "profitable for those that have the bloody flux",
+   "relieve the weak stomachs and sick bodies",
+   "remedy against the stings of a scorpion",
+   "revives the heart, faintings and swoonings"
+  ],
+  "quotes_failed": [],
+  "issues": [
+   "Unearned Grade: The entry assigns a 'B' grade with 'partial' direction. However, the evidence explicitly states that Aconitum napellus is toxic and contradicts safety claims for internal use ('weak stomachs', 'bitings'). Assigning a positive or even partially positive concordance grade to a toxic plant used for internal ailments without qualifying the grade as 'Fail' or 'Contraindicated' constitutes an unearned grade. The rationale admits contradiction but fails to reflect this in the final grade.",
+   "Missing Evidence: Claims regarding 'scorpion' and 'dog bite' treatments lack specific modern efficacy data, yet these are treated as part of the entry's scope without a clear resolution or negative evidence flagging them as unsupported."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T05:48:18Z"
+ }
+}

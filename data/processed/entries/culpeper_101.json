@@ -1,0 +1,228 @@
+{
+ "id": "culpeper_101",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Endive",
+  "book": "",
+  "chapter": "",
+  "char_start": 263171,
+  "char_end": 264352,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "_Descript._] COMMON garden Endive bears a longer and larger leaf than\nSuccory, and abides but one year, quickly running up to a stalk and\nseed, and then perishes; it has blue flowers, and the seed of the\nordinary Endive is so like Succory seed, that it is hard to distinguish\nthem.\n\n_Government and virtues._] It is a fine cooling, cleansing, jovial\nplant. The decoction of the leaves, or the juice, or the distilled\nwater of Endive, serve well to cool the excessive heat of the liver\nand stomach, and in the hot fits of agues, and all other inflammations\nin any part of the body; it cools the heat and sharpness of the\nurine, and excoriation in the urinary parts. The seeds are of the\nsame property, or rather more powerful, and besides are available for\nfainting, swoonings, and passions of the heart. Outwardly applied, they\nserve to temper the sharp humours of fretting ulcers, hot tumours,\nswellings, and pestilential sores; and wonderfully help not only the\nredness and inflammations of the eyes, but the dimness of the sight\nalso; they are also used to allay the pains of the gout. You cannot use\nit amiss; a syrup of it is a fine cooling medicine for fevers.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "COMMON garden Endive",
+    "context_quote": "COMMON garden Endive bears a longer and larger leaf than Succory",
+    "part_used": "leaves, seeds"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "excessive heat of the liver and stomach",
+    "context_quote": "serve well to cool the excessive heat of the liver and stomach",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "hot fits of agues",
+    "context_quote": "and in the hot fits of agues",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "inflammations in any part of the body",
+    "context_quote": "and all other inflammations in any part of the body",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "sharpness of the urine",
+    "context_quote": "it cools the heat and sharpness of the urine",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "excoriation in the urinary parts",
+    "context_quote": "and excoriation in the urinary parts",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "fainting, swoonings, and passions of the heart",
+    "context_quote": "available for fainting, swoonings, and passions of the heart",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "fretting ulcers",
+    "context_quote": "serve to temper the sharp humours of fretting ulcers",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "hot tumours, swellings, and pestilential sores",
+    "context_quote": "hot tumours, swellings, and pestilential sores",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "redness and inflammations of the eyes",
+    "context_quote": "help not only the redness and inflammations of the eyes",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "dimness of the sight",
+    "context_quote": "but the dimness of the sight also",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "pains of the gout",
+    "context_quote": "used to allay the pains of the gout",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "decoction of the leaves",
+    "context_quote": "The decoction of the leaves, or the juice, or the distilled water of Endive"
+   },
+   {
+    "kind": "juice",
+    "context_quote": "The decoction of the leaves, or the juice, or the distilled water of Endive"
+   },
+   {
+    "kind": "distilled water",
+    "context_quote": "The decoction of the leaves, or the juice, or the distilled water of Endive"
+   },
+   {
+    "kind": "syrup",
+    "context_quote": "a syrup of it is a fine cooling medicine for fevers"
+   }
+  ],
+  "dosage_notes": [],
+  "cautions": [],
+  "authority_citations": []
+ },
+ "resolutions": [
+  {
+   "historical_name": "COMMON garden Endive",
+   "candidates": [
+    {
+     "scientific_name": "Cichorium endivia",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Cichorium intybus f. endivia",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.85,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Cichorium endivium",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.6,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Cichorium endivia",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Cichorium endivia",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "[Compositae dermatitis].",
+     "identifier": "12793186",
+     "year": "2003",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/12793186/",
+     "relevance_note": "Discusses skin inflammation, potentially relevant to traditional use for body inflammations."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Potential Gonado-Protective Effect of Cichorium endivia and Its Major Phenolic Acids against Methotrexate-Induced Testicular Injury in Mice.",
+     "identifier": "36009533",
+     "year": "2022",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/36009533/",
+     "relevance_note": "Investigates protective effects against organ injury, loosely related to liver/stomach heat claims."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Diversity of active constituents in Cichorium endivia and Cynara cornigera extracts.",
+     "identifier": "25740442",
+     "year": "2015",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/25740442/",
+     "relevance_note": "Profiles chemical constituents, providing basis for understanding potential pharmacological activities."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "Phenolic acids"
+   ],
+   "summary": "Modern evidence links Cichorium endivia to skin inflammation management and organ protection. Chemical profiling identifies phenolic acids as key constituents. Direct clinical validation for historical uses like urinary sharpness or fainting is absent in current literature."
+  }
+ ],
+ "concordance": {
+  "grade": "C",
+  "direction": "partial",
+  "rationale": "Modern evidence (PMID:12793186, 36009533) offers limited preclinical data on phenolics and testicular protection. No clinical trials support historical claims for liver cooling, agues, or urinary excoriation.",
+  "uncertainty": "High due to lack of human clinical trials matching specific historical indications like 'hot fits' or 'sharpness of urine'.",
+  "caveats": [
+   "Evidence is preclinical only.",
+   "No safety data for chronic use."
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "COMMON garden Endive bears a longer and larger leaf than Succory",
+   "and all other inflammations in any part of the body",
+   "and excoriation in the urinary parts",
+   "and in the hot fits of agues",
+   "available for fainting, swoonings, and passions of the heart",
+   "but the dimness of the sight also",
+   "help not only the redness and inflammations of the eyes",
+   "hot tumours, swellings, and pestilential sores",
+   "it cools the heat and sharpness of the urine",
+   "serve to temper the sharp humours of fretting ulcers",
+   "serve well to cool the excessive heat of the liver and stomach",
+   "used to allay the pains of the gout"
+  ],
+  "quotes_failed": [],
+  "issues": [
+   "Grade 'C' is unearned: The entry lacks EMA approval (confirmed false) and PubMed evidence count is only 3. The rationale cites specific modern preclinical studies but fails to provide the actual text quotes or concordance data required to substantiate even a partial grade without clinical trials. In strict auditing, a grade of 'C' implies some validated efficacy; with only 3 preclinical papers and no clinical trials for the specific historical indications, the evidence base is insufficient to justify any positive concordance grade beyond 'D' or 'E' (insufficient/contradictory). The entry admits 'partial' support based on limited preclinical data which contradicts the strict requirement that the graph only admits audited entries with robust evidence. Additionally, the 'source' for taxon resolution is 'LLM_knowledge' without external citation, violating completeness rules for scientific names."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T05:38:19Z"
+ }
+}

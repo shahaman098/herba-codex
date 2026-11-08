@@ -1,0 +1,261 @@
+{
+ "id": "culpeper_215",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Plums",
+  "book": "",
+  "chapter": "",
+  "char_start": 526893,
+  "char_end": 528326,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "ARE so well known that they need no description.\n\n_Government and virtues._] All Plums are under Venus, and are like\nwomen, some better, and some worse. As there is great diversity of\nkinds, so there is in the operation of Plums, for some that are sweet\nmoisten the stomach, and make the belly soluble; those that are sour\nquench thirst more, and bind the belly; the moist and waterish do\nsooner corrupt in the stomach, but the firm do nourish more, and offend\nless. The dried fruit sold by the grocers under the names of Damask\nPrunes, do somewhat loosen the belly, and being stewed, are often\nused, both in health and sickness, to relish the mouth and stomach,\nto procure appetite, and a little to open the body, allay choler, and\ncool the stomach. Plum-tree leaves boiled in wine, are good to wash\nand gargle the mouth and throat, to dry the flux of rheum coming to\nthe palate, gums, or almonds of the ear. The gum of the tree is good\nto break the stone. The gum or leaves boiled in vinegar, and applied,\nkills tetters and ringworms. Matthiolus saith, The oil preserved out of\nthe kernels of the stones, as oil of almonds is made, is good against\nthe inflamed piles, the tumours or swellings of ulcers, hoarseness of\nthe voice, roughness of the tongue and throat, and likewise the pains\nin the ears. And that five ounces of the said oil taken with one ounce\nof muskadel, drives forth the stone, and helps the cholic.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Plums",
+    "context_quote": "All Plums are under Venus, and are like women, some better, and some worse.",
+    "part_used": "fruit"
+   },
+   {
+    "name_text": "Damask Prunes",
+    "context_quote": "The dried fruit sold by the grocers under the names of Damask Prunes",
+    "part_used": "dried fruit"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "thirst",
+    "context_quote": "those that are sour quench thirst more",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "belly looseness",
+    "context_quote": "some better, and some worse... those that are sweet moisten the stomach, and make the belly soluble",
+    "polarity": "causes",
+    "strength": "claimed"
+   },
+   {
+    "name": "appetite",
+    "context_quote": "to procure appetite",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "choler",
+    "context_quote": "allay choler",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "stone",
+    "context_quote": "The gum of the tree is good to break the stone",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "tetters and ringworms",
+    "context_quote": "kills tetters and ringworms",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "inflamed piles",
+    "context_quote": "is good against the inflamed piles",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "hoarseness of the voice",
+    "context_quote": "the tumours or swellings of ulcers, hoarseness of the voice",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "dried fruit (Damask Prunes)",
+    "context_quote": "The dried fruit sold by the grocers under the names of Damask Prunes, do somewhat loosen the belly"
+   },
+   {
+    "kind": "stewed prunes",
+    "context_quote": "and being stewed, are often used, both in health and sickness"
+   },
+   {
+    "kind": "boiled leaves in wine",
+    "context_quote": "Plum-tree leaves boiled in wine, are good to wash and gargle the mouth and throat"
+   },
+   {
+    "kind": "gum or leaves boiled in vinegar",
+    "context_quote": "The gum or leaves boiled in vinegar, and applied, kills tetters and ringworms"
+   }
+  ],
+  "dosage_notes": [
+   "five ounces of the said oil taken with one ounce of muskadel",
+   "as oil of almonds is made",
+   "being stewed"
+  ],
+  "cautions": [
+   "the moist and waterish do sooner corrupt in the stomach",
+   "some better, and some worse",
+   "offend less"
+  ],
+  "authority_citations": [
+   "Matthiolus saith"
+  ]
+ },
+ "resolutions": [
+  {
+   "historical_name": "Plums",
+   "candidates": [
+    {
+     "scientific_name": "Prunus domestica",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.8,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Prunus salicina",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.4,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Prunus cerasifera",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.4,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Prunus domestica",
+   "confidence": 0.8,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Damask Prunes",
+   "candidates": [
+    {
+     "scientific_name": "Prunus domestica var. insititia",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.7,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Prunus salicina",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.3,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Prunus cerasifera",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.2,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "",
+   "confidence": 0.42,
+   "status": "ambiguous",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Prunus domestica",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Plum Pit Bezoar.",
+     "identifier": "35065750",
+     "year": "2022",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/35065750/",
+     "relevance_note": "Discusses traditional use of plum pits for digestive issues and bezoars, aligning with 'stone' and 'belly looseness' uses."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Dried Plums, Prunes and Bone Health: A Comprehensive Review.",
+     "identifier": "28422064",
+     "year": "2017",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/28422064/",
+     "relevance_note": "Reviews modern nutritional benefits of prunes, potentially addressing 'appetite' and general digestive health."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Traditional wound-healing plants used in the Balkan region (Southeast Europe).",
+     "identifier": "28942136",
+     "year": "2018",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/28942136/",
+     "relevance_note": "Documents traditional applications of Prunus species for skin conditions like ringworms and wound healing in the Balkans."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "Amygdalin",
+    "Prunasin",
+    "Tannins"
+   ],
+   "summary": "Evidence supports traditional uses of P. domestica parts (pits, fruit) for digestive regulation ('belly looseness', 'stone') and skin conditions ('ringworms'). Modern reviews highlight nutritional value for appetite and bone health, while ethnobotanical studies confirm wound-healing applications in Southeast Europe."
+  }
+ ],
+ "concordance": {
+  "grade": "C",
+  "direction": "partial",
+  "rationale": "Modern evidence (PMID: 28422064) supports bone health but lacks clinical data for thirst, appetite, or skin conditions. No EMA approval exists.",
+  "uncertainty": "High due to absence of direct clinical trials for historical indications like choler or stones in modern literature.",
+  "caveats": [
+   "Historical 'choler' is not a modern medical condition.",
+   "Safety concerns exist regarding pit toxicity (PMID: 35065750)."
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "All Plums are under Venus, and are like women, some better, and some worse.",
+   "The dried fruit sold by the grocers under the names of Damask Prunes",
+   "The gum of the tree is good to break the stone",
+   "allay choler",
+   "is good against the inflamed piles",
+   "kills tetters and ringworms",
+   "the tumours or swellings of ulcers, hoarseness of the voice",
+   "those that are sour quench thirst more",
+   "to procure appetite"
+  ],
+  "quotes_failed": [
+   "some better, and some worse... those that are sweet moisten the stomach, and make the belly soluble"
+  ],
+  "issues": [
+   "Unearned Grade: The entry received a 'C' grade with 'partial' direction based on modern evidence (PMID: 28422064) for bone health. However, the historical indications (thirst, appetite, skin conditions, choler, stones) have zero EMA approval and no direct clinical trial support in modern literature. The presence of a failed quote regarding traditional 'sweet/moisten' properties without corresponding modern validation or safety confirmation (given pit toxicity concerns) makes the grade unjustified for the full scope of historical claims.",
+   "Completeness Gap: The selected taxon 'Prunus domestica' lacks family resolution in the candidates list, and the 'Damask Prunes' entry remains ambiguous with no scientific name selected despite high confidence in one candidate.",
+   "Safety Warning Ignored: The rationale explicitly cites safety concerns regarding pit toxicity (PMID: 35065750), yet the entry does not flag this as a critical limitation or contraindication for the historical uses involving consumption of pits or seeds."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T05:35:08Z"
+ }
+}

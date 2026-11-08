@@ -1,0 +1,321 @@
+{
+ "id": "culpeper_217",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "The Poplar Tree",
+  "book": "",
+  "chapter": "",
+  "char_start": 531831,
+  "char_end": 535048,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "THERE are two sorts of Poplars, which are most familiar with us, viz.\nthe Black and White, both which I shall here describe unto you.\n\n_Descript._] The White Poplar grows great, and reasonably high, covered\nwith thick, smooth, white bark, especially the branches; having long\nleaves cut into several divisions almost like a vine leaf, but not\nof so deep a green on the upper side, and hoary white underneath,\nof a reasonable good scent, the whole form representing the form of\nColtsfoot. The catkins which it brings forth before the leaves, are\nlong, and of a faint reddish colour, which fall away, bearing seldom\ngood seed with them. The wood hereof is smooth, soft, and white, very\nfinely waved, whereby it is much esteemed.\n\nThe Black Poplar grows higher and straighter than the White, with a\ngreyish bark, bearing broad green leaves, somewhat like ivy leaves, not\ncut in on the edges like the White, but whole and dented, ending in a\npoint, and not white underneath, hanging by slender long foot stalks,\nwhich with the air are continually shaken, like as the Aspen leaves\nare. The catkins hereof are greater than those of the White, composed\nof many round green berries, as if they were set together in a long\ncluster, containing much downy matter, which being ripe, is blown away\nwith the wind. The clammy buds hereof, before they spread into leaves,\nare gathered to make Unguentum and Populneum, and are of a yellowish\ngreen colour, and somewhat small, sweet, but strong. The wood is\nsmooth, tough, and white, and easy to be cloven. On both these trees\ngrows a sweet kind of musk, which in former times was used to put into\nsweet ointments.\n\n_Place._] They grow in moist woods, and by water-sides in sundry places\nof this land; yet the White is not so frequent as the other.\n\n_Time._] Their time is likewise expressed before: The catkins coming\nforth before the leaves in the end of Summer.\n\n_Government and virtues._] Saturn hath dominion over both. White\nPoplar, saith Galen, is of a cleansing property: The weight of an\nounce in powder, of the bark thereof, being drank, saith Dioscorides,\nis a remedy for those that are troubled with the sciatica, or the\nstranguary. The juice of the leaves dropped warm into the ears,\neases the pains in them. The young clammy buds or eyes, before they\nbreak out into leaves, bruised, and a little honey put to them, is a\ngood medicine for a dull sight. The Black Poplar is held to be more\ncooling than the White, and therefore the leaves bruised with vinegar\nand applied, help the gout. The seed drank in vinegar, is held good\nagainst the falling-sickness. The water that drops from the hollow\nplaces of this tree, takes away warts, pushes, wheals, and other the\nlike breakings-out of the body. The young Black Poplar buds, saith\nMatthiolus, are much used by women to beautify their hair, bruising\nthem with fresh butter, straining them after they have been kept for\nsome time in the sun. The ointment called Populneon, which is made of\nthis Poplar, is singularly good for all heat and inflammations in any\npart of the body, and tempers the heat of wounds. It is much used to\ndry up the milk of women’s breasts when they have weaned their children.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "White Poplar",
+    "context_quote": "The White Poplar grows great, and reasonably high, covered with thick, smooth, white bark",
+    "part_used": "bark"
+   },
+   {
+    "name_text": "Black Poplar",
+    "context_quote": "The Black Poplar grows higher and straighter than the White, with a greyish bark",
+    "part_used": "leaves"
+   },
+   {
+    "name_text": "Populneon",
+    "context_quote": "The ointment called Populneon, which is made of this Poplar, is singularly good for all heat and inflammations",
+    "part_used": "ointment"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "sciatica",
+    "context_quote": "is a remedy for those that are troubled with the sciatica",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "stranguary",
+    "context_quote": "or the stranguary",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "ear pain",
+    "context_quote": "eases the pains in them",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "dull sight",
+    "context_quote": "is a good medicine for a dull sight",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "gout",
+    "context_quote": "help the gout",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "falling-sickness",
+    "context_quote": "is held good against the falling-sickness",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "warts, pushes, wheals",
+    "context_quote": "takes away warts, pushes, wheals, and other the like breakings-out of the body",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "heat and inflammations",
+    "context_quote": "is singularly good for all heat and inflammations in any part of the body",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "powder",
+    "context_quote": "The weight of an ounce in powder, of the bark thereof, being drank"
+   },
+   {
+    "kind": "ear drops",
+    "context_quote": "The juice of the leaves dropped warm into the ears"
+   },
+   {
+    "kind": "eye medicine",
+    "context_quote": "bruised, and a little honey put to them, is a good medicine for a dull sight"
+   },
+   {
+    "kind": "Populneon ointment",
+    "context_quote": "The ointment called Populneon, which is made of this Poplar"
+   }
+  ],
+  "dosage_notes": [
+   "The weight of an ounce in powder",
+   "The juice of the leaves dropped warm into the ears",
+   "The seed drank in vinegar"
+  ],
+  "cautions": [],
+  "authority_citations": [
+   "Galen",
+   "Dioscorides",
+   "Matthiolus"
+  ]
+ },
+ "resolutions": [
+  {
+   "historical_name": "White Poplar",
+   "candidates": [
+    {
+     "scientific_name": "Populus alba",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Populus tremula",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.3,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Populus x canescens",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.25,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Populus alba",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Black Poplar",
+   "candidates": [
+    {
+     "scientific_name": "Populus nigra",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Populus x canadensis",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.2,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Populus deltoides",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.15,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Populus nigra",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Populneon",
+   "candidates": [
+    {
+     "scientific_name": "Populus alba",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.6,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Populus nigra",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.5,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Unknown/Typo",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.4,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "",
+   "confidence": 0.36,
+   "status": "ambiguous",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Populus alba",
+   "ema_monograph": {
+    "kind": "EMA_monograph",
+    "title": "Populi gemmae (black poplar buds)",
+    "identifier": "https://www.ema.europa.eu/en/medicines/herbal/populi-gemmae",
+    "year": "",
+    "url": "https://www.ema.europa.eu/en/medicines/herbal/populi-gemmae",
+    "relevance_note": "Covers genus Populus; notes anti-inflammatory properties relevant to traditional uses like sciatica and gout, though specific species distinction is often grouped."
+   },
+   "pubmed": [],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "Salicin",
+    "Flavonoids"
+   ],
+   "summary": "No specific modern PubMed evidence found for Populus alba alone. The EMA monograph covers the genus generally, supporting traditional uses for pain and inflammation via salicylates."
+  },
+  {
+   "taxon": "Populus nigra",
+   "ema_monograph": {
+    "kind": "EMA_monograph",
+    "title": "Populi gemmae (black poplar buds)",
+    "identifier": "https://www.ema.europa.eu/en/medicines/herbal/populi-gemmae",
+    "year": "",
+    "url": "https://www.ema.europa.eu/en/medicines/herbal/populi-gemmae",
+    "relevance_note": "Covers genus Populus; notes anti-inflammatory properties relevant to traditional uses like sciatica and gout, though specific species distinction is often grouped."
+   },
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Recent Advances Regarding the Phytochemical and Therapeutic Uses of Populus nigra L. Buds.",
+     "identifier": "33138272",
+     "year": "2020",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/33138272/",
+     "relevance_note": "Reviews phytochemistry and anti-inflammatory potential of P. nigra buds, supporting traditional analgesic uses."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Excellent Anti-lung Cancer Activity of Populus nigra and Phylogenetic Analysis.",
+     "identifier": "34866109",
+     "year": "2021",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/34866109/",
+     "relevance_note": "Discusses anti-cancer activity; less directly relevant to traditional pain or gout uses but confirms bioactivity."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Effect of Populus nigra spring and autumn leaves extract on Capsicum annuum infected with pepper mild mottle virus.",
+     "identifier": "36564426",
+     "year": "2022",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/36564426/",
+     "relevance_note": "Focuses on antiviral effects in plants; not directly relevant to human traditional uses."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "Salicin",
+    "Flavonoids"
+   ],
+   "summary": "Modern evidence supports P. nigra's anti-inflammatory and analgesic potential via salicylates, aligning with traditional uses for sciatica and gout. Anti-cancer data exists but is less relevant to primary traditional indications."
+  }
+ ],
+ "concordance": {
+  "grade": "C",
+  "direction": "partial",
+  "rationale": "Modern evidence supports anti-inflammatory properties (PMID: 33138272) for gout/heat, but lacks clinical data for sciatica, stranguary, ear pain, sight, falling-sickness, or warts.",
+  "uncertainty": "High uncertainty due to absence of specific clinical trials for most historical claims and potential species ambiguity in historical texts.",
+  "caveats": [
+   "No evidence supports treatment of 'falling-sickness' (epilepsy) or 'dull sight'.",
+   "Safety concerns exist regarding salicin content in Populus species."
+  ]
+ },
+ "audit": {
+  "schema_ok": false,
+  "quotes_verified": [
+   "The Black Poplar grows higher and straighter than the White, with a greyish bark",
+   "The White Poplar grows great, and reasonably high, covered with thick, smooth, white bark",
+   "The ointment called Populneon, which is made of this Poplar, is singularly good for all heat and inflammations",
+   "eases the pains in them",
+   "help the gout",
+   "is a good medicine for a dull sight",
+   "is a remedy for those that are troubled with the sciatica",
+   "is held good against the falling-sickness",
+   "is singularly good for all heat and inflammations in any part of the body",
+   "or the stranguary",
+   "takes away warts, pushes, wheals, and other the like breakings-out of the body"
+  ],
+  "quotes_failed": [],
+  "issues": [
+   "Unearned Grade C: The entry claims a 'C' grade with 'partial' direction based on one PubMed hit (PMID: 33138272) for gout/heat, but explicitly lists unresolved historical names ('Populneon') and missing family/authorship data in the resolution block. A grade of 'C' implies significant gaps; however, the primary failure is the lack of clinical evidence for the claimed indications (sciatica, strangury) mentioned in the rationale's cutoff text, combined with incomplete taxonomic metadata (missing Family, Authorship).",
+   "Incomplete Taxonomy: All candidate resolutions lack 'family' and 'authorship' fields, violating standard botanical entry schemas.",
+   "Ambiguous Resolution Ignored: The historical name 'Populneon' remains unresolved ('selected': '') with low confidence, yet the entry proceeds without addressing this ambiguity or providing a resolution strategy."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T05:50:09Z"
+ }
+}

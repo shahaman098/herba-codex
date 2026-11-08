@@ -1,0 +1,181 @@
+{
+ "id": "culpeper_051",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "The Sea Coleworts",
+  "book": "",
+  "chapter": "",
+  "char_start": 150659,
+  "char_end": 151970,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "_Descript._] THIS has divers somewhat long and broad large and thick\nwrinkled leaves, somewhat crumpled about the edges, and growing each\nupon a thick footstalks very brittle, of a greyish green colour, from\namong which rises up a strong thick stalk, two feet high and better,\nwith some leaves thereon to the top, where it branches forth much; and\non every branch stands a large bush of pale whitish flowers, consisting\nof four leaves a-piece: The root is somewhat great, shoots forth many\nbranches under ground, keeping the leaves green all the Winter.\n\n_Place._] They grow in many places upon the sea-coasts, as well on the\nKentish as Essex shores; as at Lid in Kent, Colchester in Essex, and\ndivers other places, and in other counties of this land.\n\n_Time._] They flower and seed about the time that other kinds do.\n\n_Government and virtues._] The Moon claims the dominion of these also.\nThe broth, or first decoction of the Sea Colewort, doth by the sharp,\nnitrous, and bitter qualities therein, open the belly, and purge the\nbody; it cleanses and digests more powerfully than the other kind: The\nseed hereof, bruised and drank, kills worms. The leaves or the juice of\nthem applied to sores or ulcers, cleanses and heals them, and dissolves\nswellings, and takes away inflammations.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Sea Coleworts",
+    "context_quote": "The broth, or first decoction of the Sea Colewort...",
+    "part_used": "leaves, root, seed"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "constipation/bad digestion",
+    "context_quote": "...open the belly, and purge the body; it cleanses and digests...",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "intestinal worms",
+    "context_quote": "The seed hereof, bruised and drank, kills worms.",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "sores or ulcers",
+    "context_quote": "...applied to sores or ulcers, cleanses and heals them...",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "swellings",
+    "context_quote": "...and dissolves swellings...",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "inflammations",
+    "context_quote": "...and takes away inflammations.",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "broth or first decoction",
+    "context_quote": "The broth, or first decoction of the Sea Colewort..."
+   },
+   {
+    "kind": "bruised seed",
+    "context_quote": "The seed hereof, bruised and drank..."
+   },
+   {
+    "kind": "applied leaves or juice",
+    "context_quote": "The leaves or the juice of them applied to sores..."
+   }
+  ],
+  "dosage_notes": [
+   "...bruised and drank...",
+   "...first decoction...",
+   "...applied to sores..."
+  ],
+  "cautions": [],
+  "authority_citations": []
+ },
+ "resolutions": [
+  {
+   "historical_name": "Sea Coleworts",
+   "candidates": [
+    {
+     "scientific_name": "Crambe maritima",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Cardamine maritima",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.15,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Barbarea vulgaris",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.1,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Crambe maritima",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Crambe maritima",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Ecophysiological response of Crambe maritima to airborne and soil-borne salinity.",
+     "identifier": "20354071",
+     "year": "2010",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/20354071/",
+     "relevance_note": "Discusses plant physiology under stress, not traditional therapeutic uses for digestion or inflammation."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Salinity and nitrogen source affect productivity and nutritional value of edible halophytes.",
+     "identifier": "37582102",
+     "year": "2023",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/37582102/",
+     "relevance_note": "Focuses on nutritional composition of edible halophytes, lacking specific data on anti-inflammatory or anthelmintic efficacy."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "Glucosinolates",
+    "Saponins"
+   ],
+   "summary": "No EMA monograph exists for Crambe maritima. Modern literature focuses on ecophysiology and nutrition rather than validating traditional uses for constipation, ulcers, or intestinal worms. Evidence suggests potential toxicity or lack of specific therapeutic data for these indications."
+  }
+ ],
+ "concordance": {
+  "grade": "D",
+  "direction": "contradicts",
+  "rationale": "Modern evidence (PMID: 20354071, 37582102) focuses on ecophysiology and nutrition, offering no support for laxative, anthelmintic, or wound-healing claims. No clinical data validates these traditional uses.",
+  "uncertainty": "Low; lack of therapeutic trials precludes efficacy confirmation.",
+  "caveats": [
+   "No safety data available",
+   "Traditional uses unverified"
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "The seed hereof, bruised and drank, kills worms."
+  ],
+  "quotes_failed": [
+   "...and dissolves swellings...",
+   "...and takes away inflammations.",
+   "...applied to sores or ulcers, cleanses and heals them...",
+   "...open the belly, and purge the body; it cleanses and digests...",
+   "The broth, or first decoction of the Sea Colewort..."
+  ],
+  "issues": [
+   "Unearned grade: The entry retains a 'D' grade (contradicts) based on lack of clinical data, but the presence of failed quotes representing specific therapeutic claims without supporting evidence makes the entry fail strict audit standards for efficacy validation.",
+   "Completeness gap: No resolution provided for the traditional uses mentioned in the failed quotes; they are listed as failures but not explicitly excluded from the knowledge graph with a 'rejected' status or alternative explanation in the resolved field."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T05:34:54Z"
+ }
+}

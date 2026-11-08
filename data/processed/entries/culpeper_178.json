@@ -1,0 +1,31 @@
+{
+ "id": "culpeper_178",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Dog Mercury",
+  "book": "",
+  "chapter": "",
+  "char_start": 433898,
+  "char_end": 437476,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "HAVING described unto you that which is called French Mercury, I come\nnow to shew you a description of this kind also.\n\n_Descript._] This is likewise of two kinds, male and Female, having\nmany stalks slender and lower than Mercury, without any branches at all\nupon them, the root is set with two leaves at every joint, somewhat\ngreater than the female, but more pointed and full of veins, and\nsomewhat harder in handling: of a dark green colour, and less denied\nor snipped about the edges. At the joints with the leaves come forth\nlonger stalks than the former, with two hairy round seeds upon them,\ntwice as big as those of the former Mercury. The taste hereof is herby,\nand the smell somewhat strong and virulent. The female has much harder\nleaves standing upon longer footstalks, and the stalks are also longer;\nfrom the joints come forth spikes of flowers like the French Female\nMercury. The roots of them both are many, and full of small fibres\nwhich run under ground, and mat themselves very much, not perishing\nas the former Mercuries do, but abide the Winter, and shoot forth new\nbranches every year, for the old lie down to the ground.\n\n_Place._] The male and female French Mercury are found wild in divers\nplaces of this land, as by a village called Brookland in Rumney Marsh\nin Kent.\n\nThe Dog Mercury in sundry places of Kent also, and elsewhere; but the\nfemale more seldom than the male.\n\n_Time._] They flower in the Summer months, and therein give their seed.\n\n_Government and virtues._] Mercury, they say, owns the herb, but I\nrather think it is Venus’s, and I am partly confident of it too, for\nI never heard that Mercury ever minded women’s business so much:\nI believe he minds his study more. The decoction of the leaves of\nMercury, or the juice thereof in broth, or drank with a little sugar\nput to it, purges choleric and waterish humours. Hippocrates commended\nit wonderfully for women’s diseases, and applied to the secret parts,\nto ease the pains of the mother; and used the decoction of it, both to\nprocure women’s courses, and to expel the after-birth; and gave the\ndecoction thereof with myrrh or pepper, or used to apply the leaves\noutwardly against the stranguary and diseases of the reins and bladder.\nHe used it also for sore and watering eyes, and for the deafness and\npains in the ears, by dropping the juice thereof into them, and bathing\nthem afterwards in white wine. The decoction thereof made with water\nand a cock chicken, is a most safe medicine against the hot fits of\nagues. It also cleanses the breast and lungs of phlegm, but a little\noffends the stomach. The juice or distilled water snuffed up into the\nnostrils, purges the head and eyes of catarrhs and rheums. Some use to\ndrink two or three ounces of the distilled water, with a little sugar\nput to it, in the morning fasting, to open and purge the body of gross,\nviscous, and melancholy humours. Matthiolus saith, that both the seed\nof the male and female Mercury boiled with Wormwood and drank, cures\nthe yellow jaundice in a speedy manner. The leaves or the juice rubbed\nupon warts, takes them away. The juice mingled with some vinegar, helps\nall running scabs, tetters, ringworms, and the itch. Galen saith, that\nbeing applied in manner of a poultice to any swelling or inflammation,\nit digests the swelling, and allays the inflammation, and is therefore\ngiven in clysters to evacuate from the belly offensive humours. The Dog\nMercury, although it be less used, yet may serve in the same manner, to\nthe same purpose, to purge waterish and melancholy humours.",
+ "extraction": null,
+ "resolutions": [],
+ "evidence": [],
+ "concordance": null,
+ "audit": null,
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "note": "no extraction or non-medicinal"
+ }
+}

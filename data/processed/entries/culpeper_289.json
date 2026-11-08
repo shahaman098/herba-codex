@@ -1,0 +1,243 @@
+{
+ "id": "culpeper_289",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Wall Flowers, Or Winter Gilli-Flowers",
+  "book": "",
+  "chapter": "",
+  "char_start": 700491,
+  "char_end": 702359,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "THE garden kind are so well known that they need no description.\n\n_Descript._] The common single Wall-flowers, which grow wild abroad,\nhave sundry small, long, narrow, dark green leaves, set without order\nupon small round, whitish, woody stalks, which bear at the tops divers\nsingle yellow flowers one above another, every one bearing four leaves\na-piece, and of a very sweet scent: after which come long pods,\ncontaining a reddish seed. The roots are white, hard and thready.\n\n_Place._] It grows upon church walls, and old walls of many houses, and\nother stone walls in divers places; The other sort in gardens only.\n\n_Time._] All the single kinds do flower many times in the end of\nAutumn; and if the Winter be mild, all the Winter long, but especially\nin the months of February, March, and April, and until the heat of\nthe spring do spend them. But the double kinds continue not flowering\nin that manner all the year long, although they flower very early\nsometimes, and in some places very late.\n\n_Government and virtues._] The Moon rules them. Galen, in his seventh\nbook of simple medicines, saith, That the yellow Wall-flowers work more\npowerfully than any of the other kinds, and are therefore of more use\nin physic. It cleanses the blood, and fretteth the liver and reins from\nobstructions, provokes women’s courses, expels the secundine, and the\ndead child; helps the hardness and pain of the mother, and of spleen\nalso; stays inflammations and swellings, comforts and strengthens any\nweak part, or out of joint; helps to cleanse the eyes from mistiness or\nfilms upon them, and to cleanse the filthy ulcers in the mouth, or any\nother part, and is a singular remedy for the gout, and all aches and\npains in the joints and sinews. A conserve made of the flowers, is used\nfor a remedy both for the apoplexy and palsy.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Wall-flowers",
+    "context_quote": "The common single Wall-flowers, which grow wild abroad",
+    "part_used": "roots are white, hard and thready"
+   },
+   {
+    "name_text": "yellow Wall-flowers",
+    "context_quote": "That the yellow Wall-flowers work more powerfully than any of the other kinds",
+    "part_used": "flowers"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "obstructions in liver and reins",
+    "context_quote": "fretteth the liver and reins from obstructions",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "women's courses",
+    "context_quote": "provokes women's courses",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "secundine and dead child",
+    "context_quote": "expels the secundine, and the dead child",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "hardness and pain of the mother",
+    "context_quote": "helps the hardness and pain of the mother",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "inflammations and swellings",
+    "context_quote": "stays inflammations and swellings",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "weak part, or out of joint",
+    "context_quote": "comforts and strengthens any weak part, or out of joint",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "mistiness or films upon the eyes",
+    "context_quote": "helps to cleanse the eyes from mistiness or films upon them",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "filthy ulcers in the mouth",
+    "context_quote": "to cleanse the filthy ulcers in the mouth, or any other part",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "conserve made of the flowers",
+    "context_quote": "A conserve made of the flowers, is used for a remedy both for the apoplexy and palsy."
+   }
+  ],
+  "dosage_notes": [],
+  "cautions": [],
+  "authority_citations": [
+   "Galen"
+  ]
+ },
+ "resolutions": [
+  {
+   "historical_name": "Wall-flowers",
+   "candidates": [
+    {
+     "scientific_name": "Cheiranthus cheiri",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Erysimum cheiri",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.9,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Erysimum officinale",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.4,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Cheiranthus cheiri",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "yellow Wall-flowers",
+   "candidates": [
+    {
+     "scientific_name": "Cheiranthus cheiri / Erysimum cheiri",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Erysimum capitatum",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.35,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Erysimum flavum",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.25,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Cheiranthus cheiri / Erysimum cheiri",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Cheiranthus cheiri",
+   "ema_monograph": null,
+   "pubmed": [],
+   "pubchem_cids": [],
+   "notable_constituents": [],
+   "summary": "No modern clinical evidence found for 'Cheiranthus cheiri' specifically regarding traditional uses like pain or liver obstructions. The taxon name is often synonymous with Erysimum cheiri in literature."
+  },
+  {
+   "taxon": "Cheiranthus cheiri / Erysimum cheiri",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Anti-Inflammatory Activity and Quality Control of Erysimum cheiri (L.) Crantz.",
+     "identifier": "34212031",
+     "year": "2021",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/34212031/",
+     "relevance_note": "Demonstrates anti-inflammatory activity, potentially relevant to traditional uses for inflammations and swellings."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Medicinal Properties of Erysimum cheiri L. (Tudri surkh) - Insights from Traditional Unani Medicine and Modern Phytochemical Analyses: A Narrative Review.",
+     "identifier": "40662614",
+     "year": "2025",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/40662614/",
+     "relevance_note": "Reviews traditional Unani uses, though specific modern validation for all listed conditions remains limited."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Mathematical modeling and optimizing the in vitro shoot proliferation of wallflower using multilayer perceptron non-dominated sorting genetic algorithm-II (MLP-NSGAII).",
+     "identifier": "36083887",
+     "year": "2022",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/36083887/",
+     "relevance_note": "Focuses on agricultural propagation rather than pharmacological validation of traditional medicinal claims."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [],
+   "summary": "Modern research confirms anti-inflammatory properties in Erysimum cheiri, supporting its historical use for swellings. However, evidence for treating obstetric issues (secundine), liver obstructions, or joint pain is currently absent from the provided literature."
+  }
+ ],
+ "concordance": {
+  "grade": "C",
+  "direction": "partial",
+  "rationale": "Modern evidence (PMID:34212031) confirms anti-inflammatory activity, partially supporting claims for swellings. No clinical data supports obstetric uses or liver/reins treatments.",
+  "uncertainty": "High uncertainty regarding historical 'reins' and obstetric efficacy due to lack of modern clinical trials.",
+  "caveats": [
+   "No evidence for obstetric claims",
+   "No evidence for liver/reins claims"
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "That the yellow Wall-flowers work more powerfully than any of the other kinds",
+   "The common single Wall-flowers, which grow wild abroad",
+   "comforts and strengthens any weak part, or out of joint",
+   "expels the secundine, and the dead child",
+   "fretteth the liver and reins from obstructions",
+   "helps the hardness and pain of the mother",
+   "helps to cleanse the eyes from mistiness or films upon them",
+   "stays inflammations and swellings",
+   "to cleanse the filthy ulcers in the mouth, or any other part"
+  ],
+  "quotes_failed": [
+   "provokes women's courses"
+  ],
+  "issues": [
+   "Grade 'C' is partially unearned: While modern evidence (PMID:34212031) supports anti-inflammatory activity for swellings, there is ZERO clinical or EMA evidence for obstetric uses ('provokes women's courses') or liver/reins treatments. The rationale admits 'No clinical data supports obstetric uses', yet the entry retains these claims without flagging them as unsupported folklore rather than validated medical facts. This violates the strict admission policy against unearned grades for specific therapeutic claims lacking modern evidence."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T05:29:32Z"
+ }
+}

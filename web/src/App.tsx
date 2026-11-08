@@ -65,7 +65,7 @@ export default function App() {
             </p>
           </div>
           <div className="ml-auto hidden text-right md:block">
-            <p className="font-display text-[13.5px] italic text-ink-soft">Dioscorides &rarr; POWO &rarr; EMA</p>
+            <p className="font-display text-[13.5px] italic text-ink-soft">Culpeper 1653 &rarr; Kew POWO &rarr; EMA</p>
             <p className="text-[10px] uppercase tracking-[0.2em] text-ink-faint">agentic evidence mapping</p>
           </div>
         </div>

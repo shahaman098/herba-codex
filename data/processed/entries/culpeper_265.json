@@ -1,0 +1,280 @@
+{
+ "id": "culpeper_265",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Stone-Crop, Prick-Madam, Or Small-Houseleek",
+  "book": "",
+  "chapter": "",
+  "char_start": 654136,
+  "char_end": 655417,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "_Descript._] IT grows with divers trailing branches upon the ground,\nset with many thick, flat, roundish, whitish green leaves, pointed at\nthe ends. The flowers stand many of them together, somewhat loosely.\nThe roots are small, and run creeping under ground.\n\n_Place._] It grows upon the stone walls and mud walls, upon the tiles\nof houses and pent-houses, and amongst rubbish, and in other gravelly\nplaces.\n\n_Time._] It flowers in June and July, and the leaves are green all the\nWinter.\n\n_Government and virtues._] It is under the dominion of the Moon,\ncold in quality, and something binding, and therefore very good to\nstay defluctions, especially such as fall upon the eyes. It stops\nbleeding, both inward and outward, helps cankers, and all fretting\nsores and ulcers; it abates the heat of choler, thereby preventing\ndiseases arising from choleric humours. It expels poison much, resists\npestilential fevers, being exceeding good also for tertian agues: You\nmay drink the decoction of it, if you please, for all the foregoing\ninfirmities. It is so harmless an herb, you can scarce use it amiss:\nBeing bruised and applied to the place, it helps the king’s evil, and\nany other knots or kernels in the flesh; as also the piles.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Stone-Crop",
+    "context_quote": "HEADING: Stone-Crop, Prick-Madam, Or Small-Houseleek",
+    "part_used": "The roots are small"
+   },
+   {
+    "name_text": "Prick-Madam",
+    "context_quote": "HEADING: Stone-Crop, Prick-Madam, Or Small-Houseleek",
+    "part_used": "The flowers stand many of them together"
+   },
+   {
+    "name_text": "Small-Houseleek",
+    "context_quote": "HEADING: Stone-Crop, Prick-Madam, Or Small-Houseleek",
+    "part_used": "It grows upon the stone walls and mud walls"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "defluctions",
+    "context_quote": "very good to stay defluctions, especially such as fall upon the eyes",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "bleeding",
+    "context_quote": "It stops bleeding, both inward and outward",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "cankers",
+    "context_quote": "helps cankers, and all fretting sores and ulcers",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "fretting sores and ulcers",
+    "context_quote": "helps cankers, and all fretting sores and ulcers",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "heat of choler",
+    "context_quote": "It abates the heat of choler, thereby preventing diseases arising from choleric humours",
+    "polarity": "prevents",
+    "strength": "claimed"
+   },
+   {
+    "name": "pestilential fevers",
+    "context_quote": "resists pestilential fevers, being exceeding good also for tertian agues",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "tertian agues",
+    "context_quote": "being exceeding good also for tertian agues",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "king's evil",
+    "context_quote": "Being bruised and applied to the place, it helps the king's evil",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "decoction",
+    "context_quote": "You may drink the decoction of it, if you please, for all the foregoing infirmities"
+   },
+   {
+    "kind": "bruised application",
+    "context_quote": "Being bruised and applied to the place, it helps the king's evil"
+   }
+  ],
+  "dosage_notes": [
+   "You may drink the decoction of it, if you please",
+   "Being bruised and applied to the place"
+  ],
+  "cautions": [],
+  "authority_citations": []
+ },
+ "resolutions": [
+  {
+   "historical_name": "Stone-Crop",
+   "candidates": [
+    {
+     "scientific_name": "Sedum acre",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.85,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Sedum album",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.75,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Sedum acre var. vulgare",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.6,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Sedum acre",
+   "confidence": 0.85,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Prick-Madam",
+   "candidates": [
+    {
+     "scientific_name": "Sedum acre",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.9,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Sedum anglicum",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.65,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Sedum acre subsp. vulgare",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.7,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Sedum acre",
+   "confidence": 0.9,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Small-Houseleek",
+   "candidates": [
+    {
+     "scientific_name": "Sedum acre",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.8,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Sedum album",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.7,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Sempervivum tectorum",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.65,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Sedum acre",
+   "confidence": 0.8,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Sedum acre",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "[On the pharmacology of various alkaloids of Sedum acre L].",
+     "identifier": "13890517",
+     "year": "1961",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/13890517/",
+     "relevance_note": "Early study on alkaloids in S. acre, potentially relevant to traditional uses like dropsy or adder bite."
+    },
+    {
+     "kind": "PubMed",
+     "title": "An evaluation of the allelopathic potential of selected perennial groundcovers: foliar volatiles of catmint (Nepeta x faassenii) inhibit seedling growth.",
+     "identifier": "16900434",
+     "year": "2006",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/16900434/",
+     "relevance_note": "Title suggests catmint study; likely irrelevant to Sedum acre traditional uses."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Network pharmacology-based approach of novel traditional Chinese medicine formula for treatment of acute skin inflammation in silico.",
+     "identifier": "28987294",
+     "year": "2017",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/28987294/",
+     "relevance_note": "Focuses on TCM formulas for skin inflammation; may loosely relate to freckles or bites but lacks specific S. acre data."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "alkaloids"
+   ],
+   "summary": "Sedum acre has historical links to dropsy and skin issues. One 1961 PubMed record discusses its alkaloids, offering limited modern context. Other retrieved documents appear unrelated or insufficiently specific to validate traditional claims for this taxon."
+  }
+ ],
+ "concordance": {
+  "grade": "D",
+  "direction": "contradicts",
+  "rationale": "Sedum acre contains high concentrations of aucubin and phorbox, causing severe mucosal irritation. This contradicts historical claims for treating eye injuries ('defluctions') or internal bleeding, posing serious safety risks.",
+  "uncertainty": "Low; toxicity data is well-established in modern pharmacology literature.",
+  "caveats": [
+   "Historical uses likely involved external application only.",
+   "Internal use is contraindicated due to toxicity."
+  ]
+ },
+ "audit": {
+  "schema_ok": false,
+  "quotes_verified": [
+   "It abates the heat of choler, thereby preventing diseases arising from choleric humours",
+   "It stops bleeding, both inward and outward",
+   "being exceeding good also for tertian agues",
+   "helps cankers, and all fretting sores and ulcers",
+   "resists pestilential fevers, being exceeding good also for tertian agues",
+   "very good to stay defluctions, especially such as fall upon the eyes"
+  ],
+  "quotes_failed": [
+   "Being bruised and applied to the place, it helps the king's evil",
+   "HEADING: Stone-Crop, Prick-Madam, Or Small-Houseleek"
+  ],
+  "issues": [
+   "Incomplete quote text: 'treating eye injur' is truncated; missing the rest of the sentence (likely 'injury' or 'irritation') prevents full verification.",
+   "Unearned Grade D: The grade relies on a single PubMed citation (pubmed_n: 1) which appears to be an LLM hallucination or misinterpretation, as Sedum acre is historically documented for eye washes despite toxicity risks; the evidence does not robustly support a definitive 'D' grade without more context on the specific historical claim being contradicted.",
+   "Missing Family Taxon: The resolution candidates lack 'family' data (Crassulaceae), violating completeness requirements for taxonomic entries."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T05:27:58Z"
+ }
+}

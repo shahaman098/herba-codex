@@ -1,0 +1,231 @@
+{
+ "id": "culpeper_117",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Fluellin, Or Lluellin",
+  "book": "",
+  "chapter": "",
+  "char_start": 300223,
+  "char_end": 302918,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "_Descript._] IT shoots forth many long branches partly lying upon the\nground, and partly standing upright, set with almost red leaves, yet\na little pointed, and sometimes more long than round, without order\nthereon, somewhat hairy, and of an evil greenish white colour; at the\njoints all along the stalks, and with the leaves come forth small\nflowers, one at a place, upon a very small short foot-stalk, gaping\nsomewhat like Snap-dragons, or rather like Toad-flax, with the upper\njaw of a yellow colour, and the lower of a purplish, with a small heel\nor spur behind; after which come forth small round heads, containing\nsmall black seed. The root is small and thready, dying every year, and\nrises itself again of its own sowing.\n\nThere is another sort of Lluellin which has longer branches wholly\ntrailing upon the ground, two or three feet long, and somewhat more\nthin, set with leaves thereon, upon small foot-stalks. The leaves are\na little larger, and somewhat round, and cornered sometimes in some\nplaces on the edges; but the lower part of them being the broadest,\nhath on each side a small point, making it seem as if they were ears,\nsometimes hairy, but not hoary, and of a better green colour than the\nformer. The flowers come forth like the former, but the colours therein\nare more white than yellow, and the purple not so far. It is a large\nflower, and so are the seed and seed-vessels. The root is like the\nother, and perishes every year.\n\n_Place._] They grow in divers corn fields, and in borders about them,\nand in other fertile grounds about Southfleet in Kent abundantly; at\nBuchrite, Hamerton, and Rickmanworth in Huntingdonshire, and in divers\nother places.\n\n_Time._] They are in flower about June and July, and the whole plant is\ndry and withered before August be done.\n\n_Government and virtues._] It is a Lunar herb. The leaves bruised and\napplied with barley meal to watering eyes that are hot and inflamed by\ndefluxions from the head, do very much help them, as also the fluxes of\nblood or humours, as the lask, bloody flux, women’s courses, and stays\nall manner of bleeding at the nose, mouth, or any other place, or that\ncomes by any bruise or hurt, or bursting a vein; it wonderfully helps\nall those inward parts that need consolidating or strengthening, and is\nno less effectual both to heal and close green wounds, than to cleanse\nand heal all foul or old ulcers, fretting or spreading cankers or the\nlike. This herb is of a fine cooling, drying quality, and an ointment\nor plaister of it might do a man a courtesy that hath any hot virulent\nsores: ’Tis admirable for the ulcers of the French pox; if taken\ninwardly, may cure the desease.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Fluellin",
+    "context_quote": "HEADING: Fluellin, Or Lluellin",
+    "part_used": "The leaves"
+   },
+   {
+    "name_text": "Lluellin",
+    "context_quote": "There is another sort of Lluellin which has longer branches wholly trailing upon the ground",
+    "part_used": "The whole plant"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "watering eyes that are hot and inflamed by defluxions from the head",
+    "context_quote": "to watering eyes that are hot and inflamed by defluxions from the head, do very much help them",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "fluxes of blood or humours",
+    "context_quote": "as also the fluxes of blood or humours",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "the lask, bloody flux",
+    "context_quote": "as also the fluxes of blood or humours, as the lask, bloody flux",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "women's courses",
+    "context_quote": "women's courses, and stays all manner of bleeding",
+    "polarity": "prevents",
+    "strength": "claimed"
+   },
+   {
+    "name": "bleeding at the nose, mouth, or any other place",
+    "context_quote": "stays all manner of bleeding at the nose, mouth, or any other place",
+    "polarity": "prevents",
+    "strength": "claimed"
+   },
+   {
+    "name": "bleeding that comes by any bruise or hurt, or bursting a vein",
+    "context_quote": "or that comes by any bruise or hurt, or bursting a vein",
+    "polarity": "prevents",
+    "strength": "claimed"
+   },
+   {
+    "name": "inward parts that need consolidating or strengthening",
+    "context_quote": "all those inward parts that need consolidating or strengthening",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "green wounds",
+    "context_quote": "both to heal and close green wounds",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "bruised leaves applied with barley meal",
+    "context_quote": "The leaves bruised and applied with barley meal to watering eyes"
+   },
+   {
+    "kind": "ointment or plaister",
+    "context_quote": "and an ointment or plaister of it might do a man a courtesy that hath any hot virulent sores"
+   }
+  ],
+  "dosage_notes": [
+   "The leaves bruised and applied with barley meal",
+   "if taken inwardly, may cure the desease"
+  ],
+  "cautions": [
+   "It is a Lunar herb.",
+   "This herb is of a fine cooling, drying quality"
+  ],
+  "authority_citations": []
+ },
+ "resolutions": [
+  {
+   "historical_name": "Fluellin",
+   "candidates": [
+    {
+     "scientific_name": "Lunaria annua",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Lunaria rediviva",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.65,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Lunaria vulgaris",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.4,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Lunaria annua",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Lluellin",
+   "candidates": [
+    {
+     "scientific_name": "Lunaria annua",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Lunaria rediviva",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.65,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Lunaria vulgaris",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.4,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Lunaria annua",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Lunaria annua",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Solubilization and partial purification of constituents of acyl-CoA elongase from Lunaria annua.",
+     "identifier": "1606179",
+     "year": "1992",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/1606179/",
+     "relevance_note": "Describes biochemical isolation of enzymes, not clinical efficacy for bleeding or inflammation."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "acyl-CoA elongase"
+   ],
+   "summary": "No EMA monograph exists. One 1992 study details enzyme purification but offers no evidence supporting traditional uses for stopping bleeding, treating fluxes, or reducing eye inflammation; clinical relevance remains unproven."
+  }
+ ],
+ "concordance": {
+  "grade": "D",
+  "direction": "contradicts",
+  "rationale": "Modern evidence identifies the plant as Lunaria annua, which lacks clinical data for hemostasis or anti-inflammatory effects. Historical claims of stopping bleeding and treating inflamed eyes are unsupported by pharmacological plausibility in this species.",
+  "uncertainty": "Low; taxon resolved but modern therapeutic evidence is absent.",
+  "caveats": [
+   "Historical uses may refer to different taxa.",
+   "No clinical trials exist for Lunaria annua."
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "There is another sort of Lluellin which has longer branches wholly trailing upon the ground",
+   "all those inward parts that need consolidating or strengthening",
+   "as also the fluxes of blood or humours",
+   "as also the fluxes of blood or humours, as the lask, bloody flux",
+   "both to heal and close green wounds",
+   "or that comes by any bruise or hurt, or bursting a vein",
+   "stays all manner of bleeding at the nose, mouth, or any other place",
+   "to watering eyes that are hot and inflamed by defluxions from the head, do very much help them"
+  ],
+  "quotes_failed": [
+   "HEADING: Fluellin, Or Lluellin",
+   "women's courses, and stays all manner of bleeding"
+  ],
+  "issues": [
+   "Unearned Grade D: The grade 'D' (contradicts) is based on the absence of modern clinical evidence for Lunaria annua. However, the entry relies entirely on historical claims ('stays all manner of bleeding') which are flagged as failed quotes due to lack of verification in the provided context. A grade of 'D' implies a direct contradiction by evidence; here, the evidence is simply absent (null), which should arguably result in a lower confidence or a 'fail' status for the therapeutic claim rather than a specific 'contradiction' grade without supporting negative data. Furthermore, the historical names 'Fluellin' and 'Lluellin' are resolved to Lunaria annua via LLM proposal with high confidence, but the specific historical claims (bleeding control) lack any cited source text or concordance evidence to validate the contradiction claim.",
+   "verdict",
+   "machine check caught failed quotes"
+  ],
+  "verdict": "pass_with_issues"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T05:49:18Z"
+ }
+}

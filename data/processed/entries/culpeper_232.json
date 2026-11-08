@@ -1,0 +1,227 @@
+{
+ "id": "culpeper_232",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Rosemary",
+  "book": "",
+  "chapter": "",
+  "char_start": 575556,
+  "char_end": 579000,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "OUR garden Rosemary is so well known, that I need not describe it.\n\n_Time._] It flowers in April and May with us, sometimes again in August.\n\n_Government and virtues._] The Sun claims privilege in it, and it is\nunder the celestial Ram. It is an herb of as great use with us in these\ndays as any whatsoever, not only for physical but civil purposes. The\nphysical use of it (being my present task) is very much used both for\ninward and outward diseases, for by the warming and comforting heat\nthereof it helps all cold diseases, both of the head, stomach, liver,\nand belly. The decoction thereof in wine, helps the cold distillations\nof rheum into the eyes, and all other cold diseases of the head and\nbrain, as the giddiness or swimmings therein, drowsiness or dullness\nof the mind and senses like a stupidness, the dumb palsy, or loss of\nspeech, the lethargy, and fallen-sickness, to be both drank, and the\ntemples bathed therewith. It helps the pains in the gums and teeth,\nby rheum falling into them, not by putrefaction, causing an evil\nsmell from them, or a stinking breath. It helps a weak memory, and\nquickens the senses. It is very comfortable to the stomach in all the\ncold griefs thereof, helps both retention of meat, and digestion,\nthe decoction or powder being taken in wine. It is a remedy for the\nwindiness in the stomach, bowels, and spleen, and expels it powerfully.\nIt helps those that are liver-grown, by opening the obstructions\nthereof. It helps dim eyes, and procures a clear sight, the flowers\nthereof being taken all the while it is flowering every morning\nfasting, with bread and salt. Both Dioscorides and Galen say, That if\na decoction be made thereof with water, and they that have the yellow\njaundice exercise their bodies directly after the taking thereof, it\nwill certainly cure them. The flowers and conserve made of them, are\nsingularly good to comfort the heart, and to expel the contagion of\nthe pestilence; to burn the herb in houses and chambers, corrects the\nair in them. Both the flowers and leaves are very profitable for women\nthat are troubled with the whites, if they be daily taken. The dried\nleaves shred small, and taken in a pipe, as tobacco is taken, helps\nthose that have any cough, phthisic, or consumption, by warming and\ndrying the thin distillations which cause those diseases. The leaves\nare very much used in bathings; and made into ointments or oil, are\nsingularly good to help cold benumbed joints, sinews, or members. The\nchymical oil drawn from the leaves and flowers, is a sovereign help for\nall the diseases aforesaid, to touch the temples and nostrils with two\nor three drops for all the diseases of the head and brain spoken of\nbefore; as also to take one drop, two, or three, as the case requires,\nfor the inward griefs: Yet must it be done with discretion, for it is\nvery quick and piercing, and therefore but a little must be taken at a\ntime. There is also another oil made by insolation in this manner: Take\nwhat quantity you will of the flowers, and put them into a strong glass\nclose stopped, tie a fine linen cloth over the mouth, and turn the\nmouth down into another strong glass, which being set in the sun, an\noil will distil down into the lower glass, to be preserved as precious\nfor divers uses, both inward and outward, as a sovereign balm to heal\nthe disease before-mentioned, to clear dim sights, and to take away\nspots, marks, and scars in the skin.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "garden Rosemary",
+    "context_quote": "OUR garden Rosemary is so well known, that I need not describe it.",
+    "part_used": "herb"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "cold diseases of the head, stomach, liver, and belly",
+    "context_quote": "by the warming and comforting heat thereof it helps all cold diseases, both of the head, stomach, liver, and belly.",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "cold distillations of rheum into the eyes",
+    "context_quote": "The decoction thereof in wine, helps the cold distillations of rheum into the eyes",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "giddiness or swimmings in the head and brain",
+    "context_quote": "all other cold diseases of the head and brain, as the giddiness or swimmings therein",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "drowsiness or dullness of the mind and senses",
+    "context_quote": "drowsiness or dullness of the mind and senses like a stupidness",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "dumb palsy, or loss of speech",
+    "context_quote": "the dumb palsy, or loss of speech",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "lethargy, and fallen-sickness",
+    "context_quote": "the lethargy, and fallen-sickness",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "pains in the gums and teeth",
+    "context_quote": "It helps the pains in the gums and teeth, by rheum falling into them",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "weak memory",
+    "context_quote": "It helps a weak memory, and quickens the senses.",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "decoction in wine",
+    "context_quote": "The decoction thereof in wine, helps the cold distillations of rheum into the eyes"
+   },
+   {
+    "kind": "flowers taken fasting with bread and salt",
+    "context_quote": "the flowers thereof being taken all the while it is flowering every morning fasting, with bread and salt."
+   },
+   {
+    "kind": "chymical oil drawn from leaves and flowers",
+    "context_quote": "The chymical oil drawn from the leaves and flowers, is a sovereign help for all the diseases aforesaid"
+   },
+   {
+    "kind": "oil made by insolation in glass",
+    "context_quote": "There is also another oil made by insolation in this manner: Take what quantity you will of the flowers, and put them into a strong glass close stopped"
+   }
+  ],
+  "dosage_notes": [
+   "flowers taken every morning fasting with bread and salt",
+   "take one drop, two, or three drops of chymical oil as the case requires",
+   "must be done with discretion for it is very quick and piercing"
+  ],
+  "cautions": [
+   "very quick and piercing, and therefore but a little must be taken at a time",
+   "burn the herb in houses and chambers to correct the air",
+   "flowers and conserve are singularly good to comfort the heart"
+  ],
+  "authority_citations": [
+   "Dioscorides",
+   "Galen"
+  ]
+ },
+ "resolutions": [
+  {
+   "historical_name": "garden Rosemary",
+   "candidates": [
+    {
+     "scientific_name": "Rosmarinus officinalis",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Salvia rosmarinus",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.85,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Rosmarinus tomentosus",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.2,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Rosmarinus officinalis",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Rosmarinus officinalis",
+   "ema_monograph": {
+    "kind": "EMA_monograph",
+    "title": "Rosmarini folium (rosemary leaf)",
+    "identifier": "rosmarini-folium",
+    "year": "",
+    "url": "https://www.ema.europa.eu/en/medicines/herbal/rosmarini-folium",
+    "relevance_note": "Confirms traditional use for memory, concentration, and respiratory issues."
+   },
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Rosmarinus officinalis L. (rosemary) as therapeutic and prophylactic agent.",
+     "identifier": "30621719",
+     "year": "2019",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/30621719/",
+     "relevance_note": "Reviews historical uses for memory, circulation, and respiratory ailments."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Toxicity and safety of rosemary (Rosmarinus officinalis): a comprehensive review.",
+     "identifier": "39096378",
+     "year": "2025",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/39096378/",
+     "relevance_note": "Discusses safety profile and potential interactions with neurological conditions."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Therapeutic effects of rosemary (Rosmarinus officinalis L.) and its active constituents on nervous system disorders.",
+     "identifier": "32963731",
+     "year": "2020",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/32963731/",
+     "relevance_note": "Links carnosic acid to neuroprotection and cognitive function support."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "Carnosic acid",
+    "Rosmarinic acid",
+    "Camphor"
+   ],
+   "summary": "Modern evidence supports rosemary's traditional application for 'drowsiness' and 'giddiness' via neuroprotective compounds like carnosic acid, though specific treatments for 'fallen-sickness' or 'dumb palsy' lack direct clinical validation in recent literature."
+  }
+ ],
+ "concordance": {
+  "grade": "C",
+  "direction": "partial",
+  "rationale": "Modern evidence (PMID: 30621719, 39096378) confirms therapeutic and prophylactic properties but lacks clinical data for specific historical claims like 'cold diseases' or 'dumb palsy'. Safety reviews exist.",
+  "uncertainty": "Historical terms ('cold', 'rheum') lack modern equivalents; evidence is pharmacological, not clinical for these specific indications.",
+  "caveats": [
+   "No clinical trials for historical claims",
+   "Safety concerns noted in recent review"
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "It helps a weak memory, and quickens the senses.",
+   "It helps the pains in the gums and teeth, by rheum falling into them",
+   "OUR garden Rosemary is so well known, that I need not describe it.",
+   "The decoction thereof in wine, helps the cold distillations of rheum into the eyes",
+   "all other cold diseases of the head and brain, as the giddiness or swimmings therein",
+   "by the warming and comforting heat thereof it helps all cold diseases, both of the head, stomach, liver, and belly.",
+   "drowsiness or dullness of the mind and senses like a stupidness",
+   "the dumb palsy, or loss of speech",
+   "the lethargy, and fallen-sickness"
+  ],
+  "quotes_failed": [],
+  "issues": [
+   "Grade 'C' is unearned: The evidence list contains EMA approval (true) and PubMed citations. An entry with EMA approval for a specific taxon typically warrants at least a 'B' or 'A' depending on the strictness of the graph's clinical vs. regulatory distinction, but more critically, the rationale claims a lack of clinical data for historical claims while citing EMA approval. If EMA approval exists (as indicated by `ema: true`), there is significant regulatory/clinical validation that contradicts the 'partial' direction and low grade unless the graph strictly separates 'modern therapeutic use' from 'historical claim validation'. Given the instruction to be strict and flag unearned grades, a 'C' with EMA evidence for a resolved taxon is likely insufficiently penalized or misaligned if the entry implies general efficacy. However, the primary issue is the discrepancy between `ema: true` (strong evidence) and grade 'C' (partial/weak)."
+  ],
+  "verdict": "pass_with_issues"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T05:43:53Z"
+ }
+}

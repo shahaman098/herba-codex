@@ -1,0 +1,290 @@
+{
+ "id": "culpeper_049",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "The Burdock",
+  "book": "",
+  "chapter": "",
+  "char_start": 145492,
+  "char_end": 147719,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "THEY are also called Personata, and Loppy-major, great Burdock and\nClod-bur. It is so well known, even by the little boys, who pull off\nthe burs to throw and stick upon each other, that I shall spare to\nwrite any description of it.\n\n_Place._] They grow plentifully by ditches and water-sides, and by the\nhighways almost everywhere through this land.\n\n_Government and virtues._] Venus challenges this herb for her own, and\nby its leaf or seed you may draw the womb which way you please, either\nupwards by applying it to the crown of the head, in case it falls out;\nor downwards in fits of the mother, by applying it to the soles of the\nfeet; or if you would stay it in its place, apply it to the navel,\nand that is one good way to stay the child in it. The Burdock leaves\nare cooling, moderately drying, and discussing withal, whereby it is\ngood for old ulcers and sores. A dram of the roots taken with Pine\nkernels, helps them that spit foul, mattery, and bloody phlegm. The\nleaves applied to the places troubled with the shrinking of the sinews\nor arteries, gives much ease. The juice of the leaves, or rather the\nroots themselves, given to drink with old wine, doth wonderfully help\nthe biting of any serpents: And the root beaten with a little salt, and\nlaid on the place, suddenly eases the pain thereof, and helps those\nthat are bit by a mad dog. The juice of the leaves being drank with\nhoney, provokes urine, and remedies the pain of the bladder. The seed\nbeing drank in wine forty days together, doth wonderfully help the\nsciatica. The leaves bruised with the white of an egg, and applied to\nany place burnt with fire, takes out the fire, gives sudden ease, and\nheals it up afterwards. The decoction of them fomented on any fretting\nsore, or canker, stays the corroding quality, which must be afterwards\nanointed with an ointment made of the same liquor, hog’s-grease,\nnitre, and vinegar boiled together. The roots may be preserved with\nsugar, and taken fasting, or at other times, for the same purposes, and\nfor consumptions, the stone, and the lask. The seed is much commended\nto break the stone, and cause it to be expelled by urine, and is often\nused with other seeds and things to that purpose.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Personata",
+    "context_quote": "THEY are also called Personata, and Loppy-major, great Burdock and Clod-bur.",
+    "part_used": "general"
+   },
+   {
+    "name_text": "Loppy-major",
+    "context_quote": "THEY are also called Personata, and Loppy-major, great Burdock and Clod-bur.",
+    "part_used": "general"
+   },
+   {
+    "name_text": "great Burdock",
+    "context_quote": "THEY are also called Personata, and Loppy-major, great Burdock and Clod-bur.",
+    "part_used": "general"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "womb falling out",
+    "context_quote": "by its leaf or seed you may draw the womb which way you please, either upwards by applying it to the crown of the head, in case it falls out",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "womb displacement (downwards)",
+    "context_quote": "or downwards in fits of the mother, by applying it to the soles of the feet",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "womb displacement (staying in place)",
+    "context_quote": "or if you would stay it in its place, apply it to the navel",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "old ulcers and sores",
+    "context_quote": "The Burdock leaves are cooling, moderately drying, and discussing withal, whereby it is good for old ulcers and sores.",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "foul, mattery, and bloody phlegm",
+    "context_quote": "A dram of the roots taken with Pine kernels, helps them that spit foul, mattery, and bloody phlegm.",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "shrinking of the sinews or arteries",
+    "context_quote": "The leaves applied to the places troubled with the shrinking of the sinews or arteries, gives much ease.",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "biting of serpents",
+    "context_quote": "The juice of the leaves, or rather the roots themselves, given to drink with old wine, doth wonderfully help the biting of any serpents",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "pain from mad dog bite",
+    "context_quote": "And the root beaten with a little salt, and laid on the place, suddenly eases the pain thereof, and helps those that are bit by a mad dog.",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "leaf or seed application",
+    "context_quote": "by its leaf or seed you may draw the womb which way you please, either upwards by applying it to the crown of the head... or downwards in fits of the mother, by applying it to the soles of the feet; or if you would stay it in its place, apply it to the navel"
+   },
+   {
+    "kind": "root decoction with pine kernels",
+    "context_quote": "A dram of the roots taken with Pine kernels, helps them that spit foul, mattery, and bloody phlegm."
+   },
+   {
+    "kind": "juice or root with old wine",
+    "context_quote": "The juice of the leaves, or rather the roots themselves, given to drink with old wine, doth wonderfully help the biting of any serpents"
+   },
+   {
+    "kind": "root beaten with salt",
+    "context_quote": "And the root beaten with a little salt, and laid on the place, suddenly eases the pain thereof, and helps those that are bit by a mad dog."
+   }
+  ],
+  "dosage_notes": [
+   "A dram of the roots taken with Pine kernels",
+   "The seed being drank in wine forty days together",
+   "The roots may be preserved with sugar, and taken fasting, or at other times"
+  ],
+  "cautions": [],
+  "authority_citations": []
+ },
+ "resolutions": [
+  {
+   "historical_name": "Personata",
+   "candidates": [
+    {
+     "scientific_name": "Arctium minus",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.6,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Arctium lappa",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.4,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Unknown/Corrupt",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.2,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "",
+   "confidence": 0.36,
+   "status": "ambiguous",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Loppy-major",
+   "candidates": [
+    {
+     "scientific_name": "Arctium lappa",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.85,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Arctium minus",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.3,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Cirsium arvense",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.15,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Arctium lappa",
+   "confidence": 0.85,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "great Burdock",
+   "candidates": [
+    {
+     "scientific_name": "Arctium lappa",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Arctium minus",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.05,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Cnicus benedictus",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.5,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Arctium lappa",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Arctium lappa",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "A review of the pharmacological effects of Arctium lappa (burdock).",
+     "identifier": "20981575",
+     "year": "2011",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/20981575/",
+     "relevance_note": "Reviews anti-inflammatory and wound healing properties relevant to ulcers."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Arctium lappa (Burdock): Insights from ethnopharmacology potential, chemical constituents, clinical studies, pharmacological utility and nanomedicine.",
+     "identifier": "36516694",
+     "year": "2023",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/36516694/",
+     "relevance_note": "Discusses traditional uses including wound healing and potential anti-inflammatory effects."
+    },
+    {
+     "kind": "PubMed",
+     "title": "A systematic review on botany, ethnopharmacology, quality control, phytochemistry, pharmacology and toxicity of Arctium lappa L. fruit.",
+     "identifier": "36781057",
+     "year": "2023",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/36781057/",
+     "relevance_note": "Systematically reviews ethnopharmacology, including applications for skin conditions and inflammation."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "lappaflavone",
+    "arctiin",
+    "polyphenols"
+   ],
+   "summary": "Modern evidence supports Arctium lappa's traditional use for old ulcers and sores via demonstrated anti-inflammatory, antioxidant, and wound-healing activities. While specific data on womb displacement or sinew shrinking is absent in current literature, the plant's broad anti-inflammatory profile offers a plausible mechanistic basis for managing phlegm-related inflammation."
+  }
+ ],
+ "concordance": {
+  "grade": "C",
+  "direction": "partial",
+  "rationale": "Modern evidence (PMID: 20981575, 36516694) confirms anti-inflammatory and antioxidant properties but lacks clinical data for uterine displacement or specific phlegm cures.",
+  "uncertainty": "High uncertainty regarding historical claims due to absence of modern clinical trials supporting the specific indications listed in the entry.",
+  "caveats": [
+   "No evidence supports uterine manipulation claims.",
+   "Pharmacological mechanisms do not fully explain historical efficacy."
+  ]
+ },
+ "audit": {
+  "schema_ok": false,
+  "quotes_verified": [
+   "A dram of the roots taken with Pine kernels, helps them that spit foul, mattery, and bloody phlegm.",
+   "And the root beaten with a little salt, and laid on the place, suddenly eases the pain thereof, and helps those that are bit by a mad dog.",
+   "THEY are also called Personata, and Loppy-major, great Burdock and Clod-bur.",
+   "The Burdock leaves are cooling, moderately drying, and discussing withal, whereby it is good for old ulcers and sores.",
+   "The juice of the leaves, or rather the roots themselves, given to drink with old wine, doth wonderfully help the biting of any serpents",
+   "The leaves applied to the places troubled with the shrinking of the sinews or arteries, gives much ease.",
+   "by its leaf or seed you may draw the womb which way you please, either upwards by applying it to the crown of the head, in case it falls out",
+   "or downwards in fits of the mother, by applying it to the soles of the feet",
+   "or if you would stay it in its place, apply it to the navel"
+  ],
+  "quotes_failed": [],
+  "issues": [
+   "Unearned Grade: The entry assigns a 'C' grade based on the absence of clinical data for specific historical claims (uterine displacement, phlegm cures). However, the evidence list shows only 1 PubMed ID (PMID: 20981575) and EMA=false. A single modern study confirming general properties does not constitute sufficient evidence to validate the taxon's historical efficacy or justify a specific concordance grade in this context without explicit citation of the missing clinical trials. The rationale relies on 'lack' of data rather than positive verification, which is insufficient for graph admission under strict auditing rules.",
+   "Missing Family Resolution: All candidate taxa (Arctium minus, Arctium lappa, Cirsium arvense, Cnicus benedictus) have empty 'family' fields despite being Asteraceae. This violates completeness requirements for taxonomic entries."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T05:40:24Z"
+ }
+}

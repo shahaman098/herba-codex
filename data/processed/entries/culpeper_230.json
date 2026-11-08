@@ -1,0 +1,298 @@
+{
+ "id": "culpeper_230",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Roses",
+  "book": "",
+  "chapter": "",
+  "char_start": 563905,
+  "char_end": 573693,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "I HOLD it altogether needless to trouble the reader with a description\nof any of these, since both the garden Roses, and the Roses of the\nbriars are well enough known: take therefore the virtues of them as\nfollows; And first I shall begin with the garden kinds.\n\n_Government and virtues._] What a pother have authors made with Roses!\nWhat a racket have they kept? I shall add, red Roses are under Jupiter,\nDamask under Venus, White under the Moon, and Provence under the King\nof France. The white and red Roses are cooling and drying, and yet the\nwhite is taken to exceed the red in both the properties, but is seldom\nused inwardly in any medicine: The bitterness in the Roses when they\nare fresh, especially the juice, purges choler, and watery humours; but\nbeing dried, and that heat which caused the bitterness being consumed,\nthey have then a binding and astringent quality: Those also that are\nnot full blown, do both cool and bind more than those that are full\nblown, and the white Rose more than the Red. The decoction of red\nRoses made with wine and used, is very good for the head-ache, and\npains in the eyes, ears, throat, and gums; as also for the fundament,\nthe lower part of the belly and the matrix, being bathed or put into\nthem. The same decoction with the Roses remaining in it, is profitably\napplied to the region of the heart to ease the inflammation therein;\nas also St. Anthony’s fire, and other diseases of the stomach. Being\ndried and beaten to powder, and taken in steeled wine or water, it\nhelps to stay women’s courses. The yellow threads in the middle of\nthe Roses (which are erroneously called the Rose Seed) being powdered\nand drank in the distilled water of Quinces, stays the overflowing of\nwomen’s courses, and doth wonderfully stay the defluctions of rheum\nupon the gums and teeth, preserving them from corruption, and fastening\nthem if they be loose, being washed and gargled therewith, and some\nvinegar of Squills added thereto. The heads with the seed being used\nin powder, or in a decoction, stays the lask and spitting of blood.\nRed Roses do strengthen the heart, the stomach and the liver, and the\nretentive faculty: They mitigate the pains that arise from heat,\nassuage inflammations, procure rest and sleep, stay both whites and\nreds in women, the gonorrhea, or running of the reins, and fluxes of\nthe belly: the juice of them doth purge and cleanse the body from\ncholer and phlegm. The husks of the Roses, with the beards and nails\nof the Roses, are binding and cooling, and the distilled water of\neither of them is good for the heat and redness in the eyes, and to\nstay and dry up the rheums and watering of them. Of the Red Roses are\nusually made many compositions, all serving to sundry good uses, viz.\nElectuary of Roses, Conserve, both moist and dry, which is more usually\ncalled Sugar of roses, Syrup of dry Roses, and Honey of Roses. The\ncordial powder called _Diarrhoden Abbatis_, and _Aromatica Rosarum_.\nThe distilled Water of Roses, Vinegar of Roses, Ointment, and Oil of\nRoses, and the Rose leaves dried, are of great use and effect. To\nwrite at large of every one of these, would make my book smell too\nbig, it being sufficient for a volume of itself, to speak fully of\nthem. But briefly, the Electuary is purging, whereof two or three drams\ntaken by itself in some convenient liquor, is a purge sufficient for\na weak constitution, but may be increased to six drams, according to\nthe strength of the patient. It purges choler without trouble, it is\ngood in hot fevers, and pains of the head arising from hot choleric\nhumours, and heat in the eyes, the jaundice also, and joint-aches\nproceeding of hot humours. The moist Conserve is of much use, both\nbinding and cordial; for until it be about two years old, it is more\nbinding than cordial, and after that, more cordial than binding. Some\nof the younger Conserve taken with mithridate mixed together, is good\nfor those that are troubled with distillations of rheum from the brain\nto the nose, and defluctions of rheum into the eyes; as also for\nfluxes and lasks of the belly; and being mixed with the powder of\nmastich, is very good for the gonorrhea, and for the looseness of the\nhumours in the body. The old Conserve mixed with Aromaticum Rosarum,\nis a very good cordial against faintings, swoonings, weakness, and\ntremblings of the heart, strengthens, both it and a weak stomach,\nhelps digestion, stays casting, and is a very good preservative in\nthe time of infection. The dry Conserve, which is called the Sugar of\nRoses, is a very good cordial to strengthen the heart and spirits; as\nalso to stay defluctions. The syrup of dried red Roses strengthens a\nstomach given to casting, cools an over-heated liver, and the blood\nin agues, comforts the heart, and resists putrefaction and infection,\nand helps to stay lasks and fluxes. Honey of Roses is much used in\ngargles and lotions to wash sores, either in the mouth, throat, or\nother parts, both to cleanse and heal them, and to stay the fluxes\nof humours falling upon them. It is also used in clysters both to\ncool and cleanse. The cordial powders, called Diarrhoden Abbatis and\nAromaticum Rosarum, do comfort and strengthen the heart and stomach,\nprocure an appetite, help digestion, stay vomiting, and are very good\nfor those that have slippery bowels, to strengthen them, and to dry\nup their moisture. Red Rose-water is well known, and of familiar use\non all occasions, and better than Damask Rose-water, being cooling\nand cordial, refreshing, quickening the weak and faint spirits, used\neither in meats or broths, to wash the temples, to smell at the nose,\nor to smell the sweet vapours thereof out of a perfuming pot, or cast\ninto a hot fire shovel. It is also of much good use against the redness\nand inflammations of the eyes to bathe them therewith, and the temples\nof the head; as also against pain and ache, for which purpose also\nVinegar of Roses is of much good use, and to procure rest and sleep,\nif some thereof, and Rose-water",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "garden kinds",
+    "context_quote": "And first I shall begin with the garden kinds.",
+    "part_used": "Roses"
+   },
+   {
+    "name_text": "Red Roses",
+    "context_quote": "The decoction of red Roses made with wine and used, is very good for the head-ache",
+    "part_used": "Roses"
+   },
+   {
+    "name_text": "white Rose",
+    "context_quote": "but is seldom used inwardly in any medicine",
+    "part_used": "Roses"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "head-ache",
+    "context_quote": "The decoction of red Roses made with wine and used, is very good for the head-ache",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "pains in the eyes",
+    "context_quote": "and pains in the eyes, ears, throat, and gums",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "inflammation of the heart",
+    "context_quote": "as also St. Anthony's fire, and other diseases of the stomach",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "women's courses (overflowing)",
+    "context_quote": "it helps to stay women's courses",
+    "polarity": "prevents",
+    "strength": "claimed"
+   },
+   {
+    "name": "defluctions of rheum upon the gums and teeth",
+    "context_quote": "and doth wonderfully stay the defluctions of rheum upon the gums and teeth",
+    "polarity": "prevents",
+    "strength": "claimed"
+   },
+   {
+    "name": "fluxes of the belly",
+    "context_quote": "stay both whites and reds in women, the gonorrhea, or running of the reins, and fluxes of the belly",
+    "polarity": "prevents",
+    "strength": "claimed"
+   },
+   {
+    "name": "choler and phlegm",
+    "context_quote": "The juice of them doth purge and cleanse the body from choler and phlegm",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "decoction with wine",
+    "context_quote": "The decoction of red Roses made with wine and used, is very good for the head-ache"
+   },
+   {
+    "kind": "powder in steeled wine or water",
+    "context_quote": "Being dried and beaten to powder, and taken in steeled wine or water, it helps to stay women's courses"
+   },
+   {
+    "kind": "Electuary of Roses",
+    "context_quote": "viz. Electuary of Roses, Conserve, both moist and dry, which is more usually called Sugar of roses"
+   },
+   {
+    "kind": "distilled Water of Roses",
+    "context_quote": "The distilled Water of Roses, Vinegar of Roses, Ointment, and Oil of Roses, and the Rose leaves dried, are of great use and effect"
+   }
+  ],
+  "dosage_notes": [
+   "two or three drams taken by itself in some convenient liquor, is a purge sufficient for a weak constitution",
+   "may be increased to six drams, according to the strength of the patient",
+   "The bitterness in the Roses when they are fresh, especially the juice, purges choler"
+  ],
+  "cautions": [
+   "the white is taken to exceed the red in both the properties, but is seldom used inwardly in any medicine",
+   "being dried, and that heat which caused the bitterness being consumed, they have then a binding and astringent quality",
+   "Those also that are not full blown, do both cool and bind more than those that are full blown"
+  ],
+  "authority_citations": []
+ },
+ "resolutions": [
+  {
+   "historical_name": "garden kinds",
+   "candidates": [
+    {
+     "scientific_name": "Rosa ×hybrida",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.85,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Rosa gallica",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.6,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Rosa canina",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.4,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Rosa ×hybrida",
+   "confidence": 0.85,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF HIGHERRANK"
+  },
+  {
+   "historical_name": "Red Roses",
+   "candidates": [
+    {
+     "scientific_name": "Rosa gallica officinalis",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.75,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Rosa ×centifolia",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.65,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Rosa damascena",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.6,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "",
+   "confidence": 0.45,
+   "status": "ambiguous",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "white Rose",
+   "candidates": [
+    {
+     "scientific_name": "Rosa alba",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.85,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Rosa ×alba",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.7,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Rosa canina",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.35,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Rosa alba",
+   "confidence": 0.85,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Rosa ×hybrida",
+   "ema_monograph": null,
+   "pubmed": [],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "Unknown"
+   ],
+   "summary": "No modern clinical or mechanistic evidence was retrieved for Rosa ×hybrida regarding the traditional uses of fluxes, eye pain, headaches, or rheumatic deflections. The absence of specific literature suggests these historical indications lack current scientific validation."
+  },
+  {
+   "taxon": "Rosa alba",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Rose Flowers-A Delicate Perfume or a Natural Healer?",
+     "identifier": "33478154",
+     "year": "2021",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/33478154/",
+     "relevance_note": "Reviews traditional uses of Rosa alba flowers, noting historical applications for inflammation and pain, though modern clinical efficacy remains unproven."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Antimycobacterial Activity of Essential Oils from Bulgarian Rosa Species Against Phylogenomically Different Mycobacterium tuberculosis Strains.",
+     "identifier": "39598517",
+     "year": "2024",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/39598517/",
+     "relevance_note": "Demonstrates antimycobacterial activity in Rosa species essential oils, potentially relevant to historical claims of treating infections or 'inflammation of the heart'."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Screening of Cytotoxic and Genotoxic Activities of Subcritical Water Extracts from R. damascena and R. alba Flowers.",
+     "identifier": "41226258",
+     "year": "2025",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/41226258/",
+     "relevance_note": "Assesses safety profiles of R. alba extracts, providing necessary context for traditional internal use claims regarding 'fluxes' or digestive issues."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "Unknown"
+   ],
+   "summary": "Modern evidence for Rosa alba is limited to antimycobacterial activity and general reviews of traditional pain/inflammation uses. While historical texts cite uses for eye pain, headaches, and rheumatic issues, contemporary studies focus on essential oil antimicrobial properties and cytotoxicity screening rather than validating specific symptom relief."
+  }
+ ],
+ "concordance": {
+  "grade": "C",
+  "direction": "partial",
+  "rationale": "Modern evidence (PMID: 33478154, 39598517) shows antimicrobial activity but lacks clinical trials for headaches or inflammation. EMA status is false; no direct therapeutic concordance exists.",
+  "uncertainty": "High uncertainty due to absence of human clinical data supporting specific historical claims like headache relief or gum health.",
+  "caveats": [
+   "No clinical efficacy proven",
+   "Antimicrobial activity does not equate to symptom relief"
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "And first I shall begin with the garden kinds.",
+   "The decoction of red Roses made with wine and used, is very good for the head-ache",
+   "The juice of them doth purge and cleanse the body from choler and phlegm",
+   "and doth wonderfully stay the defluctions of rheum upon the gums and teeth",
+   "and pains in the eyes, ears, throat, and gums",
+   "but is seldom used inwardly in any medicine",
+   "stay both whites and reds in women, the gonorrhea, or running of the reins, and fluxes of the belly"
+  ],
+  "quotes_failed": [
+   "as also St. Anthony's fire, and other diseases of the stomach",
+   "it helps to stay women's courses"
+  ],
+  "issues": [
+   "Unearned Grade C: The concordance grade 'C' is unearned because the evidence explicitly states 'EMA status is false' and 'no direct clinical trials', yet the entry implies a specific therapeutic resolution for headaches/inflammation without supporting EMA or clinical data. Per strict auditing rules, lack of EMA/clinical evidence for claimed indications warrants a fail or pass_with_issues, not a partial pass.",
+   "Incomplete Resolutions: The 'Red Roses' historical name has no selected candidate (status: ambiguous), violating the completeness requirement that every resolved taxon must have a definitive selection.",
+   "Missing Family Data: All candidate entries lack 'family' data in the resolution object, which is required for taxonomic coherence."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T05:28:47Z"
+ }
+}

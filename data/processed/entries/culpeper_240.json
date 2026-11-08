@@ -1,0 +1,225 @@
+{
+ "id": "culpeper_240",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Sage",
+  "book": "",
+  "chapter": "",
+  "char_start": 599429,
+  "char_end": 602340,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "OUR ordinary garden Sage needs no description.\n\n_Time._] It flowers in or about July.\n\n_Government and virtues._] Jupiter claims this, and bids me tell you,\nit is good for the liver, and to breed blood. A decoction of the leaves\nand branches of Sage made and drank, saith Dioscorides, provokes urine,\nbrings down women’s courses, helps to expel the dead child, and causes\nthe hair to become black. It stays the bleeding of wounds, and cleanses\nfoul ulcers. Three spoonfuls of the juice of Sage taken fasting, with\na little honey, doth presently stay the spitting or casting of blood\nof them that are in a consumption. These pills are much commended;\nTake of spikenard, ginger, of each two drams; of the seed of Sage\ntoasted at the fire, eight drams; of long pepper, twelve drams; all\nthese being brought into powder, put thereto so much juice of Sage\nas may make them into a mass of pills, taking a dram of them every\nmorning fasting, and so likewise at night, drinking a little pure water\nafter them. Matthiolus saith, it is very profitable for all manner of\npains in the head coming of cold and rheumatic humours: as also for\nall pains of the joints, whether inwardly or outwardly, and therefore\nhelps the falling-sickness, the lethargy, such as are dull and heavy\nof spirit, the palsy; and is of much use in all defluctions of rheum\nfrom the head, and for the diseases of the chest or breast. The leaves\nof Sage and nettles bruised together, and laid upon the imposthume\nthat rises behind the ears, doth assuage it much. The juice of Sage\ntaken in warm water, helps a hoarseness and a cough. The leaves sodden\nin wine, and laid upon the place affected with the palsy, helps much,\nif the decoction be drank; Also Sage taken with wormwood is good for\nthe bloody-flux. Pliny saith, it procures women’s courses, and stays\nthem coming down too fast: helps the stinging and biting of serpents,\nand kills the worms that breed in the ear, and in sores. Sage is of\nexcellent use to help the memory, warming and quickening the senses;\nand the conserve made of the flowers is used to the same purpose, and\nalso for all the former recited diseases. The juice of Sage drank\nwith vinegar, hath been of good use in time of the plague at all\ntimes. Gargles likewise are made with Sage, rosemary, honey-suckles,\nand plantain, boiled in wine or water, with some honey or allum put\nthereto, to wash sore mouths and throats, cankers, or the secret parts\nof man or woman, as need requires. And with other hot and comfortable\nherbs, Sage is boiled to bathe the body and the legs in the Summer\ntime, especially to warm cold joints, or sinews, troubled with the\npalsy and cramp, and to comfort and strengthen the parts. It is much\ncommended against the stitch, or pains in the side coming of wind, if\nthe place be fomented warm with the decoction thereof in wine, and the\nherb also after boiling be laid warm thereunto.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Sage",
+    "context_quote": "OUR ordinary garden Sage needs no description.",
+    "part_used": "leaves and branches"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "liver issues",
+    "context_quote": "it is good for the liver",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "blood generation",
+    "context_quote": "and to breed blood",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "urinary retention",
+    "context_quote": "provokes urine",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "menstrual suppression",
+    "context_quote": "brings down women's courses",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "retained dead child",
+    "context_quote": "helps to expel the dead child",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "hair whitening",
+    "context_quote": "causes the hair to become black",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "wound bleeding",
+    "context_quote": "stays the bleeding of wounds",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "foul ulcers",
+    "context_quote": "and cleanses foul ulcers",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "decoction of leaves and branches",
+    "context_quote": "A decoction of the leaves and branches of Sage made and drank"
+   },
+   {
+    "kind": "pill with spikenard, ginger, sage seed, pepper, and sage juice",
+    "context_quote": "These pills are much commended; Take of spikenard, ginger... put thereto so much juice of Sage as may make them into a mass of pills"
+   },
+   {
+    "kind": "bruised leaves with nettles",
+    "context_quote": "The leaves of Sage and nettles bruised together, and laid upon the imposthume"
+   },
+   {
+    "kind": "gargle with rosemary, honey-suckles, plantain, wine/water, honey/allum",
+    "context_quote": "Gargles likewise are made with Sage, rosemary, honey-suckles, and plantain, boiled in wine or water"
+   }
+  ],
+  "dosage_notes": [
+   "Three spoonfuls of the juice of Sage taken fasting, with a little honey",
+   "taking a dram of them every morning fasting, and so likewise at night, drinking a little pure water after them",
+   "leaves sodden in wine"
+  ],
+  "cautions": [],
+  "authority_citations": [
+   "Dioscorides",
+   "Matthiolus",
+   "Pliny"
+  ]
+ },
+ "resolutions": [
+  {
+   "historical_name": "Sage",
+   "candidates": [
+    {
+     "scientific_name": "Salvia officinalis",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Salvia fruticosa",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.45,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Salvia nemorosa",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.35,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Salvia officinalis",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Salvia officinalis",
+   "ema_monograph": {
+    "kind": "EMA_monograph",
+    "title": "Salviae folium (sage leaf)",
+    "identifier": "https://www.ema.europa.eu/en/medicines/herbal/salviae-folium",
+    "year": "",
+    "url": "https://www.ema.europa.eu/en/medicines/herbal/salviae-folium",
+    "relevance_note": "Confirms traditional use for menopausal symptoms and hyperlipidemia, aligning with modern research on hot flashes and cholesterol."
+   },
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "The Effect of Salvia Officinalis on Hot Flashes in Postmenopausal Women: A Systematic Review and Meta-Analysis.",
+     "identifier": "37489230",
+     "year": "2023",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/37489230/",
+     "relevance_note": "Supports traditional menstrual suppression use via evidence for reducing hot flashes in postmenopausal women."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Rosmarinic acid.",
+     "identifier": "12482446",
+     "year": "2003",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/12482446/",
+     "relevance_note": "Identifies rosmarinic acid as a key constituent with antioxidant properties relevant to liver health."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Salvia officinalis (Sage) Leaf Extract as Add-on to Statin Therapy in Hypercholesterolemic Type 2 Diabetic Patients: a Randomized Clinical Trial.",
+     "identifier": "27942500",
+     "year": "2016",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/27942500/",
+     "relevance_note": "Provides clinical evidence for lipid management, addressing traditional liver and blood generation concerns."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "Rosmarinic acid"
+   ],
+   "summary": "Modern evidence supports Salvia officinalis for menopausal symptom relief (menstrual suppression) and metabolic health (lipid/blood regulation). Constituents like rosmarinic acid suggest antioxidant benefits. No specific modern data found for hair whitening, retained child use, or urinary retention; these traditional claims lack current scientific validation."
+  }
+ ],
+ "concordance": {
+  "grade": "C",
+  "direction": "partial",
+  "rationale": "Modern evidence (PMID: 37489230) supports menopausal symptom relief, partially aligning with 'menstrual suppression' context. Other claims lack clinical support.",
+  "uncertainty": "High uncertainty due to historical claims being broad and modern data limited to specific symptoms like hot flashes.",
+  "caveats": [
+   "No evidence for liver or wound healing",
+   "Safety concerns for pregnancy (menstrual suppression)",
+   "Hair whitening claim contradicted by biology"
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "OUR ordinary garden Sage needs no description.",
+   "and cleanses foul ulcers",
+   "and to breed blood",
+   "causes the hair to become black",
+   "helps to expel the dead child",
+   "it is good for the liver",
+   "provokes urine",
+   "stays the bleeding of wounds"
+  ],
+  "quotes_failed": [
+   "brings down women's courses"
+  ],
+  "issues": [
+   "Unearned Grade C: The rationale cites limited modern evidence (PMID: 37489230) for menopausal symptoms but assigns a 'C' grade based on 'partial' alignment with 'menstrual suppression'. However, the failed quote 'brings down women's courses' directly contradicts the claim of menstrual suppression. A grade of 'C' implies some validity; given the explicit failure of the core mechanism (stopping periods) and lack of evidence for other claims (liver/wound healing), the grade is misleadingly optimistic or requires a stricter 'D/F' if the graph enforces strict clinical backing for all resolved claims.",
+   "Missing Family Resolution: The 'family' field in candidates is empty; while not strictly fatal, it reduces data completeness compared to standard taxonomic entries."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T05:26:24Z"
+ }
+}

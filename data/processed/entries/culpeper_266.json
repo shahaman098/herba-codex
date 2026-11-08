@@ -1,0 +1,219 @@
+{
+ "id": "culpeper_266",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "English Tobacco",
+  "book": "",
+  "chapter": "",
+  "char_start": 655418,
+  "char_end": 658462,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "_Descript._] THIS rises up with a round thick stalk, about two feet\nhigh, whereon do grow thick, flat green leaves, nothing so large as\nthe other Indian kind, somewhat round pointed also, and nothing dented\nabout the edges. The stalk branches forth, and bears at the tops divers\nflowers set on great husks like the other, but nothing so large: scarce\nstanding above the brims of the husks, round pointed also, and of a\ngreenish yellow colour. The seed that follows is not so bright, but\nlarger, contained in the like great heads. The roots are neither so\ngreat nor woody; it perishes every year with the hard frosts in Winter,\nbut rises generally from its own sowing.\n\n_Place._] This came from some parts of Brazil, as it is thought, and is\nmore familiar in our country than any of the other sorts; early giving\nripe seed, which the others seldom do.\n\n_Time._] It flowers from June, sometimes to the end of August, or\nlater, and the seed ripens in the mean time.\n\n_Government and virtues._] It is a martial plant. It is found by\ngood experience to be available to expectorate tough phlegm from the\nstomach, chest, and lungs. The juice thereof made into a syrup, or the\ndistilled water of the herb drank with some sugar, or without, if you\nwill, or the smoak taken by a pipe, as is usual, but fainting, helps\nto expel worms in the stomach and belly, and to ease the pains in the\nhead, or megrim, and the griping pains in the bowels. It is profitable\nfor those that are troubled with the stone in the kidneys, both to\nease the pains by provoking urine, and also to expel gravel and the\nstone engendered therein, and hath been found very effectual to expel\nwindiness, and other humours, which cause the strangling of the mother.\nThe seed hereof is very effectual to expel the tooth ache, and the\nashes of the burnt herb to cleanse the gums, and make the teeth white.\nThe herb bruised and applied to the place grieved with the king’s\nevil, helps it in nine or ten days effectually. Monardus saith, it is\na counter poison against the biting of any venomous creature, the herb\nalso being outwardly applied to the hurt place. The distilled water\nis often given with some sugar before the fit of an ague, to lessen\nit, and take it away in three or four times using. If the distilled\nfæces of the herb, having been bruised before the distillation, and not\ndistilled dry, be set in warm dung for fourteen days, and afterwards\nbe hung in a bag in a wine cellar, the liquor that distills therefrom\nis singularly good to use in cramps, aches, the gout and sciatica,\nand to heal itches, scabs, and running ulcers, cankers, and all foul\nsores whatsoever. The juice is also good for all the said griefs, and\nlikewise to kill lice in children’s heads. The green herb bruised and\napplied to any green wounds, cures any fresh wound or cut whatsoever:\nand the juice put into old sores, both cleanses and heals them. There\nis also made hereof a singularly good salve to help imposthumes, hard\ntumours, and other swellings by blows and falls.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "English Tobacco",
+    "context_quote": "HEADING: English Tobacco",
+    "part_used": "whole plant"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "tough phlegm",
+    "context_quote": "available to expectorate tough phlegm from the stomach, chest, and lungs",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "worms in the stomach and belly",
+    "context_quote": "helps to expel worms in the stomach and belly",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "pains in the head, or megrim",
+    "context_quote": "and to ease the pains in the head, or megrim",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "griping pains in the bowels",
+    "context_quote": "and the griping pains in the bowels",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "stone in the kidneys",
+    "context_quote": "profitable for those that are troubled with the stone in the kidneys",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "windiness",
+    "context_quote": "found very effectual to expel windiness",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "strangling of the mother",
+    "context_quote": "other humours, which cause the strangling of the mother",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "tooth ache",
+    "context_quote": "very effectual to expel the tooth ache",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "syrup",
+    "context_quote": "The juice thereof made into a syrup"
+   },
+   {
+    "kind": "distilled water",
+    "context_quote": "or the distilled water of the herb drank with some sugar, or without"
+   },
+   {
+    "kind": "smoke",
+    "context_quote": "or the smoak taken by a pipe, as is usual"
+   },
+   {
+    "kind": "ashes",
+    "context_quote": "and the ashes of the burnt herb to cleanse the gums"
+   }
+  ],
+  "dosage_notes": [
+   "distilled water... before the fit of an ague, to lessen it, and take it away in three or four times using",
+   "set in warm dung for fourteen days, and afterwards be hung in a bag in a wine cellar",
+   "bruised and applied to the place grieved with the king's evil, helps it in nine or ten days effectually"
+  ],
+  "cautions": [
+   "fainting",
+   "",
+   ""
+  ],
+  "authority_citations": [
+   "Monardus saith"
+  ]
+ },
+ "resolutions": [
+  {
+   "historical_name": "English Tobacco",
+   "candidates": [
+    {
+     "scientific_name": "Nicotiana tabacum",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Nicotiana rustica",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.3,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Nicotiana sylvestris",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.15,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Nicotiana tabacum",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Nicotiana tabacum",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Deoxyribonuclease inhibitors.",
+     "identifier": "25042005",
+     "year": "2014",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/25042005/",
+     "relevance_note": "Discusses nicotine's biological effects but does not address traditional uses for griping pains, headaches, or worms."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Tobacco-induced contact dermatitis.",
+     "identifier": "27020490",
+     "year": "2016",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/27020490/",
+     "relevance_note": "Focuses on adverse skin reactions rather than the traditional therapeutic applications for internal ailments."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Nicotine and health.",
+     "identifier": "25012148",
+     "year": "2014",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/25012148/",
+     "relevance_note": "Reviews general health risks of nicotine; lacks specific evidence supporting traditional claims for kidney stones or phlegm."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "Nicotine",
+    "Nornicotine"
+   ],
+   "summary": "Modern literature primarily addresses nicotine's toxicity and dermatological side effects. No direct clinical evidence was found in the retrieved documents to support traditional uses for griping pains, headaches, worms, windiness, kidney stones, or phlegm resolution."
+  }
+ ],
+ "concordance": {
+  "grade": "D",
+  "direction": "contradicts",
+  "rationale": "Nicotiana tabacum contains nicotine, a potent neurotoxin. Modern evidence (PMID: 25042005, 27020490) highlights toxicity and dermatitis risks, contradicting historical claims of safety for treating internal ailments like worms or kidney stones.",
+  "uncertainty": "Low; toxicity data is robust.",
+  "caveats": [
+   "Historical preparations differ from modern extracts.",
+   "Dosage in historical contexts was uncontrolled."
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "and the griping pains in the bowels",
+   "and to ease the pains in the head, or megrim",
+   "available to expectorate tough phlegm from the stomach, chest, and lungs",
+   "found very effectual to expel windiness",
+   "helps to expel worms in the stomach and belly",
+   "other humours, which cause the strangling of the mother",
+   "profitable for those that are troubled with the stone in the kidneys",
+   "very effectual to expel the tooth ache"
+  ],
+  "quotes_failed": [
+   "HEADING: English Tobacco"
+  ],
+  "issues": [
+   "Grade 'D' is unearned for the heading itself as no supporting evidence was provided for the historical claim; the failure of the quote verification step regarding the heading prevents validation of the entry's primary assertion."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T05:41:04Z"
+ }
+}

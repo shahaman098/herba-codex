@@ -1,0 +1,260 @@
+{
+ "id": "culpeper_082",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Cowslips, Or Peagles",
+  "book": "",
+  "chapter": "",
+  "char_start": 217636,
+  "char_end": 220353,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "BOTH the wild and garden Cowslips are so well known, that I neither\ntrouble myself nor the reader with a description of them.\n\n_Time._] They flower in April and May.\n\n_Government and virtues._] Venus lays claim to this herb as her own,\nand it is under the sign Aries, and our city dames know well enough the\nointment or distilled water of it adds beauty, or at least restores it\nwhen it is lost. The flowers are held to be more effectual than the\nleaves, and the roots of little use. An ointment being made with them,\ntakes away spots and wrinkles of the skin, sun-burning, and freckles,\nand adds beauty exceedingly; they remedy all infirmities of the head\ncoming of heat and wind, as vertigo, ephialtes, false apparitions,\nphrensies, falling-sickness, palsies, convulsions, cramps, pains in\nthe nerves; the roots ease pains in the back and bladder, and open the\npassages of urine. The leaves are good in wounds, and the flowers take\naway trembling. If the flowers be not well dried, and kept in a warm\nplace, they will soon putrefy and look green: Have a special eye over\nthem; If you let them see the Sun once a month, it will do neither the\nSun nor them harm.\n\nBecause they strengthen the brain and nerves, and remedy palsies,\nGreeks gave them the name Paralysis. The flowers preserved or\nconserved, and the quantity of a nutmeg eaten every morning, is a\nsufficient dose for inward diseases; but for wounds, spots, wrinkles,\nand sunburnings, an ointment is made of the leaves, and hog’s grease.\n\n    CRAB’S CLAWS.\n\nCALLED also Water Sengreen, Knight’s Pond Water, Water House-leek, Pond\nWeed, and Fresh-water Soldier.\n\n_Descript._] It has sundry long narrow leaves, with sharp prickles\non the edges of them, also very sharp pointed; the stalks which bear\nflowers, seldom grow so high as the leaves, bearing a forked head, like\na Crab’s Claw, out of which comes a white flower, consisting of three\nleaves, with divers yellowish hairy threads in the middle; it takes\nroot in the mud at the bottom of the water.\n\n_Place._] It grows plentifully in the fens in Lincolnshire.\n\n_Time._] It flowers in June, and usually from thence till August.\n\n_Government and virtues._] It is a plant under the dominion of Venus,\nand therefore a great strengthener of the reins; it is excellently\ngood for inflammation which is commonly called St. Anthony’s Fire; it\nassuages inflammations, and swellings in wounds: and an ointment made\nof it is excellently good to heal them; there is scarcely a better\nremedy growing than this is, for such as have bruised their kidneys,\nand upon that account discharge blood; a dram of the powder of the herb\ntaken every morning, is a very good remedy to stop the terms.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Cowslips, Or Peagles",
+    "context_quote": "HEADING: Cowslips, Or Peagles",
+    "part_used": "flowers"
+   },
+   {
+    "name_text": "Paralysis",
+    "context_quote": "Because they strengthen the brain and nerves, and remedy palsies, Greeks gave them the name Paralysis.",
+    "part_used": "flowers"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "spots and wrinkles of the skin",
+    "context_quote": "takes away spots and wrinkles of the skin",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "sun-burning",
+    "context_quote": "takes away spots and wrinkles of the skin, sun-burning, and freckles",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "freckles",
+    "context_quote": "takes away spots and wrinkles of the skin, sun-burning, and freckles",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "infirmities of the head coming of heat and wind",
+    "context_quote": "they remedy all infirmities of the head coming of heat and wind",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "vertigo",
+    "context_quote": "as vertigo, ephialtes, false apparitions",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "falling-sickness",
+    "context_quote": "phrensies, falling-sickness, palsies",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "bruised kidneys",
+    "context_quote": "there is scarcely a better remedy growing than this is, for such as have bruised their kidneys",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "ointment or distilled water",
+    "context_quote": "our city dames know well enough the ointment or distilled water of it adds beauty"
+   },
+   {
+    "kind": "ointment with hog's grease",
+    "context_quote": "an ointment is made of the leaves, and hog's grease."
+   },
+   {
+    "kind": "powder",
+    "context_quote": "a dram of the powder of the herb taken every morning"
+   }
+  ],
+  "dosage_notes": [
+   "the quantity of a nutmeg eaten every morning",
+   "a dram of the powder of the herb taken every morning"
+  ],
+  "cautions": [
+   "If the flowers be not well dried, and kept in a warm place, they will soon putrefy and look green",
+   "Have a special eye over them"
+  ],
+  "authority_citations": []
+ },
+ "resolutions": [
+  {
+   "historical_name": "Cowslips, Or Peagles",
+   "candidates": [
+    {
+     "scientific_name": "Primula veris",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Primula elatior",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.35,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Primula vulgaris",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.2,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Primula veris",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Paralysis",
+   "candidates": [
+    {
+     "scientific_name": "Aconitum napellus",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.85,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Digitalis purpurea",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.6,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Narcissus pseudonarcissus",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.15,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Aconitum napellus",
+   "confidence": 0.85,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Primula veris",
+   "ema_monograph": {
+    "kind": "EMA_monograph",
+    "title": "Primulae radix (primula root)",
+    "identifier": "https://www.ema.europa.eu/en/medicines/herbal/primulae-radix",
+    "year": "",
+    "url": "https://www.ema.europa.eu/en/medicines/herbal/primulae-radix",
+    "relevance_note": "Monograph covers traditional use for respiratory issues, not vertigo or skin conditions."
+   },
+   "pubmed": [],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "saponins"
+   ],
+   "summary": "No modern clinical evidence found linking Primula veris to the recorded traditional uses of vertigo, sun-burning, or skin spots. The EMA monograph focuses on respiratory indications."
+  },
+  {
+   "taxon": "Aconitum napellus",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "RETRACTED: Neuroprotective Effects of Dried Tubers of Aconitum napellus.",
+     "identifier": "32168878",
+     "year": "2020",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/32168878/",
+     "relevance_note": "Retracted study on neuroprotection, potentially relevant to 'falling-sickness' but lacks safety data."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Protective effects of the exogenous application of salicylic acid and chitosan on chromium-induced photosynthetic capacity and osmotic adjustment in Aconitum napellus.",
+     "identifier": "39379805",
+     "year": "2024",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/39379805/",
+     "relevance_note": "Study on plant physiology, not human therapeutic use for skin or systemic conditions."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Antidiabetic activity of standardized dried tubers extract of Aconitum napellus in streptozotocin-induced diabetic rats.",
+     "identifier": "32015952",
+     "year": "2020",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/32015952/",
+     "relevance_note": "Demonstrates antidiabetic effects in rats, unrelated to traditional uses for vertigo or skin."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "aconitine",
+    "delphinine"
+   ],
+   "summary": "Modern evidence highlights neuroprotective and antidiabetic properties but does not support traditional claims for vertigo or skin spots. Crucially, the species contains potent cardiotoxic alkaloids; modern research emphasizes severe toxicity rather than therapeutic efficacy for these specific ailments."
+  }
+ ],
+ "concordance": {
+  "grade": "D",
+  "direction": "contradicts",
+  "rationale": "Primula veris lacks EMA status and PubMed evidence for dermatological or neurological claims. Aconitum napellus is toxic; its neuroprotective claims are retracted, contradicting safety.",
+  "uncertainty": "Low uncertainty due to clear absence of clinical data and known toxicity of related taxa.",
+  "caveats": [
+   "Historical texts often lack modern validation.",
+   "Toxicity overrides historical therapeutic claims."
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "Because they strengthen the brain and nerves, and remedy palsies, Greeks gave them the name Paralysis.",
+   "as vertigo, ephialtes, false apparitions",
+   "phrensies, falling-sickness, palsies",
+   "takes away spots and wrinkles of the skin",
+   "takes away spots and wrinkles of the skin, sun-burning, and freckles",
+   "there is scarcely a better remedy growing than this is, for such as have bruised their kidneys",
+   "they remedy all infirmities of the head coming of heat and wind"
+  ],
+  "quotes_failed": [
+   "HEADING: Cowslips, Or Peagles"
+  ],
+  "issues": [
+   "Unearned Grade D: The grade 'D' is assigned based on a rationale citing lack of EMA/PubMed evidence for Primula veris and retracted claims for Aconitum napellus. However, the entry contains no specific clinical or dermatological claims in the source text to validate against; the absence of modern evidence does not automatically warrant a 'D' grade if the historical context is being recorded without modern validation assertions. The rationale conflates lack of modern data with negative grading rather than flagging it as 'historical only'.",
+   "Missing Family Resolution: Scientific names (Primula veris, Aconitum napellus) are resolved but their family classifications (e.g., Primulaceae, Ranunculaceae) are empty strings in the candidates list, violating completeness requirements for taxonomic entries."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T05:35:38Z"
+ }
+}

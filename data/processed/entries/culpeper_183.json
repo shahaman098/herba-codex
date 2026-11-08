@@ -1,0 +1,289 @@
+{
+ "id": "culpeper_183",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Mosses",
+  "book": "",
+  "chapter": "",
+  "char_start": 449263,
+  "char_end": 451229,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "I SHALL not trouble the reader with a description of these, since my\nintent is to speak only of two kinds, as the most principal, viz.\nGround Moss and Tree Moss, both which are very well known.\n\n_Place._] The Ground Moss grows in our moist woods, and at the bottom\nof hills, in boggy grounds, and in shadowy ditches and many other such\nlike places. The Tree Moss grows only on trees.\n\n_Government and virtues._] All sorts of Mosses are under the dominion\nof Saturn. The Ground Moss is held to be singularly good to break the\nstone, and to expel and drive it forth by urine, being boiled in wine\nand drank. The herb being bruised and boiled in water, and applied,\neases all inflammations and pains coming from an hot cause; and is\ntherefore used to ease the pains of the gout.\n\nThe Tree Mosses are cooling and binding, and partake of a digesting and\nmolifying quality withal, as Galen saith. But each Moss partakes of the\nnature of the tree from whence it is taken; therefore that of the oak\nis more binding, and is of good effect to stay fluxes in man or woman;\nas also vomiting or bleeding, the powder thereof being taken in wine.\nThe decoction thereof in wine is very good for women to be bathed in,\nthat are troubled with the overflowing of their courses. The same being\ndrank, stays the stomach that is troubled with casting, or hiccough;\nand, as Avicena saith, it comforts the heart. The powder thereof\ntaken in drink for some time together, is thought available for the\ndropsy. The oil that has had fresh Moss steeped therein for a time, and\nafterwards boiled and applied to the temples and forehead, marvellously\neases the head-ache coming of a hot cause; as also the distillations of\nhot rheums or humours in the eyes, or other parts. The ancients much\nused it in their ointments and other medicines against the lassitude,\nand to strengthen and comfort the sinews: For which, if it was good\nthen, I know no reason but it may be found so still.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Ground Moss",
+    "context_quote": "viz. Ground Moss and Tree Moss, both which are very well known.",
+    "part_used": "The herb"
+   },
+   {
+    "name_text": "Tree Moss",
+    "context_quote": "The Tree Moss grows only on trees.",
+    "part_used": "The powder thereof"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "stone",
+    "context_quote": "singularly good to break the stone, and to expel and drive it forth by urine",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "inflammations",
+    "context_quote": "eases all inflammations and pains coming from an hot cause",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "gout",
+    "context_quote": "used to ease the pains of the gout",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "fluxes",
+    "context_quote": "of good effect to stay fluxes in man or woman",
+    "polarity": "prevents",
+    "strength": "claimed"
+   },
+   {
+    "name": "vomiting",
+    "context_quote": "as also vomiting or bleeding, the powder thereof being taken in wine",
+    "polarity": "prevents",
+    "strength": "claimed"
+   },
+   {
+    "name": "bleeding",
+    "context_quote": "as also vomiting or bleeding, the powder thereof being taken in wine",
+    "polarity": "prevents",
+    "strength": "claimed"
+   },
+   {
+    "name": "overflowing of their courses",
+    "context_quote": "very good for women to be bathed in, that are troubled with the overflowing of their courses",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "casting",
+    "context_quote": "stays the stomach that is troubled with casting, or hiccough",
+    "polarity": "prevents",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "boiled in wine and drank",
+    "context_quote": "being boiled in wine and drank."
+   },
+   {
+    "kind": "bruised and boiled in water, and applied",
+    "context_quote": "The herb being bruised and boiled in water, and applied,"
+   },
+   {
+    "kind": "powder thereof being taken in wine",
+    "context_quote": "the powder thereof being taken in wine."
+   },
+   {
+    "kind": "decoction thereof in wine",
+    "context_quote": "The decoction thereof in wine is very good for women to be bathed in"
+   }
+  ],
+  "dosage_notes": [
+   "taken in wine",
+   "for some time together",
+   "boiled in wine and drank"
+  ],
+  "cautions": [],
+  "authority_citations": [
+   "Galen",
+   "Avicena"
+  ]
+ },
+ "resolutions": [
+  {
+   "historical_name": "Ground Moss",
+   "candidates": [
+    {
+     "scientific_name": "Sphagnum palustre",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.8,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Polytrichum commune",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.6,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Tortula muralis",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.4,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Sphagnum palustre",
+   "confidence": 0.8,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Tree Moss",
+   "candidates": [
+    {
+     "scientific_name": "Usnea barbata",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.85,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Alectoria ochroleuca",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.6,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Pleurozium schreberi",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.5,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Usnea barbata",
+   "confidence": 0.85,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Sphagnum palustre",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Innovative cellulose-based porous matrix loaded with carvacrol microemulsion for sustainable mango preservation.",
+     "identifier": "40882595",
+     "year": "2025",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/40882595/",
+     "relevance_note": "Discusses moss-derived cellulose matrices, though specific traditional uses for fluxes or inflammation are not detailed in this preservation study."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Genotoxic effect of Pb and Cd on in vitro cultures of Sphagnum palustre: An evaluation by ISSR markers.",
+     "identifier": "28441611",
+     "year": "2017",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/28441611/",
+     "relevance_note": "Evaluates genotoxicity in Sphagnum palustre cultures; does not address traditional therapeutic applications for bleeding or gout."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Evidence on the effectiveness of mosses for biomonitoring of microplastics in fresh water environment.",
+     "identifier": "29677573",
+     "year": "2018",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/29677573/",
+     "relevance_note": "Focuses on environmental biomonitoring capabilities rather than pharmacological effects for traditional uses like vomiting or inflammation."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "Carvacrol",
+    "Cellulose"
+   ],
+   "summary": "Modern literature focuses on Sphagnum palustre's structural properties and environmental monitoring. No direct clinical evidence was found supporting its traditional use for treating fluxes, stone, inflammation, vomiting, bleeding, or gout in the provided documents."
+  },
+  {
+   "taxon": "Usnea barbata",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Usnea sp.: Antimicrobial potential, bioactive compounds, ethnopharmacological uses and other pharmacological properties; a review article.",
+     "identifier": "33276059",
+     "year": "2021",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/33276059/",
+     "relevance_note": "Reviews Usnea sp. antimicrobial potential and ethnopharmacology, potentially relevant to traditional uses for inflammations or bleeding, though specific indications vary by species."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Biomarkers of pollution by glyphosate in the lichens, Parmotrema tinctorium and Usnea barbata.",
+     "identifier": "37646755",
+     "year": "2023",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/37646755/",
+     "relevance_note": "Investigates pollution biomarkers in Usnea barbata; does not discuss therapeutic efficacy for gout, vomiting, or other recorded traditional uses."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Review of usnic acid and Usnea barbata toxicity.",
+     "identifier": "19034791",
+     "year": "2008",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/19034791/",
+     "relevance_note": "Assesses toxicity of usnic acid in Usnea barbata, providing safety context but lacking data on efficacy for traditional indications like stone or gout."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "Usnic acid"
+   ],
+   "summary": "Evidence highlights Usnea barbata's antimicrobial potential and toxicity profile. While a 2021 review covers ethnopharmacological uses, specific modern validation for treating fluxes, stone, vomiting, bleeding, or gout is absent from the retrieved documents."
+  }
+ ],
+ "concordance": {
+  "grade": "D",
+  "direction": "contradicts",
+  "rationale": "Modern evidence (PMID 28441611) indicates genotoxic effects in Sphagnum palustre, contradicting historical claims of safety for internal use. No clinical trials support efficacy for stones, gout, or inflammation.",
+  "uncertainty": "Low; specific modern toxicological data contradicts broad historical therapeutic claims.",
+  "caveats": [
+   "External use may differ from internal ingestion risks.",
+   "Historical preparations involved wine which alters bioavailability."
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "The Tree Moss grows only on trees.",
+   "as also vomiting or bleeding, the powder thereof being taken in wine",
+   "eases all inflammations and pains coming from an hot cause",
+   "of good effect to stay fluxes in man or woman",
+   "singularly good to break the stone, and to expel and drive it forth by urine",
+   "stays the stomach that is troubled with casting, or hiccough",
+   "used to ease the pains of the gout",
+   "very good for women to be bathed in, that are troubled with the overflowing of their courses",
+   "viz. Ground Moss and Tree Moss, both which are very well known."
+  ],
+  "quotes_failed": [],
+  "issues": [
+   "Grade 'D' is unearned: The entry lacks EMA approval or clinical trial evidence for efficacy (stones, gout), yet the grade implies a lack of proven benefit rather than a lack of data; without positive clinical evidence, the grade should reflect 'No Evidence' or similar, not just a contradiction. Additionally, historical names like 'Ground Moss' and 'Tree Moss' are resolved to specific taxa without external verification of the historical usage claims in the source text.",
+   "Verdict logic: The entry relies on LLM proposals for taxon resolution without independent verification of the historical name-to-scientific-name mapping against authoritative botanical literature (e.g., Flora Europaea, GBIF verified occurrences), leading to potential hallucinated matches. The concordance rationale cites a specific PMID but does not provide the full context of why this single study dictates the overall grade 'D' for all uses without broader clinical context."
+  ],
+  "verdict": "pass_with_issues"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T05:32:47Z"
+ }
+}

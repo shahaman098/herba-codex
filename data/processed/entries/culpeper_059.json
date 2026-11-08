@@ -1,0 +1,219 @@
+{
+ "id": "culpeper_059",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Celandine",
+  "book": "",
+  "chapter": "",
+  "char_start": 167147,
+  "char_end": 172349,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "_Descript._] THIS hath divers tender, round, whitish green stalks,\nwith greater joints than ordinary in other herbs as it were knees,\nvery brittle and easy to break, from whence grow branches with large\ntender broad leaves, divided into many parts, each of them cut in on\nthe edges, set at the joint on both sides of the branches, of a dark\nblueish green colour, on the upper side like Columbines, and of a more\npale blueish green underneath, full of yellow sap, when any is broken,\nof a bitter taste, and strong scent. At the flowers, of four leaves\na-piece, after which come small long pods, with blackish seed therein.\nThe root is somewhat great at the head, shooting forth divers long\nroots and small strings, reddish on the outside, and yellow within,\nfull of yellow sap therein.\n\n_Place._] They grow in many places by old walls, hedges and way-sides\nin untilled places; and being once planted in a garden, especially some\nshady places, it will remain there.\n\n_Time._] They flower all the Summer, and the seed ripens in the mean\ntime.\n\n_Government and virtues._] This is an herb of the Sun, and under the\nCelestial Lion, and is one of the best cures for the eyes; for, all\nthat know any thing in astrology, know that the eyes are subject to the\nluminaries; let it then be gathered when the Sun is in Leo, and the\nMoon in Aries, applying to this time; let Leo arise, then may you make\ninto an oil or ointment, which you please, to anoint your sore eyes\nwith. I can prove it doth both my own experience, and the experience of\nthose to whom I have taught it, that most desperate sore eyes have been\ncured by this only medicine; and then, I pray, is not this far better\nthan endangering the eyes by the art of the needle? For if this does\nnot absolutely take away the film, it will so facilitate the work, that\nit might be done without danger. The herb or root boiled in white Wine\nand drank, a few Anniseeds being boiled therewith, opens obstructions\nof the liver and gall, helps the yellow jaundice; and often using it,\nhelps the dropsy and the itch, and those who have old sores in their\nlegs, or other parts of the body. The juice thereof taken fasting, is\nheld to be of singularly good use against the pestilence. The distilled\nwater, with a little sugar and a little good treacle mixed therewith\n(the party upon the taking being laid down to sweat a little) has\nthe same effect. The juice dropped into the eyes, cleanses them from\nfilms and cloudiness which darken the sight, but it is best to allay\nthe sharpness of the juice with a little breast milk. It is good in\nall old filthy corroding creeping ulcers wheresoever, to stay their\nmalignity of fretting and running, and to cause them to heal more\nspeedily: The juice often applied to tetters, ring-worms, or other such\nlike spreading cankers, will quickly heal them, and rubbed often upon\nwarts, will take them away. The herb with the roots bruised and bathed\nwith oil of camomile, and applied to the navel, takes away the griping\npains of the belly and bowels, and all the pains of the mother; and\napplied to women’s breasts stays the overmuch flowing of the courses.\nThe juice or decoction of the herb gargled between the teeth that ach,\neases the pain, and the powder of the dried root laid upon any aching,\nhollow or loose tooth, will cause it to fall out. The juice mixed with\nsome powder of brimstone is not only good against the itch, but takes\naway all discolourings of the skin whatsoever: and if it chance that in\na tender body it causes any itchings or inflammations, by bathing the\nplace with a little vinegar it is helped.\n\nAnother ill-favoured trick have physicians got to use to the eye, and\nthat is worse than the needle; which is to take away the films by\ncorroding or gnawing medicine. That I absolutely protest against.\n\n1. Because the tunicles of the eyes are very thin, and therefore soon\neaten asunder.\n\n2. The callus or film that they would eat away, is seldom of an equal\nthickness in every place, and then the tunicle may be eaten asunder in\none place, before the film be consumed in another, and so be a readier\nway to extinguish the sight than to restore it.\n\nIt is called Chelidonium, from the Greek word _Chelidon_, which\nsignifies a swallow; because they say, that if you put out the eyes of\nyoung swallows when they are in the nest, the old ones will recover\ntheir eyes again with this herb. This I am confident, for I have tried\nit, that if we mar the very apple of their eyes with a needle, she will\nrecover them again; but whether with this herb or not, I know not.\n\nAlso I have read (and it seems to be somewhat probable) that the herb,\nbeing gathered as I shewed before, and the elements draw apart from it\nby art of the alchymist, and after they are drawn apart rectified, the\nearthly quality, still in rectifying them, added to the _Terra damnata_\n(as Alchymists call it) or _Terra Sacratisima_ (as some philosophers\ncall it) the elements so rectified are sufficient for the cure of all\ndiseases, the humours offending being known and the contrary element\ngiven: It is an experiment worth the trying, and can do no harm.\n\n    THE LESSER CELANDINE, USUALLY KNOWN BY THE NAME OF PILEWORT",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Celandine",
+    "context_quote": "HEADING: Celandine",
+    "part_used": "The herb or root"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "sore eyes",
+    "context_quote": "one of the best cures for the eyes",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "obstructions of the liver and gall",
+    "context_quote": "opens obstructions of the liver and gall",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "yellow jaundice",
+    "context_quote": "helps the yellow jaundice",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "dropsy",
+    "context_quote": "helps the dropsy",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "the itch",
+    "context_quote": "often using it, helps the dropsy and the itch",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "old sores in their legs",
+    "context_quote": "and those who have old sores in their legs",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "pestilence",
+    "context_quote": "held to be of singularly good use against the pestilence",
+    "polarity": "prevents",
+    "strength": "claimed"
+   },
+   {
+    "name": "films and cloudiness which darken the sight",
+    "context_quote": "cleanses them from films and cloudiness which darken the sight",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "oil or ointment",
+    "context_quote": "make into an oil or ointment, which you please"
+   },
+   {
+    "kind": "decoction in white Wine with Anniseeds",
+    "context_quote": "The herb or root boiled in white Wine and drank, a few Anniseeds being boiled therewith"
+   },
+   {
+    "kind": "distilled water with sugar and treacle",
+    "context_quote": "The distilled water, with a little sugar and a little good treacle mixed therewith"
+   },
+   {
+    "kind": "bruised herb with oil of camomile",
+    "context_quote": "The herb with the roots bruised and bathed with oil of camomile"
+   }
+  ],
+  "dosage_notes": [
+   "let it then be gathered when the Sun is in Leo, and the Moon in Aries",
+   "The juice thereof taken fasting",
+   "the party upon the taking being laid down to sweat a little"
+  ],
+  "cautions": [
+   "it is best to allay the sharpness of the juice with a little breast milk",
+   "in a tender body",
+   ""
+  ],
+  "authority_citations": []
+ },
+ "resolutions": [
+  {
+   "historical_name": "Celandine",
+   "candidates": [
+    {
+     "scientific_name": "Chelidonium majus",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Ranunculus flammula",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.65,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Ranunculus repens",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.45,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Chelidonium majus",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Chelidonium majus",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Alkaloids in Chelidonium majus L: a review of its phytochemistry, pharmacology and toxicology.",
+     "identifier": "39239653",
+     "year": "2024",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/39239653/",
+     "relevance_note": "Reviews modern pharmacology of alkaloids relevant to liver/gall obstructions and anti-inflammatory effects for skin/sore eyes."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Greater Celandine's Ups and Downs-21 Centuries of Medicinal Uses of Chelidonium majus From the Viewpoint of Today's Pharmacology.",
+     "identifier": "29713277",
+     "year": "2018",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/29713277/",
+     "relevance_note": "Discusses historical uses for liver/gall issues and skin conditions, contrasting traditional claims with current toxicological safety data."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Pharmacological activities of Chelidonium majus L. (Papaveraceae).",
+     "identifier": "8870028",
+     "year": "1996",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/8870028/",
+     "relevance_note": "Early study on anti-inflammatory and wound-healing properties potentially supporting traditional uses for sores and eye irritation."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "Chelerythrine",
+    "Chelidonine",
+    "Sanguinarine"
+   ],
+   "summary": "Modern evidence supports Chelidonium majus' traditional use for liver/gall obstructions via alkaloid-mediated choleretic effects and anti-inflammatory activity beneficial for skin sores and eye irritation. However, significant toxicity concerns regarding cardiac glycosides and alkaloids limit current clinical application, suggesting historical efficacy was often balanced by risk."
+  }
+ ],
+ "concordance": {
+  "grade": "D",
+  "direction": "contradicts",
+  "rationale": "Modern evidence (PMID: 39239653, 29713277) highlights severe hepatotoxicity and carcinogenic risks of Chelidonium majus alkaloids, directly contradicting historical claims for liver/gall obstructions and jaundice. Ocular use is unsafe due to toxicity.",
+  "uncertainty": "Low; toxicological data is robust and contradicts therapeutic claims.",
+  "caveats": [
+   "Do not ingest or apply near eyes.",
+   "Historical efficacy likely confounded by placebo or misidentification."
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "and those who have old sores in their legs",
+   "cleanses them from films and cloudiness which darken the sight",
+   "held to be of singularly good use against the pestilence",
+   "helps the dropsy",
+   "helps the yellow jaundice",
+   "often using it, helps the dropsy and the itch",
+   "one of the best cures for the eyes",
+   "opens obstructions of the liver and gall"
+  ],
+  "quotes_failed": [
+   "HEADING: Celandine"
+  ],
+  "issues": [
+   "Unearned grade 'D' lacks explicit EMA/clinical evidence citation in the provided evidence list (only pubmed_n=3 listed without specific toxicological proof details), though rationale is strong; however, strict adherence requires explicit evidence for the grade.",
+   "Historical claims of efficacy are contradicted by modern toxicology but the entry relies on LLM proposals for taxon resolution which may need higher confidence validation."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T05:37:30Z"
+ }
+}

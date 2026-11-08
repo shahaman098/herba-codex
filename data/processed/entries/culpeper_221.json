@@ -1,0 +1,295 @@
+{
+ "id": "culpeper_221",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Privet",
+  "book": "",
+  "chapter": "",
+  "char_start": 543936,
+  "char_end": 545621,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "_Descript._] OUR common Privet is carried up with many slender branches\nto a reasonable height and breadth, to cover arbours, bowers and\nbanquetting houses, and brought, wrought, and cut into so many forms,\nof men, horses, birds, &c. which though at first supported, grows\nafterwards strong of itself. It bears long and narrow green leaves by\nthe couples, and sweet smelling white flowers in tufts at the end of\nthe branches, which turn into small black berries that have a purplish\njuice with them, and some seeds that are flat on the one side, with a\nhole or dent therein.\n\n_Place._] It grows in this land, in divers woods.\n\n_Time._] Our Privet flowers in June and July, the berries are ripe in\nAugust and September.\n\n_Government and virtues._] The Moon is lady of this. It is little used\nin physic with us in these times, more than in lotions, to wash sores\nand sore mouths, and to cool inflammations, and dry up fluxes. Yet\nMatthiolus saith, it serves all the uses for which Cypress, or the East\nPrivet, is appointed by Dioscorides and Galen. He further saith, That\nthe oil that is made of the flowers of Privet infused therein, and set\nin the Sun, is singularly good for the inflammations of wounds, and\nfor the headache, coming of a hot cause. There is a sweet water also\ndistilled from the flowers, that is good for all those diseases that\nneed cooling and drying, and therefore helps all fluxes of the belly\nor stomach, bloody-fluxes, and women’s courses, being either drank or\napplied; as all those that void blood at the mouth, or any other place,\nand for distillations of rheum in the eyes, especially if it be used\nwith them.\n\n    QUEEN OF THE MEADOWS, MEADOW",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Privet",
+    "context_quote": "OUR common Privet is carried up with many slender branches",
+    "part_used": "whole plant"
+   },
+   {
+    "name_text": "East Privet",
+    "context_quote": "Yet Matthiolus saith, it serves all the uses for which Cypress, or the East Privet, is appointed by Dioscorides and Galen.",
+    "part_used": "whole plant"
+   },
+   {
+    "name_text": "QUEEN OF THE MEADOWS",
+    "context_quote": "QUEEN OF THE MEADOWS, MEADOW",
+    "part_used": "unknown"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "sores",
+    "context_quote": "to wash sores and sore mouths",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "sore mouths",
+    "context_quote": "to wash sores and sore mouths",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "inflammations",
+    "context_quote": "and to cool inflammations, and dry up fluxes",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "fluxes",
+    "context_quote": "and to cool inflammations, and dry up fluxes",
+    "polarity": "prevents",
+    "strength": "claimed"
+   },
+   {
+    "name": "inflammations of wounds",
+    "context_quote": "is singularly good for the inflammations of wounds",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "headache",
+    "context_quote": "and for the headache, coming of a hot cause",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "fluxes of the belly or stomach",
+    "context_quote": "therefore helps all fluxes of the belly or stomach",
+    "polarity": "prevents",
+    "strength": "claimed"
+   },
+   {
+    "name": "bloody-fluxes",
+    "context_quote": "and women's courses, being either drank or applied; as all those that void blood at the mouth",
+    "polarity": "prevents",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "lotions",
+    "context_quote": "more than in lotions, to wash sores and sore mouths"
+   },
+   {
+    "kind": "oil",
+    "context_quote": "the oil that is made of the flowers of Privet infused therein, and set in the Sun"
+   },
+   {
+    "kind": "sweet water",
+    "context_quote": "There is a sweet water also distilled from the flowers"
+   }
+  ],
+  "dosage_notes": [
+   "being either drank or applied",
+   "especially if it be used with them"
+  ],
+  "cautions": [
+   "It is little used in physic with us in these times"
+  ],
+  "authority_citations": [
+   "Matthiolus",
+   "Dioscorides",
+   "Galen"
+  ]
+ },
+ "resolutions": [
+  {
+   "historical_name": "Privet",
+   "candidates": [
+    {
+     "scientific_name": "Ligustrum vulgare",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Ligustrum ovalifolium",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.6,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Ligustrum lucidum",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.2,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Ligustrum vulgare",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "East Privet",
+   "candidates": [
+    {
+     "scientific_name": "Ligustrum vulgare",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.85,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Ligustrum ovalifolium",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.7,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Ligustrum sinense",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.3,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Ligustrum vulgare",
+   "confidence": 0.85,
+   "status": "resolved",
+   "reasoning": "LLM proposal; not verified"
+  },
+  {
+   "historical_name": "QUEEN OF THE MEADOWS",
+   "candidates": [
+    {
+     "scientific_name": "Anemone nemorosa",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.9,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Ranunculus acris",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.4,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Primula vulgaris",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.35,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Anemone nemorosa",
+   "confidence": 0.9,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Ligustrum vulgare",
+   "ema_monograph": null,
+   "pubmed": [],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "flavonoids",
+    "iridoid glycosides"
+   ],
+   "summary": "No modern clinical or mechanistic evidence was retrieved for Ligustrum vulgare regarding the traditional uses of fluxes, inflammations, sores, wound inflammation, sore mouths, or headache. The absence of relevant literature in the provided search results precludes a summary of pharmacological findings."
+  },
+  {
+   "taxon": "Anemone nemorosa",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "In Vitro Anti-proliferative Activity and Mechanism of Action of Anemone nemorosa.",
+     "identifier": "30862032",
+     "year": "2019",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/30862032/",
+     "relevance_note": "Demonstrates anti-proliferative effects on tumor cells, potentially relevant to inflammation or sore management."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Potential Benefits of Dietary Plant Compounds on Normal and Tumor Brain Cells in Humans: In Silico and In Vitro Approaches.",
+     "identifier": "37108565",
+     "year": "2023",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/37108565/",
+     "relevance_note": "Discusses plant compounds affecting brain cells, offering theoretical context for headache or neurological applications."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "anemonin",
+    "protoanemonin"
+   ],
+   "summary": "Modern evidence highlights anti-proliferative activity and potential benefits on tumor/brain cells. While these findings suggest mechanisms relevant to inflammation or specific conditions, direct clinical validation for traditional uses like sores, fluxes, or headache remains absent in the retrieved literature."
+  }
+ ],
+ "concordance": {
+  "grade": "D",
+  "direction": "contradicts",
+  "rationale": "Ligustrum vulgare lacks EMA approval and PubMed evidence for these uses. Anemone nemorosa shows anti-proliferative activity, contradicting claims of treating inflammatory sores or fluxes.",
+  "uncertainty": "Low; taxon resolution is high, but clinical efficacy data is absent.",
+  "caveats": [
+   "No modern clinical trials support the historical claims.",
+   "Potential toxicity exists for Ligustrum vulgare."
+  ]
+ },
+ "audit": {
+  "schema_ok": false,
+  "quotes_verified": [
+   "OUR common Privet is carried up with many slender branches",
+   "QUEEN OF THE MEADOWS, MEADOW",
+   "Yet Matthiolus saith, it serves all the uses for which Cypress, or the East Privet, is appointed by Dioscorides and Galen.",
+   "and for the headache, coming of a hot cause",
+   "and to cool inflammations, and dry up fluxes",
+   "is singularly good for the inflammations of wounds",
+   "therefore helps all fluxes of the belly or stomach",
+   "to wash sores and sore mouths"
+  ],
+  "quotes_failed": [
+   "and women's courses, being either drank or applied; as all those that void blood at the mouth"
+  ],
+  "issues": [
+   "Unearned Grade D: The concordance grade 'D' is assigned based on a rationale stating 'Ligustrum vulgare lacks EMA approval and PubMed evidence'. However, the entry contains zero extracted quotes (quotes_verified is empty) to substantiate this claim. A grade of 'D' (contradicts) implies specific contradictory evidence was found in the source text, but no such textual evidence (quotes) was provided or verified. The rationale relies on external knowledge (lack of EMA/PubMed data) rather than internal document evidence, violating the requirement that grades follow from extracted evidence.",
+   "Missing Evidence for Resolved Taxa: 'Ligustrum vulgare' is resolved with high confidence but has 0 PubMed citations and false EMA status in the evidence block. Without a single quote supporting its use or lack thereof, the grade cannot be justified within the graph's evidentiary constraints.",
+   "Incomplete Verification: The extraction step failed to pull any quotes from the source text for either taxon, making it impossible to verify the 'contradicts' direction of the concordance grade against the actual source material."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T05:30:42Z"
+ }
+}

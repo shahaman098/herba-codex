@@ -1,0 +1,237 @@
+{
+ "id": "culpeper_062",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "The Cherry-Tree",
+  "book": "",
+  "chapter": "",
+  "char_start": 177960,
+  "char_end": 179019,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "I SUPPOSE there are few but know this tree, for its fruit’s sake; and\ntherefore I shall spare writing a description thereof.\n\n_Place._] For the place of its growth, it is afforded room in every\norchard.\n\n_Government and virtues._] It is a tree of _Venus_. Cherries, as they\nare of different tastes, so they are of different qualities. The sweet\npass through the stomach and the belly more speedily, but are of little\nnourishment; the tart or sour are more pleasing to an hot stomach,\nprocure appetite to meat, to help and cut tough phlegm, and gross\nhumours; but when these are dried, they are more binding to the belly\nthan when they are fresh, being cooling in hot diseases, and welcome to\nthe stomach, and provokes urine. The gum of the Cherry-tree, desolved\nin wine is good for a cold, cough, and hoarseness of the throat; mends\nthe colour in the face, sharpens the eye-sight, provokes appetite, and\nhelps to break and expel the stone, and dissolved, the water thereof is\nmuch used to break the stone, and to expel gravel and wind.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Cherry-Tree",
+    "context_quote": "HEADING: The Cherry-Tree",
+    "part_used": "tree"
+   },
+   {
+    "name_text": "Cherries",
+    "context_quote": "Cherries, as they are of different tastes",
+    "part_used": "fruit"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "cold",
+    "context_quote": "The gum of the Cherry-tree, desolved in wine is good for a cold",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "cough",
+    "context_quote": "The gum of the Cherry-tree, desolved in wine is good for a cold, cough",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "hoarseness of the throat",
+    "context_quote": "cough, and hoarseness of the throat; mends the colour in the face",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "stone",
+    "context_quote": "helps to break and expel the stone, and dissolved, the water thereof is much used to break the stone",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "gravel",
+    "context_quote": "and to expel gravel and wind",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "fresh sweet cherries",
+    "context_quote": "The sweet pass through the stomach and the belly more speedily"
+   },
+   {
+    "kind": "tart or sour cherries",
+    "context_quote": "the tart or sour are more pleasing to an hot stomach, procure appetite to meat"
+   },
+   {
+    "kind": "dried cherries",
+    "context_quote": "but when these are dried, they are more binding to the belly than when they are fresh"
+   },
+   {
+    "kind": "gum dissolved in wine",
+    "context_quote": "The gum of the Cherry-tree, desolved in wine is good for a cold, cough, and hoarseness of the throat"
+   }
+  ],
+  "dosage_notes": [
+   "sweet cherries pass through the stomach more speedily",
+   "tart cherries are pleasing to an hot stomach",
+   "dried cherries are more binding to the belly than when fresh"
+  ],
+  "cautions": [
+   "sweet cherries are of little nourishment",
+   "tart cherries help cut tough phlegm and gross humours",
+   "dried cherries are cooling in hot diseases"
+  ],
+  "authority_citations": []
+ },
+ "resolutions": [
+  {
+   "historical_name": "Cherry-Tree",
+   "candidates": [
+    {
+     "scientific_name": "Prunus avium",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Prunus cerasus",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.6,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Prunus serotina",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.3,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Prunus avium",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Cherries",
+   "candidates": [
+    {
+     "scientific_name": "Prunus avium",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.85,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Prunus cerasus",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.75,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Prunus padus",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.4,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Prunus avium",
+   "confidence": 0.85,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Prunus avium",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Sleep and Nutrition Interactions: Implications for Athletes.",
+     "identifier": "30979048",
+     "year": "2019",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/30979048/",
+     "relevance_note": "Discusses tart cherry juice benefits, potentially relevant to respiratory inflammation but not specific to traditional cough or gravel uses."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Tart Cherry Juice in Athletes: A Literature Review and Commentary.",
+     "identifier": "28696985",
+     "year": "2017",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/28696985/",
+     "relevance_note": "Reviews tart cherry juice for recovery; may offer indirect support for anti-inflammatory claims regarding colds or throat irritation."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Efficacy and safety of tart cherry supplementary citrate mixture on gout patients: a prospective, randomized, controlled study.",
+     "identifier": "37679816",
+     "year": "2023",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/37679816/",
+     "relevance_note": "Examines tart cherry citrate for gout (gravel), suggesting potential relevance to traditional kidney stone or gravel management."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "anthocyanins",
+    "melatonin",
+    "citrate"
+   ],
+   "summary": "Modern evidence focuses on tart cherry juice for inflammation, sleep, and gout. While these align partially with traditional uses for colds (inflammation) and gravel (gout), specific data for cough or hoarseness is limited in the retrieved documents."
+  }
+ ],
+ "concordance": {
+  "grade": "D",
+  "direction": "contradicts",
+  "rationale": "Modern evidence (PMID: 30979048, 28696985) focuses on tart cherry juice for sleep and athletic recovery. No clinical data supports treating colds, coughs, stones, or gravel with Prunus avium gum/water.",
+  "uncertainty": "Low; evidence explicitly addresses different indications (sleep/athletics) rather than respiratory or urological claims.",
+  "caveats": [
+   "Historical 'gum' differs from modern juice concentrate.",
+   "No safety data for internal use of gum/water."
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "Cherries, as they are of different tastes",
+   "The gum of the Cherry-tree, desolved in wine is good for a cold",
+   "The gum of the Cherry-tree, desolved in wine is good for a cold, cough",
+   "and to expel gravel and wind",
+   "cough, and hoarseness of the throat; mends the colour in the face",
+   "helps to break and expel the stone, and dissolved, the water thereof is much used to break the stone"
+  ],
+  "quotes_failed": [
+   "HEADING: The Cherry-Tree"
+  ],
+  "issues": [
+   "Unearned grade 'D' with low evidence count (pubmed_n=3) and no EMA data for the specific historical indications (colds, coughs, stones); claims of treating stones/gravel lack clinical support in provided evidence.",
+   "Incomplete resolution: Historical names 'Cherry-Tree' and 'Cherries' resolved to Prunus avium without verifying if the specific historical usage (gum/water) matches modern taxonomic data or if other species (e.g., Prunus padus for coughs) should be considered."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T05:46:49Z"
+ }
+}

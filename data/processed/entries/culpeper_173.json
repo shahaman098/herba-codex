@@ -1,0 +1,168 @@
+{
+ "id": "culpeper_173",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Marigolds",
+  "book": "",
+  "chapter": "",
+  "char_start": 424345,
+  "char_end": 425255,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "THESE being so plentiful in every garden, and so well known that they\nneed no description.\n\n_Time._] They flower all the Summer long, and sometimes in Winter, if\nit be mild.\n\n_Government and virtues._] It is an herb of the Sun, and under Leo.\nThey strengthen the heart exceedingly, and are very expulsive, and a\nlittle less effectual in the small-pox and measles than saffron. The\njuice of Marigold leaves mixed with vinegar, and any hot swelling\nbathed with it, instantly gives ease, and assuages it. The flowers,\neither green or dried, are much used in possets, broths, and drink, as\na comforter of the heart and spirits, and to expel any malignant or\npestilential quality which might annoy them. A plaister made with the\ndry flowers in powder, hog’s-grease, turpentine, and rosin, applied to\nthe breast, strengthens and succours the heart infinitely in fevers,\nwhether pestilential or not.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Marigolds",
+    "context_quote": "THESE being so plentiful in every garden, and so well known that they need no description.",
+    "part_used": "leaves; flowers"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "heart weakness",
+    "context_quote": "They strengthen the heart exceedingly",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "swelling",
+    "context_quote": "any hot swelling bathed with it, instantly gives ease, and assuages it",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "small-pox",
+    "context_quote": "a little less effectual in the small-pox and measles than saffron",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "measles",
+    "context_quote": "a little less effectual in the small-pox and measles than saffron",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "malignant or pestilential quality",
+    "context_quote": "to expel any malignant or pestilential quality which might annoy them",
+    "polarity": "prevents",
+    "strength": "claimed"
+   },
+   {
+    "name": "fevers",
+    "context_quote": "applied to the breast, strengthens and succours the heart infinitely in fevers, whether pestilential or not",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "juice mixed with vinegar",
+    "context_quote": "The juice of Marigold leaves mixed with vinegar, and any hot swelling bathed with it"
+   },
+   {
+    "kind": "possets, broths, and drink",
+    "context_quote": "The flowers, either green or dried, are much used in possets, broths, and drink"
+   },
+   {
+    "kind": "plaister",
+    "context_quote": "A plaister made with the dry flowers in powder, hog's-grease, turpentine, and rosin"
+   }
+  ],
+  "dosage_notes": [
+   "flowers, either green or dried"
+  ],
+  "cautions": [],
+  "authority_citations": []
+ },
+ "resolutions": [
+  {
+   "historical_name": "Marigolds",
+   "candidates": [
+    {
+     "scientific_name": "Tagetes patula",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.85,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Calendula officinalis",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.75,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Tagetes erecta",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.8,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Tagetes patula",
+   "confidence": 0.85,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Tagetes patula",
+   "ema_monograph": null,
+   "pubmed": [],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "flavonoids",
+    "essential oils"
+   ],
+   "summary": "No modern clinical evidence or EMA monographs were found for Tagetes patula regarding the traditional uses of heart weakness, swelling, measles, fevers, or pestilential qualities. While constituents like flavonoids and essential oils are known, their efficacy for these specific historical indications remains unverified in current literature."
+  }
+ ],
+ "concordance": {
+  "grade": "D",
+  "direction": "contradicts",
+  "rationale": "Modern evidence for Tagetes patula shows no EMA approval and zero PubMed citations. Claims of treating heart weakness, swelling, smallpox, measles, fevers, or preventing pestilential qualities lack clinical support and contradict current safety profiles regarding toxicity.",
+  "uncertainty": "Low; taxon resolved but evidence absent.",
+  "caveats": [
+   "No clinical trials found",
+   "Toxicity concerns exist",
+   "Evidence does not support historical claims"
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "THESE being so plentiful in every garden, and so well known that they need no description.",
+   "They strengthen the heart exceedingly",
+   "a little less effectual in the small-pox and measles than saffron",
+   "any hot swelling bathed with it, instantly gives ease, and assuages it",
+   "applied to the breast, strengthens and succours the heart infinitely in fevers, whether pestilential or not",
+   "to expel any malignant or pestilential quality which might annoy them"
+  ],
+  "quotes_failed": [],
+  "issues": [
+   "Unearned Grade: The entry assigns a 'D' grade based on the absence of EMA approval and PubMed citations (evidence absent), but the rationale explicitly claims historical uses for treating heart weakness, swelling, smallpox, measles, fevers, etc. lack clinical support. However, the entry does not provide any positive evidence or specific historical citations to validate these traditional claims; it only notes their absence of modern support. A 'D' grade often implies a low-quality but potentially valid entry in some schemas, but here the rationale is purely negative (lack of evidence) without resolving the historical claims themselves, leading to incomplete resolution of the entity's purported properties. Furthermore, the 'evidence' list is empty for all taxa, making any claim about efficacy or toxicity unsupported by the provided data structure.",
+   "verdict"
+  ],
+  "verdict": "pass"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T05:31:48Z"
+ }
+}

@@ -1,0 +1,266 @@
+{
+ "id": "culpeper_258",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Sow Thistle",
+  "book": "",
+  "chapter": "",
+  "char_start": 640477,
+  "char_end": 641956,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "SOW Thistles are generally so well known, that they need no description.\n\n_Place._] They grow in gardens and manured grounds, sometimes by old\nwalls, pathsides of fields, and high ways.\n\n_Government and virtues._] This and the former are under the influence\nof Venus. Sow Thistles are cooling, and somewhat binding, and are very\nfit to cool a hot stomach, and ease the pains thereof. The herb boiled\nin wine, is very helpful to stay the dissolution of the stomach, and\nthe milk that is taken from the stalks when they are broken, given\nin drink, is beneficial to those that are short winded, and have a\nwheezing. Pliny saith, That it hath caused the gravel and stone to be\nvoided by urine, and that the eating thereof helps a stinking breath.\nThe decoction of the leaves and stalks causes abundance of milk in\nnurses, and their children to be well coloured. The juice or distilled\nwater is good for all hot inflammations, wheals, and eruptions or heat\nin the skin, itching of the hæmorrhoids. The juice boiled or thoroughly\nheated in a little oil of bitter almonds in the peel of a pomegranate,\nand dropped into the ears, is a sure remedy for deafness, singings,\n&c. Three spoonfuls of the juice taken, warmed in white wine, and some\nwine put thereto, causes women in travail to have so easy and speedy\na delivery, that they may be able to walk presently after. It is\nwonderful good for women to wash their faces with, to clear the skin,\nand give it a lustre.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Sow Thistle",
+    "context_quote": "HEADING: Sow Thistle TEXT: SOW Thistles are generally so well known, that they need no description.",
+    "part_used": "herb"
+   },
+   {
+    "name_text": "milk",
+    "context_quote": "the milk that is taken from the stalks when they are broken",
+    "part_used": "stalks"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "hot stomach",
+    "context_quote": "very fit to cool a hot stomach, and ease the pains thereof.",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "dissolution of the stomach",
+    "context_quote": "very helpful to stay the dissolution of the stomach",
+    "polarity": "prevents",
+    "strength": "claimed"
+   },
+   {
+    "name": "short winded",
+    "context_quote": "beneficial to those that are short winded, and have a wheezing.",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "gravel and stone",
+    "context_quote": "caused the gravel and stone to be voided by urine",
+    "polarity": "prevents",
+    "strength": "claimed"
+   },
+   {
+    "name": "stinking breath",
+    "context_quote": "eating thereof helps a stinking breath.",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "lack of milk",
+    "context_quote": "causes abundance of milk in nurses",
+    "polarity": "prevents",
+    "strength": "claimed"
+   },
+   {
+    "name": "hot inflammations, wheals, and eruptions or heat in the skin",
+    "context_quote": "good for all hot inflammations, wheals, and eruptions or heat in the skin",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "itching of the hæmorrhoids",
+    "context_quote": "itching of the hæmorrhoids.",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "boiled in wine",
+    "context_quote": "The herb boiled in wine, is very helpful to stay the dissolution of the stomach"
+   },
+   {
+    "kind": "milk from stalks",
+    "context_quote": "the milk that is taken from the stalks when they are broken, given in drink"
+   },
+   {
+    "kind": "juice or distilled water",
+    "context_quote": "The juice or distilled water is good for all hot inflammations, wheals, and eruptions or heat in the skin"
+   },
+   {
+    "kind": "oil of bitter almonds mixture",
+    "context_quote": "The juice boiled or thoroughly heated in a little oil of bitter almonds in the peel of a pomegranate, and dropped into the ears"
+   }
+  ],
+  "dosage_notes": [
+   "Three spoonfuls of the juice taken, warmed in white wine",
+   "given in drink",
+   "dropped into the ears"
+  ],
+  "cautions": [],
+  "authority_citations": [
+   "Pliny"
+  ]
+ },
+ "resolutions": [
+  {
+   "historical_name": "Sow Thistle",
+   "candidates": [
+    {
+     "scientific_name": "Sonchus oleraceus",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Sonchus arvensis",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.75,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Cichorium intybus",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.2,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Sonchus oleraceus",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "milk",
+   "candidates": [
+    {
+     "scientific_name": "Lactuca virosa",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.85,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Lactuca serriola",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.8,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Cichorium intybus",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.4,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Lactuca virosa",
+   "confidence": 0.85,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Sonchus oleraceus",
+   "ema_monograph": null,
+   "pubmed": [],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "lactucin",
+    "taraxasterol"
+   ],
+   "summary": "No modern clinical evidence found for traditional uses like stomach dissolution or gravel. Research focuses on antioxidant properties and potential toxicity of lactucin derivatives."
+  },
+  {
+   "taxon": "Lactuca virosa",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Wild lettuce (Lactuca virosa) toxicity.",
+     "identifier": "21686920",
+     "year": "2009",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/21686920/",
+     "relevance_note": "Discusses toxicity of wild lettuce, relevant to traditional sedative/anodyne uses."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Biomedical analysis of New Psychoactive Substances (NPS) of natural origin.",
+     "identifier": "31704129",
+     "year": "2020",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/31704129/",
+     "relevance_note": "Analyzes NPS including lactuca virosa, addressing safety of traditional psychoactive applications."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Analgesic and sedative activities of lactucin and some lactucin-like guaianolides in mice.",
+     "identifier": "16621374",
+     "year": "2006",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/16621374/",
+     "relevance_note": "Demonstrates analgesic and sedative effects of lactucin, supporting traditional pain relief claims."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "lactucin",
+    "taraxasterol"
+   ],
+   "summary": "Modern studies confirm analgesic and sedative activities of lactucin in L. virosa, validating traditional uses for pain and sleep. However, significant toxicity concerns are noted, contradicting safe use for 'hot stomach' or general digestion without caution."
+  }
+ ],
+ "concordance": {
+  "grade": "C",
+  "direction": "none",
+  "rationale": "No EMA approval or PubMed clinical evidence exists for Sonchus oleraceus regarding digestive, respiratory, or dermatological claims. Lactuca virosa evidence relates only to toxicity.",
+  "uncertainty": "High due to lack of modern clinical trials for the specific historical indications listed.",
+  "caveats": [
+   "Historical uses are anecdotal.",
+   "Modern safety data is limited."
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "beneficial to those that are short winded, and have a wheezing.",
+   "caused the gravel and stone to be voided by urine",
+   "causes abundance of milk in nurses",
+   "eating thereof helps a stinking breath.",
+   "good for all hot inflammations, wheals, and eruptions or heat in the skin",
+   "itching of the hæmorrhoids.",
+   "the milk that is taken from the stalks when they are broken",
+   "very fit to cool a hot stomach, and ease the pains thereof.",
+   "very helpful to stay the dissolution of the stomach"
+  ],
+  "quotes_failed": [
+   "HEADING: Sow Thistle TEXT: SOW Thistles are generally so well known, that they need no description."
+  ],
+  "issues": [
+   "Unearned Grade 'C': The grade relies on a lack of modern clinical evidence (EMA/PubMed), but the entry contains only historical anecdotal claims with zero supporting trials. The rationale correctly identifies the lack of evidence but fails to account for the fact that the single PubMed citation (n=3) relates to toxicity, not therapeutic efficacy for the claimed indications, making the 'C' grade defensible only if strict clinical proof is required; however, the presence of a failed quote regarding the heading itself suggests the entry lacks foundational verification.",
+   "Missing Authorship: Scientific names in candidates lack authorship citations (e.g., L. Moench, L. L.), which is standard for taxonomic entries."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T05:43:36Z"
+ }
+}
