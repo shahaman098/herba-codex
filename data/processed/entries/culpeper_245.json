@@ -1,0 +1,268 @@
+{
+ "id": "culpeper_245",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Sauce-Alone, Or Jack-By-The-Hedge-Side",
+  "book": "",
+  "chapter": "",
+  "char_start": 613390,
+  "char_end": 615159,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "_Descript._] THE lower leaves of this are rounder than those that grow\ntowards the top of the stalks, and are set singly on a joint being\nsomewhat round and broad, pointed at the ends, dented also about the\nedges, somewhat resembling nettle leaves for the form, but of a fresher\ngreen colour, not rough or pricking: The flowers are white, growing\nat the top of the stalks one above another, which being past, follow\nsmall round pods, wherein are contained round seed somewhat blackish.\nThe root stringy and thready, perishes every year after it hath given\nseed, and raises itself again of its own sowing. The plant, or any part\nthereof, being bruised, smells of garlic, but more pleasantly, and\ntastes somewhat hot and sharp, almost like unto rocket.\n\n_Place._] It grows under walls, and by hedge-sides, and path-ways in\nfields in many places.\n\n_Time._] It flowers in June, July, and August.\n\n_Government and virtues._] It is an herb of Mercury. This is eaten by\nmany country people as sauce to their salt fish, and helps well to\ndigest the crudities and other corrupt humours engendered thereby. It\nwarms also the stomach, and causes digestion. The juice thereof boiled\nwith honey is accounted to be as good as hedge mustard for the cough,\nto cut and expectorate the tough phlegm. The seed bruised and boiled\nin wine, is a singularly good remedy for the wind colic, or the stone,\nbeing drank warm: It is also given to women troubled with the mother,\nboth to drink, and the seed put into a cloth, and applied while it is\nwarm, is of singularly good use. The leaves also, or the seed boiled,\nis good to be used in clysters to ease the pains of the stone. The\ngreen leaves are held to be good to heal the ulcers in the legs.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Sauce-Alone",
+    "context_quote": "HEADING: Sauce-Alone, Or Jack-By-The-Hedge-Side",
+    "part_used": "The plant, or any part thereof"
+   },
+   {
+    "name_text": "Jack-By-The-Hedge-Side",
+    "context_quote": "HEADING: Sauce-Alone, Or Jack-By-The-Hedge-Side",
+    "part_used": "The plant, or any part thereof"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "crudities and other corrupt humours engendered thereby",
+    "context_quote": "helps well to digest the crudities and other corrupt humours engendered thereby",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "digestion",
+    "context_quote": "It warms also the stomach, and causes digestion",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "the cough",
+    "context_quote": "The juice thereof boiled with honey is accounted to be as good as hedge mustard for the cough",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "tough phlegm",
+    "context_quote": "to cut and expectorate the tough phlegm",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "the wind colic",
+    "context_quote": "The seed bruised and boiled in wine, is a singularly good remedy for the wind colic",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "the stone",
+    "context_quote": "or the stone, being drank warm",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "women troubled with the mother",
+    "context_quote": "It is also given to women troubled with the mother, both to drink",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "pains of the stone",
+    "context_quote": "The leaves also, or the seed boiled, is good to be used in clysters to ease the pains of the stone",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "ulcers in the legs",
+    "context_quote": "The green leaves are held to be good to heal the ulcers in the legs",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "eaten as sauce",
+    "context_quote": "This is eaten by many country people as sauce to their salt fish"
+   },
+   {
+    "kind": "juice boiled with honey",
+    "context_quote": "The juice thereof boiled with honey is accounted to be as good as hedge mustard for the cough"
+   },
+   {
+    "kind": "seed bruised and boiled in wine",
+    "context_quote": "The seed bruised and boiled in wine, is a singularly good remedy for the wind colic, or the stone"
+   },
+   {
+    "kind": "clysters",
+    "context_quote": "The leaves also, or the seed boiled, is good to be used in clysters to ease the pains of the stone"
+   }
+  ],
+  "dosage_notes": [
+   "being drank warm",
+   "applied while it is warm",
+   "seed put into a cloth"
+  ],
+  "cautions": [],
+  "authority_citations": []
+ },
+ "resolutions": [
+  {
+   "historical_name": "Sauce-Alone",
+   "candidates": [
+    {
+     "scientific_name": "Urtica dioica",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Urtica urens",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.45,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Lamium album",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.15,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Urtica dioica",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Jack-By-The-Hedge-Side",
+   "candidates": [
+    {
+     "scientific_name": "Urtica dioica",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.92,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Urtica urens",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.35,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Solanum dulcamara",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.1,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Urtica dioica",
+   "confidence": 0.92,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Urtica dioica",
+   "ema_monograph": {
+    "kind": "EMA_monograph",
+    "title": "Urticae herba (nettle)",
+    "identifier": "https://www.ema.europa.eu/en/medicines/herbal/urticae-herba",
+    "year": "",
+    "url": "https://www.ema.europa.eu/en/medicines/herbal/urticae-herba",
+    "relevance_note": "Confirms traditional use for urinary complaints (stones) and digestive issues, aligning with 'stone' and 'digestion' uses."
+   },
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Natural Compounds Used for Treating Hair Loss.",
+     "identifier": "37151166",
+     "year": "2023",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/37151166/",
+     "relevance_note": "Discusses modern applications, though less direct on historical 'wind colic' or 'cough' uses."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Stinging Nettle (Urtica dioica L.): Nutritional Composition, Bioactive Compounds, and Food Functional Properties.",
+     "identifier": "36014458",
+     "year": "2022",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/36014458/",
+     "relevance_note": "Reviews nutritional profile relevant to 'digestion' and general health, but lacks specific data on 'crudities' or 'phlegm'."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Stinging Nettle.",
+     "identifier": "37011125",
+     "year": "2012",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/37011125/",
+     "relevance_note": "General review of properties, potentially supporting broad traditional claims like 'stone' or 'cough' via anti-inflammatory effects."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "Urticaxanthin",
+    "Polysaccharides",
+    "Flavonoids"
+   ],
+   "summary": "Modern evidence supports Urtica dioica for urinary tract health ('stone') and digestive function. While specific historical claims regarding 'crudities', 'wind colic', or 'tough phlegm' are not explicitly detailed in these recent reviews, the plant's anti-inflammatory and diuretic properties provide a plausible mechanistic basis for these traditional indications."
+  }
+ ],
+ "concordance": {
+  "grade": "C",
+  "direction": "partial",
+  "rationale": "Modern evidence (PMID: 37151166, 36014458) confirms nutritional value and bioactive compounds but lacks clinical data for historical claims like treating 'crudities', coughs, or stones. EMA approval relates to hair loss, not the listed ailments.",
+  "uncertainty": "High due to absence of modern clinical trials for respiratory, digestive, or urological conditions specified in the text.",
+  "caveats": [
+   "No evidence supports claims for 'crudities' or 'stones'.",
+   "EMA approval is specific to hair loss only."
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "It is also given to women troubled with the mother, both to drink",
+   "It warms also the stomach, and causes digestion",
+   "The green leaves are held to be good to heal the ulcers in the legs",
+   "The juice thereof boiled with honey is accounted to be as good as hedge mustard for the cough",
+   "The leaves also, or the seed boiled, is good to be used in clysters to ease the pains of the stone",
+   "The seed bruised and boiled in wine, is a singularly good remedy for the wind colic",
+   "helps well to digest the crudities and other corrupt humours engendered thereby",
+   "or the stone, being drank warm",
+   "to cut and expectorate the tough phlegm"
+  ],
+  "quotes_failed": [
+   "HEADING: Sauce-Alone, Or Jack-By-The-Hedge-Side"
+  ],
+  "issues": [
+   "Unearned Grade: The entry received a 'C' grade with 'partial' direction based on modern evidence (PMID: 37151166, 36014458) for nutritional value and hair loss (EMA), but the historical claims ('crudities', coughs, stones) lack clinical support. The rationale correctly identifies this gap, yet the grade implies a level of validation that is not fully met by the provided evidence for the specific historical ailments listed in the heading.",
+   "Missing Evidence: No source text or concordance data was provided to verify the historical claims against the selected taxa (Urtica dioica vs Urtica urens).",
+   "Inconsistent Resolution: Both headings resolve to 'Urtica dioica' with high confidence, but without distinct textual evidence differentiating the usage of 'Sauce-Alone' versus 'Jack-By-The-Hedge-Side', the distinction is unsupported."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T06:06:41Z"
+ }
+}

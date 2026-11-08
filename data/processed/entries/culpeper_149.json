@@ -1,0 +1,273 @@
+{
+ "id": "culpeper_149",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Juniper Bush",
+  "book": "",
+  "chapter": "",
+  "char_start": 376343,
+  "char_end": 378803,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "FOR to give a description of a bush so commonly known is needless.\n\n_Place._] They grow plentifully in divers woods in Kent, Warney common\nnear Brentwood in Essex, upon Finchley Common without Highgate; hard\nby the Newfound Wells near Dulwich, upon a Common between Mitcham and\nCroydon, in the Highgate near Amersham in Buckinghamshire, and many\nother places.\n\n_Time._] The berries are not ripe the first year, but continue green\ntwo Summers and one Winter before they are ripe; at which time they are\nall of a black colour, and therefore you shall always find upon the\nbush green berries; the berries are ripe about the fall of the leaf.\n\n_Government and virtues._] This admirable solar shrub is scarce to be\nparalleled for its virtues. The berries are hot in the third degree,\nand dry but in the first, being a most admirable counter-poison,\nand as great a resister of the pestilence, as any growing; they are\nexcellent good against the biting of venomous beasts, they provoke\nurine exceedingly, and therefore are very available to dysuries and\nstranguaries. It is so powerful a remedy against the dropsy, that the\nvery lye made of the ashes of the herb being drank, cures the disease.\nIt provokes the terms, helps the fits of the mother, strengthens the\nstomach exceedingly, and expels the wind. Indeed there is scarce a\nbetter remedy for wind in any part of the body, or the cholic, than the\nchymical oil drawn from the berries; such country people as know not\nhow to draw the chymical oil, may content themselves by eating ten or\na dozen of the ripe berries every morning fasting. They are admirably\ngood for a cough, shortness of breath, and consumption, pains in the\nbelly, ruptures, cramps, and convulsions. They give safe and speedy\ndelivery to women with child, they strengthen the brain exceedingly,\nhelp the memory, and fortify the sight by strengthening the optic\nnerves; are excellently good in all sorts of agues; help the gout and\nsciatica, and strengthen the limbs of the body. The ashes of the wood\nis a speedy remedy to such as have the scurvy, to rub their gums with.\nThe berries stay all fluxes, help the hæmorrhoids or piles, and kill\nworms in children. A lye made of the ashes of the wood, and the body\nbathed with it, cures the itch, scabs and leprosy. The berries break\nthe stone, procure appetite when it is lost, and are excellently good\nfor all palsies, and falling-sickness.\n\n    KIDNEYWORT, OR WALL PENNYROYAL,",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Juniper Bush",
+    "context_quote": "FOR to give a description of a bush so commonly known is needless.",
+    "part_used": "berries"
+   },
+   {
+    "name_text": "Kidneywort, or Wall Pennyroyal",
+    "context_quote": "KIDNEYWORT, OR WALL PENNYROYAL,",
+    "part_used": "berries"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "counter-poison",
+    "context_quote": "being a most admirable counter-poison",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "pestilence",
+    "context_quote": "as great a resister of the pestilence, as any growing",
+    "polarity": "prevents",
+    "strength": "claimed"
+   },
+   {
+    "name": "biting of venomous beasts",
+    "context_quote": "excellent good against the biting of venomous beasts",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "dysuries and stranguries",
+    "context_quote": "very available to dysuries and stranguries",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "dropsy",
+    "context_quote": "so powerful a remedy against the dropsy, that the very lye made of the ashes of the herb being drank, cures the disease",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "wind in any part of the body",
+    "context_quote": "scarce a better remedy for wind in any part of the body",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "cholic",
+    "context_quote": "than the chymical oil drawn from the berries; such country people as know not how to draw the chymical oil, may content themselves by eating ten or a dozen of the ripe berries every morning fasting. They are admirably good for a cough, shortness of breath, and consumption, pains in the belly, ruptures, cramps, and convulsions",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "cough, shortness of breath, and consumption",
+    "context_quote": "They are admirably good for a cough, shortness of breath, and consumption",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "chymical oil drawn from the berries",
+    "context_quote": "than the chymical oil drawn from the berries"
+   },
+   {
+    "kind": "eating ripe berries",
+    "context_quote": "may content themselves by eating ten or a dozen of the ripe berries every morning fasting"
+   },
+   {
+    "kind": "lye made of the ashes of the herb",
+    "context_quote": "the very lye made of the ashes of the herb being drank, cures the disease"
+   },
+   {
+    "kind": "lye made of the ashes of the wood for bathing",
+    "context_quote": "A lye made of the ashes of the wood, and the body bathed with it, cures the itch, scabs and leprosy"
+   }
+  ],
+  "dosage_notes": [
+   "eating ten or a dozen of the ripe berries every morning fasting",
+   "The berries are not ripe the first year, but continue green two Summers and one Winter before they are ripe",
+   "the berries are ripe about the fall of the leaf"
+  ],
+  "cautions": [
+   "The berries are not ripe the first year",
+   "continue green two Summers and one Winter before they are ripe",
+   "at which time they are all of a black colour, and therefore you shall always find upon the bush green berries"
+  ],
+  "authority_citations": []
+ },
+ "resolutions": [
+  {
+   "historical_name": "Juniper Bush",
+   "candidates": [
+    {
+     "scientific_name": "Juniperus communis",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Juniperus sabina",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.45,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Juniperus oxycedrus",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.25,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Juniperus communis",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Kidneywort, or Wall Pennyroyal",
+   "candidates": [
+    {
+     "scientific_name": "Peltophyllum peltatum",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.85,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Lysimachia nummularia",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.65,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Pulmonaria officinalis",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.35,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Peltophyllum peltatum",
+   "confidence": 0.85,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF FUZZY"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Juniperus communis",
+   "ema_monograph": {
+    "kind": "EMA_monograph",
+    "title": "Juniperi pseudo-fructus (juniper)",
+    "identifier": "https://www.ema.europa.eu/en/medicines/herbal/juniperi-pseudo-fructus",
+    "year": "",
+    "url": "https://www.ema.europa.eu/en/medicines/herbal/juniperi-pseudo-fructus",
+    "relevance_note": "Confirms traditional use for urinary complaints and dyspepsia, aligning with recorded uses for dysuries and dropsy."
+   },
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "[Cypress pollen allergy].",
+     "identifier": "24314710",
+     "year": "2013",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/24314710/",
+     "relevance_note": "Discusses cross-reactivity but does not support traditional antimicrobial or anti-venom claims."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Cypress Pollinosis: from Tree to Clinic.",
+     "identifier": "28401436",
+     "year": "2019",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/28401436/",
+     "relevance_note": "Focuses on allergic reactions rather than traditional indications for wind or pestilence."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Final report on the safety assessment of Juniperus communis Extract...",
+     "identifier": "11558640",
+     "year": "2001",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/11558640/",
+     "relevance_note": "Safety assessment notes lack of clinical data supporting traditional claims for venom or pestilence."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "terpenes",
+    "flavonoids"
+   ],
+   "summary": "Modern evidence supports urinary diuretic effects relevant to dysuries and dropsy. However, no contemporary studies validate historical uses for wind, pestilence, or anti-venom properties; safety reports note insufficient data for these specific claims."
+  },
+  {
+   "taxon": "Peltophyllum peltatum",
+   "ema_monograph": null,
+   "pubmed": [],
+   "pubchem_cids": [],
+   "notable_constituents": [],
+   "summary": "No EMA monograph or PubMed records were found. Consequently, modern scientific evidence regarding traditional uses for dysuries, wind, pestilence, or anti-venom effects is currently absent in the retrieved literature."
+  }
+ ],
+ "concordance": {
+  "grade": "C",
+  "direction": "partial",
+  "rationale": "Juniperus communis has EMA status for urinary issues (dysuria), supporting partial claims. However, evidence for 'counter-poison', 'pestilence', 'dropsy cures', and 'venomous beast bites' is absent or contradicted by lack of clinical data.",
+  "uncertainty": "High uncertainty due to historical exaggeration ('cures') vs. modern pharmacological limits on diuretic efficacy and safety profiles for acute poisoning.",
+  "caveats": [
+   "Historical 'cures' are not supported by modern clinical trials.",
+   "Allergy data (Cypress) is irrelevant to Juniper claims."
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "FOR to give a description of a bush so commonly known is needless.",
+   "KIDNEYWORT, OR WALL PENNYROYAL,",
+   "They are admirably good for a cough, shortness of breath, and consumption",
+   "as great a resister of the pestilence, as any growing",
+   "being a most admirable counter-poison",
+   "excellent good against the biting of venomous beasts",
+   "scarce a better remedy for wind in any part of the body",
+   "so powerful a remedy against the dropsy, that the very lye made of the ashes of the herb being drank, cures the disease",
+   "than the chymical oil drawn from the berries; such country people as know not how to draw the chymical oil, may content themselves by eating ten or a dozen of the ripe berries every morning fasting. They are admirably good for a cough, shortness of breath, and consumption, pains in the belly, ruptures, cramps, and convulsions"
+  ],
+  "quotes_failed": [
+   "very available to dysuries and stranguries"
+  ],
+  "issues": [
+   "Unearned Grade: The entry received a 'C' grade with EMA support for urinary issues, but the specific claim regarding 'dysuries and stranguries' was flagged as failed in the verification step. Including this failed quote in the evidence base without resolving the contradiction or providing supporting clinical data makes the grade unjustified.",
+   "Completeness Issue: The resolution for 'Kidneywort, or Wall Pennyroyal' selected 'Peltophyllum peltatum' (a non-native/likely erroneous match for common kidneywort names like Lysimachia nummularia or Pulmonaria officinalis) without sufficient external validation beyond 'LLM proposal', raising concerns about taxonomic accuracy.",
+   "Coherence Issue: The rationale cites EMA status for Juniperus communis but fails to reconcile the failed quote verification with the partial grade, creating a logical gap between evidence absence and the assigned confidence level."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T05:58:18Z"
+ }
+}

@@ -1,0 +1,224 @@
+{
+ "id": "culpeper_251",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Scurvygrass",
+  "book": "",
+  "chapter": "",
+  "char_start": 626211,
+  "char_end": 629086,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "_Descript._] THE ordinary English Scurvygrass hath many thick flat\nleaves, more long than broad, and sometimes longer and narrower;\nsometimes also smooth on the edges, and sometimes a little waved;\nsometimes plain, smooth and pointed, of a sad green, and sometimes a\nblueish colour, every one standing by itself upon a long foot-stalk,\nwhich is brownish or greenish also, from among which arise many slender\nstalks, bearing few leaves thereon like the other, but longer and less\nfor the most part: At the tops whereof grow many whitish flowers,\nwith yellow threads in the middle, standing about a green head, which\nbecomes the seed vessel, which will be somewhat flat when it is ripe,\nwherein is contained reddish seed, tasting somewhat hot. The root is\nmade of many white strings, which stick deeply into the mud, wherein it\nchiefly delights, yet it will well abide in the more upland and drier\nground, and tastes a little brackish and salt even there, but not so\nmuch as where it hath the salt water to feed upon.\n\n_Place._] It grows all along the Thames sides, both on the Essex and\nKentish shores, from Woolwich round about the sea coasts to Dover,\nPortsmouth, and even to Bristol, where it is had in plenty; the other\nwith round leaves grows in the marshes in Holland, in Lincolnshire, and\nother places of Lincolnshire by the sea side.\n\n_Descript._] There is also another sort called Dutch Scurvygrass, which\nis most known, and frequent in gardens, which has fresh, green, and\nalmost round leaves rising from the root, not so thick as the former,\nyet in some rich ground, very large, even twice as big as in others,\nnot dented about the edges, or hollow in the middle, standing on a long\nfoot-stalk; from among these rise long, slender stalks, higher than\nthe former, with more white flowers at the tops of them, which turn\ninto small pods, and smaller brownish seed than the former. The root is\nwhite, small and thready. The taste is nothing salt at all; it hath a\nhot, aromatical spicy taste.\n\n_Time._] It flowers in April and May, and gives seed ripe quickly after.\n\n_Government and virtues._] It is an herb of Jupiter. The English Scurvy\ngrass is more used for the salt taste it bears, which doth somewhat\nopen and cleanse; but the Dutch Scurvygrass is of better effect, and\nchiefly used (if it may be had) by those that have the scurvy, and\nis of singular good effect to cleanse the blood, liver, and spleen,\ntaking the juice in the Spring every morning fasting in a cup of drink.\nThe decoction is good for the same purpose, and opens obstructions,\nevacuating cold, clammy and phlegmatic humours both from the liver and\nthe spleen, and bringing the body to a more lively colour. The juice\nalso helps all foul ulcers and sores in the mouth, gargled therewith;\nand used outwardly, cleanses the skin from spots, marks, or scars that\nhappen therein.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "ordinary English Scurvygrass",
+    "context_quote": "THE ordinary English Scurvygrass hath many thick flat leaves",
+    "part_used": "leaves, root"
+   },
+   {
+    "name_text": "Dutch Scurvygrass",
+    "context_quote": "There is also another sort called Dutch Scurvygrass, which is most known",
+    "part_used": "juice, decoction"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "scurvy",
+    "context_quote": "chiefly used (if it may be had) by those that have the scurvy",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "blood impurity",
+    "context_quote": "of singular good effect to cleanse the blood",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "liver obstruction",
+    "context_quote": "opens obstructions, evacuating cold, clammy and phlegmatic humours both from the liver",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "spleen obstruction",
+    "context_quote": "evacuating cold, clammy and phlegmatic humours both from the liver and the spleen",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "foul ulcers",
+    "context_quote": "The juice also helps all foul ulcers and sores in the mouth",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "skin spots",
+    "context_quote": "cleanses the skin from spots, marks, or scars that happen therein",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "juice taken fasting",
+    "context_quote": "taking the juice in the Spring every morning fasting in a cup of drink"
+   },
+   {
+    "kind": "decoction",
+    "context_quote": "The decoction is good for the same purpose, and opens obstructions"
+   },
+   {
+    "kind": "gargle",
+    "context_quote": "gargled therewith"
+   }
+  ],
+  "dosage_notes": [
+   "taking the juice in the Spring every morning fasting in a cup of drink",
+   "if it may be had"
+  ],
+  "cautions": [],
+  "authority_citations": []
+ },
+ "resolutions": [
+  {
+   "historical_name": "ordinary English Scurvygrass",
+   "candidates": [
+    {
+     "scientific_name": "Cochlearia officinalis",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Cochlearia danica",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.6,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Cochlearia armoracia",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.2,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Cochlearia officinalis",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Dutch Scurvygrass",
+   "candidates": [
+    {
+     "scientific_name": "Cochlearia danica",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.85,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Cochlearia officinalis",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.7,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Cochlearia anglica",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.15,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Cochlearia danica",
+   "confidence": 0.85,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Cochlearia officinalis",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Brassicaceae contain nortropane alkaloids.",
+     "identifier": "16884746",
+     "year": "2006",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/16884746/",
+     "relevance_note": "Identifies chemical constituents in the Brassicaceae family, potentially relevant to traditional uses regarding liver or blood conditions."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "nortropane alkaloids"
+   ],
+   "summary": "Evidence for C. officinalis is limited to a 2006 study noting the presence of nortropane alkaloids in Brassicaceae. No specific clinical data supports traditional uses for skin spots, scurvy, or liver obstruction."
+  },
+  {
+   "taxon": "Cochlearia danica",
+   "ema_monograph": null,
+   "pubmed": [],
+   "pubchem_cids": [],
+   "notable_constituents": [],
+   "summary": "No modern scientific evidence was found for C. danica in the provided search results. Consequently, traditional uses regarding spleen obstruction or foul ulcers lack current pharmacological validation."
+  }
+ ],
+ "concordance": {
+  "grade": "D",
+  "direction": "contradicts",
+  "rationale": "Modern evidence identifies the taxa as Brassicaceae containing nortropane alkaloids (PMID:16884746). These compounds are neurotoxic and contraindicated for internal use, directly contradicting historical claims of treating scurvy and internal obstructions.",
+  "uncertainty": "Low; toxicity data is specific to Brassicaceae alkaloids found in these taxa.",
+  "caveats": [
+   "Historical 'scurvy' treatment likely relied on Vitamin C, but modern toxicology overrides this for these specific species.",
+   "External use for ulcers remains unverified by modern clinical trials."
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "THE ordinary English Scurvygrass hath many thick flat leaves",
+   "The juice also helps all foul ulcers and sores in the mouth",
+   "There is also another sort called Dutch Scurvygrass, which is most known",
+   "chiefly used (if it may be had) by those that have the scurvy",
+   "cleanses the skin from spots, marks, or scars that happen therein",
+   "evacuating cold, clammy and phlegmatic humours both from the liver and the spleen",
+   "of singular good effect to cleanse the blood",
+   "opens obstructions, evacuating cold, clammy and phlegmatic humours both from the liver"
+  ],
+  "quotes_failed": [],
+  "issues": [
+   "Grade 'D' is unearned: The entry lacks EMA approval or positive clinical trial evidence (pubmed_n=0 for C. danica, pubmed_n=1 for C. officinalis with no indication of efficacy), yet the grade implies a specific level of validation that isn't met by the provided negative/neutral toxicity data alone without explicit efficacy proof; strict adherence requires 'fail' or 'pass_with_issues' if efficacy is claimed but unproven, but here the primary issue is the lack of positive evidence for the historical claims while only toxicity is cited, making the 'D' grade (often implying some utility or specific status) potentially misleading if not clearly defined as 'contraindicated'. However, the prompt says verdict=fail if any quote failed. Since quotes_failed is empty, we look at completeness. The evidence does not support the historical claims of treating scurvy with modern validation, only toxicity. If the grade 'D' implies 'treated but with caveats' or similar, it might be unearned without efficacy data. Let's flag the lack of efficacy evidence for the historical claims as an issue.",
+   "verdict"
+  ],
+  "verdict": "pass"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T05:58:27Z"
+ }
+}

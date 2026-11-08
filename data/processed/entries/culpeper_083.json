@@ -1,0 +1,163 @@
+{
+ "id": "culpeper_083",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Black Cresses",
+  "book": "",
+  "chapter": "",
+  "char_start": 220354,
+  "char_end": 221599,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "_Descript._] IT has long leaves, deeply cut and jagged on both sides,\nnot much unlike wild mustard; the stalk small, very limber, though very\ntough: you may twist them round as you may a willow before they break.\nThe flowers are very small and yellow, after which comes small pods,\nwhich contains the seed.\n\n_Place._] It is a common herb, grows usually by the way-side, and\nsometimes upon mud walls about London, but it delights to grow most\namong stones and rubbish.\n\n_Time._] It flowers in June and July, and the seed is ripe in August\nand September.\n\n_Government and virtues._] It is a plant of a hot and biting nature,\nunder the dominion of Mars. The seed of Black Cresses strengthens the\nbrain exceedingly, being, in performing that office, little inferior\nto mustard seed, if at all; they are excellently good to stay those\nrheums which may fall down from the head upon the lungs; you may beat\nthe seed into powder, if you please, and make it up into an electuary\nwith honey; so you have an excellent remedy by you, not only for the\npremises, but also for the cough, yellow jaundice and sciatica. This\nherb boiled into a poultice, is an excellent remedy for inflammations;\nboth in women’s breast, and men’s testicles.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Black Cresses",
+    "context_quote": "The seed of Black Cresses strengthens the brain exceedingly",
+    "part_used": "seed"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "rheums falling from head upon lungs",
+    "context_quote": "excellently good to stay those rheums which may fall down from the head upon the lungs",
+    "polarity": "prevents",
+    "strength": "claimed"
+   },
+   {
+    "name": "cough",
+    "context_quote": "but also for the cough",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "yellow jaundice",
+    "context_quote": "but also for the cough, yellow jaundice and sciatica",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "sciatica",
+    "context_quote": "but also for the cough, yellow jaundice and sciatica",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "electuary with honey",
+    "context_quote": "you may beat the seed into powder, if you please, and make it up into an electuary with honey"
+   },
+   {
+    "kind": "poultice",
+    "context_quote": "This herb boiled into a poultice, is an excellent remedy for inflammations"
+   }
+  ],
+  "dosage_notes": [],
+  "cautions": [],
+  "authority_citations": []
+ },
+ "resolutions": [
+  {
+   "historical_name": "Black Cresses",
+   "candidates": [
+    {
+     "scientific_name": "Cardamine amara",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.85,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Cardamine pratensis",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.6,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Thlaspi arvense",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.45,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Cardamine amara",
+   "confidence": 0.85,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Cardamine amara",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Cartwheel aerenchyma in Cardamine amara as a model of schizogenous tissue formation in plants.",
+     "identifier": "40761292",
+     "year": "2025",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/40761292/",
+     "relevance_note": "Focuses on plant anatomy rather than pharmacological effects for traditional uses."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Evaluation of the anti-inflammatory, antioxidant, and cytotoxic potential of Cardamine amara L. (Brassicaceae): A comprehensive biochemical, toxicological, and in silico computational study.",
+     "identifier": "36688045",
+     "year": "2022",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/36688045/",
+     "relevance_note": "Demonstrates anti-inflammatory and antioxidant properties, potentially relevant to cough or rheumatic pain."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "Glucosinolates",
+    "Flavonoids"
+   ],
+   "summary": "Modern evidence highlights anti-inflammatory and antioxidant activities in Cardamine amara, which may partially support traditional uses for cough or rheumatic conditions. However, specific clinical data linking the plant to sciatica, jaundice, or respiratory 'rheums' is absent from current literature."
+  }
+ ],
+ "concordance": {
+  "grade": "C",
+  "direction": "partial",
+  "rationale": "Modern evidence (PMID: 36688045) shows anti-inflammatory potential, offering partial plausibility for cough/sciatica. No EMA approval or clinical trials support rheum prevention.",
+  "uncertainty": "Clinical efficacy remains unproven; only biochemical markers and preclinical data exist.",
+  "caveats": [
+   "No human trials found",
+   "Safety concerns absent in literature"
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "The seed of Black Cresses strengthens the brain exceedingly",
+   "but also for the cough",
+   "but also for the cough, yellow jaundice and sciatica",
+   "excellently good to stay those rheums which may fall down from the head upon the lungs"
+  ],
+  "quotes_failed": [],
+  "issues": [
+   "Unearned Grade: The entry assigns a 'C' grade citing only 2 PubMed articles (PMID: 36688045) and preclinical data. This is insufficient to support any positive efficacy claim for cough or sciatica in the knowledge graph without explicit clinical trial evidence or EMA approval, making the grade unearned based on the provided evidence."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T06:01:03Z"
+ }
+}

@@ -32,6 +32,17 @@ def reaudit_file(f: Path) -> None:
     else:
         if a["verdict"] == "pass":
             a["verdict"] = "pass_with_issues"
+    # X backfill: entries the pipeline processed but could not grade honestly
+    # (taxa unresolved or no modern evidence retrieved) get the rubric's X.
+    if e.get("concordance") is None and ext.get("historical_names"):
+        e["concordance"] = {
+            "grade": "X", "direction": "none",
+            "rationale": "Cannot grade honestly: taxon unresolved or no modern "
+                         "evidence retrieved for the recorded uses.",
+            "uncertainty": "Deterministic X backfill per rubric (absence of "
+                           "retrieved evidence is not evidence of absence).",
+            "caveats": ["no concordance claim is made for this entry"],
+        }
     f.write_text(json.dumps(e, ensure_ascii=False, indent=1), encoding="utf-8")
 
 if __name__ == "__main__":

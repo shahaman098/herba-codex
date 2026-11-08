@@ -1,0 +1,207 @@
+{
+ "id": "culpeper_068",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Chickweed",
+  "book": "",
+  "chapter": "",
+  "char_start": 186809,
+  "char_end": 189060,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "IT is so generally known to most people, that I shall not trouble\nyou with the description thereof, nor myself with setting forth the\nseveral kinds, since but only two or three are considerable for their\nusefulness.\n\n_Place._] They are usually found in moist and watery places, by wood\nsides, and elsewhere.\n\n_Time._] They flower about June, and their seed is ripe in July.\n\n_Government and virtues._] It is a fine soft pleasing herb under the\ndominion of the Moon. It is found to be effectual as Purslain to all\nthe purposes whereunto it serves, except for meat only. The herb\nbruised, or the juice applied (with cloths or sponges dipped therein)\nto the region of the liver, and as they dry, to have it fresh applied,\ndoth wonderfully temperate the heat of the liver, and is effectual\nfor all imposthumes and swellings whatsoever, for all redness in the\nface, wheals, pushes, itch, scabs; the juice either simply used, or\nboiled with hog’s grease and applied, helps cramps, convulsions, and\npalsy. The juice, or distilled water, is of much good use for all heats\nand redness in the eyes, to drop some thereof into them; as also into\nthe ears, to ease pains in them; and is of good effect to ease pains\nfrom the heat and sharpness of the blood in the piles, and generally\nall pains in the body that arise of heat. It is used also in hot and\nvirulent ulcers and sores in the privy parts of men and women, or on\nthe legs, or elsewhere. The leaves boiled with marsh-mallows, and made\ninto a poultice with fenugreek and linseed, applied to swellings or\nimposthumes, ripen and break them, or assuage the swellings and ease\nthe pains. It helps the sinews when they are shrunk by cramps, or\notherwise, and to extend and make them pliable again by this medicine.\nBoil a handful of Chickweed, and a handful of red rose leaves dried, in\na quart of muscadine, until a fourth part be consumed; then put to them\na pint of oil of trotters or sheep’s feet; let them boil a good while,\nstill stirring them well; which being strained, anoint the grieved\nplace therewith, warm against the fire, rubbing it well with one hand:\nand bind also some of the herb (if you will) to the place, and, with\nGod’s blessing, it will help it in three times dressing.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Chickweed",
+    "context_quote": "HEADING: Chickweed",
+    "part_used": "The herb"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "heat of the liver",
+    "context_quote": "doth wonderfully temperate the heat of the liver",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "imposthumes and swellings",
+    "context_quote": "is effectual for all imposthumes and swellings whatsoever",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "redness in the face",
+    "context_quote": "for all redness in the face",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "wheals, pushes, itch, scabs",
+    "context_quote": "wheals, pushes, itch, scabs",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "cramps, convulsions, and palsy",
+    "context_quote": "helps cramps, convulsions, and palsy",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "heats and redness in the eyes",
+    "context_quote": "of much good use for all heats and redness in the eyes",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "pains in the ears",
+    "context_quote": "to ease pains in them",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "pains from the heat and sharpness of the blood in the piles",
+    "context_quote": "to ease pains from the heat and sharpness of the blood in the piles",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "bruised herb or juice applied with cloths or sponges",
+    "context_quote": "The herb bruised, or the juice applied (with cloths or sponges dipped therein)"
+   },
+   {
+    "kind": "juice boiled with hog's grease",
+    "context_quote": "or boiled with hog's grease and applied"
+   },
+   {
+    "kind": "distilled water for drops",
+    "context_quote": "The juice, or distilled water, is of much good use... to drop some thereof into them"
+   },
+   {
+    "kind": "poultice with marsh-mallows, fenugreek and linseed",
+    "context_quote": "The leaves boiled with marsh-mallows, and made into a poultice with fenugreek and linseed"
+   }
+  ],
+  "dosage_notes": [
+   "apply fresh as they dry",
+   "drop some thereof into them",
+   "bind also some of the herb to the place"
+  ],
+  "cautions": [],
+  "authority_citations": []
+ },
+ "resolutions": [
+  {
+   "historical_name": "Chickweed",
+   "candidates": [
+    {
+     "scientific_name": "Stellaria media",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Cerastium vulgatum",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.85,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Cerastium fontanum",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.75,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Stellaria media",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Stellaria media",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Stellaria media (L.) Vill.- A plant with immense therapeutic potentials: phytochemistry and pharmacology.",
+     "identifier": "32548330",
+     "year": "2020",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/32548330/",
+     "relevance_note": "Reviews anti-inflammatory, antioxidant, and cardioprotective properties relevant to treating swellings, redness, and cardiac dysfunction."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Stellaria media tea protects against diabetes-induced cardiac dysfunction in rats without affecting glucose tolerance.",
+     "identifier": "35493309",
+     "year": "2022",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/35493309/",
+     "relevance_note": "Demonstrates cardioprotective effects of tea extracts, potentially addressing traditional uses for heart-related ailments and convulsions."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "quercetin",
+    "kaempferol",
+    "rutin"
+   ],
+   "summary": "Modern research supports Stellaria media's potential in managing inflammation (wheals, redness) and cardiac issues. Evidence suggests cardioprotective and antioxidant activities, though specific data for all traditional indications like palsy or liver heat remains limited."
+  }
+ ],
+ "concordance": {
+  "grade": "C",
+  "direction": "partial",
+  "rationale": "Modern evidence (PMID: 32548330, 35493309) confirms phytochemical activity and anti-inflammatory potential in rats but lacks clinical data for historical claims like liver heat or convulsions.",
+  "uncertainty": "High due to absence of human trials for specific historical indications.",
+  "caveats": [
+   "No human safety data",
+   "Claims are traditional, not proven"
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "doth wonderfully temperate the heat of the liver",
+   "for all redness in the face",
+   "helps cramps, convulsions, and palsy",
+   "is effectual for all imposthumes and swellings whatsoever",
+   "of much good use for all heats and redness in the eyes",
+   "to ease pains from the heat and sharpness of the blood in the piles",
+   "to ease pains in them",
+   "wheals, pushes, itch, scabs"
+  ],
+  "quotes_failed": [
+   "HEADING: Chickweed"
+  ],
+  "issues": [
+   "Grade 'C' is partially unearned: While the rationale correctly cites lack of clinical data for specific historical claims (liver heat, convulsions), the entry lacks any EMA approval or robust clinical evidence to support even a basic safety profile or efficacy for general use, yet no explicit 'fail' flag was raised for the taxon resolution itself. However, per strict guidelines ('verdict=fail if any quote failed'), the presence of a failed quote overrides the partial coherence.",
+   "Missing authorship and family fields in candidate resolutions reduce completeness."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T06:03:41Z"
+ }
+}

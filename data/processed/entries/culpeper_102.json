@@ -1,0 +1,221 @@
+{
+ "id": "culpeper_102",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Elecampane",
+  "book": "",
+  "chapter": "",
+  "char_start": 264353,
+  "char_end": 267578,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "_Descript._] IT shoots forth many large leaves, long and broad, lying\nnear the ground, small at both ends, somewhat soft in handling of a\nwhitish green on the upper side, and grey underneath, each set upon\na short footstalk, from among which arise up divers great and strong\nhairy stalks, three or four feet high, with some leaves thereupon,\ncompassing them about at the lower end, and are branched towards the\ntops, bearing divers great and large flowers, like those of the corn\nmarigold, both the border of leaves, and the middle thrum being yellow,\nwhich turn into down, with long, small, brownish seeds amongst it, and\nis carried away with the wind. The root is great and thick, branched\nforth divers ways, blackish on the outside and whitish within, of a\nvery bitter taste, and strong, but good scent, especially when they are\ndried, no part else of the plant having any smell.\n\n_Place._] It grows on moist grounds, and shadowy places oftener than in\nthe dry and open borders of the fields and lanes, and in other waste\nplaces, almost in every county of this land.\n\n_Time._] It flowers in the end of June and July, and the seed is ripe\nin August. The roots are gathered for use, as well in the Spring\nbefore the leaves come forth, as in Autumn or Winter.\n\n_Government and virtues._] It is a plant under the dominion of Mercury.\nThe fresh roots of Elecampane preserved with sugar, or made into a\nsyrup or conserve, are very effectual to warm a cold windy stomach,\nor the pricking therein, and stiches in the sides caused by the\nspleen; and to help the cough, shortness of breath, and wheezing in\nthe lungs. The dried root made into powder, and mixed with sugar, and\ntaken, serves to the same purpose, and is also profitable for those\nwho have their urine stopped, or the stopping of women’s courses, the\npains of the mother and the stone in the reins, kidneys, or bladder;\nit resists poison, and stays the spreading of the venom of serpents,\nas also putrid and pestilential fevers, and the plague itself. The\nroots and herbs beaten and put into new ale or beer, and daily drank,\nclears, strengthens, and quickens the sight of the eyes wonderfully.\nThe decoction of the roots in wine, or the juice taken therein, kills\nand drives forth all manner of worms in the belly, stomach, and maw;\nand gargled in the mouth, or the root chewed, fastens loose teeth, and\nhelps to keep them from putrefaction; and being drank is good for those\nthat spit blood, helps to remove cramps or convulsions, gout, sciatica,\npains in the joints, applied outwardly or inwardly, and is also good\nfor those that are bursten, or have any inward bruise. The root boiled\nwell in vinegar beaten afterwards, and made into an ointment with hog’s\nsuet, or oil of trotters is an excellent remedy for scabs or itch in\nyoung or old; the places also bathed or washed with the decoction\ndoth the same; it also helps all sorts of filthy old putrid sores or\ncankers whatsoever. In the roots of this herb lieth the chief effect\nfor the remedies aforesaid. The distilled water of the leaves and roots\ntogether, is very profitable to cleanse the skin of the face, or other\nparts, from any morphew, spots, or blemishes therein, and make it\nclear.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Elecampane",
+    "context_quote": "The fresh roots of Elecampane preserved with sugar...",
+    "part_used": "roots"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "cold windy stomach",
+    "context_quote": "...very effectual to warm a cold windy stomach...",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "pricking therein",
+    "context_quote": "...or the pricking therein...",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "stiches in the sides caused by the spleen",
+    "context_quote": "...and stiches in the sides caused by the spleen;",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "cough",
+    "context_quote": "...and to help the cough...",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "shortness of breath",
+    "context_quote": "...shortness of breath...",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "wheezing in the lungs",
+    "context_quote": "...and wheezing in the lungs.",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "urine stopped",
+    "context_quote": "...profitable for those who have their urine stopped...",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "stopping of women's courses",
+    "context_quote": "...or the stopping of women's courses...",
+    "polarity": "treats",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "fresh roots preserved with sugar",
+    "context_quote": "The fresh roots of Elecampane preserved with sugar..."
+   },
+   {
+    "kind": "syrup or conserve",
+    "context_quote": "...or made into a syrup or conserve..."
+   },
+   {
+    "kind": "powder mixed with sugar",
+    "context_quote": "The dried root made into powder, and mixed with sugar..."
+   },
+   {
+    "kind": "ointment with hog's suet",
+    "context_quote": "...made into an ointment with hog's suet..."
+   }
+  ],
+  "dosage_notes": [
+   "...taken...",
+   "...daily drank...",
+   "...gargled in the mouth, or the root chewed..."
+  ],
+  "cautions": [],
+  "authority_citations": []
+ },
+ "resolutions": [
+  {
+   "historical_name": "Elecampane",
+   "candidates": [
+    {
+     "scientific_name": "Inula helenium",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Elecampane officinale",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.1,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Inula viscosa",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.2,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Inula helenium",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Inula helenium",
+   "ema_monograph": {
+    "kind": "EMA_monograph",
+    "title": "Inulae radix (elecampane)",
+    "identifier": "https://www.ema.europa.eu/en/medicines/herbal/inulae-radix",
+    "year": "",
+    "url": "https://www.ema.europa.eu/en/medicines/herbal/inulae-radix",
+    "relevance_note": "Confirms traditional use for respiratory conditions like cough and shortness of breath."
+   },
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Alantolactone suppresses inflammation, apoptosis and oxidative stress in cigarette smoke-induced human bronchial epithelial cells through activation of Nrf2/HO-1 and inhibition of the NF-κB pathways.",
+     "identifier": "32321531",
+     "year": "2020",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/32321531/",
+     "relevance_note": "Supports anti-inflammatory and respiratory protective effects of alantolactone."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Medicinal Plant-derived Phytochemicals in Detoxification.",
+     "identifier": "37559241",
+     "year": "2024",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/37559241/",
+     "relevance_note": "Discusses detoxification mechanisms relevant to clearing lung congestion."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Bioactive sesquiterpenes from Inula helenium.",
+     "identifier": "34134031",
+     "year": "2021",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/34134031/",
+     "relevance_note": "Identifies key bioactive constituents responsible for traditional efficacy."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "Alantolactone",
+    "Sesquiterpenes"
+   ],
+   "summary": "Modern evidence supports the use of Inula helenium for respiratory ailments like cough and wheezing, likely via anti-inflammatory mechanisms. Key constituents include alantolactone and sesquiterpenes, which show activity against oxidative stress and inflammation in lung cells."
+  }
+ ],
+ "concordance": {
+  "grade": "B",
+  "direction": "partial",
+  "rationale": "Modern evidence (PMID: 32321531) supports anti-inflammatory and bronchoprotective effects via Nrf2/HO-1 activation, plausibly aligning with historical claims for cough, wheezing, and shortness of breath. No evidence contradicts other claims.",
+  "uncertainty": "Evidence is limited to in vitro models; clinical efficacy for all listed conditions remains unproven.",
+  "caveats": [
+   "No safety data provided",
+   "Clinical trials absent"
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [],
+  "quotes_failed": [
+   "...and stiches in the sides caused by the spleen;",
+   "...and to help the cough...",
+   "...and wheezing in the lungs.",
+   "...or the pricking therein...",
+   "...or the stopping of women's courses...",
+   "...profitable for those who have their urine stopped...",
+   "...shortness of breath...",
+   "...very effectual to warm a cold windy stomach...",
+   "The fresh roots of Elecampane preserved with sugar..."
+  ],
+  "issues": [
+   "Unearned Grade B: The concordance grade 'B' with rationale citing only one modern study (PMID: 32321531) on Nrf2/HO-1 activation is insufficient to support historical claims regarding 'stiches', 'spleen', 'urine stopped', or 'women's courses'. These specific indications lack EMA approval and clinical trial evidence, making the grade misleadingly high given the 'limited' nature of the evidence.",
+   "Missing Resolutions: The failed quotes reference specific historical conditions (e.g., 'stiches in the sides caused by the spleen') which are not resolved to modern scientific taxa or validated mechanisms in the provided evidence section.",
+   "Completeness Gap: The evidence list contains only one PubMed ID, yet the entry attempts to validate a broad range of historical claims including obstetric and urological effects with no supporting data."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T05:57:36Z"
+ }
+}

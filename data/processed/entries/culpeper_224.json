@@ -1,0 +1,235 @@
+{
+ "id": "culpeper_224",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Raddish, Or Horse-Raddish",
+  "book": "",
+  "chapter": "",
+  "char_start": 550973,
+  "char_end": 553223,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "THE garden Raddish is so well known, that it needs no description.\n\n_Descript._] The Horse-Raddish hath its first leaves, that rise before\nWinter, about a foot and a half long, very much cut in or torn on the\nedges into many parts, of a dark green colour, with a great rib in the\nmiddle; after these have been up a while, others follow, which are\ngreater, rougher, broader and longer, whole and not divided at first,\nbut only somewhat rougher dented about the edges; the stalks when it\nbears flowers (which is seldom) is great, rising up with some few\nlesser leaves thereon, to three or four feet high, spreading at the top\nmany small branches of whitish flowers, made of four leaves a-piece;\nafter which come small pods, like those of Shepherd’s Purse, but seldom\nwith any seed in them. The root is great, long, white and rugged,\nshooting up divers heads of leaves, which may be parted for increase,\nbut it doth not creep in the ground, nor run above ground, and is of a\nstrong, sharp, and bitter taste almost like mustard.\n\n_Place._] It is found wild in some places, but is chiefly planted in\ngardens, and joys in moist and shadowy places.\n\n_Time._] It seldom flowers, but when it doth, it is in July.\n\n_Government and virtues._] They are both under Mars. The juice of\nHorse-raddish given to drink, is held to be very effectual for the\nscurvy. It kills the worms in children, being drank, and also laid upon\nthe belly. The root bruised and laid to the place grieved with the\nsciatica, joint-ache, or the hard swellings of the liver and spleen,\ndoth wonderfully help them all. The distilled water of the herb and\nroot is more familiar to be taken with a little sugar for all the\npurposes aforesaid.\n\nGarden Raddishes are in wantonness by the gentry eaten as a sallad, but\nthey breed but scurvy humours in the stomach, and corrupt the blood,\nand then send for a physician as fast as you can; this is one cause\nwhich makes the owners of such nice palates so unhealthful; yet for\nsuch as are troubled with the gravel, stone, or stoppage of urine, they\nare good physic, if the body be strong that takes them; you may make\nthe juice of the roots into a syrup if you please, for that use: they\npurge by urine exceedingly.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Horse-Raddish",
+    "context_quote": "The Horse-Raddish hath its first leaves...",
+    "part_used": "root, juice, distilled water"
+   },
+   {
+    "name_text": "Garden Raddish",
+    "context_quote": "THE garden Raddish is so well known...",
+    "part_used": "roots, juice"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "scurvy",
+    "context_quote": "The juice of Horse-raddish given to drink, is held to be very effectual for the scurvy.",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "worms in children",
+    "context_quote": "It kills the worms in children, being drank, and also laid upon the belly.",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "sciatica",
+    "context_quote": "The root bruised and laid to the place grieved with the sciatica...",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "joint-ache",
+    "context_quote": "...or the hard swellings of the liver and spleen, doth wonderfully help them all.",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "hard swellings of the liver and spleen",
+    "context_quote": "...or the hard swellings of the liver and spleen, doth wonderfully help them all.",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "gravel, stone, or stoppage of urine",
+    "context_quote": "yet for such as are troubled with the gravel, stone, or stoppage of urine, they are good physic...",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "scurvy humours in the stomach",
+    "context_quote": "...but they breed but scurvy humours in the stomach, and corrupt the blood...",
+    "polarity": "causes",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "juice given to drink",
+    "context_quote": "The juice of Horse-raddish given to drink, is held to be very effectual..."
+   },
+   {
+    "kind": "root bruised and laid to the place",
+    "context_quote": "The root bruised and laid to the place grieved with the sciatica..."
+   },
+   {
+    "kind": "distilled water taken with sugar",
+    "context_quote": "The distilled water of the herb and root is more familiar to be taken with a little sugar..."
+   },
+   {
+    "kind": "syrup made from juice of roots",
+    "context_quote": "you may make the juice of the roots into a syrup if you please, for that use..."
+   }
+  ],
+  "dosage_notes": [
+   "taken with a little sugar",
+   "if the body be strong that takes them"
+  ],
+  "cautions": [
+   "they breed but scurvy humours in the stomach",
+   "corrupt the blood",
+   "makes the owners of such nice palates so unhealthful"
+  ],
+  "authority_citations": []
+ },
+ "resolutions": [
+  {
+   "historical_name": "Horse-Raddish",
+   "candidates": [
+    {
+     "scientific_name": "Raphanus raphanistrum",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.95,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Raphanus sativus",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.15,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Raphanus raphanistrum",
+   "confidence": 0.95,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  },
+  {
+   "historical_name": "Garden Raddish",
+   "candidates": [
+    {
+     "scientific_name": "Raphanus sativus",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.97,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Raphanus sativus",
+   "confidence": 0.97,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Raphanus raphanistrum",
+   "ema_monograph": null,
+   "pubmed": [],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "glucosinolates"
+   ],
+   "summary": "No modern clinical evidence or reviews were found for *R. raphanistrum* regarding its traditional uses for urinary obstruction, parasitic worms, liver/spleen swellings, scurvy, or joint pain."
+  },
+  {
+   "taxon": "Raphanus sativus",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Radish (Raphanus sativus) and Diabetes.",
+     "identifier": "28906451",
+     "year": "2017",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/28906451/",
+     "relevance_note": "Reviews anti-diabetic effects, not directly addressing traditional uses for urinary obstruction or liver swellings."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Study on the effects of the atractylodes macrocephala koidz-raphanus sativus l herb pair in alleviating senile constipation via the gut microbiota-SCFAs-5-HT axis.",
+     "identifier": "40554896",
+     "year": "2025",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/40554896/",
+     "relevance_note": "Examines effects on constipation and gut microbiota, distinct from traditional uses for scurvy or joint-ache."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Traditional uses, phytochemistry, transformation of ingredients and pharmacology of the dried seeds of Raphanus sativus L. (Raphani Semen), A comprehensive review.",
+     "identifier": "35580770",
+     "year": "2022",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/35580770/",
+     "relevance_note": "Comprehensive review of *R. sativus* seeds covering phytochemistry and pharmacology, though specific traditional indications like scurvy or liver swellings require further investigation."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "glucosinolates",
+    "isothiocyanates"
+   ],
+   "summary": "*R. sativus* shows modern relevance for metabolic health and gut function. While glucosinolates are present, direct evidence linking the plant to traditional uses like scurvy or liver swellings is limited in current literature."
+  }
+ ],
+ "concordance": {
+  "grade": "C",
+  "direction": "partial",
+  "rationale": "Modern evidence (PMID: 28906451) supports metabolic effects in diabetes, not scurvy or anti-parasitic claims. No clinical data exists for worms, sciatica, liver/spleen swellings, or urinary stones.",
+  "uncertainty": "High uncertainty due to lack of specific clinical trials for historical indications; only general metabolic studies available.",
+  "caveats": [
+   "No EMA approval",
+   "Safety concerns for kidney/urinary issues"
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "It kills the worms in children, being drank, and also laid upon the belly.",
+   "The juice of Horse-raddish given to drink, is held to be very effectual for the scurvy."
+  ],
+  "quotes_failed": [
+   "...but they breed but scurvy humours in the stomach, and corrupt the blood...",
+   "...or the hard swellings of the liver and spleen, doth wonderfully help them all.",
+   "THE garden Raddish is so well known...",
+   "The Horse-Raddish hath its first leaves...",
+   "The root bruised and laid to the place grieved with the sciatica...",
+   "yet for such as are troubled with the gravel, stone, or stoppage of urine, they are good physic..."
+  ],
+  "issues": [
+   "Unearned Grade: The entry received a 'C' grade despite having zero EMA approval (EMA=false) and no clinical trials for the specific historical indications (sciatica, liver/spleen swellings, urinary stones). The rationale correctly identifies the lack of evidence but fails to downgrade the grade to 'F' or 'D' as per strict audit rules requiring audited entries.",
+   "Completeness Failure: The entry resolves taxonomic candidates based on LLM proposals without providing primary source citations for the historical claims (e.g., Harvey's text), relying solely on secondary summaries in the evidence block.",
+   "Safety Flag Ignored: The caveats explicitly mention safety concerns for kidney/urinary issues, yet the entry does not include a specific warning node or contraindication field in the graph structure, potentially leading to unsafe usage recommendations."
+  ],
+  "verdict": "fail"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T06:05:41Z"
+ }
+}

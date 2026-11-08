@@ -1,0 +1,168 @@
+{
+ "id": "culpeper_123",
+ "locator": {
+  "corpus": "culpeper",
+  "work": "Nicholas Culpeper, The Complete Herbal (with The English Physician Enlarged), new edn. 1850 — Project Gutenberg eBook #49513, public domain",
+  "heading": "Clove Gilliflowers",
+  "book": "",
+  "chapter": "",
+  "char_start": 314053,
+  "char_end": 314769,
+  "char_span_url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm"
+ },
+ "source_text": "IT is vain to describe an herb so well known.\n\n_Government and virtues._] They are gallant, fine, temperate flowers,\nof the nature and under the dominion of Jupiter; yea, so temperate,\nthat no excess, neither in heat, cold, dryness, nor moisture, can be\nperceived in them; they are great strengtheners both of the brain and\nheart, and will therefore serve either for cordials or cephalics, as\nyour occasion will serve. There is both a syrup and a conserve made of\nthem alone, commonly to be had at every apothecary’s. To take now and\nthen a little of either, strengthens nature much, in such as are in\nconsumptions. They are also excellently good in hot pestilent fevers,\nand expel poison.",
+ "extraction": {
+  "historical_names": [
+   {
+    "name_text": "Clove Gilliflowers",
+    "context_quote": "IT is vain to describe an herb so well known.",
+    "part_used": "flowers"
+   }
+  ],
+  "ailments": [
+   {
+    "name": "consumptions",
+    "context_quote": "strengthens nature much, in such as are in consumptions.",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "hot pestilent fevers",
+    "context_quote": "They are also excellently good in hot pestilent fevers,",
+    "polarity": "treats",
+    "strength": "claimed"
+   },
+   {
+    "name": "poison",
+    "context_quote": "and expel poison.",
+    "polarity": "prevents",
+    "strength": "claimed"
+   }
+  ],
+  "preparations": [
+   {
+    "kind": "syrup",
+    "context_quote": "There is both a syrup and a conserve made of them alone,"
+   },
+   {
+    "kind": "conserve",
+    "context_quote": "There is both a syrup and a conserve made of them alone,"
+   }
+  ],
+  "dosage_notes": [
+   "To take now and then a little of either,",
+   "commonly to be had at every apothecary's."
+  ],
+  "cautions": [],
+  "authority_citations": []
+ },
+ "resolutions": [
+  {
+   "historical_name": "Clove Gilliflowers",
+   "candidates": [
+    {
+     "scientific_name": "Dianthus caryophyllus",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.85,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Dianthus barbatus",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.65,
+     "matched_via": "LLM proposal"
+    },
+    {
+     "scientific_name": "Eugenia caryophyllata",
+     "authorship": "",
+     "family": "",
+     "source": "LLM_knowledge",
+     "confidence": 0.45,
+     "matched_via": "LLM proposal"
+    }
+   ],
+   "selected": "Dianthus caryophyllus",
+   "confidence": 0.85,
+   "status": "resolved",
+   "reasoning": "LLM proposal; GBIF EXACT"
+  }
+ ],
+ "evidence": [
+  {
+   "taxon": "Dianthus caryophyllus",
+   "ema_monograph": null,
+   "pubmed": [
+    {
+     "kind": "PubMed",
+     "title": "Dianthin and Its Potential in Targeted Tumor Therapies.",
+     "identifier": "31614697",
+     "year": "2019",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/31614697/",
+     "relevance_note": "Discusses potential anti-tumor properties of Dianthin derived from the plant, offering modern context for historical 'consumptions' or fever uses."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Bioactivity of Dianthus caryophyllus, Lepidium sativum, Pimpinella anisum, and Illicium verum essential oils and their major components against the West Nile vector Culex pipiens.",
+     "identifier": "22955447",
+     "year": "2012",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/22955447/",
+     "relevance_note": "Evaluates essential oil bioactivity, potentially relevant to historical uses against 'pestilent fevers' or insect vectors."
+    },
+    {
+     "kind": "PubMed",
+     "title": "Dynamic m(6)A RNA methylation correlates with ethylene-induced petal senescence and may modulate antioxidant and metabolic pathways in carnation (Dianthus caryophyllus L.).",
+     "identifier": "40726208",
+     "year": "2025",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/40726208/",
+     "relevance_note": "Focuses on plant physiology and petal senescence rather than pharmacological effects for traditional medicinal uses."
+    }
+   ],
+   "pubchem_cids": [],
+   "notable_constituents": [
+    "Dianthin",
+    "Essential oils"
+   ],
+   "summary": "Modern literature highlights potential anti-tumor activity (relevant to 'consumptions') and essential oil bioactivity against vectors (relevant to 'pestilent fevers'). No specific evidence was found regarding toxicity ('poison'), though historical caution is noted. One study focuses on plant physiology rather than pharmacology."
+  }
+ ],
+ "concordance": {
+  "grade": "C",
+  "direction": "none",
+  "rationale": "Modern evidence (PMID: 31614697, 22955447) focuses on essential oils and vector control. No clinical data supports treating consumptions, fevers, or poisoning.",
+  "uncertainty": "Low; historical claims lack modern clinical validation for specific therapeutic uses.",
+  "caveats": [
+   "Evidence limited to in vitro/vector studies",
+   "No human trials for claimed indications"
+  ]
+ },
+ "audit": {
+  "schema_ok": true,
+  "quotes_verified": [
+   "IT is vain to describe an herb so well known.",
+   "They are also excellently good in hot pestilent fevers,",
+   "and expel poison.",
+   "strengthens nature much, in such as are in consumptions."
+  ],
+  "quotes_failed": [],
+  "issues": [
+   "Unearned Grade: The entry assigns a concordance grade of 'C' based on the rationale that modern evidence focuses on essential oils/vector control and lacks clinical data for consumptions/fevers/poisoning. However, the evidence list shows only 3 PubMed IDs (n=3) with no specific citations provided in the text to support this negative conclusion. Without explicit citation of studies showing lack of efficacy or safety concerns for the specific historical indications, the grade 'C' is unearned and speculative. Additionally, the selected taxon 'Dianthus caryophyllus' is a modern cultivar name often synonymous with 'Dianthus barbatus' in horticulture, but the distinction between them regarding historical medicinal use requires clearer resolution than just an LLM proposal."
+  ],
+  "verdict": "pass_with_issues"
+ },
+ "meta": {
+  "run_id": "run_20261108_045711_0b88eb",
+  "models": {
+   "Historian": "qwen3.5:9b",
+   "Botanist": "qwen3.5:9b",
+   "Pharmacologist": "qwen3.5:9b",
+   "Evidence Scorer": "qwen3.5:9b",
+   "Auditor": "qwen3.5:9b"
+  },
+  "mode": "guided",
+  "processed_at": "2026-11-08T06:03:36Z"
+ }
+}
